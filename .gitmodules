@@ -1,0 +1,3 @@
+[submodule "tools/cliffsDelta"]
+	path = tools/cliffsDelta
+	url = https://github.com/neilernst/cliffsDelta
