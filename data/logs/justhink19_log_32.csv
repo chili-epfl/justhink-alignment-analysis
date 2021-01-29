@@ -1,0 +1,222 @@
+start	end	group_no	attempt_no	turn_no	event_no	subject	verb	object
+0.198	0.198	32	1	1	1	R	shows	observe gesture
+0.287	0.287	32	1	1	2	R	says	So, Sally and Anne, let's start building the tracks. I count on you guys. Are you ready? Also, you need to play this game together, as both of you will see different views at all times. You can talk now to help each other. To see my instructions again, check the information icon on your screens. Time to play. Let's Go!
+53.822	53.822	32	1	1	6	R	shows	thinking gesture
+53.836	53.836	32	1	1	7	R	says	(Hmm) I see.
+98.821	98.821	32	1	1	13	R	shows	observe gesture
+106.422	106.422	32	1	1	15	A	adds	Basel-Bern (0-3)
+123.340	123.340	32	1	1	17	A	adds	Zurich-Bern (2-3)
+146.608	146.608	32	1	2	20	B	adds	Luzern-Zurich (1-2)
+158.827	158.827	32	1	2	21	R	shows	thinking gesture
+158.848	158.848	32	1	2	22	R	says	(Hmm) I see.
+172.882	172.882	32	1	2	24	B	adds	Luzern-Davos (1-9)
+183.199	183.199	32	1	3	27	A	adds	Zermatt-Davos (4-9)
+192.586	192.586	32	1	3	30	A	adds	Zermatt-Montreux (4-6)
+199.856	199.856	32	1	4	32	B	adds	Interlaken-Montreux (5-6)
+204.015	204.015	32	1	4	34	B	adds	Interlaken-Neuchatel (5-7)
+261.249	261.249	32	1	5	36	A	adds	Montreux-Neuchatel (6-7)
+270.857	270.857	32	1	5	38	A	adds	Basel-Neuchatel (0-7)
+278.806	278.806	32	1	6	39	R	shows	observe gesture
+292.070	292.070	32	1	6	41	B	adds	Interlaken-Bern (5-3)
+295.984	295.984	32	1	6	43	B	adds	Zermatt-Interlaken (4-5)
+303.283	303.283	32	1	7	46	A	adds	Luzern-Interlaken (1-5)
+322.104	322.104	32	1	7	49	A	adds	Luzern-Bern (1-3)
+326.904	326.904	32	1	8	51	B	adds	Luzern-Zermatt (1-4)
+329.846	329.846	32	1	8	53	B	adds	Zurich-Gallen (2-8)
+330.033	330.033	32	1	9	54	R	shows	observe gesture
+346.404	346.404	32	1	9	56	B	presses	submit (enabled)
+361.273	361.273	32	1	9	58	A	presses	submit (enabled)
+361.353	361.353	32	1	9	59	T	submits	cost=48 (opt_cost=22)
+362.766	362.766	32	1	9	60	R	shows	talking emotion
+362.766	362.766	32	1	9	61	R	shows	up_left gesture
+362.855	362.855	32	1	9	62	R	says	You are away from the minimum by 26 Francs. Let's Try again.
+369.697	369.697	32	1	9	63	R	shows	talking emotion
+369.697	369.697	32	1	9	64	R	shows	point_front gesture
+369.786	369.786	32	1	9	65	R	says	By the way, you guys now also have the button on the bottom of your screen in the abstract view for comparing solutions.
+383.103	383.103	32	2	9	67	B	presses	compare (enabled)
+410.659	410.659	32	2	9	71	A	adds	Basel-Neuchatel (0-7)
+414.891	414.891	32	2	9	73	A	adds	Basel-Zurich (0-2)
+420.820	420.820	32	2	10	75	B	adds	Zurich-Gallen (2-8)
+422.497	422.497	32	2	10	77	B	adds	Gallen-Davos (8-9)
+429.427	429.427	32	2	11	79	A	adds	Zermatt-Davos (4-9)
+432.703	432.703	32	2	11	81	B	presses	compare (enabled)
+433.939	433.939	32	2	11	83	B	presses	compare (enabled)
+435.890	435.890	32	2	11	85	B	presses	apply (enabled)
+435.900	435.900	32	2	11	86	B	loads	[(0, 2), (0, 3), (0, 7), (1, 2), (1, 3), (1, 4), (1, 5), (1, 9), (2, 3), (2, 8), (4, 5), (4, 6), (4, 9), (5, 3), (5, 6), (5, 7), (6, 7), (8, 9)]
+447.656	447.656	32	2	11	89	A	removes	Luzern-Davos (1-9)
+450.282	450.282	32	2	12	91	A	removes	Luzern-Bern (1-3)
+455.541	455.541	32	2	13	93	B	removes	Zermatt-Davos (4-9)
+458.199	458.199	32	2	13	96	B	removes	Zermatt-Interlaken (4-5)
+465.602	465.602	32	2	14	98	A	adds	Zermatt-Davos (4-9)
+470.038	470.038	32	2	14	100	A	adds	Gallen-Davos (8-9)
+477.738	477.738	32	2	15	102	B	presses	submit (enabled)
+482.609	482.609	32	2	15	104	A	presses	submit (enabled)
+482.727	482.727	32	2	15	105	T	submits	cost=42 (opt_cost=22)
+483.938	483.938	32	2	15	106	R	shows	up_left gesture
+483.938	483.938	32	2	15	107	R	shows	talking emotion
+484.024	484.024	32	2	15	108	R	says	You are not that far from the minimum; the difference is only 20 Francs. I am sure you can do it.
+499.353	499.353	32	3	15	110	B	adds	Zermatt-Davos (4-9)
+507.163	507.163	32	3	15	113	B	adds	Gallen-Davos (8-9)
+519.948	519.948	32	3	16	116	A	adds	Zurich-Gallen (2-8)
+523.621	523.621	32	3	16	118	A	adds	Basel-Zurich (0-2)
+537.085	537.085	32	3	17	121	B	adds	Basel-Neuchatel (0-7)
+539.029	539.029	32	3	17	123	B	adds	Montreux-Neuchatel (6-7)
+543.457	543.457	32	3	18	125	A	adds	Interlaken-Montreux (5-6)
+545.221	545.221	32	3	18	127	A	adds	Interlaken-Bern (5-3)
+549.984	549.984	32	3	19	129	B	adds	Luzern-Bern (1-3)
+551.593	551.593	32	3	19	131	B	adds	Luzern-Zermatt (1-4)
+552.786	552.786	32	3	20	133	B	presses	submit (enabled)
+553.059	553.059	32	3	20	135	A	presses	submit (enabled)
+553.140	553.140	32	3	20	136	T	submits	cost=33 (opt_cost=22)
+554.416	554.416	32	3	20	137	R	shows	talking emotion
+554.417	554.417	32	3	20	138	R	shows	up_left gesture
+554.491	554.491	32	3	20	139	R	says	You are away from the minimum by 11 Francs. Let's Try again.
+566.781	566.781	32	4	20	141	A	adds	Zermatt-Davos (4-9)
+570.389	570.389	32	4	20	143	A	adds	Luzern-Zermatt (1-4)
+574.234	574.234	32	4	21	145	B	adds	Luzern-Bern (1-3)
+578.784	578.784	32	4	21	147	R	shows	thinking gesture
+578.795	578.795	32	4	21	148	R	says	(Hmm) I see.
+579.433	579.433	32	4	21	149	B	adds	Interlaken-Bern (5-3)
+590.031	590.031	32	4	22	151	A	adds	Interlaken-Montreux (5-6)
+594.159	594.159	32	4	22	154	A	removes	Interlaken-Montreux (5-6)
+631.683	631.683	32	4	23	165	B	removes	Interlaken-Bern (5-3)
+633.755	633.755	32	4	23	168	B	removes	Luzern-Bern (1-3)
+649.820	649.820	32	4	24	178	A	removes	Luzern-Zermatt (1-4)
+659.625	659.625	32	4	24	180	A	adds	Zermatt-Montreux (4-6)
+665.066	665.066	32	4	25	182	B	adds	Montreux-Neuchatel (6-7)
+672.344	672.344	32	4	25	184	B	adds	Basel-Neuchatel (0-7)
+677.135	677.135	32	4	26	186	A	removes	Basel-Neuchatel (0-7)
+684.417	684.417	32	4	26	188	A	adds	Interlaken-Neuchatel (5-7)
+689.365	689.365	32	4	27	190	B	adds	Interlaken-Bern (5-3)
+695.910	695.910	32	4	27	192	B	removes	Interlaken-Bern (5-3)
+713.342	713.342	32	4	28	198	A	adds	Basel-Neuchatel (0-7)
+717.286	717.286	32	4	28	200	A	adds	Basel-Zurich (0-2)
+722.333	722.333	32	4	29	202	B	adds	Zurich-Gallen (2-8)
+723.942	723.942	32	4	29	204	B	adds	Gallen-Davos (8-9)
+727.202	727.202	32	4	30	206	B	presses	compare (enabled)
+762.420	762.420	32	4	30	214	A	removes	Basel-Zurich (0-2)
+766.982	766.982	32	4	30	216	A	adds	Basel-Bern (0-3)
+770.833	770.833	32	4	31	218	B	adds	Zurich-Bern (2-3)
+774.580	774.580	32	4	31	220	B	adds	Luzern-Bern (1-3)
+778.247	778.247	32	4	32	222	B	presses	submit (enabled)
+779.364	779.364	32	4	32	224	A	presses	submit (enabled)
+779.468	779.468	32	4	32	225	T	submits	cost=28 (opt_cost=22)
+781.716	781.716	32	4	32	226	R	shows	talking emotion
+781.717	781.717	32	4	32	227	R	shows	up_left gesture
+781.811	781.811	32	4	32	228	R	says	You are not that far from the minimum; the difference is only 6 Francs. I am sure you can do it.
+794.416	794.416	32	5	32	234	A	presses	help (enabled)
+795.830	795.830	32	5	32	236	B	presses	compare (enabled)
+803.982	803.982	32	5	32	241	A	adds	Basel-Neuchatel (0-7)
+811.786	811.786	32	5	32	244	A	adds	Basel-Bern (0-3)
+816.606	816.606	32	5	33	246	A	presses	compare (enabled)
+817.847	817.847	32	5	33	248	B	removes	Basel-Bern (0-3)
+819.307	819.307	32	5	33	251	A	presses	previous (enabled)
+820.862	820.862	32	5	33	253	B	adds	Montreux-Neuchatel (6-7)
+841.080	841.080	32	5	34	265	A	adds	Zermatt-Montreux (4-6)
+851.922	851.922	32	5	34	267	A	adds	Zermatt-Davos (4-9)
+856.949	856.949	32	5	35	269	B	adds	Gallen-Davos (8-9)
+861.612	861.612	32	5	35	271	B	adds	Zurich-Gallen (2-8)
+868.021	868.021	32	5	36	273	A	adds	Luzern-Zurich (1-2)
+870.023	870.023	32	5	36	275	A	adds	Zurich-Bern (2-3)
+877.719	877.719	32	5	37	277	B	adds	Basel-Bern (0-3)
+880.808	880.808	32	5	37	279	B	adds	Luzern-Bern (1-3)
+885.092	885.092	32	5	38	281	A	presses	submit (disabled)
+917.233	917.233	32	5	38	283	A	adds	Luzern-Zermatt (1-4)
+941.863	941.863	32	5	38	289	A	removes	Luzern-Zermatt (1-4)
+947.716	947.716	32	5	39	292	B	removes	Zurich-Bern (2-3)
+948.975	948.975	32	5	39	295	B	removes	Basel-Bern (0-3)
+961.590	961.590	32	5	40	298	A	adds	Basel-Zurich (0-2)
+972.211	972.211	32	5	40	302	A	adds	Interlaken-Bern (5-3)
+975.727	975.727	32	5	41	304	B	presses	submit (enabled)
+977.998	977.998	32	5	41	306	A	presses	submit (enabled)
+978.224	978.224	32	5	41	307	T	submits	cost=30 (opt_cost=22)
+979.711	979.711	32	5	41	308	R	shows	talking emotion
+979.723	979.723	32	5	41	309	R	shows	up_left gesture
+979.828	979.828	32	5	41	310	R	says	You are away from the minimum by 8 Francs. Let's Try again.
+986.133	986.133	32	5	41	311	R	shows	up_right gesture
+986.134	986.134	32	5	41	312	R	shows	talking emotion
+986.365	986.365	32	5	41	313	R	says	Hey guys, maybe, it would be easier to solve the problem if you look at your previous solutions more.
+997.252	997.252	32	6	41	315	A	presses	compare (enabled)
+999.122	999.122	32	6	41	317	A	presses	previous (enabled)
+999.794	999.794	32	6	41	319	A	presses	previous (enabled)
+1000.451	1000.451	32	6	41	321	A	presses	previous (enabled)
+1000.922	1000.922	32	6	41	323	A	presses	previous (enabled)
+1002.126	1002.126	32	6	41	326	A	presses	compare (enabled)
+1002.146	1002.146	32	6	41	327	A	presses	next (enabled)
+1002.620	1002.620	32	6	41	329	A	presses	compare (enabled)
+1002.631	1002.631	32	6	41	330	A	presses	next (enabled)
+1003.047	1003.047	32	6	41	333	A	presses	compare (enabled)
+1003.056	1003.056	32	6	41	334	A	presses	next (enabled)
+1003.773	1003.773	32	6	41	336	A	presses	compare (enabled)
+1003.784	1003.784	32	6	41	337	A	presses	next (enabled)
+1004.251	1004.251	32	6	41	338	B	adds	Montreux-Neuchatel (6-7)
+1005.238	1005.238	32	6	41	340	A	presses	previous (enabled)
+1005.481	1005.481	32	6	41	342	A	presses	compare (enabled)
+1005.495	1005.495	32	6	41	343	A	presses	next (enabled)
+1005.917	1005.917	32	6	41	345	A	presses	compare (enabled)
+1006.493	1006.493	32	6	41	347	A	presses	previous (enabled)
+1007.938	1007.938	32	6	41	349	A	presses	apply (enabled)
+1007.948	1007.948	32	6	41	350	A	loads	[(0, 3), (0, 7), (1, 3), (2, 3), (2, 8), (4, 6), (4, 9), (5, 7), (6, 7), (8, 9)]
+1008.472	1008.472	32	6	41	352	A	presses	apply (enabled)
+1009.503	1009.503	32	6	41	354	A	presses	apply (enabled)
+1009.513	1009.513	32	6	41	355	A	loads	[(0, 3), (0, 7), (1, 3), (2, 3), (2, 8), (4, 6), (4, 9), (5, 7), (6, 7), (8, 9)]
+1015.808	1015.808	32	6	41	357	B	removes	Interlaken-Neuchatel (5-7)
+1017.224	1017.224	32	6	42	361	B	removes	Basel-Bern (0-3)
+1029.049	1029.049	32	6	43	367	A	adds	Interlaken-Neuchatel (5-7)
+1037.593	1037.593	32	6	43	369	B	presses	submit (enabled)
+1038.741	1038.741	32	6	43	371	A	presses	submit (enabled)
+1038.817	1038.817	32	6	43	372	T	submits	cost=25 (opt_cost=22)
+1040.109	1040.109	32	6	43	373	R	shows	talking emotion
+1040.110	1040.110	32	6	43	374	R	shows	up_left gesture
+1040.271	1040.271	32	6	43	375	R	says	You are not that far from the minimum; the difference is only 3 Francs. I am sure you can do it.
+1051.558	1051.558	32	7	43	377	B	presses	compare (enabled)
+1053.210	1053.210	32	7	43	379	B	presses	apply (enabled)
+1053.220	1053.220	32	7	43	380	B	loads	[(0, 7), (1, 3), (2, 3), (2, 8), (4, 6), (4, 9), (5, 7), (6, 7), (8, 9)]
+1118.533	1118.533	32	7	43	403	A	removes	Luzern-Bern (1-3)
+1121.245	1121.245	32	7	43	406	A	removes	Zurich-Bern (2-3)
+1129.426	1129.426	32	7	44	409	B	adds	Interlaken-Bern (5-3)
+1133.520	1133.520	32	7	44	411	B	adds	Luzern-Bern (1-3)
+1135.441	1135.441	32	7	45	413	B	presses	submit (enabled)
+1139.513	1139.513	32	7	45	415	A	presses	submit (enabled)
+1139.612	1139.612	32	7	45	416	T	submits	cost=26 (opt_cost=22)
+1141.074	1141.074	32	7	45	417	R	shows	talking emotion
+1141.077	1141.077	32	7	45	418	R	shows	up_left gesture
+1141.162	1141.162	32	7	45	419	R	says	You are not that far from the minimum; the difference is only 4 Francs. I am sure you can do it.
+1151.823	1151.823	32	8	45	421	B	presses	compare (enabled)
+1152.315	1152.315	32	8	45	423	B	presses	apply (enabled)
+1152.325	1152.325	32	8	45	424	B	loads	[(0, 7), (1, 3), (2, 8), (4, 6), (4, 9), (5, 3), (5, 7), (6, 7), (8, 9)]
+1173.343	1173.343	32	8	45	430	A	adds	Luzern-Zermatt (1-4)
+1175.136	1175.136	32	8	45	432	A	removes	Interlaken-Bern (5-3)
+1180.345	1180.345	32	8	46	434	B	presses	submit (enabled)
+1181.124	1181.124	32	8	46	436	A	presses	submit (enabled)
+1181.189	1181.189	32	8	46	437	T	submits	cost=25 (opt_cost=22)
+1182.483	1182.483	32	8	46	438	R	shows	talking emotion
+1182.485	1182.485	32	8	46	439	R	shows	up_left gesture
+1182.603	1182.603	32	8	46	440	R	says	You are not that far from the minimum; the difference is only 3 Francs. I am sure you can do it.
+1195.659	1195.659	32	9	46	443	A	presses	compare (enabled)
+1201.265	1201.265	32	9	46	445	A	presses	apply (enabled)
+1201.275	1201.275	32	9	46	446	A	loads	[(0, 7), (1, 3), (1, 4), (2, 8), (4, 6), (4, 9), (5, 7), (6, 7), (8, 9)]
+1208.933	1208.933	32	9	46	449	B	removes	Basel-Neuchatel (0-7)
+1213.557	1213.557	32	9	46	451	B	adds	Basel-Zurich (0-2)
+1218.530	1218.530	32	9	47	453	A	removes	Basel-Zurich (0-2)
+1227.068	1227.068	32	9	47	456	A	adds	Basel-Neuchatel (0-7)
+1237.723	1237.723	32	9	48	480	B	presses	submit (enabled)
+1241.124	1241.124	32	9	48	482	A	presses	submit (enabled)
+1241.203	1241.203	32	9	48	483	T	submits	cost=25 (opt_cost=22)
+1242.506	1242.506	32	9	48	484	R	shows	talking emotion
+1242.506	1242.506	32	9	48	485	R	shows	up_left gesture
+1242.623	1242.623	32	9	48	486	R	says	You are not that far from the minimum; the difference is only 3 Francs. I am sure you can do it.
+1252.735	1252.735	32	10	48	488	A	presses	compare (enabled)
+1254.085	1254.085	32	10	48	490	A	presses	apply (enabled)
+1254.095	1254.095	32	10	48	491	A	loads	[(0, 7), (1, 3), (1, 4), (2, 8), (4, 6), (4, 9), (5, 7), (6, 7), (8, 9)]
+1259.474	1259.474	32	10	48	498	B	removes	Luzern-Bern (1-3)
+1262.735	1262.735	32	10	48	501	B	adds	Zurich-Bern (2-3)
+1265.041	1265.041	32	10	49	503	B	presses	submit (enabled)
+1267.247	1267.247	32	10	49	505	A	presses	submit (enabled)
+1267.330	1267.330	32	10	49	506	T	submits	cost=25 (opt_cost=22)
+1268.630	1268.630	32	10	49	507	R	shows	talking emotion
+1268.630	1268.630	32	10	49	508	R	shows	up_left gesture
+1268.795	1268.795	32	10	49	509	R	says	You are away from the minimum by 3 Francs. Let's Try again.
+1275.099	1275.099	32	10	49	510	R	shows	talking emotion
+1275.099	1275.099	32	10	49	511	R	shows	up_right gesture
+1275.252	1275.252	32	10	49	512	R	says	Hey guys, maybe, it would be easier to solve the problem if you look at your previous solutions more.
