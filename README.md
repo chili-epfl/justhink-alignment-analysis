@@ -36,8 +36,8 @@ git clone --recurse-submodules git@github.com:utku-norman/justhink-dialogue-and-
 
 JUSThink Dialogue and Actions Corpus in three parts (maybe in two groups? transcripts could be published separately):
 
-1. [logs](data/logs): one csv log file per team for 40 teams
-2. [test responses](data/test_responses): one csv pre-test file and one csv post-test file containing the responses for each item of each participant in each team for 40 teams, and the key
+1. [logs](data/logs): one tab-separated csv log file per team for 39 teams
+2. [test responses](data/test_responses): one csv pre-test file and one csv post-test file containing the responses for each item of each participant in each team for 39 teams, and the key
 3. [transcripts](data/transcripts): one csv transcript file per team for 10 teams
 
 In addition, metadata: details on the graph/network they have worked on.
@@ -45,13 +45,13 @@ In addition, metadata: details on the graph/network they have worked on.
 
 
 ### 2.1. Logs Format  <a name="log_format"></a>
-TODO
+one tab-separated csv log file per team for 39 teams
 
 ### 2.2. Test Responses Format  <a name="test_format"></a>
-TODO
+one csv pre-test file and one csv post-test file containing the responses for each item of each participant in each 
 
 ### 2.3. Transcripts Format  <a name="transcript_format"></a>
-TODO
+one csv transcript file per team for 10 teams
 
 
 ## 3. Code Description <a name="code_description"></a>
@@ -68,7 +68,7 @@ Only one feature (of performance), (minimum) error, is used next (hence a bit ov
 4. ⬜️ [Extract routines from transcripts](tools/4_extract_routines_from_transcripts.ipynb) (uses [dialign](https://github.com/GuillaumeDD/dialign))
 5. ⬜️ [Extract local contexts from transcripts](tools/5_extract_local_contexts_from_transcripts.ipynb)
 6. ⬜️ [Combine transcripts with logs](tools/6_combine_transcripts_with_logs.ipynb)
-7. ⬜️ [Recognise instructions and process follow-up actions](tools/7_combine_transcripts_with_logs.ipynb)
+7. ⬜️ [Recognise instructions and process follow-up actions](tools/7_recognise_instructions_process_follow-ups.ipynb)
 8. ⬜️ [Test the hypotheses](tools/8_test_the_hypotheses.ipynb) in [[1]](#references) (uses [cliffsDelta](https://github.com/neilernst/cliffsDelta))
 
 ### 3.2. Utilised Packages
