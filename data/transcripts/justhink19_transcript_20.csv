@@ -1,4 +1,4 @@
-start_secs	end_secs	participant	utterance
+start	end	interlocutor	utterance
 41.587	42.194	A	okay .
 43.838	47.343	A	so i guess we have to connect all these with the (?) .
 47.774	49.958	B	(umm) do we, how many .

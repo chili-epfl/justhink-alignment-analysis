@@ -1,4 +1,4 @@
-start_secs	end_secs	participant	utterance
+start	end	interlocutor	utterance
 40.000	41.161	A	okay , so
 40.580	45.036	B	so we have to connect all the places with tracks , with the least amount of money wasted .
 45.752	46.342	B	okay

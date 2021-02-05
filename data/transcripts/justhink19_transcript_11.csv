@@ -1,4 +1,4 @@
-start_secs	end_secs	participant	utterance
+start	end	interlocutor	utterance
 40.651	41.549	A	okay .
 40.790	41.284	B	okay .
 41.598	42.482	B	go to mount bern .

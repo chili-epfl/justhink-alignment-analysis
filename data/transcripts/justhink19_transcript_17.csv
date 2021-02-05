@@ -1,4 +1,4 @@
-start_secs	end_secs	participant	utterance
+start	end	interlocutor	utterance
 48.714	51.047	A	you can't get past through the other mountains right ?
 51.533	52.636	B	i don't know .
 52.454	53.467	A	okay .

@@ -1,4 +1,4 @@
-start_secs	end_secs	participant	utterance
+start	end	interlocutor	utterance
 65.774	66.433	B	okay .
 65.954	66.463	A	okay .
 66.493	67.002	B	ann .

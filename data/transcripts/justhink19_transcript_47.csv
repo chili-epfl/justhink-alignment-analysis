@@ -1,4 +1,4 @@
-start_secs	end_secs	participant	utterance
+start	end	interlocutor	utterance
 40.321	42.448	B	(umm) okay so .
 41.430	42.628	A	okay so .
 43.736	48.140	B	i'm going from mount montreux to mount interlaken .

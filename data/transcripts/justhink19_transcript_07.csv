@@ -1,4 +1,4 @@
-start_secs	end_secs	participant	utterance
+start	end	interlocutor	utterance
 42.525	43.004	A	okay .
 47.732	48.615	A	i am doing this .
 50.372	51.540	A	can i see him playing ?

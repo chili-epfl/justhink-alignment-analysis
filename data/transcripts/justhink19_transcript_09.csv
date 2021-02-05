@@ -1,4 +1,4 @@
-start_secs	end_secs	participant	utterance
+start	end	interlocutor	utterance
 40.591	41.040	B	(uhh)
 41.489	42.268	B	ann ?
 42.268	42.897	A	yeah .

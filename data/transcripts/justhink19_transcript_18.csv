@@ -1,4 +1,4 @@
-start_secs	end_secs	participant	utterance
+start	end	interlocutor	utterance
 125.988	133.363	A	so we need to use less francs ?
 135.788	137.360	B	(umm)
 194.973	195.552	A	this .
