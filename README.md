@@ -54,24 +54,24 @@ one csv pre-test file and one csv post-test file containing the responses for ea
 one csv transcript file per team for 10 teams
 
 
-## 3. Code Description <a name="code_description"></a>
+## 3. Tools/Code Description <a name="code_description"></a>
 
 The processing code of JUSThink Dialogue and Actions Corpus v1, consists of 7 Jupyter notebooks written in Python 3 and and two other tools used by the notebooks ([dialign](https://github.com/GuillaumeDD/dialign) and [cliffsDelta](https://github.com/neilernst/cliffsDelta)).
 
 
-### 3.1. Notebooks to produce results in [[1]](#references)
+### 3.1. Jupyter Notebooks that Reproduce Results in [[1]](#references)
 
 1. ✅  [Extract task performance (and other features) from logs](tools/1_extract_performance_and_other_features_from_logs.ipynb): Extract and export various task features at varying granularities (i.e. task, attempt, turn levels).
 Only one feature (of performance), (minimum) error, is used next (hence a bit overkill: but is nice-to-share/fine/better-for-the-future?).
-2. ⬜️ [Extract learning gain from test responses](tools/2_extract_learning_gain_from_test_responses.ipynb)
-3. ⬜️ [Select and visualise a subset of teams for transcription](tools/3_visualise_transcribed_teams.ipynb)
+2. ✅ [Extract learning gain from test responses](tools/2_extract_learning_gain_from_test_responses.ipynb)
+3. ✅ [Select and visualise a subset of teams for transcription](tools/3_visualise_transcribed_teams.ipynb)
 4. ⬜️ [Extract routines from transcripts](tools/4_extract_routines_from_transcripts.ipynb) (uses [dialign](https://github.com/GuillaumeDD/dialign))
 5. ⬜️ [Extract local contexts from transcripts](tools/5_extract_local_contexts_from_transcripts.ipynb)
 6. ⬜️ [Combine transcripts with logs](tools/6_combine_transcripts_with_logs.ipynb)
 7. ⬜️ [Recognise instructions and process follow-up actions](tools/7_recognise_instructions_process_follow-ups.ipynb)
 8. ⬜️ [Test the hypotheses](tools/8_test_the_hypotheses.ipynb) in [[1]](#references) (uses [cliffsDelta](https://github.com/neilernst/cliffsDelta))
 
-### 3.2. Utilised Packages
+### 3.2. Utilised External Tools/Packages
 
 1. Tool to extract routines [dialign](https://github.com/GuillaumeDD/dialign)
 2. Tool to compute an estimator of effect size, Cliff's Delta: [cliffsDelta](https://github.com/neilernst/cliffsDelta)
