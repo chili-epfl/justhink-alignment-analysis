@@ -31,7 +31,6 @@ TODO: command to install Python dependencies for the code. Add a requirements.tx
 git clone --recurse-submodules git@github.com:utku-norman/justhink-dialogue-and-actions-corpus.git
 ```
 
-
 ## 2. Data Description <a name="data_description"></a>
 
 JUSThink Dialogue and Actions Corpus in three parts (maybe in two groups? transcripts could be published separately):
@@ -73,7 +72,7 @@ Only one feature (of performance), (minimum) error, is used next (hence a bit ov
 
 ### 3.2. Utilised External Tools/Packages
 
-1. Tool to extract routines [dialign](https://github.com/GuillaumeDD/dialign)
+1. Tool to extract routines [dialign](https://github.com/GuillaumeDD/dialign), specifically [Release 1.0](https://github.com/GuillaumeDD/dialign/releases/tag/v1.0) from [dialign-1.0.zip](https://github.com/GuillaumeDD/dialign/releases/download/v1.0/dialign-1.0.zip)
 2. Tool to compute an estimator of effect size, Cliff's Delta: [cliffsDelta](https://github.com/neilernst/cliffsDelta)
 
 ## 4. Research Questions and Hypotheses in [[1]](#references) <a name="rqs_hs"></a>
