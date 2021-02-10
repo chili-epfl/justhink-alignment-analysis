@@ -1,28 +1,28 @@
 start	end	interlocutor	utterance	utterance_no
 41.587	42.194	A	okay .	0
 43.838	47.343	A	so i guess we have to connect all these with the .	1
-47.774	49.958	B	um do we , how many .	2
+47.774	49.958	B	um do we, how many .	2
 51.957	52.982	A	oh .	3
-57.510	59.302	B	so we have n't even done anything .	4
+57.510	59.302	B	so we haven't even done anything .	4
 60.152	61.230	B	have you done anything ?	5
 61.756	62.201	A	no .	6
 63.162	67.225	B	so , how many ten circles and zero .	7
 67.832	68.856	B	minuses .	8
-77.274	78.056	B	i 'm just gon na .	9
+77.274	78.056	B	i'm just gonna .	9
 79.054	79.472	A	uh	10
 80.065	80.402	A	uh	11
 80.590	81.332	B	oh there .	12
 81.143	82.410	A	oh two three .	13
-82.505	84.857	B	oh that 's what you 've been doing this all time .	14
+82.505	84.857	B	oh that's what you've been doing this all time .	14
 85.708	86.746	B	uh	15
-87.072	89.525	B	what we ca n't block the roads , right ?	16
+87.072	89.525	B	what we can't block the roads , right ?	16
 90.124	90.974	A	yeah i think .	17
 94.117	94.967	A	um	18
-95.522	96.924	B	i 'm gon na try to do another one .	19
-99.437	100.381	B	i do n't want to .	20
-101.500	102.781	B	i do n't want an eraser .	21
+95.522	96.924	B	i'm gonna try to do another one .	19
+99.437	100.381	B	i don't want to .	20
+101.500	102.781	B	i don't want an eraser .	21
 106.536	107.501	B	i got one .	22
-109.953	114.393	A	oh that 's what you 've been oh that 's why i 'm in this position .	23
+109.953	114.393	A	oh that's what you've been oh that's why i'm in this position .	23
 115.450	116.744	B	okay can you tell me ?	24
 118.227	119.898	B	so , what can i do ?	25
 121.915	123.950	A	let me see the information box .	26
@@ -30,25 +30,25 @@ start	end	interlocutor	utterance	utterance_no
 127.603	128.506	A	abstract .	28
 128.452	129.449	B	yeah , so .	29
 129.665	131.741	A	uh no no you are in interactive view .	30
-131.768	132.563	B	yeah i 'm in the	31
+131.768	132.563	B	yeah i'm in the	31
 132.038	134.923	A	in this view you can interact and build tracks .	32
 135.131	137.409	A	click , drag and release to build a track .	33
 137.698	140.030	A	a brief press on the track will remove it .	34
-144.175	145.186	B	i 'm confused .	35
+144.175	145.186	B	i'm confused .	35
 148.104	149.331	A	oh okay my turn .	36
 152.250	153.908	B	okay so um .	37
 157.218	159.402	A	oh we , oh wait oh wait .	38
 159.361	160.480	B	let me see this .	39
-160.901	161.400	B	we 've got	40
-161.899	163.611	A	oh it 's your turn .	41
+160.901	161.400	B	we've got	40
+161.899	163.611	A	oh it's your turn .	41
 163.467	164.613	B	um that was quick .	42
-165.439	169.119	B	oh six , you ca n't block the streets remember .	43
-169.017	170.419	A	yeah we ca n't block them .	44
-170.271	172.077	B	i 'm blocking a school .	45
+165.439	169.119	B	oh six , you can't block the streets remember.	43
+169.017	170.419	A	yeah we can't block them .	44
+170.271	172.077	B	i'm blocking a school .	45
 172.486	173.254	A	oh	46
 173.780	175.451	A	oh good uh .	47
 176.374	177.816	B	mountain basel okay .	48
-178.504	180.162	A	i 'm gon na	49
+178.504	180.162	A	i'm gonna	49
 179.164	183.266	B	try um mount zurich from mount saint gallen .	50
 183.554	184.040	A	okay .	51
 184.673	189.545	A	no i think we should do this , mount bern and then go to mount saint gallen .	52
@@ -65,8 +65,8 @@ start	end	interlocutor	utterance	utterance_no
 218.673	219.535	B	okay .	63
 220.348	221.993	B	thanks , robot .	64
 221.386	222.249	A	i guess .	65
-224.277	225.679	B	we 've been doing this right ?	66
-226.649	230.653	B	i do n't even think , oh , wait i 'm gon na check something .	67
+224.277	225.679	B	we've been doing this right ?	66
+226.649	230.653	B	i don't even think , oh , wait i'm gonna check something .	67
 231.185	234.986	A	wait , oh wait , i think the check is green .	68
 235.613	237.015	B	let me see something .	69
 239.785	240.891	B	oh wait oh no .	70
@@ -74,11 +74,11 @@ start	end	interlocutor	utterance	utterance_no
 241.767	243.506	B	i know what we have to do .	72
 243.412	243.843	A	what ?	73
 243.955	245.815	B	we have to do like seven .	74
-246.624	248.259	A	oh wait ca n't do fourteen .	75
+246.624	248.259	A	oh wait can't do fourteen .	75
 250.395	252.390	B	oh okay , then .	76
 250.988	251.460	A	oh .	77
 255.525	256.550	B	how you doing ?	78
-257.306	258.452	A	i 'm thinking .	79
+257.306	258.452	A	i'm thinking .	79
 259.321	259.968	B	okay .	80
 259.523	261.289	A	wait uh this one is not connected .	81
 262.017	263.608	A	and this one is not connected .	82
@@ -87,13 +87,13 @@ start	end	interlocutor	utterance	utterance_no
 271.214	273.371	B	can i connect it , can i connect it .	85
 272.508	272.872	A	oh .	86
 278.140	279.070	B	did we do it ?	87
-280.719	281.447	A	i do n't know .	88
-281.716	284.062	B	i 'm so confused , let me see .	89
+280.719	281.447	A	i don't know .	88
+281.716	284.062	B	i'm so confused , let me see .	89
 285.712	287.438	B	what , what can i do .	90
-288.233	289.244	A	uh i do n't know .	91
+288.233	289.244	A	uh i don't know .	91
 290.369	291.906	B	oh you think we are done ?	92
-292.795	295.208	A	uh i do n't know , i do n't think so .	93
-296.333	297.546	A	or maybe yes , i do n't know .	94
+292.795	295.208	A	uh i don't know , i don't think so .	93
+296.333	297.546	A	or maybe yes , i don't know .	94
 298.076	299.707	B	i think probably yes .	95
 299.928	301.680	A	so should we click the check ?	96
 302.435	304.309	B	oh yes , click the check .	97
@@ -110,21 +110,21 @@ start	end	interlocutor	utterance	utterance_no
 353.681	357.206	A	oh by by 40 francs so	108
 358.718	360.686	A	oh so we need to get 24 .	109
 362.322	363.401	B	okay .	110
-365.278	366.289	B	i 'm just gon na	111
+365.278	366.289	B	i'm just gonna	111
 365.494	366.977	A	by 40 okay .	112
 367.004	369.269	B	okay , tell me if this works .	113
 372.908	373.407	A	oh wait .	114
-373.771	374.594	A	that 's 2 .	115
-375.160	375.726	B	that 's uh	116
-375.861	377.128	A	that 's 2 francs .	117
-378.385	379.343	B	i 'll try this one .	118
+373.771	374.594	A	that's 2 .	115
+375.160	375.726	B	that's uh	116
+375.861	377.128	A	that's 2 francs .	117
+378.385	379.343	B	i'll try this one .	118
 380.924	382.892	A	wait wait wait , wait , wait , wait , wait .	119
-383.275	388.223	A	try from neuchatel to mount bern that 's 5 .	120
+383.275	388.223	A	try from neuchatel to mount bern that's 5 .	120
 392.015	393.268	A	neuchatel to	121
 393.524	394.846	B	neuchatel ?	122
 395.385	398.512	A	neuchatel whatever to mount bern .	123
-398.193	400.821	B	i 'm trying to	124
-402.592	404.735	B	oh that 's to	125
+398.193	400.821	B	i'm trying to	124
+402.592	404.735	B	oh that's to	125
 404.911	405.760	A	mount bern .	126
 407.951	409.056	B	how much do we have now ?	127
 409.043	410.957	A	now we have um seven .	128
@@ -136,7 +136,7 @@ start	end	interlocutor	utterance	utterance_no
 421.532	422.219	A	bottom right .	134
 423.247	424.259	B	i did it .	135
 424.690	425.795	B	i did	136
-425.081	426.645	A	that 's i think that 's bottom left .	137
+425.081	426.645	A	that's i think that's bottom left .	137
 427.566	428.240	A	you clicked .	138
 429.374	431.437	B	okay , here we go .	139
 432.494	433.195	B	um	140
@@ -144,7 +144,7 @@ start	end	interlocutor	utterance	utterance_no
 436.217	436.760	A	okay .	142
 436.351	438.600	B	the one i just did to basel .	143
 438.805	439.642	A	how much is that ?	144
-439.667	440.939	B	um it 's 4 francs .	145
+439.667	440.939	B	um it's 4 francs .	145
 442.394	443.583	B	now this makes sense .	146
 443.673	444.254	A	there we go .	147
 443.967	444.714	B	perfect .	148
@@ -153,17 +153,17 @@ start	end	interlocutor	utterance	utterance_no
 451.180	451.966	A	how much is that ?	151
 452.240	453.001	B	5 francs .	152
 454.265	456.623	A	okay we have to get to um .	153
-457.092	460.786	A	we , wait wait wait wait wait , do n't to anything else , we have 5 2 7 .	154
+457.092	460.786	A	we , wait wait wait wait wait , don't to anything else , we have 5 2 7 .	154
 461.947	463.295	A	7 11 .	155
 464.583	465.458	A	14 .	156
 466.123	468.347	A	4 , we have 19 .	157
 468.533	470.054	B	19 okay .	158
 469.332	470.054	A	okay wait wait wait wait .	159
-470.354	474.435	A	let me get um you 're in zurich okay zurich	160
+470.354	474.435	A	let me get um you're in zurich okay zurich	160
 474.403	475.949	B	mount luzern ?	161
 475.048	477.406	A	okay go from zurich go to davos .	162
 477.863	479.045	B	what is davos ?	163
-478.502	480.215	A	davos i do n't know .	164
+478.502	480.215	A	davos i don't know .	164
 479.985	480.822	B	davos .	165
 481.161	482.842	A	yeah all the way down , there , yeah .	166
 482.474	483.222	B	how much is it ?	167
@@ -176,7 +176,7 @@ start	end	interlocutor	utterance	utterance_no
 494.958	495.815	B	no no .	174
 496.159	497.757	B	what now we just messed up .	175
 498.710	499.579	B	um	176
-499.943	502.877	A	what is the nearest number to 1 , 2 right ?	177
+499.943	502.877	A	what is the nearest number to 1, 2 right ?	177
 499.994	500.512	B	then	178
 502.648	504.514	B	2 yeah let me see .	179
 503.434	506.418	A	and where , and where is that from davos , is there a	180
@@ -185,7 +185,7 @@ start	end	interlocutor	utterance	utterance_no
 515.105	515.412	A	what ?	183
 515.540	519.036	B	mount montreux to mount zermatt .	184
 519.940	520.553	A	oh .	185
-523.042	525.650	B	perfect , no that 's 2 , now we have 25 .	186
+523.042	525.650	B	perfect , no that's 2 , now we have 25 .	186
 526.072	527.178	A	damn .	187
 527.913	528.680	B	we mess .	188
 528.041	528.597	A	okay .	189
@@ -199,9 +199,9 @@ start	end	interlocutor	utterance	utterance_no
 543.283	545.693	B	um mount basel to mount bern .	197
 546.243	548.173	A	mount basel to mount bern .	198
 549.578	550.543	A	there you go .	199
-551.425	552.613	A	that 's right .	200
-551.738	552.671	B	oh it 's my turn .	201
-553.157	554.077	A	yeah it 's your turn .	202
+551.425	552.613	A	that's right .	200
+551.738	552.671	B	oh it's my turn .	201
+553.157	554.077	A	yeah it's your turn .	202
 553.866	555.278	B	so mount	203
 554.478	555.264	A	um	204
 555.498	558.221	A	do gallen to davos .	205
@@ -209,10 +209,10 @@ start	end	interlocutor	utterance	utterance_no
 559.344	561.996	A	yeah saint gallen .	207
 562.153	564.262	B	saint gallen yes to	208
 565.061	566.422	A	to davos .	209
-566.404	567.426	B	we ca n't do that .	210
+566.404	567.426	B	we can't do that .	210
 567.548	568.238	A	yeah we can .	211
 568.004	570.810	B	we can do davos to saint gallen .	212
-570.778	571.851	A	yeah that 's what i mean .	213
+570.778	571.851	A	yeah that's what i mean .	213
 571.717	574.472	B	oh okay , then what should we do next ?	214
 572.893	574.529	A	and then	215
 575.220	576.645	B	i have a feeling that	216
@@ -227,21 +227,21 @@ start	end	interlocutor	utterance	utterance_no
 597.986	599.418	A	zurich	225
 599.934	601.129	B	to luzern .	226
 602.534	603.326	A	how much is that ?	227
-603.352	604.822	B	um that 's 2 francs .	228
+603.352	604.822	B	um that's 2 francs .	228
 604.809	605.167	A	2 ?	229
 605.416	605.761	A	okay .	230
 606.257	607.707	A	and then give me another one .	231
 610.850	613.042	B	luzern to zermatt .	232
 613.463	615.144	A	luzern to zermatt .	233
-618.274	619.642	B	are you gon na say anything ?	234
+618.274	619.642	B	are you gonna say anything ?	234
 620.313	621.853	A	okay um .	235
-620.364	622.230	B	what 's next , what can we connect .	236
+620.364	622.230	B	what's next , what can we connect .	236
 622.889	624.442	A	wait um .	237
 624.896	627.397	A	interlaken to neuchatel .	238
 627.679	628.880	B	interlaken to	239
 628.970	629.724	A	neuchatel .	240
-630.764	631.844	B	it 's luzern .	241
-635.418	636.261	A	that 's 3 .	242
+630.764	631.844	B	it's luzern .	241
+635.418	636.261	A	that's 3 .	242
 636.281	637.341	B	wait , what ?	243
 637.457	639.451	A	neuchatel mount neuchatel there .	244
 638.096	640.199	B	neuchatel , okay , where next ?	245
@@ -258,8 +258,8 @@ start	end	interlocutor	utterance	utterance_no
 664.580	666.830	B	okay um we	256
 666.402	669.489	A	how much is how much is zermatt to davos ?	257
 670.109	670.985	B	zermatt	258
-670.946	673.524	A	wait oh you got to check , let 's click it .	259
-675.172	677.722	B	um zermatt to davos it 's 3 .	260
+670.946	673.524	A	wait oh you got to check , let's click it .	259
+675.172	677.722	B	um zermatt to davos it's 3 .	260
 676.718	677.345	A	no .	261
 678.029	678.783	A	3 okay .	262
 680.039	681.790	A	so we click the check or no ?	263
@@ -281,7 +281,7 @@ start	end	interlocutor	utterance	utterance_no
 724.273	726.945	A	oh so we need oh okay .	279
 726.066	728.277	B	okay let me try something , go .	280
 727.631	728.705	A	what have i done , oh wait .	281
-728.946	730.167	B	i 've got an idea .	282
+728.946	730.167	B	i've got an idea .	282
 729.004	729.905	A	we are already 2	283
 730.435	731.144	A	okay wait wait wait	284
 730.480	731.106	B	go to	285
@@ -304,15 +304,15 @@ start	end	interlocutor	utterance	utterance_no
 753.361	756.141	A	um neuchatel , to montreux .	302
 756.781	758.155	B	neuchatel to ?	303
 758.283	759.338	A	montreux .	304
-759.916	761.366	A	montreux , i do n't know .	305
-760.740	761.520	B	we ca n't do that .	306
+759.916	761.366	A	montreux , i don't know .	305
+760.740	761.520	B	we can't do that .	306
 761.756	762.280	A	yeah we can .	307
-762.737	763.510	B	no we ca n't .	308
+762.737	763.510	B	no we can't .	308
 763.459	766.239	A	yeah , mount neuchatel to montreux .	309
 766.144	768.036	B	mount neuchatel	310
 767.448	768.361	A	to the left of you .	311
 771.532	773.474	A	uh yeah neuchatel to montreux .	312
-774.511	775.476	B	i 'm doing it !	313
+774.511	775.476	B	i'm doing it !	313
 777.042	780.366	B	um how abou mount basel to neuchatel ?	314
 780.500	780.985	A	huh ?	315
 782.710	783.425	A	oh no !	316
@@ -338,10 +338,10 @@ start	end	interlocutor	utterance	utterance_no
 820.205	821.413	B	zurich to davos .	336
 822.309	823.242	A	how much was that ?	337
 823.203	823.542	B	4 .	338
-824.328	826.060	B	so that 's 4 gone now we need 5 .	339
+824.328	826.060	B	so that's 4 gone now we need 5 .	339
 827.614	828.815	A	oh i know how to get to 5 .	340
 829.127	830.424	A	we just need a 2 .	341
-829.600	830.827	B	i 've got an idea .	342
+829.600	830.827	B	i've got an idea .	342
 830.424	831.594	A	what , we need	343
 830.827	831.715	B	to zurich	344
 832.412	833.345	A	zurich	345
@@ -366,7 +366,7 @@ start	end	interlocutor	utterance	utterance_no
 861.325	862.207	A	uh	364
 862.987	864.112	B	robot help us .	365
 865.112	866.170	A	you both will	366
-870.159	871.194	A	oh that 's why .	367
+870.159	871.194	A	oh that's why .	367
 871.194	876.614	A	we need to spend the uh we need to spend as less swiss francs as possible .	368
 877.812	878.515	B	what !	369
 880.119	882.363	A	we just noticed that now .	370
@@ -381,7 +381,7 @@ start	end	interlocutor	utterance	utterance_no
 903.060	904.166	B	i just did something .	379
 905.078	905.608	A	wow .	380
 905.947	906.388	B	what ?	381
-906.717	908.621	A	wow it 's changing tracks .	382
+906.717	908.621	A	wow it's changing tracks .	382
 910.062	910.771	B	right so ?	383
 910.976	911.947	A	yeah by itself .	384
 914.900	915.596	A	oh .	385
@@ -389,7 +389,7 @@ start	end	interlocutor	utterance	utterance_no
 922.712	923.779	B	i think	387
 922.744	924.054	A	oh .	388
 924.399	925.460	B	so we submit it ?	389
-926.113	927.947	A	yeah let 's start over .	390
+926.113	927.947	A	yeah let's start over .	390
 928.231	929.886	B	robot say something to us .	391
 936.401	936.801	B	yeah .	392
 938.251	939.101	B	should we	393
@@ -401,9 +401,9 @@ start	end	interlocutor	utterance	utterance_no
 953.207	955.648	B	interlaken to zermatt .	399
 956.051	957.796	A	interlaken to zermatt .	400
 958.429	960.435	A	zermatt oh interlaken .	401
-960.986	961.785	A	that 's 2 ?	402
+960.986	961.785	A	that's 2 ?	402
 962.072	963.900	B	interlaken to zermatt .	403
-964.066	964.820	A	that 's 2 ?	404
+964.066	964.820	A	that's 2 ?	404
 964.705	965.140	B	yes .	405
 965.501	965.788	A	oh .	406
 966.622	967.989	B	and you want another 2 ?	407
@@ -419,21 +419,21 @@ start	end	interlocutor	utterance	utterance_no
 981.728	982.392	B	give me a 2 .	417
 982.862	985.085	A	um neuchatel to montreux .	418
 985.264	987.191	B	neuchatel to montreux .	419
-989.643	991.062	B	i do n't really care actually .	420
-990.618	994.177	A	um yeah me to i do n't like this , zurich to luzern .	421
+989.643	991.062	B	i don't really care actually .	420
+990.618	994.177	A	um yeah me to i don't like this , zurich to luzern .	421
 994.765	995.666	B	wait zurich ?	422
 995.922	997.009	A	to luzern .	423
 999.549	1000.271	B	where is zurich ?	424
 1001.767	1003.070	A	zurich is at the top .	425
-1005.317	1006.742	B	i ca n't do luzern .	426
+1005.317	1006.742	B	i can't do luzern .	426
 1006.863	1007.643	A	yeah you can .	427
 1008.598	1010.407	A	zurich to luzern .	428
 1010.292	1011.365	B	where is luzern ?	429
 1011.507	1013.232	A	luzern is under zurich .	430
-1014.185	1015.354	B	i ca n't do it .	431
+1014.185	1015.354	B	i can't do it .	431
 1015.342	1016.230	A	yes you can .	432
-1016.166	1017.278	B	no i ca n't .	433
-1017.345	1018.706	A	yes you can it 's	434
+1016.166	1017.278	B	no i can't .	433
+1017.345	1018.706	A	yes you can it's	434
 1018.102	1021.080	B	how about mount zermatt to mount	435
 1020.465	1023.157	A	no yes you can zurich to luzern .	436
 1025.569	1026.151	A	2 .	437
@@ -451,27 +451,27 @@ start	end	interlocutor	utterance	utterance_no
 1050.561	1051.891	A	oh oh .	449
 1052.633	1054.077	A	oh .	450
 1055.426	1056.021	A	okay .	451
-1056.155	1057.976	B	we messed up again did n't we ?	452
-1057.719	1059.713	A	okay number 2 , now another 2 .	453
+1056.155	1057.976	B	we messed up again didn't we ?	452
+1057.719	1059.713	A	okay number 2, now another 2 .	453
 1059.664	1060.687	B	another 2 .	454
-1061.038	1062.061	B	um let 's see .	455
+1061.038	1062.061	B	um let's see .	455
 1062.425	1063.882	B	luzern to zurich .	456
 1066.359	1068.809	A	i i told you to do that and then you did it .	457
 1067.913	1069.263	B	just do it .	458
-1069.320	1072.081	A	no now we ca n't because it is an eraser now .	459
+1069.320	1072.081	A	no now we can't because it is an eraser now .	459
 1074.628	1077.197	B	why , zurich to luzern .	460
 1078.762	1079.273	A	i	461
 1088.807	1089.625	B	okay .	462
 1089.031	1089.740	A	oh okay .	463
 1090.060	1091.128	B	then um	464
-1091.588	1092.783	B	let 's see what we have .	465
+1091.588	1092.783	B	let's see what we have .	465
 1092.374	1094.486	A	there is no more 2s then 3s now .	466
-1095.651	1099.026	B	yeah no we do n't have any 2s zermatt to davos .	467
+1095.651	1099.026	B	yeah no we don't have any 2s zermatt to davos .	467
 1097.185	1097.754	A	okay .	468
 1099.174	1101.934	A	uh zermatt to davos there we go .	469
-1102.190	1103.960	B	and then we 've got another 2 .	470
+1102.190	1103.960	B	and then we've got another 2 .	470
 1103.533	1104.389	A	okay .	471
-1105.029	1106.530	A	okay you 've done another 2 nice .	472
+1105.029	1106.530	A	okay you've done another 2 nice .	472
 1106.741	1108.115	A	zurich to gallen .	473
 1108.604	1110.214	B	zurich to berlin ?	474
 1109.946	1112.112	A	saint gallen saint gallen .	475
@@ -484,12 +484,12 @@ start	end	interlocutor	utterance	utterance_no
 1127.684	1128.291	B	and then	482
 1127.817	1128.521	A	oh no oops .	483
 1131.316	1132.019	A	there you go .	484
-1135.973	1137.276	B	now we 've got double 3s .	485
+1135.973	1137.276	B	now we've got double 3s .	485
 1137.564	1138.197	A	okay .	486
 1145.833	1146.894	B	what can we do next ?	487
 1146.479	1148.166	A	give me another 3 or 4 ?	488
 1148.415	1151.157	A	3 , is there another 3 , if there is not then 4 .	489
 1152.230	1153.195	B	how much	490
-1152.306	1153.342	A	oh we 've got a check .	491
-1153.700	1154.358	B	we 've got a check ?	492
+1152.306	1153.342	A	oh we've got a check .	491
+1153.700	1154.358	B	we've got a check ?	492
 1154.524	1155.259	A	should we submit it ?	493
