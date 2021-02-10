@@ -1,0 +1,93 @@
+Freq.	Size	Surface Form	Spanning	First Speaker	Turns
+2	6	mount davos to mount zermatt .	2	B	98, 99
+2	6	mount luzern to mount zermatt .	268	B	78, 345
+2	6	mount montreux to mount interlaken .	337	B	2, 338
+2	6	mount neuchatel to mount interlaken .	55	B	295, 349
+2	6	then mount basel to mount neuchatel	232	B	118, 349
+2	5	let 's start from mount	233	B	96, 328
+2	5	mount mount luzern to mount	106	B	78, 183
+2	5	then to mount interlaken ?	44	B	121, 164
+5	4	mount neuchatel to mount	155	B	195, 257, 295, 318, 349
+5	4	to mount interlaken .	348	B	2, 51, 295, 338, 349
+5	4	to mount zermatt .	268	B	78, 85, 98, 99, 345
+4	4	mount luzern to mount	268	B	78, 183, 219, 345
+3	4	two , one .	112	B	209, 243, 320
+2	4	and then to mount	16	B	106, 121
+2	4	bern to mount basel	115	B	202, 316
+2	4	i 'm gon na	12	B	250, 261
+2	4	mount bern to mount	26	B	202, 227
+2	4	mount zurich to mount	72	B	261, 332
+2	4	then to mount luzern	49	B	106, 154
+2	4	three two one .	58	B	69, 126
+2	4	to mount basel ?	56	B	202, 257
+2	4	to mount bern .	87	B	261, 347
+2	4	we 're close .	251	B	71, 321
+6	3	mount zermatt .	268	B	78, 85, 98, 99, 302, 345
+5	3	then to mount	80	B	85, 106, 121, 154, 164
+4	3	bern to mount	115	B	202, 227, 263, 316
+3	3	mount basel to	232	B	118, 316, 349
+3	3	to mount bern	236	B	112, 261, 347
+3	3	to mount luzern	95	B	60, 106, 154
+3	3	to mount neuchatel	301	B	49, 118, 349
+3	3	to mount zurich	273	B	58, 227, 330
+3	3	two one .	58	B	69, 91, 126
+2	3	go from mount	5	B	257, 261
+2	3	go to mount	8	B	51, 58
+2	3	mount davos .	124	B	96, 219
+2	3	mount montreux .	149	B	47, 195
+2	3	mount zurich .	9	B	58, 66
+2	3	mount zurich ?	175	B	156, 330
+2	3	oh that 's	88	B	5, 92
+2	3	oh yeah .	47	B	131, 177
+2	3	take the lead	178	B	73, 250
+2	3	three , two	17	B	304, 320
+8	2	mount luzern	286	B	60, 78, 106, 154, 156, 183, 219, 345
+8	2	one .	297	B	24, 69, 91, 126, 170, 209, 243, 320
+7	2	mount zermatt	270	B	78, 85, 98, 99, 302, 345, 347
+7	2	then mount	232	B	118, 227, 302, 318, 332, 345, 349
+6	2	from mount	327	B	2, 78, 96, 257, 261, 328
+6	2	mount bern	236	B	112, 202, 227, 231, 261, 347
+5	2	i 'm	260	B	2, 214, 217, 250, 261
+5	2	yeah .	124	B	54, 131, 142, 149, 177
+4	2	and then	299	B	51, 106, 121, 349
+3	2	let 's	285	B	44, 96, 328
+3	2	oh okay	58	B	14, 27, 71
+3	2	that 's	248	B	5, 92, 252
+3	2	three .	145	B	208, 236, 352
+2	2	, mount	89	B	261, 349
+2	2	expensive .	64	B	189, 252
+2	2	expensive ?	47	B	231, 277
+2	2	how about	102	B	156, 257
+2	2	is this	142	B	136, 277
+2	2	it 's	273	B	14, 286
+2	2	mount saint	98	B	231, 328
+2	2	neuchatel .	268	B	49, 316
+2	2	oh i	56	B	214, 269
+2	2	okay .	121	B	27, 147
+2	2	okay so	322	B	0, 321
+2	2	okay three	100	B	69, 168
+2	2	uh okay	185	B	137, 321
+41	1	mount	348	B	2, 47, 49, 51, 58, 60, 65, 66, 78, 85, 96, 98, 99, 106, 112, 118, 121, 154, 156, 164, 183, 195, 202, 217, 219, 227, 231, 257, 261, 263, 295, 302, 316, 318, 328, 330, 332, 338, 345, 347, 349
+18	1	then	336	B	14, 51, 78, 85, 106, 118, 121, 154, 164, 180, 220, 227, 263, 302, 318, 332, 345, 349
+13	1	okay	322	B	0, 14, 27, 69, 71, 73, 137, 147, 168, 250, 261, 302, 321
+11	1	i	323	B	2, 37, 44, 78, 214, 217, 231, 250, 261, 269, 324
+10	1	oh	265	B	5, 14, 27, 71, 92, 131, 177, 189, 214, 269
+10	1	uh	244	B	78, 94, 137, 231, 248, 250, 252, 261, 295, 321
+9	1	three	332	B	21, 69, 126, 168, 208, 236, 304, 320, 352
+9	1	two	299	B	22, 39, 69, 91, 126, 209, 243, 304, 320
+8	1	that	320	B	5, 37, 92, 189, 206, 252, 293, 324
+7	1	yeah	277	B	54, 131, 142, 144, 149, 177, 330
+6	1	basel	232	B	118, 202, 231, 257, 316, 349
+5	1	and	299	B	51, 106, 121, 316, 349
+5	1	go	211	B	51, 58, 78, 257, 261
+4	1	is	142	B	136, 206, 231, 277
+4	1	it	311	B	14, 37, 286, 324
+4	1	so	322	B	0, 44, 136, 321
+4	1	we	281	B	44, 71, 321, 324
+3	1	how	214	B	44, 156, 257
+3	1	just	172	B	92, 231, 263
+3	1	should	35	B	44, 73, 78
+3	1	start	285	B	44, 96, 328
+2	1	um	137	B	0, 136
+2	1	you	185	B	73, 257
+

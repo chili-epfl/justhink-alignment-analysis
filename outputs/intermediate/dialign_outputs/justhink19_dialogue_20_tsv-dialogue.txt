@@ -1,0 +1,1979 @@
+A|0| A: _okay ._ 
+A|1| A: _so_ _i_ guess _we have to connect all_ these with _the_ . 
+B|2| B: _um_ _do_ _we _,_ how_ many . 
+A|3| A: _oh ._ 
+B|4| B: _so [we_ have] _n't_ even _done_ _anything_ . 
+B|5| B: [have] _you_ _done_ _anything_ ? 
+A|6| A: _no ._ 
+B|7| B: [so] _, how_ many ten circles _and_ zero . 
+B|8| B: minuses . 
+B|9| B: _i 'm_ _just_ _gon na_ . 
+A|10| A: _uh_ 
+A|11| A: _uh_ 
+B|12| B: _oh there ._ 
+A|13| A: [oh] two three . 
+B|14| B: _oh that 's what you 've been_ doing _this_ [all] time . 
+B|15| B: [uh] 
+B|16| B: _what _we_ ca n't block_ [the] roads , _right ?_ 
+A|17| A: _yeah _i_ think_ . 
+A|18| A: [um] 
+B|19| B: _i 'm gon na_ _try _to_ do_ _another one ._ 
+B|20| B: _i do n't_ want [to] . 
+B|21| B: _i do n't_ want _an eraser_ . 
+B|22| B: [i] _got_ _one ._ 
+A|23| A: [oh that 's what you 've been] [oh that 's] _why_ _i 'm in_ [this] position . 
+B|24| B: [okay] _can_ [you] tell _me_ ? 
+B|25| B: [so] _, what_ _can _i_ _do_ ?_ 
+A|26| A: _let me see_ [the] information box . 
+A|27| A: _you are_ number two _i think_ . 
+A|28| A: abstract . 
+B|29| B: _yeah ,_ _so ._ 
+A|30| A: [uh] _no no_ _you are_ _in_ interactive view . 
+B|31| B: [yeah [i] 'm in] [the] 
+A|32| A: [in] [this] view [you] [can] interact [and] build tracks . 
+A|33| A: _click_ , drag [and] release [to] build _a_ track . 
+A|34| A: _a_ brief _press_ on [the] track _will_ remove _it ._ 
+B|35| B: [i 'm] confused . 
+A|36| A: _oh _okay_ my turn ._ 
+B|37| B: [okay] [so] _um ._ 
+A|38| A: _oh [we_ _,] _oh_ wait _oh_ wait_ . 
+B|39| B: [let me see] [this] . 
+B|40| B: _we 've got_ 
+A|41| A: _oh it 's_ your _turn ._ 
+B|42| B: [um] _that was_ quick . 
+B|43| B: [oh] six , [you] _ca n't block_ [the] streets remember . 
+A|44| A: [yeah] [we ca n't block] _them ._ 
+B|45| B: [i 'm] blocking [a] school . 
+A|46| A: [oh] 
+A|47| A: [oh] good [uh] . 
+B|48| B: mountain _basel_ [okay .] 
+A|49| A: [i 'm gon na] 
+B|50| B: _try_ [um] _mount zurich_ _from_ _mount saint gallen ._ 
+A|51| A: [okay .] 
+A|52| A: _no _i_ think we_ _should_ [do] [this] , _mount bern_ _and then_ _go _to_ [mount_ saint gallen .] 
+B|53| B: [okay .] 
+A|54| A: [try to] _go _to_ [mount_ saint gallen .] 
+B|55| B: _oh [i_ think [we] have to connect all] _of_ [them .] 
+A|56| A: _oh ._ 
+B|57| B: [okay] [i] _did_ some . 
+B|58| B: [okay] for [me] . 
+A|59| A: _oh no ._ 
+B|60| B: [i think _we] are_ doing terrible . 
+B|61| B: [you are] making [me] hesitate . 
+A|62| A: [okay .] 
+B|63| B: [okay .] 
+B|64| B: thanks , robot . 
+A|65| A: [i] guess . 
+B|66| B: _we ['ve_ been] doing [this] _right ?_ 
+B|67| B: _i do n't_ even [think] [, _oh] _,_ wait_ [i 'm gon na] _check_ something . 
+A|68| A: _wait [,_ _oh] _wait_ ,_ [i think] _the check_ _is_ green . 
+B|69| B: [let me see] something . 
+B|70| B: [oh wait [oh] no .] 
+A|71| A: _what ?_ 
+B|72| B: _i _know_ _what_ [we have_ _to] do ._ 
+A|73| A: _what ?_ 
+B|74| B: [we have _to] do_ _like_ _seven ._ 
+A|75| A: [oh wait] _ca n't do_ fourteen . 
+B|76| B: [oh okay] , [then] . 
+A|77| A: _oh ._ 
+B|78| B: _how_ [you] doing ? 
+A|79| A: [i 'm] thinking . 
+B|80| B: [okay .] 
+A|81| A: [wait] [uh] _this one_ _is_ _not_ connected . 
+A|82| A: [and] _this one_ _is_ _not_ connected . 
+B|83| B: [oh] [my turn] yey . 
+B|84| B: [what] [can] [we] [connect] _next_ ? 
+B|85| B: _can i_ [connect] [it] , _can i_ [connect] [it .] 
+A|86| A: _oh ._ 
+B|87| B: _did_ [we] [do] _it ?_ 
+A|88| A: [i do n't] [know] . 
+B|89| B: [i 'm] [so] confused _, [let_ me see] . 
+B|90| B: _what _,_ what_ _can _i_ do ._ 
+A|91| A: [uh] [i do n't] [know] . 
+B|92| B: _oh you_ [think _we] are_ _done_ ? 
+A|93| A: [uh] [i do n't] [know] , [i do n't] [think] [so .] 
+A|94| A: _or_ maybe _yes ,_ [i do n't] [know] . 
+B|95| B: [i think] probably [yes] . 
+A|96| A: [so] _should we_ _click the _check_ ?_ 
+B|97| B: [oh] [yes ,] [click the _check] ._ 
+A|98| A: [okay .] 
+B|99| B: [what ?] 
+B|100| B: [what] 
+B|101| B: [oh] _now we_ _start_ _again_ , basically . 
+A|102| A: [oh [,] [oh] i] _see ,_ compare solutions . 
+B|103| B: [what] [can] [we] _do ?_ 
+A|104| A: [oh _okay] [um_ .] 
+A|105| A: [oh] [this] _is_ our previous solution _price_ 64 . 
+B|106| B: [so .] 
+A|107| A: [oh i] _get_ [it] _we have to get_ [the] most _price_ , _but_ . 
+A|108| A: [oh] by by 40 _francs_ [so] 
+A|109| A: [oh] [so _we] need_ _to get_ 24 . 
+B|110| B: [okay .] 
+B|111| B: [i 'm] _just_ [gon na] 
+A|112| A: by 40 [okay .] 
+B|113| B: [okay] , tell [me] _if_ [this] works . 
+A|114| A: [oh wait] . 
+A|115| A: _that 's 2_ . 
+B|116| B: [that 's] [uh] 
+A|117| A: _that 's 2 francs ._ 
+B|118| B: [i] 'll [try] [this _one] ._ 
+A|119| A: [wait] [wait] _wait [,_ _wait] [,_ _wait] [,_ _wait] [,_ wait] . 
+A|120| A: [try] [from] _neuchatel _to_ mount bern_ [that 's] 5 . 
+A|121| A: _neuchatel to_ 
+B|122| B: [neuchatel] ? 
+A|123| A: [neuchatel] whatever _to mount bern ._ 
+B|124| B: [i 'm] trying [to] 
+B|125| B: [oh that 's] [to] 
+A|126| A: _mount bern ._ 
+B|127| B: _how much_ [do] [we have] _now_ ? 
+A|128| A: _now we have_ [um] [seven .] 
+B|129| B: 5 . 
+A|130| A: [i do .] 
+B|131| B: 2 . 
+A|132| A: _look_ _at_ our previous solution . 
+A|133| A: top [right] [i] mean bottom _right ._ 
+A|134| A: bottom _right ._ 
+B|135| B: [i] _did it ._ 
+B|136| B: [i] _did_ 
+A|137| A: [that 's] [i think] [that 's] bottom left . 
+A|138| A: [you] clicked . 
+B|139| B: [okay] , here _we go ._ 
+B|140| B: [um] 
+B|141| B: [try] _um _neuchatel_ ._ 
+A|142| A: [okay .] 
+B|143| B: [the] [one] [i] _just_ _did_ [to] _basel_ . 
+A|144| A: _how much is_ [that] ? 
+B|145| B: [um] [it 's] 4 [francs .] 
+B|146| B: [now] [this] makes sense . 
+A|147| A: [there] [we go .] 
+B|148| B: perfect . 
+A|149| A: [now] [what] else ? 
+B|150| B: [um] 
+A|151| A: _how much is_ [that] ? 
+B|152| B: 5 [francs .] 
+A|153| A: [okay] _we have to get _to_ [um_ .] 
+A|154| A: [we [,] wait] [wait] [wait] [wait] _wait ,_ [do n't] [to] [anything] else , [we have] 5 2 7 . 
+A|155| A: 7 11 . 
+A|156| A: 14 . 
+A|157| A: 4 , [we have] 19 . 
+B|158| B: 19 [okay .] 
+A|159| A: [okay] [wait] [wait] [wait] [wait] . 
+A|160| A: [let me] _get_ [um] [you] 're [in] [zurich] [okay] [zurich] 
+B|161| B: [mount] _luzern_ ? 
+A|162| A: [okay] [go] [from] [zurich] _go _to_ davos ._ 
+B|163| B: _what is_ _davos ?_ 
+A|164| A: [davos] [i do n't] [know] . 
+B|165| B: [davos .] 
+A|166| A: [yeah] [all] [the] way down , [there] , _yeah ._ 
+B|167| B: [how much is] _it ?_ 
+B|168| B: 4 [francs .] 
+A|169| A: [that was] 4 . 
+B|170| B: [um] [so [we] have] , 4 
+A|171| A: [what we have] 23 . 
+B|172| B: [then] [how] [can] [we] make 24 ? 
+A|173| A: _oh _we_ need_ only [one .] 
+B|174| B: [no [no] .] 
+B|175| B: [what] [now _we] just_ messed up . 
+B|176| B: [um] 
+A|177| A: [what is] [the] nearest number [to] 1 , 2 [right ?] 
+B|178| B: [then] 
+B|179| B: 2 _yeah [let_ me see] . 
+A|180| A: [and] _where_ , [and] _where is_ [that] [from] [davos] _, is_ [there] [a] 
+B|181| B: [we] [will] _need a 2 ._ 
+B|182| B: [um] [mount] , mountain [mount] mountreux [to mount] _zermatt ._ 
+A|183| A: [what ?] 
+B|184| B: [mount] _montreux_ [to mount] _zermatt ._ 
+A|185| A: _oh ._ 
+B|186| B: perfect , _no [that_ 's _2] , [now_ we have] 25 . 
+A|187| A: damn . 
+B|188| B: [we] mess . 
+A|189| A: [okay .] 
+A|190| A: [um] _give me_ [the] lowest number . 
+B|191| B: 64 [price] ! 
+A|192| A: [no [that] was] our previous [price] . 
+B|193| B: [oh .] 
+B|194| B: [um] 
+A|195| A: [from] [zermatt] 
+A|196| A: _or_ 
+B|197| B: [um] _mount basel to mount bern ._ 
+A|198| A: [mount basel to mount bern .] 
+A|199| A: _there you_ [go .] 
+A|200| A: [that 's] _right ._ 
+B|201| B: [oh it 's] [my turn .] 
+A|202| A: [yeah] [it 's] your [turn .] 
+B|203| B: [so] [mount] 
+A|204| A: [um] 
+A|205| A: [do] [gallen] _to davos ._ 
+B|206| B: [gallen .] 
+A|207| A: [yeah] [saint gallen .] 
+B|208| B: [saint gallen] [yes] [to] 
+A|209| A: _to davos ._ 
+B|210| B: [we [ca n't] _do] that_ . 
+A|211| A: [yeah] _we can_ . 
+B|212| B: [we can] [do] [davos] _to saint gallen ._ 
+A|213| A: [yeah] [that 's what] [i] mean . 
+B|214| B: [oh okay] , [then] [what] [should we] [do] _next_ ? 
+A|215| A: _and then_ 
+B|216| B: [i] [have] [a] feeling [that] 
+A|217| A: [go] [go] _zermatt to_ _interlaken_ . 
+A|218| A: [okay .] 
+B|219| B: [yeah] [what] [do] [you] [see] . 
+A|220| A: [okay] _give_ [a] cheapest [one] , [the] cheapest [one .] 
+B|221| B: 2 plus 1 , 2 plus 1 . 
+B|222| B: [you] want [to] [know] 2 ? 
+A|223| A: [no] [just] [just] [just] [the] most cheapest , [the] cheapest . 
+B|224| B: [the] _less_ _, zurich to luzern ._ 
+A|225| A: [zurich] 
+B|226| B: _to luzern ._ 
+A|227| A: [how much is] [that] ? 
+B|228| B: [um] [that 's 2 francs .] 
+A|229| A: 2 ? 
+A|230| A: [okay .] 
+A|231| A: _and then_ _give me_ [another one .] 
+B|232| B: _luzern to zermatt ._ 
+A|233| A: [luzern to zermatt .] 
+B|234| B: [are] [you] [gon na] say [anything] ? 
+A|235| A: _okay [um_ .] 
+B|236| B: [what] ['s] _next_ _, what_ [can] [we] [connect] . 
+A|237| A: [wait] [um .] 
+A|238| A: _interlaken _to_ [neuchatel_ .] 
+B|239| B: [interlaken to] 
+A|240| A: [neuchatel .] 
+B|241| B: [it 's] _luzern ._ 
+A|242| A: [that _'s] 3 ._ 
+B|243| B: _wait , what ?_ 
+A|244| A: [neuchatel] _mount neuchatel_ [there .] 
+B|245| B: _neuchatel _,_ okay_ , [where] _next_ ? 
+A|246| A: _and then_ [uh] 
+B|247| B: [yeah .] 
+A|248| A: [zurich _to] um_ [zurich] 
+A|249| A: [to saint gallen] [saint gallen .] 
+B|250| B: [no] [wait] [me] [try] [luzern] [or] _zurich ._ 
+A|251| A: [zurich] [is] [mount zurich] [all] [the] way [to] [the] top . 
+B|252| B: [yeah i] [can] barely [see [,] is] [this] [mount [zurich] to] 
+A|253| A: [to saint gallen .] 
+B|254| B: _okay [there_ you] [see] . 
+A|255| A: [uh] 
+B|256| B: [okay um] [we] 
+A|257| A: [how much is] [how much is] _zermatt to [davos_ ?] 
+B|258| B: [zermatt] 
+A|259| A: [wait [oh] you] [got] _to check_ [, _let] 's_ [click] [it .] 
+B|260| B: [um] [zermatt to davos] [it ['s] 3 .] 
+A|261| A: [no .] 
+A|262| A: 3 [okay .] 
+A|263| A: [so we] [click the check] [or] [no] ? 
+B|264| B: [mount] _luzern ._ 
+A|265| A: [okay .] 
+B|266| B: [i think we] were supposed [to check] [a] long time ago . 
+A|267| A: shall [we] [check] [it] though ? 
+B|268| B: [yeah .] 
+B|269| B: [we] would [have to] _start_ _again_ . 
+A|270| A: [the] difference between 
+A|271| A: our previous score [is] 24 . 
+B|272| B: 46 [how much] [do] [we need] ? 
+B|273| B: [oh [we] have to get to] 24 . 
+A|274| A: [oh [okay] .] 
+A|275| A: [so] [so] [how much] [was] [the] last [price] ? 
+B|276| B: _it is_ 46 . 
+A|277| A: 46 ? 
+B|278| B: [how much] [we have] passed _it ?_ 
+A|279| A: [oh] [so [we] need] [oh [okay] .] 
+B|280| B: [okay] [let me] [try] something , [go .] 
+A|281| A: [what] [have] [i] _done [,_ [oh] wait] . 
+B|282| B: [i] _'ve got_ _an_ idea . 
+A|283| A: [we are] already 2 
+A|284| A: [okay] [wait] [wait] [wait] 
+B|285| B: [go to] 
+B|286| B: trust [me] . 
+A|287| A: [okay] [we have] [okay .] 
+B|288| B: [basel to] _zurich ._ 
+A|289| A: [how much is] [that] ? 
+B|290| B: 5 . 
+A|291| A: [oh there .] 
+A|292| A: [done] . 
+B|293| B: [and] [now] [to um] 
+B|294| B: [bern] 
+B|295| B: [basel _to] bern ._ 
+A|296| A: [how much] ? 
+B|297| B: [um] 3 . 
+A|298| A: [wait] [okay [there] .] 
+B|299| B: [we are] 5 6 7 . 
+B|300| B: [where] _next_ ? 
+A|301| A: [yeah] [yeah .] 
+A|302| A: [um [neuchatel] ,] _to montreux ._ 
+B|303| B: [neuchatel to] ? 
+A|304| A: _montreux ._ 
+A|305| A: [montreux] , [i do n't] [know] . 
+B|306| B: [we [ca n't] _do] that_ . 
+A|307| A: [yeah] [we can] . 
+B|308| B: [no] [we ca n't] . 
+A|309| A: [yeah ,] _mount _neuchatel_ to montreux ._ 
+B|310| B: [mount neuchatel] 
+A|311| A: [to] [the] left [of] _you ._ 
+A|312| A: [uh] [yeah] _neuchatel to montreux ._ 
+B|313| B: [i 'm] doing [it] ! 
+B|314| B: [um] [how] abou [mount basel [to] neuchatel] ? 
+A|315| A: huh ? 
+A|316| A: [oh no] ! 
+B|317| B: [no] _and then [we_ have _to] do_ [it] [look] . 
+A|318| A: alright . 
+B|319| B: [how much] [do] [we have] [now] ? 
+A|320| A: [you] [you] [check .] 
+B|321| B: 4 , 5 . 
+B|322| B: 6 7 8 9 10 11 12 , 14 . 
+A|323| A: [we have] 14 [and] [we] [get] , [we need] [to get to] 22 . 
+B|324| B: 18 16 17 18 19 20 21 . 
+A|325| A: 14 [to] 22 . 
+A|326| A: [how much is] [montreux] ? 
+B|327| B: [we need] 
+B|328| B: _5 and a 4_ . 
+A|329| A: [oh] [5 and a 4] [, [okay] .] 
+B|330| B: [i] 4 [right] _now ._ 
+B|331| B: [so] _, what_ [can] [we] _do ?_ 
+A|332| A: _where is_ [a 4] [and] _where is_ [a] 5 ? 
+B|333| B: [okay] found [one] [zurich] 
+A|334| A: [zurich] 
+B|335| B: [to davos .] 
+B|336| B: [zurich [to] davos .] 
+A|337| A: [how much] [was] [that] ? 
+B|338| B: 4 . 
+B|339| B: [so] [that 's] 4 gone [now [we] need] 5 . 
+A|340| A: [oh [i] know] [how] [to get to] 5 . 
+A|341| A: [we just] [need a 2 .] 
+B|342| B: [i] _'ve got_ _an_ idea . 
+A|343| A: [what ,] [we need] 
+B|344| B: [to] [zurich] 
+A|345| A: [zurich] 
+B|346| B: _to luzern ._ 
+A|347| A: _why_ ? 
+A|348| A: [how much] [, [how] much is] [that] ? 
+B|349| B: _to luzern ._ 
+B|350| B: [um] 3 , 2 . 
+A|351| A: [and then [we] [need] a] 3 . 
+A|352| A: [okay] [uh] 
+B|353| B: [go .] 
+B|354| B: [done ,] [press] [check .] 
+A|355| A: [oh no .] 
+B|356| B: [press] [check .] 
+A|357| A: [no] , [my] [check] [is] still gray . 
+B|358| B: [what ?] 
+B|359| B: [but] [we] _did it ._ 
+A|360| A: your [check] [is] [i think [we] need] [to connect] _them all_ . 
+B|361| B: [we] had _to do_ [them all] ? 
+A|362| A: [yeah .] 
+B|363| B: [we are] terrible [at] [this] . 
+A|364| A: [uh] 
+B|365| B: robot help us . 
+A|366| A: [you] both [will] 
+A|367| A: [oh that 's] _why_ . 
+A|368| A: [we need] [to] spend [the] [uh] [we need] [to] spend as [less] swiss [francs] as possible . 
+B|369| B: [what] ! 
+A|370| A: [we just] noticed [that] [now .] 
+B|371| B: [we are] [so] dumb . 
+A|372| A: [oh] damn [it] [okay .] 
+A|373| A: [just] [connect] [them all] [and then [we] [go] to] [the] [next] [one] [and] [we] [know what] [to do .] 
+B|374| B: [okay .] 
+A|375| A: [okay] [uh] [how] 
+A|376| A: [um] 
+A|377| A: [oh] [what] 
+A|378| A: [what] [did] [you] _just [do_ ?] 
+B|379| B: [i] [just] [did] something . 
+A|380| A: wow . 
+B|381| B: [what ?] 
+A|382| A: wow [it 's] changing tracks . 
+B|383| B: [right] [so] ? 
+A|384| A: [yeah] by itself . 
+A|385| A: [oh .] 
+B|386| B: [no] [oh [no] [no] .] 
+B|387| B: [i think] 
+A|388| A: [oh .] 
+B|389| B: [so _we] submit it ?_ 
+A|390| A: [yeah _let] 's_ [start] over . 
+B|391| B: robot say something [to] us . 
+B|392| B: [yeah .] 
+B|393| B: [should we] 
+A|394| A: [oh .] 
+A|395| A: _where is_ 2 ? 
+A|396| A: _give me a 2 ._ 
+A|397| A: [2 francs] [one .] 
+B|398| B: [2 francs] [um .] 
+B|399| B: _interlaken to zermatt ._ 
+A|400| A: [interlaken to zermatt .] 
+A|401| A: [zermatt] [oh] [interlaken] . 
+A|402| A: [that 's 2] ? 
+B|403| B: [interlaken to zermatt .] 
+A|404| A: [that 's 2] ? 
+B|405| B: [yes] . 
+A|406| A: [oh .] 
+B|407| B: [and] [you] want _another 2_ ? 
+A|408| A: [yeah .] 
+B|409| B: [or] 3 ? 
+A|410| A: [yeah] [uh] as [much] _2s_ [and then] as [much] _3s ._ 
+B|411| B: [zermatt [to] montreux .] 
+B|412| B: [montreux .] 
+A|413| A: [oh] [montreux .] 
+A|414| A: [uh] 
+B|415| B: [okay my turn .] 
+A|416| A: [okay] _give me_ [oh [okay] .] 
+B|417| B: [give me a 2 .] 
+A|418| A: [um _neuchatel] to montreux ._ 
+B|419| B: [neuchatel to montreux .] 
+B|420| B: [i do n't] really care actually . 
+A|421| A: [um] [yeah] [me] [to] [i do n't] [like] [this] [, zurich to luzern .] 
+B|422| B: [wait] [zurich] ? 
+A|423| A: [to luzern .] 
+B|424| B: [where is] [zurich] ? 
+A|425| A: [zurich] [is] [at] [the] top . 
+B|426| B: [i] [ca n't do] [luzern .] 
+A|427| A: [yeah] [you] [can] . 
+A|428| A: [zurich to luzern .] 
+B|429| B: [where is] [luzern] ? 
+A|430| A: [luzern] [is] under [zurich .] 
+B|431| B: [i] [ca n't do] [it .] 
+A|432| A: [yes] [you] [can] . 
+B|433| B: [no i] [ca n't] . 
+A|434| A: [yes] [you] [can] [it 's] 
+B|435| B: [how] about [mount] [zermatt [to] mount] 
+A|436| A: [no] [yes] [you] [can] [zurich to luzern .] 
+A|437| A: 2 . 
+A|438| A: [oh .] 
+B|439| B: 3 . 
+B|440| B: [what ?] 
+A|441| A: [let me] 
+A|442| A: [there you] [go .] 
+A|443| A: [what] [no] 
+B|444| B: [you are] erasing [my] mistake . 
+B|445| B: [how] dare [you .] 
+A|446| A: [i know] . 
+A|447| A: [wait , what ?] 
+A|448| A: [can i] [get] pencil [again] ? 
+A|449| A: [oh] [oh .] 
+A|450| A: [oh .] 
+A|451| A: [okay .] 
+B|452| B: [we] messed up [again] [did] [n't] [we] ? 
+A|453| A: [okay] number [2 , now] _another 2 ._ 
+B|454| B: [another 2 .] 
+B|455| B: [um] [let 's] [see] . 
+B|456| B: [luzern to] [zurich .] 
+A|457| A: [i] [i] told [you] [to [do] that] [and then] [you] [did it .] 
+B|458| B: [just do] [it .] 
+A|459| A: [no] [now [we] ca n't] because [it is] [an eraser] [now .] 
+B|460| B: [why] [, zurich to luzern .] 
+A|461| A: [i] 
+B|462| B: [okay .] 
+A|463| A: [oh [okay] .] 
+B|464| B: [then] [um] 
+B|465| B: [let 's] [see] [what we have] . 
+A|466| A: [there] [is] [no] more _2s_ [then] _3s_ [now .] 
+B|467| B: [yeah] [no] [we] [do n't] [have] any [2s] [zermatt [to davos] .] 
+A|468| A: [okay .] 
+A|469| A: [uh] [zermatt to davos] [there] [we go .] 
+B|470| B: [and then _we] 've got_ [another 2 .] 
+A|471| A: [okay .] 
+A|472| A: [okay] [you 've] [done] [another 2] nice . 
+A|473| A: [zurich to] [gallen .] 
+B|474| B: [zurich to] berlin ? 
+A|475| A: [saint gallen] [saint gallen .] 
+A|476| A: [um] 
+B|477| B: [i] [have] [a] feeling [we have] [not] [been] doing [this] [right .] 
+A|478| A: [um] [give me] _another 3 ._ 
+B|479| B: [another 3 .] 
+B|480| B: _zurich to bern ._ 
+A|481| A: [zurich to bern .] 
+B|482| B: [and then] 
+A|483| A: [oh no] oops . 
+A|484| A: [there you] [go .] 
+B|485| B: [now _we] 've got_ double [3s .] 
+A|486| A: [okay .] 
+B|487| B: [what] [can] [we] [do] [next] ? 
+A|488| A: [give me] [another 3] [or] 4 ? 
+A|489| A: 3 [, is] [there] [another 3] , [if] [there] [is] [not] [then] 4 . 
+B|490| B: [how much] 
+A|491| A: [oh _we] 've got a [check_ .] 
+B|492| B: [we 've got a [check] ?] 
+A|493| A: [should [we] submit it ?] 
+
+
+TURN DETAILS:
+Turn ID=0| A | A : okay .
+	Free: Pattern=okay .
+	Constrained: Pattern=okay
+Turn ID=1| A | A : so i guess we have to connect all these with the .
+	Free: Pattern=we have to connect all, Pattern=the, Pattern=so, Pattern=i
+	Constrained: Pattern=connect, Pattern=have, Pattern=to connect, Pattern=we have, Pattern=we, Pattern=all, Pattern=have to, Pattern=to, Pattern=we have to
+Turn ID=2| B | B : um do we , how many .
+	Free: Pattern=, how, Pattern=we ,, Pattern=do, Pattern=um
+	Constrained: Pattern=how, Pattern=we
+Turn ID=3| A | A : oh .
+	Free: Pattern=oh .
+	Constrained: Pattern=oh
+Turn ID=4| B | B : so we have n't even done anything .
+	Free: Pattern=so we, Pattern=we have, Pattern=anything, Pattern=n't, Pattern=done
+	Constrained: Pattern=so, Pattern=have, Pattern=we
+Turn ID=5| B | B : have you done anything ?
+	Free: Pattern=you, Pattern=done, Pattern=have, Pattern=anything
+	Constrained: 
+Turn ID=6| A | A : no .
+	Free: Pattern=no .
+	Constrained: Pattern=no
+Turn ID=7| B | B : so , how many ten circles and zero .
+	Free: Pattern=, how, Pattern=and, Pattern=so
+	Constrained: Pattern=how
+Turn ID=8| B | B : minuses .
+	Free: 
+	Constrained: 
+Turn ID=9| B | B : i 'm just gon na .
+	Free: Pattern=i 'm, Pattern=gon na, Pattern=just
+	Constrained: Pattern=i
+Turn ID=10| A | A : uh
+	Free: Pattern=uh
+	Constrained: 
+Turn ID=11| A | A : uh
+	Free: Pattern=uh
+	Constrained: 
+Turn ID=12| B | B : oh there .
+	Free: Pattern=oh there .
+	Constrained: Pattern=there ., Pattern=oh, Pattern=there
+Turn ID=13| A | A : oh two three .
+	Free: Pattern=oh
+	Constrained: 
+Turn ID=14| B | B : oh that 's what you 've been doing this all time .
+	Free: Pattern=oh that 's what you 've been, Pattern=all, Pattern=this
+	Constrained: Pattern=you, Pattern=what, Pattern=oh, Pattern=that 's, Pattern=you 've, Pattern=been, Pattern='s, Pattern=that, Pattern='ve been, Pattern=that 's what, Pattern=oh that 's
+Turn ID=15| B | B : uh
+	Free: Pattern=uh
+	Constrained: 
+Turn ID=16| B | B : what we ca n't block the roads , right ?
+	Free: Pattern=we ca n't block, Pattern=what we, Pattern=right ?, Pattern=the
+	Constrained: Pattern=right, Pattern=ca n't, Pattern=n't, Pattern=we ca n't, Pattern=what, Pattern=we, Pattern=ca n't block
+Turn ID=17| A | A : yeah i think .
+	Free: Pattern=i think, Pattern=yeah i
+	Constrained: Pattern=i, Pattern=think, Pattern=yeah
+Turn ID=18| A | A : um
+	Free: Pattern=um
+	Constrained: 
+Turn ID=19| B | B : i 'm gon na try to do another one .
+	Free: Pattern=i 'm gon na, Pattern=another one ., Pattern=to do, Pattern=try to
+	Constrained: Pattern=i 'm, Pattern=gon na, Pattern=do, Pattern=try, Pattern=one, Pattern=i, Pattern=one ., Pattern=to
+Turn ID=20| B | B : i do n't want to .
+	Free: Pattern=i do n't, Pattern=to
+	Constrained: Pattern=i do, Pattern=do, Pattern=i, Pattern=do n't, Pattern=n't
+Turn ID=21| B | B : i do n't want an eraser .
+	Free: Pattern=i do n't, Pattern=an eraser
+	Constrained: Pattern=i do, Pattern=do, Pattern=an, Pattern=i, Pattern=do n't, Pattern=n't
+Turn ID=22| B | B : i got one .
+	Free: Pattern=one ., Pattern=i, Pattern=got
+	Constrained: Pattern=one
+Turn ID=23| A | A : oh that 's what you 've been oh that 's why i 'm in this position .
+	Free: Pattern=oh that 's, Pattern=oh that 's what you 've been, Pattern=i 'm in, Pattern=why, Pattern=this
+	Constrained: Pattern=i 'm, Pattern=you, Pattern=what, Pattern=oh, Pattern=that 's, Pattern=i, Pattern=been, Pattern='s, Pattern=that, Pattern='ve been, Pattern=that 's what, Pattern=oh that 's, Pattern=you 've, Pattern=in
+Turn ID=24| B | B : okay can you tell me ?
+	Free: Pattern=okay, Pattern=you, Pattern=can, Pattern=me
+	Constrained: 
+Turn ID=25| B | B : so , what can i do ?
+	Free: Pattern=can i, Pattern=i do, Pattern=, what, Pattern=do ?, Pattern=so
+	Constrained: Pattern=can, Pattern=do, Pattern=i, Pattern=what
+Turn ID=26| A | A : let me see the information box .
+	Free: Pattern=let me see, Pattern=the
+	Constrained: Pattern=me, Pattern=let me, Pattern=see
+Turn ID=27| A | A : you are number two i think .
+	Free: Pattern=you are, Pattern=i think
+	Constrained: Pattern=you, Pattern=i, Pattern=are, Pattern=think
+Turn ID=28| A | A : abstract .
+	Free: 
+	Constrained: 
+Turn ID=29| B | B : yeah , so .
+	Free: Pattern=so ., Pattern=yeah ,
+	Constrained: Pattern=so, Pattern=yeah
+Turn ID=30| A | A : uh no no you are in interactive view .
+	Free: Pattern=you are, Pattern=no no, Pattern=in, Pattern=uh
+	Constrained: Pattern=you, Pattern=are, Pattern=no
+Turn ID=31| B | B : yeah i 'm in the
+	Free: Pattern=i 'm in, Pattern=yeah i, Pattern=the
+	Constrained: Pattern=in, Pattern=i 'm, Pattern=yeah, Pattern=i
+Turn ID=32| A | A : in this view you can interact and build tracks .
+	Free: Pattern=you, Pattern=and, Pattern=can, Pattern=in, Pattern=this
+	Constrained: 
+Turn ID=33| A | A : click , drag and release to build a track .
+	Free: Pattern=and, Pattern=to, Pattern=click, Pattern=a
+	Constrained: 
+Turn ID=34| A | A : a brief press on the track will remove it .
+	Free: Pattern=it ., Pattern=press, Pattern=a, Pattern=will, Pattern=the
+	Constrained: Pattern=it
+Turn ID=35| B | B : i 'm confused .
+	Free: Pattern=i 'm
+	Constrained: Pattern=i
+Turn ID=36| A | A : oh okay my turn .
+	Free: Pattern=okay my turn ., Pattern=oh okay
+	Constrained: Pattern=oh, Pattern=my turn ., Pattern=my turn, Pattern=turn ., Pattern=my, Pattern=okay
+Turn ID=37| B | B : okay so um .
+	Free: Pattern=um ., Pattern=okay, Pattern=so
+	Constrained: Pattern=um
+Turn ID=38| A | A : oh we , oh wait oh wait .
+	Free: Pattern=oh wait oh, Pattern=we ,, Pattern=oh wait, Pattern=oh we, Pattern=, oh
+	Constrained: Pattern=wait oh, Pattern=oh, Pattern=oh wait, Pattern=we, Pattern=wait
+Turn ID=39| B | B : let me see this .
+	Free: Pattern=let me see, Pattern=this
+	Constrained: Pattern=me, Pattern=let me, Pattern=see
+Turn ID=40| B | B : we 've got
+	Free: Pattern=we 've got
+	Constrained: Pattern=got, Pattern='ve got, Pattern=we, Pattern=we 've
+Turn ID=41| A | A : oh it 's your turn .
+	Free: Pattern=oh it 's, Pattern=turn .
+	Constrained: Pattern=oh, Pattern='s, Pattern=it 's, Pattern=it
+Turn ID=42| B | B : um that was quick .
+	Free: Pattern=that was, Pattern=um
+	Constrained: Pattern=was, Pattern=that
+Turn ID=43| B | B : oh six , you ca n't block the streets remember .
+	Free: Pattern=ca n't block, Pattern=you, Pattern=the, Pattern=oh
+	Constrained: Pattern=ca n't, Pattern=n't
+Turn ID=44| A | A : yeah we ca n't block them .
+	Free: Pattern=we ca n't block, Pattern=them ., Pattern=yeah
+	Constrained: Pattern=we ca n't, Pattern=ca n't, Pattern=n't, Pattern=we, Pattern=ca n't block
+Turn ID=45| B | B : i 'm blocking a school .
+	Free: Pattern=i 'm, Pattern=a
+	Constrained: Pattern=i
+Turn ID=46| A | A : oh
+	Free: Pattern=oh
+	Constrained: 
+Turn ID=47| A | A : oh good uh .
+	Free: Pattern=oh, Pattern=uh
+	Constrained: 
+Turn ID=48| B | B : mountain basel okay .
+	Free: Pattern=okay ., Pattern=basel
+	Constrained: Pattern=okay
+Turn ID=49| A | A : i 'm gon na
+	Free: Pattern=i 'm gon na
+	Constrained: Pattern=gon na, Pattern=i 'm, Pattern=i
+Turn ID=50| B | B : try um mount zurich from mount saint gallen .
+	Free: Pattern=um, Pattern=try, Pattern=from, Pattern=mount saint gallen ., Pattern=mount zurich
+	Constrained: Pattern=mount, Pattern=gallen ., Pattern=saint gallen, Pattern=saint gallen ., Pattern=zurich, Pattern=gallen
+Turn ID=51| A | A : okay .
+	Free: Pattern=okay .
+	Constrained: Pattern=okay
+Turn ID=52| A | A : no i think we should do this , mount bern and then go to mount saint gallen .
+	Free: Pattern=go to, Pattern=mount bern, Pattern=should, Pattern=do, Pattern=i think we, Pattern=to mount, Pattern=and then, Pattern=mount saint gallen ., Pattern=no i, Pattern=this
+	Constrained: Pattern=think we, Pattern=no, Pattern=then, Pattern=bern, Pattern=and, Pattern=gallen, Pattern=think, Pattern=to, Pattern=saint gallen ., Pattern=i think, Pattern=go, Pattern=mount, Pattern=gallen ., Pattern=i, Pattern=we, Pattern=saint gallen
+Turn ID=53| B | B : okay .
+	Free: Pattern=okay .
+	Constrained: Pattern=okay
+Turn ID=54| A | A : try to go to mount saint gallen .
+	Free: Pattern=mount saint gallen ., Pattern=to mount, Pattern=try to, Pattern=go to
+	Constrained: Pattern=try, Pattern=gallen, Pattern=gallen ., Pattern=saint gallen, Pattern=to, Pattern=saint gallen ., Pattern=go, Pattern=mount
+Turn ID=55| B | B : oh i think we have to connect all of them .
+	Free: Pattern=of, Pattern=i think we, Pattern=oh i, Pattern=them ., Pattern=we have to connect all
+	Constrained: Pattern=connect, Pattern=think we, Pattern=have, Pattern=to connect, Pattern=oh, Pattern=we have, Pattern=think, Pattern=i, Pattern=we, Pattern=all, Pattern=have to, Pattern=to, Pattern=i think, Pattern=we have to
+Turn ID=56| A | A : oh .
+	Free: Pattern=oh .
+	Constrained: Pattern=oh
+Turn ID=57| B | B : okay i did some .
+	Free: Pattern=okay, Pattern=i, Pattern=did
+	Constrained: 
+Turn ID=58| B | B : okay for me .
+	Free: Pattern=okay, Pattern=me
+	Constrained: 
+Turn ID=59| A | A : oh no .
+	Free: Pattern=oh no .
+	Constrained: Pattern=oh no, Pattern=no ., Pattern=oh, Pattern=no
+Turn ID=60| B | B : i think we are doing terrible .
+	Free: Pattern=i think we, Pattern=we are
+	Constrained: Pattern=think we, Pattern=are, Pattern=think, Pattern=i, Pattern=we, Pattern=i think
+Turn ID=61| B | B : you are making me hesitate .
+	Free: Pattern=you are, Pattern=me
+	Constrained: Pattern=you, Pattern=are
+Turn ID=62| A | A : okay .
+	Free: Pattern=okay .
+	Constrained: Pattern=okay
+Turn ID=63| B | B : okay .
+	Free: Pattern=okay .
+	Constrained: Pattern=okay
+Turn ID=64| B | B : thanks , robot .
+	Free: 
+	Constrained: 
+Turn ID=65| A | A : i guess .
+	Free: Pattern=i
+	Constrained: 
+Turn ID=66| B | B : we 've been doing this right ?
+	Free: Pattern='ve been, Pattern=right ?, Pattern=we 've, Pattern=this
+	Constrained: Pattern=been, Pattern=right, Pattern=we
+Turn ID=67| B | B : i do n't even think , oh , wait i 'm gon na check something .
+	Free: Pattern=check, Pattern=i do n't, Pattern=think, Pattern=, wait, Pattern=i 'm gon na, Pattern=oh ,, Pattern=, oh
+	Constrained: Pattern=i 'm, Pattern=gon na, Pattern=i do, Pattern=do, Pattern=oh, Pattern=i, Pattern=do n't, Pattern=n't, Pattern=wait
+Turn ID=68| A | A : wait , oh wait , i think the check is green .
+	Free: Pattern=the check, Pattern=wait ,, Pattern=oh wait, Pattern=is, Pattern=, oh, Pattern=i think
+	Constrained: Pattern=check, Pattern=oh, Pattern=think, Pattern=i, Pattern=the, Pattern=wait
+Turn ID=69| B | B : let me see something .
+	Free: Pattern=let me see
+	Constrained: Pattern=me, Pattern=let me, Pattern=see
+Turn ID=70| B | B : oh wait oh no .
+	Free: Pattern=oh no ., Pattern=oh wait oh
+	Constrained: Pattern=no, Pattern=wait oh, Pattern=oh, Pattern=oh wait, Pattern=no ., Pattern=oh no, Pattern=wait
+Turn ID=71| A | A : what ?
+	Free: Pattern=what ?
+	Constrained: Pattern=what
+Turn ID=72| B | B : i know what we have to do .
+	Free: Pattern=i know, Pattern=to do ., Pattern=know what, Pattern=what we have, Pattern=we have to
+	Constrained: Pattern=have, Pattern=to do, Pattern=what, Pattern=do, Pattern=we have, Pattern=know, Pattern=i, Pattern=we, Pattern=to, Pattern=what we, Pattern=have to
+Turn ID=73| A | A : what ?
+	Free: Pattern=what ?
+	Constrained: Pattern=what
+Turn ID=74| B | B : we have to do like seven .
+	Free: Pattern=we have to, Pattern=to do, Pattern=seven ., Pattern=like
+	Constrained: Pattern=have, Pattern=do, Pattern=we have, Pattern=we, Pattern=have to, Pattern=to
+Turn ID=75| A | A : oh wait ca n't do fourteen .
+	Free: Pattern=ca n't do, Pattern=oh wait
+	Constrained: Pattern=do, Pattern=oh, Pattern=ca n't, Pattern=n't, Pattern=wait
+Turn ID=76| B | B : oh okay , then .
+	Free: Pattern=oh okay, Pattern=then
+	Constrained: Pattern=okay, Pattern=oh
+Turn ID=77| A | A : oh .
+	Free: Pattern=oh .
+	Constrained: Pattern=oh
+Turn ID=78| B | B : how you doing ?
+	Free: Pattern=you, Pattern=how
+	Constrained: 
+Turn ID=79| A | A : i 'm thinking .
+	Free: Pattern=i 'm
+	Constrained: Pattern=i
+Turn ID=80| B | B : okay .
+	Free: Pattern=okay .
+	Constrained: Pattern=okay
+Turn ID=81| A | A : wait uh this one is not connected .
+	Free: Pattern=this one, Pattern=uh, Pattern=is, Pattern=not, Pattern=wait
+	Constrained: Pattern=one, Pattern=this
+Turn ID=82| A | A : and this one is not connected .
+	Free: Pattern=this one, Pattern=and, Pattern=not, Pattern=is
+	Constrained: Pattern=one, Pattern=this
+Turn ID=83| B | B : oh my turn yey .
+	Free: Pattern=my turn, Pattern=oh
+	Constrained: Pattern=my
+Turn ID=84| B | B : what can we connect next ?
+	Free: Pattern=what, Pattern=can, Pattern=we, Pattern=connect, Pattern=next
+	Constrained: 
+Turn ID=85| B | B : can i connect it , can i connect it .
+	Free: Pattern=it ., Pattern=can i, Pattern=connect, Pattern=it
+	Constrained: Pattern=can, Pattern=i, Pattern=it
+Turn ID=86| A | A : oh .
+	Free: Pattern=oh .
+	Constrained: Pattern=oh
+Turn ID=87| B | B : did we do it ?
+	Free: Pattern=it ?, Pattern=do, Pattern=did, Pattern=we
+	Constrained: Pattern=it
+Turn ID=88| A | A : i do n't know .
+	Free: Pattern=i do n't, Pattern=know
+	Constrained: Pattern=i do, Pattern=do, Pattern=i, Pattern=do n't, Pattern=n't
+Turn ID=89| B | B : i 'm so confused , let me see .
+	Free: Pattern=let me see, Pattern=i 'm, Pattern=, let, Pattern=so
+	Constrained: Pattern=me, Pattern=let me, Pattern=i, Pattern=see
+Turn ID=90| B | B : what , what can i do .
+	Free: Pattern=i do ., Pattern=what ,, Pattern=can i, Pattern=, what
+	Constrained: Pattern=i do, Pattern=what, Pattern=do, Pattern=can, Pattern=i
+Turn ID=91| A | A : uh i do n't know .
+	Free: Pattern=i do n't, Pattern=know, Pattern=uh
+	Constrained: Pattern=i do, Pattern=do, Pattern=i, Pattern=do n't, Pattern=n't
+Turn ID=92| B | B : oh you think we are done ?
+	Free: Pattern=oh you, Pattern=we are, Pattern=think we, Pattern=done
+	Constrained: Pattern=you, Pattern=oh, Pattern=are, Pattern=think, Pattern=we
+Turn ID=93| A | A : uh i do n't know , i do n't think so .
+	Free: Pattern=uh, Pattern=i do n't, Pattern=think, Pattern=know, Pattern=so .
+	Constrained: Pattern=i do, Pattern=do, Pattern=i, Pattern=do n't, Pattern=n't, Pattern=so
+Turn ID=94| A | A : or maybe yes , i do n't know .
+	Free: Pattern=i do n't, Pattern=yes ,, Pattern=know, Pattern=or
+	Constrained: Pattern=yes, Pattern=i do, Pattern=do, Pattern=i, Pattern=do n't, Pattern=n't
+Turn ID=95| B | B : i think probably yes .
+	Free: Pattern=i think, Pattern=yes
+	Constrained: Pattern=i, Pattern=think
+Turn ID=96| A | A : so should we click the check ?
+	Free: Pattern=click the check, Pattern=should we, Pattern=check ?, Pattern=so
+	Constrained: Pattern=check, Pattern=the check, Pattern=should, Pattern=we, Pattern=the, Pattern=click
+Turn ID=97| B | B : oh yes , click the check .
+	Free: Pattern=click the check, Pattern=yes ,, Pattern=check ., Pattern=oh
+	Constrained: Pattern=check, Pattern=the, Pattern=click, Pattern=the check, Pattern=yes
+Turn ID=98| A | A : okay .
+	Free: Pattern=okay .
+	Constrained: Pattern=okay
+Turn ID=99| B | B : what ?
+	Free: Pattern=what ?
+	Constrained: Pattern=what
+Turn ID=100| B | B : what
+	Free: Pattern=what
+	Constrained: 
+Turn ID=101| B | B : oh now we start again , basically .
+	Free: Pattern=now we, Pattern=start, Pattern=oh, Pattern=again
+	Constrained: Pattern=now, Pattern=we
+Turn ID=102| A | A : oh , oh i see , compare solutions .
+	Free: Pattern=oh ,, Pattern=, oh, Pattern=see ,, Pattern=oh i
+	Constrained: Pattern=oh, Pattern=i, Pattern=see
+Turn ID=103| B | B : what can we do ?
+	Free: Pattern=do ?, Pattern=can, Pattern=we, Pattern=what
+	Constrained: Pattern=do
+Turn ID=104| A | A : oh okay um .
+	Free: Pattern=um ., Pattern=okay um, Pattern=oh okay
+	Constrained: Pattern=okay, Pattern=oh, Pattern=um
+Turn ID=105| A | A : oh this is our previous solution price 64 .
+	Free: Pattern=oh, Pattern=this, Pattern=price, Pattern=is
+	Constrained: 
+Turn ID=106| B | B : so .
+	Free: Pattern=so .
+	Constrained: Pattern=so
+Turn ID=107| A | A : oh i get it we have to get the most price , but .
+	Free: Pattern=it, Pattern=oh i, Pattern=price, Pattern=the, Pattern=get, Pattern=but, Pattern=we have to get
+	Constrained: Pattern=have, Pattern=we have, Pattern=i, Pattern=we, Pattern=have to, Pattern=to, Pattern=get, Pattern=we have to, Pattern=to get, Pattern=oh
+Turn ID=108| A | A : oh by by 40 francs so
+	Free: Pattern=so, Pattern=oh, Pattern=francs
+	Constrained: 
+Turn ID=109| A | A : oh so we need to get 24 .
+	Free: Pattern=to get, Pattern=we need, Pattern=so we, Pattern=oh
+	Constrained: Pattern=so, Pattern=to, Pattern=get, Pattern=we
+Turn ID=110| B | B : okay .
+	Free: Pattern=okay .
+	Constrained: Pattern=okay
+Turn ID=111| B | B : i 'm just gon na
+	Free: Pattern=i 'm, Pattern=gon na, Pattern=just
+	Constrained: Pattern=i
+Turn ID=112| A | A : by 40 okay .
+	Free: Pattern=okay .
+	Constrained: Pattern=okay
+Turn ID=113| B | B : okay , tell me if this works .
+	Free: Pattern=okay, Pattern=if, Pattern=me, Pattern=this
+	Constrained: 
+Turn ID=114| A | A : oh wait .
+	Free: Pattern=oh wait
+	Constrained: Pattern=wait, Pattern=oh
+Turn ID=115| A | A : that 's 2 .
+	Free: Pattern=that 's 2
+	Constrained: Pattern=that 's, Pattern='s, Pattern=that
+Turn ID=116| B | B : that 's uh
+	Free: Pattern=that 's, Pattern=uh
+	Constrained: Pattern='s, Pattern=that
+Turn ID=117| A | A : that 's 2 francs .
+	Free: Pattern=that 's 2 francs .
+	Constrained: Pattern=francs, Pattern=2 francs, Pattern=that 's, Pattern=that 's 2, Pattern='s, Pattern=francs ., Pattern=that
+Turn ID=118| B | B : i 'll try this one .
+	Free: Pattern=this one, Pattern=one ., Pattern=try, Pattern=i
+	Constrained: Pattern=one, Pattern=this
+Turn ID=119| A | A : wait wait wait , wait , wait , wait , wait .
+	Free: Pattern=wait ,, Pattern=, wait, Pattern=wait
+	Constrained: Pattern=wait
+Turn ID=120| A | A : try from neuchatel to mount bern that 's 5 .
+	Free: Pattern=to mount bern, Pattern=try, Pattern=from, Pattern=that 's, Pattern=neuchatel to
+	Constrained: Pattern=mount bern, Pattern=mount, Pattern=bern, Pattern=to mount, Pattern=neuchatel, Pattern=to, Pattern='s, Pattern=that
+Turn ID=121| A | A : neuchatel to
+	Free: Pattern=neuchatel to
+	Constrained: Pattern=to, Pattern=neuchatel
+Turn ID=122| B | B : neuchatel ?
+	Free: Pattern=neuchatel
+	Constrained: 
+Turn ID=123| A | A : neuchatel whatever to mount bern .
+	Free: Pattern=to mount bern ., Pattern=neuchatel
+	Constrained: Pattern=to mount bern, Pattern=mount bern, Pattern=mount, Pattern=bern, Pattern=to mount, Pattern=mount bern ., Pattern=to
+Turn ID=124| B | B : i 'm trying to
+	Free: Pattern=i 'm, Pattern=to
+	Constrained: Pattern=i
+Turn ID=125| B | B : oh that 's to
+	Free: Pattern=oh that 's, Pattern=to
+	Constrained: Pattern=that 's, Pattern='s, Pattern=oh, Pattern=that
+Turn ID=126| A | A : mount bern .
+	Free: Pattern=mount bern .
+	Constrained: Pattern=mount bern, Pattern=mount, Pattern=bern
+Turn ID=127| B | B : how much do we have now ?
+	Free: Pattern=we have, Pattern=how much, Pattern=do, Pattern=now
+	Constrained: Pattern=much, Pattern=how, Pattern=have, Pattern=we
+Turn ID=128| A | A : now we have um seven .
+	Free: Pattern=now we have, Pattern=seven ., Pattern=um
+	Constrained: Pattern=have, Pattern=we have, Pattern=now we, Pattern=we, Pattern=now
+Turn ID=129| B | B : 5 .
+	Free: 
+	Constrained: 
+Turn ID=130| A | A : i do .
+	Free: Pattern=i do .
+	Constrained: Pattern=i do, Pattern=do, Pattern=i
+Turn ID=131| B | B : 2 .
+	Free: 
+	Constrained: 
+Turn ID=132| A | A : look at our previous solution .
+	Free: Pattern=at, Pattern=look
+	Constrained: 
+Turn ID=133| A | A : top right i mean bottom right .
+	Free: Pattern=right ., Pattern=i, Pattern=right
+	Constrained: Pattern=right
+Turn ID=134| A | A : bottom right .
+	Free: Pattern=right .
+	Constrained: Pattern=right
+Turn ID=135| B | B : i did it .
+	Free: Pattern=did it ., Pattern=i
+	Constrained: Pattern=it ., Pattern=it, Pattern=did
+Turn ID=136| B | B : i did
+	Free: Pattern=i, Pattern=did
+	Constrained: 
+Turn ID=137| A | A : that 's i think that 's bottom left .
+	Free: Pattern=i think, Pattern=that 's
+	Constrained: Pattern='s, Pattern=i, Pattern=think, Pattern=that
+Turn ID=138| A | A : you clicked .
+	Free: Pattern=you
+	Constrained: 
+Turn ID=139| B | B : okay , here we go .
+	Free: Pattern=we go ., Pattern=okay
+	Constrained: Pattern=we go, Pattern=go ., Pattern=go, Pattern=we
+Turn ID=140| B | B : um
+	Free: Pattern=um
+	Constrained: 
+Turn ID=141| B | B : try um neuchatel .
+	Free: Pattern=um neuchatel, Pattern=neuchatel ., Pattern=try
+	Constrained: Pattern=um, Pattern=neuchatel
+Turn ID=142| A | A : okay .
+	Free: Pattern=okay .
+	Constrained: Pattern=okay
+Turn ID=143| B | B : the one i just did to basel .
+	Free: Pattern=basel, Pattern=just, Pattern=did, Pattern=one, Pattern=i, Pattern=the, Pattern=to
+	Constrained: 
+Turn ID=144| A | A : how much is that ?
+	Free: Pattern=how much is, Pattern=that
+	Constrained: Pattern=is, Pattern=how much, Pattern=how, Pattern=much
+Turn ID=145| B | B : um it 's 4 francs .
+	Free: Pattern=francs ., Pattern=it 's, Pattern=um
+	Constrained: Pattern='s, Pattern=it, Pattern=francs
+Turn ID=146| B | B : now this makes sense .
+	Free: Pattern=now, Pattern=this
+	Constrained: 
+Turn ID=147| A | A : there we go .
+	Free: Pattern=we go ., Pattern=there
+	Constrained: Pattern=we go, Pattern=go ., Pattern=go, Pattern=we
+Turn ID=148| B | B : perfect .
+	Free: 
+	Constrained: 
+Turn ID=149| A | A : now what else ?
+	Free: Pattern=now, Pattern=what
+	Constrained: 
+Turn ID=150| B | B : um
+	Free: Pattern=um
+	Constrained: 
+Turn ID=151| A | A : how much is that ?
+	Free: Pattern=how much is, Pattern=that
+	Constrained: Pattern=is, Pattern=how much, Pattern=how, Pattern=much
+Turn ID=152| B | B : 5 francs .
+	Free: Pattern=francs .
+	Constrained: Pattern=francs
+Turn ID=153| A | A : okay we have to get to um .
+	Free: Pattern=we have to get to, Pattern=um ., Pattern=to um, Pattern=okay
+	Constrained: Pattern=have, Pattern=um, Pattern=to get, Pattern=we have, Pattern=to get to, Pattern=we, Pattern=have to, Pattern=to, Pattern=get, Pattern=we have to get, Pattern=we have to
+Turn ID=154| A | A : we , wait wait wait wait wait , do n't to anything else , we have 5 2 7 .
+	Free: Pattern=to, Pattern=wait, Pattern=we have, Pattern=wait ,, Pattern=we ,, Pattern=, wait, Pattern=anything, Pattern=do n't
+	Constrained: Pattern=have, Pattern=do, Pattern=we, Pattern=n't, Pattern=wait
+Turn ID=155| A | A : 7 11 .
+	Free: 
+	Constrained: 
+Turn ID=156| A | A : 14 .
+	Free: 
+	Constrained: 
+Turn ID=157| A | A : 4 , we have 19 .
+	Free: Pattern=we have
+	Constrained: Pattern=have, Pattern=we
+Turn ID=158| B | B : 19 okay .
+	Free: Pattern=okay .
+	Constrained: Pattern=okay
+Turn ID=159| A | A : okay wait wait wait wait .
+	Free: Pattern=okay, Pattern=wait
+	Constrained: 
+Turn ID=160| A | A : let me get um you 're in zurich okay zurich
+	Free: Pattern=you, Pattern=um, Pattern=let me, Pattern=zurich, Pattern=in, Pattern=get, Pattern=okay
+	Constrained: Pattern=me
+Turn ID=161| B | B : mount luzern ?
+	Free: Pattern=mount, Pattern=luzern
+	Constrained: 
+Turn ID=162| A | A : okay go from zurich go to davos .
+	Free: Pattern=go to, Pattern=go, Pattern=to davos ., Pattern=from, Pattern=zurich, Pattern=okay
+	Constrained: Pattern=davos ., Pattern=davos, Pattern=to, Pattern=go
+Turn ID=163| B | B : what is davos ?
+	Free: Pattern=davos ?, Pattern=what is
+	Constrained: Pattern=davos, Pattern=what, Pattern=is
+Turn ID=164| A | A : davos i do n't know .
+	Free: Pattern=i do n't, Pattern=davos, Pattern=know
+	Constrained: Pattern=i do, Pattern=do, Pattern=i, Pattern=do n't, Pattern=n't
+Turn ID=165| B | B : davos .
+	Free: Pattern=davos .
+	Constrained: Pattern=davos
+Turn ID=166| A | A : yeah all the way down , there , yeah .
+	Free: Pattern=there, Pattern=yeah ., Pattern=yeah, Pattern=the, Pattern=all
+	Constrained: Pattern=yeah
+Turn ID=167| B | B : how much is it ?
+	Free: Pattern=how much is, Pattern=it ?
+	Constrained: Pattern=how, Pattern=it, Pattern=how much, Pattern=is, Pattern=much
+Turn ID=168| B | B : 4 francs .
+	Free: Pattern=francs .
+	Constrained: Pattern=francs
+Turn ID=169| A | A : that was 4 .
+	Free: Pattern=that was
+	Constrained: Pattern=was, Pattern=that
+Turn ID=170| B | B : um so we have , 4
+	Free: Pattern=we have, Pattern=so we, Pattern=um
+	Constrained: Pattern=so, Pattern=have, Pattern=we
+Turn ID=171| A | A : what we have 23 .
+	Free: Pattern=what we have
+	Constrained: Pattern=have, Pattern=what, Pattern=we have, Pattern=we, Pattern=what we
+Turn ID=172| B | B : then how can we make 24 ?
+	Free: Pattern=can, Pattern=then, Pattern=how, Pattern=we
+	Constrained: 
+Turn ID=173| A | A : oh we need only one .
+	Free: Pattern=we need, Pattern=one ., Pattern=oh we
+	Constrained: Pattern=oh, Pattern=one, Pattern=we
+Turn ID=174| B | B : no no .
+	Free: Pattern=no no, Pattern=no .
+	Constrained: Pattern=no
+Turn ID=175| B | B : what now we just messed up .
+	Free: Pattern=now we, Pattern=we just, Pattern=what
+	Constrained: Pattern=now, Pattern=just, Pattern=we
+Turn ID=176| B | B : um
+	Free: Pattern=um
+	Constrained: 
+Turn ID=177| A | A : what is the nearest number to 1 , 2 right ?
+	Free: Pattern=what is, Pattern=right ?, Pattern=the, Pattern=to
+	Constrained: Pattern=right, Pattern=what, Pattern=is
+Turn ID=178| B | B : then
+	Free: Pattern=then
+	Constrained: 
+Turn ID=179| B | B : 2 yeah let me see .
+	Free: Pattern=let me see, Pattern=yeah let
+	Constrained: Pattern=yeah, Pattern=me, Pattern=let me, Pattern=see
+Turn ID=180| A | A : and where , and where is that from davos , is there a
+	Free: Pattern=a, Pattern=and, Pattern=from, Pattern=davos, Pattern=where, Pattern=where is, Pattern=that, Pattern=, is, Pattern=there
+	Constrained: Pattern=where, Pattern=is
+Turn ID=181| B | B : we will need a 2 .
+	Free: Pattern=need a 2 ., Pattern=will, Pattern=we
+	Constrained: Pattern=need a, Pattern=a
+Turn ID=182| B | B : um mount , mountain mount mountreux to mount zermatt .
+	Free: Pattern=zermatt ., Pattern=to mount, Pattern=mount, Pattern=um
+	Constrained: Pattern=mount, Pattern=to, Pattern=zermatt
+Turn ID=183| A | A : what ?
+	Free: Pattern=what ?
+	Constrained: Pattern=what
+Turn ID=184| B | B : mount montreux to mount zermatt .
+	Free: Pattern=zermatt ., Pattern=to mount, Pattern=mount, Pattern=montreux
+	Constrained: Pattern=mount, Pattern=to, Pattern=zermatt
+Turn ID=185| A | A : oh .
+	Free: Pattern=oh .
+	Constrained: Pattern=oh
+Turn ID=186| B | B : perfect , no that 's 2 , now we have 25 .
+	Free: Pattern=now we have, Pattern=2 , now, Pattern=that 's 2, Pattern=no that
+	Constrained: Pattern=have, Pattern=no, Pattern=we have, Pattern=that 's, Pattern=now we, Pattern=we, Pattern=that, Pattern=now, Pattern='s
+Turn ID=187| A | A : damn .
+	Free: 
+	Constrained: 
+Turn ID=188| B | B : we mess .
+	Free: Pattern=we
+	Constrained: 
+Turn ID=189| A | A : okay .
+	Free: Pattern=okay .
+	Constrained: Pattern=okay
+Turn ID=190| A | A : um give me the lowest number .
+	Free: Pattern=give me, Pattern=the, Pattern=um
+	Constrained: Pattern=me, Pattern=give
+Turn ID=191| B | B : 64 price !
+	Free: Pattern=price
+	Constrained: 
+Turn ID=192| A | A : no that was our previous price .
+	Free: Pattern=that was, Pattern=no that, Pattern=price
+	Constrained: Pattern=was, Pattern=that, Pattern=no
+Turn ID=193| B | B : oh .
+	Free: Pattern=oh .
+	Constrained: Pattern=oh
+Turn ID=194| B | B : um
+	Free: Pattern=um
+	Constrained: 
+Turn ID=195| A | A : from zermatt
+	Free: Pattern=zermatt, Pattern=from
+	Constrained: 
+Turn ID=196| A | A : or
+	Free: Pattern=or
+	Constrained: 
+Turn ID=197| B | B : um mount basel to mount bern .
+	Free: Pattern=mount basel to mount bern ., Pattern=um
+	Constrained: Pattern=to mount bern, Pattern=basel, Pattern=mount bern, Pattern=mount, Pattern=bern, Pattern=mount bern ., Pattern=mount basel to, Pattern=basel to, Pattern=to, Pattern=to mount bern ., Pattern=to mount
+Turn ID=198| A | A : mount basel to mount bern .
+	Free: Pattern=mount basel to mount bern .
+	Constrained: Pattern=to mount bern, Pattern=basel, Pattern=mount bern, Pattern=mount, Pattern=bern, Pattern=mount bern ., Pattern=mount basel to, Pattern=basel to, Pattern=to, Pattern=to mount bern ., Pattern=to mount
+Turn ID=199| A | A : there you go .
+	Free: Pattern=go ., Pattern=there you
+	Constrained: Pattern=you, Pattern=go, Pattern=there
+Turn ID=200| A | A : that 's right .
+	Free: Pattern=right ., Pattern=that 's
+	Constrained: Pattern='s, Pattern=right, Pattern=that
+Turn ID=201| B | B : oh it 's my turn .
+	Free: Pattern=my turn ., Pattern=oh it 's
+	Constrained: Pattern=it 's, Pattern=my turn, Pattern=my, Pattern=it, Pattern=oh, Pattern=turn ., Pattern='s
+Turn ID=202| A | A : yeah it 's your turn .
+	Free: Pattern=it 's, Pattern=turn ., Pattern=yeah
+	Constrained: Pattern='s, Pattern=it
+Turn ID=203| B | B : so mount
+	Free: Pattern=mount, Pattern=so
+	Constrained: 
+Turn ID=204| A | A : um
+	Free: Pattern=um
+	Constrained: 
+Turn ID=205| A | A : do gallen to davos .
+	Free: Pattern=to davos ., Pattern=do, Pattern=gallen
+	Constrained: Pattern=davos ., Pattern=to, Pattern=davos
+Turn ID=206| B | B : gallen .
+	Free: Pattern=gallen .
+	Constrained: Pattern=gallen
+Turn ID=207| A | A : yeah saint gallen .
+	Free: Pattern=saint gallen ., Pattern=yeah
+	Constrained: Pattern=saint gallen, Pattern=gallen ., Pattern=gallen
+Turn ID=208| B | B : saint gallen yes to
+	Free: Pattern=saint gallen, Pattern=to, Pattern=yes
+	Constrained: Pattern=gallen
+Turn ID=209| A | A : to davos .
+	Free: Pattern=to davos .
+	Constrained: Pattern=davos ., Pattern=to, Pattern=davos
+Turn ID=210| B | B : we ca n't do that .
+	Free: Pattern=we ca n't, Pattern=ca n't do, Pattern=do that
+	Constrained: Pattern=do, Pattern=ca n't, Pattern=we, Pattern=n't, Pattern=that
+Turn ID=211| A | A : yeah we can .
+	Free: Pattern=we can, Pattern=yeah
+	Constrained: Pattern=can, Pattern=we
+Turn ID=212| B | B : we can do davos to saint gallen .
+	Free: Pattern=to saint gallen ., Pattern=we can, Pattern=do, Pattern=davos
+	Constrained: Pattern=can, Pattern=gallen, Pattern=to saint gallen, Pattern=gallen ., Pattern=to, Pattern=saint gallen ., Pattern=we, Pattern=saint gallen
+Turn ID=213| A | A : yeah that 's what i mean .
+	Free: Pattern=that 's what, Pattern=i, Pattern=yeah
+	Constrained: Pattern=what, Pattern=that 's, Pattern='s, Pattern=that
+Turn ID=214| B | B : oh okay , then what should we do next ?
+	Free: Pattern=next, Pattern=should we, Pattern=what, Pattern=oh okay, Pattern=do, Pattern=then
+	Constrained: Pattern=okay, Pattern=oh, Pattern=should, Pattern=we
+Turn ID=215| A | A : and then
+	Free: Pattern=and then
+	Constrained: Pattern=and, Pattern=then
+Turn ID=216| B | B : i have a feeling that
+	Free: Pattern=i, Pattern=have, Pattern=a, Pattern=that
+	Constrained: 
+Turn ID=217| A | A : go go zermatt to interlaken .
+	Free: Pattern=zermatt to, Pattern=go, Pattern=interlaken
+	Constrained: Pattern=to, Pattern=zermatt
+Turn ID=218| A | A : okay .
+	Free: Pattern=okay .
+	Constrained: Pattern=okay
+Turn ID=219| B | B : yeah what do you see .
+	Free: Pattern=you, Pattern=what, Pattern=do, Pattern=yeah, Pattern=see
+	Constrained: 
+Turn ID=220| A | A : okay give a cheapest one , the cheapest one .
+	Free: Pattern=a, Pattern=okay, Pattern=one, Pattern=give, Pattern=one ., Pattern=the
+	Constrained: Pattern=one
+Turn ID=221| B | B : 2 plus 1 , 2 plus 1 .
+	Free: 
+	Constrained: 
+Turn ID=222| B | B : you want to know 2 ?
+	Free: Pattern=you, Pattern=to, Pattern=know
+	Constrained: 
+Turn ID=223| A | A : no just just just the most cheapest , the cheapest .
+	Free: Pattern=the, Pattern=just, Pattern=no
+	Constrained: 
+Turn ID=224| B | B : the less , zurich to luzern .
+	Free: Pattern=, zurich to luzern ., Pattern=the, Pattern=less
+	Constrained: Pattern=luzern ., Pattern=zurich, Pattern=zurich to luzern ., Pattern=zurich to, Pattern=to, Pattern=to luzern ., Pattern=luzern
+Turn ID=225| A | A : zurich
+	Free: Pattern=zurich
+	Constrained: 
+Turn ID=226| B | B : to luzern .
+	Free: Pattern=to luzern .
+	Constrained: Pattern=luzern ., Pattern=luzern, Pattern=to
+Turn ID=227| A | A : how much is that ?
+	Free: Pattern=how much is, Pattern=that
+	Constrained: Pattern=is, Pattern=how much, Pattern=how, Pattern=much
+Turn ID=228| B | B : um that 's 2 francs .
+	Free: Pattern=that 's 2 francs ., Pattern=um
+	Constrained: Pattern=francs, Pattern=2 francs, Pattern=that 's, Pattern=that 's 2, Pattern='s, Pattern=francs ., Pattern=that
+Turn ID=229| A | A : 2 ?
+	Free: 
+	Constrained: 
+Turn ID=230| A | A : okay .
+	Free: Pattern=okay .
+	Constrained: Pattern=okay
+Turn ID=231| A | A : and then give me another one .
+	Free: Pattern=another one ., Pattern=give me, Pattern=and then
+	Constrained: Pattern=me, Pattern=then, Pattern=and, Pattern=one ., Pattern=one, Pattern=give
+Turn ID=232| B | B : luzern to zermatt .
+	Free: Pattern=luzern to zermatt .
+	Constrained: Pattern=luzern, Pattern=luzern to, Pattern=zermatt, Pattern=to, Pattern=zermatt .
+Turn ID=233| A | A : luzern to zermatt .
+	Free: Pattern=luzern to zermatt .
+	Constrained: Pattern=luzern, Pattern=luzern to, Pattern=zermatt, Pattern=to, Pattern=zermatt .
+Turn ID=234| B | B : are you gon na say anything ?
+	Free: Pattern=gon na, Pattern=you, Pattern=are, Pattern=anything
+	Constrained: 
+Turn ID=235| A | A : okay um .
+	Free: Pattern=um ., Pattern=okay um
+	Constrained: Pattern=okay, Pattern=um
+Turn ID=236| B | B : what 's next , what can we connect .
+	Free: Pattern=what, Pattern=, what, Pattern=can, Pattern=we, Pattern='s, Pattern=connect, Pattern=next
+	Constrained: Pattern=what
+Turn ID=237| A | A : wait um .
+	Free: Pattern=um ., Pattern=wait
+	Constrained: Pattern=um
+Turn ID=238| A | A : interlaken to neuchatel .
+	Free: Pattern=interlaken to, Pattern=to neuchatel, Pattern=neuchatel .
+	Constrained: Pattern=to, Pattern=neuchatel, Pattern=interlaken
+Turn ID=239| B | B : interlaken to
+	Free: Pattern=interlaken to
+	Constrained: Pattern=to, Pattern=interlaken
+Turn ID=240| A | A : neuchatel .
+	Free: Pattern=neuchatel .
+	Constrained: Pattern=neuchatel
+Turn ID=241| B | B : it 's luzern .
+	Free: Pattern=it 's, Pattern=luzern .
+	Constrained: Pattern='s, Pattern=luzern, Pattern=it
+Turn ID=242| A | A : that 's 3 .
+	Free: Pattern='s 3 ., Pattern=that 's
+	Constrained: Pattern='s, Pattern=that
+Turn ID=243| B | B : wait , what ?
+	Free: Pattern=wait , what ?
+	Constrained: Pattern=what ?, Pattern=what, Pattern=, what, Pattern=wait ,, Pattern=wait
+Turn ID=244| A | A : neuchatel mount neuchatel there .
+	Free: Pattern=mount neuchatel, Pattern=there ., Pattern=neuchatel
+	Constrained: Pattern=mount, Pattern=neuchatel, Pattern=there
+Turn ID=245| B | B : neuchatel , okay , where next ?
+	Free: Pattern=, okay, Pattern=neuchatel ,, Pattern=next, Pattern=where
+	Constrained: Pattern=okay, Pattern=neuchatel
+Turn ID=246| A | A : and then uh
+	Free: Pattern=and then, Pattern=uh
+	Constrained: Pattern=and, Pattern=then
+Turn ID=247| B | B : yeah .
+	Free: Pattern=yeah .
+	Constrained: Pattern=yeah
+Turn ID=248| A | A : zurich to um zurich
+	Free: Pattern=to um, Pattern=zurich to, Pattern=zurich
+	Constrained: Pattern=zurich, Pattern=to, Pattern=um
+Turn ID=249| A | A : to saint gallen saint gallen .
+	Free: Pattern=to saint gallen, Pattern=saint gallen .
+	Constrained: Pattern=saint gallen, Pattern=gallen ., Pattern=to, Pattern=gallen
+Turn ID=250| B | B : no wait me try luzern or zurich .
+	Free: Pattern=me, Pattern=no, Pattern=try, Pattern=luzern, Pattern=zurich ., Pattern=or, Pattern=wait
+	Constrained: Pattern=zurich
+Turn ID=251| A | A : zurich is mount zurich all the way to the top .
+	Free: Pattern=zurich, Pattern=is, Pattern=mount zurich, Pattern=to, Pattern=the, Pattern=all
+	Constrained: Pattern=mount, Pattern=zurich
+Turn ID=252| B | B : yeah i can barely see , is this mount zurich to
+	Free: Pattern=, is, Pattern=see ,, Pattern=yeah i, Pattern=can, Pattern=zurich to, Pattern=mount zurich, Pattern=this
+	Constrained: Pattern=mount, Pattern=yeah, Pattern=zurich, Pattern=see, Pattern=to, Pattern=is, Pattern=i
+Turn ID=253| A | A : to saint gallen .
+	Free: Pattern=to saint gallen .
+	Constrained: Pattern=gallen, Pattern=to saint gallen, Pattern=gallen ., Pattern=saint gallen, Pattern=to, Pattern=saint gallen .
+Turn ID=254| B | B : okay there you see .
+	Free: Pattern=okay there, Pattern=there you, Pattern=see
+	Constrained: Pattern=okay, Pattern=you, Pattern=there
+Turn ID=255| A | A : uh
+	Free: Pattern=uh
+	Constrained: 
+Turn ID=256| B | B : okay um we
+	Free: Pattern=okay um, Pattern=we
+	Constrained: Pattern=okay, Pattern=um
+Turn ID=257| A | A : how much is how much is zermatt to davos ?
+	Free: Pattern=how much is, Pattern=zermatt to davos, Pattern=davos ?
+	Constrained: Pattern=how, Pattern=how much, Pattern=davos, Pattern=is, Pattern=to, Pattern=zermatt to, Pattern=zermatt, Pattern=much
+Turn ID=258| B | B : zermatt
+	Free: Pattern=zermatt
+	Constrained: 
+Turn ID=259| A | A : wait oh you got to check , let 's click it .
+	Free: Pattern=it ., Pattern=let 's, Pattern=wait oh, Pattern=oh you, Pattern=got, Pattern=click, Pattern=to check, Pattern=, let
+	Constrained: Pattern=check, Pattern=you, Pattern=to, Pattern='s, Pattern=wait, Pattern=it, Pattern=oh
+Turn ID=260| B | B : um zermatt to davos it 's 3 .
+	Free: Pattern='s 3 ., Pattern=zermatt to davos, Pattern=it 's, Pattern=um
+	Constrained: Pattern=it, Pattern=davos, Pattern=zermatt, Pattern=to, Pattern='s, Pattern=zermatt to
+Turn ID=261| A | A : no .
+	Free: Pattern=no .
+	Constrained: Pattern=no
+Turn ID=262| A | A : 3 okay .
+	Free: Pattern=okay .
+	Constrained: Pattern=okay
+Turn ID=263| A | A : so we click the check or no ?
+	Free: Pattern=click the check, Pattern=so we, Pattern=or, Pattern=no
+	Constrained: Pattern=check, Pattern=the check, Pattern=we, Pattern=the, Pattern=click, Pattern=so
+Turn ID=264| B | B : mount luzern .
+	Free: Pattern=luzern ., Pattern=mount
+	Constrained: Pattern=luzern
+Turn ID=265| A | A : okay .
+	Free: Pattern=okay .
+	Constrained: Pattern=okay
+Turn ID=266| B | B : i think we were supposed to check a long time ago .
+	Free: Pattern=i think we, Pattern=to check, Pattern=a
+	Constrained: Pattern=check, Pattern=think we, Pattern=think, Pattern=i, Pattern=we, Pattern=to, Pattern=i think
+Turn ID=267| A | A : shall we check it though ?
+	Free: Pattern=check, Pattern=it, Pattern=we
+	Constrained: 
+Turn ID=268| B | B : yeah .
+	Free: Pattern=yeah .
+	Constrained: Pattern=yeah
+Turn ID=269| B | B : we would have to start again .
+	Free: Pattern=have to, Pattern=start, Pattern=again, Pattern=we
+	Constrained: Pattern=to, Pattern=have
+Turn ID=270| A | A : the difference between
+	Free: Pattern=the
+	Constrained: 
+Turn ID=271| A | A : our previous score is 24 .
+	Free: Pattern=is
+	Constrained: 
+Turn ID=272| B | B : 46 how much do we need ?
+	Free: Pattern=we need, Pattern=how much, Pattern=do
+	Constrained: Pattern=much, Pattern=how, Pattern=we
+Turn ID=273| B | B : oh we have to get to 24 .
+	Free: Pattern=we have to get to, Pattern=oh we
+	Constrained: Pattern=have, Pattern=we have, Pattern=to get to, Pattern=we, Pattern=have to, Pattern=to, Pattern=get, Pattern=we have to get, Pattern=we have to, Pattern=to get, Pattern=oh
+Turn ID=274| A | A : oh okay .
+	Free: Pattern=okay ., Pattern=oh okay
+	Constrained: Pattern=okay, Pattern=oh
+Turn ID=275| A | A : so so how much was the last price ?
+	Free: Pattern=how much, Pattern=price, Pattern=the, Pattern=was, Pattern=so
+	Constrained: Pattern=much, Pattern=how
+Turn ID=276| B | B : it is 46 .
+	Free: Pattern=it is
+	Constrained: Pattern=it, Pattern=is
+Turn ID=277| A | A : 46 ?
+	Free: 
+	Constrained: 
+Turn ID=278| B | B : how much we have passed it ?
+	Free: Pattern=it ?, Pattern=we have, Pattern=how much
+	Constrained: Pattern=have, Pattern=how, Pattern=it, Pattern=we, Pattern=much
+Turn ID=279| A | A : oh so we need oh okay .
+	Free: Pattern=so we, Pattern=okay ., Pattern=oh, Pattern=we need, Pattern=oh okay
+	Constrained: Pattern=oh, Pattern=so, Pattern=okay, Pattern=we
+Turn ID=280| B | B : okay let me try something , go .
+	Free: Pattern=let me, Pattern=go ., Pattern=okay, Pattern=try
+	Constrained: Pattern=go, Pattern=me
+Turn ID=281| A | A : what have i done , oh wait .
+	Free: Pattern=have, Pattern=what, Pattern=done ,, Pattern=oh wait, Pattern=i, Pattern=, oh
+	Constrained: Pattern=wait, Pattern=oh, Pattern=done
+Turn ID=282| B | B : i 've got an idea .
+	Free: Pattern='ve got, Pattern=an, Pattern=i
+	Constrained: Pattern=got
+Turn ID=283| A | A : we are already 2
+	Free: Pattern=we are
+	Constrained: Pattern=are, Pattern=we
+Turn ID=284| A | A : okay wait wait wait
+	Free: Pattern=okay, Pattern=wait
+	Constrained: 
+Turn ID=285| B | B : go to
+	Free: Pattern=go to
+	Constrained: Pattern=go, Pattern=to
+Turn ID=286| B | B : trust me .
+	Free: Pattern=me
+	Constrained: 
+Turn ID=287| A | A : okay we have okay .
+	Free: Pattern=okay ., Pattern=we have, Pattern=okay
+	Constrained: Pattern=okay, Pattern=have, Pattern=we
+Turn ID=288| B | B : basel to zurich .
+	Free: Pattern=zurich ., Pattern=basel to
+	Constrained: Pattern=zurich, Pattern=to, Pattern=basel
+Turn ID=289| A | A : how much is that ?
+	Free: Pattern=how much is, Pattern=that
+	Constrained: Pattern=is, Pattern=how much, Pattern=how, Pattern=much
+Turn ID=290| B | B : 5 .
+	Free: 
+	Constrained: 
+Turn ID=291| A | A : oh there .
+	Free: Pattern=oh there .
+	Constrained: Pattern=there ., Pattern=oh, Pattern=there
+Turn ID=292| A | A : done .
+	Free: Pattern=done
+	Constrained: 
+Turn ID=293| B | B : and now to um
+	Free: Pattern=to um, Pattern=and, Pattern=now
+	Constrained: Pattern=to, Pattern=um
+Turn ID=294| B | B : bern
+	Free: Pattern=bern
+	Constrained: 
+Turn ID=295| B | B : basel to bern .
+	Free: Pattern=to bern ., Pattern=basel to
+	Constrained: Pattern=bern, Pattern=to, Pattern=basel
+Turn ID=296| A | A : how much ?
+	Free: Pattern=how much
+	Constrained: Pattern=much, Pattern=how
+Turn ID=297| B | B : um 3 .
+	Free: Pattern=um
+	Constrained: 
+Turn ID=298| A | A : wait okay there .
+	Free: Pattern=okay there, Pattern=there ., Pattern=wait
+	Constrained: Pattern=okay, Pattern=there
+Turn ID=299| B | B : we are 5 6 7 .
+	Free: Pattern=we are
+	Constrained: Pattern=are, Pattern=we
+Turn ID=300| B | B : where next ?
+	Free: Pattern=next, Pattern=where
+	Constrained: 
+Turn ID=301| A | A : yeah yeah .
+	Free: Pattern=yeah ., Pattern=yeah
+	Constrained: Pattern=yeah
+Turn ID=302| A | A : um neuchatel , to montreux .
+	Free: Pattern=to montreux ., Pattern=um neuchatel, Pattern=neuchatel ,
+	Constrained: Pattern=um, Pattern=to, Pattern=montreux, Pattern=montreux ., Pattern=neuchatel
+Turn ID=303| B | B : neuchatel to ?
+	Free: Pattern=neuchatel to
+	Constrained: Pattern=to, Pattern=neuchatel
+Turn ID=304| A | A : montreux .
+	Free: Pattern=montreux .
+	Constrained: Pattern=montreux
+Turn ID=305| A | A : montreux , i do n't know .
+	Free: Pattern=i do n't, Pattern=know, Pattern=montreux
+	Constrained: Pattern=i do, Pattern=do, Pattern=i, Pattern=do n't, Pattern=n't
+Turn ID=306| B | B : we ca n't do that .
+	Free: Pattern=we ca n't, Pattern=ca n't do, Pattern=do that
+	Constrained: Pattern=do, Pattern=ca n't, Pattern=we, Pattern=n't, Pattern=that
+Turn ID=307| A | A : yeah we can .
+	Free: Pattern=we can, Pattern=yeah
+	Constrained: Pattern=can, Pattern=we
+Turn ID=308| B | B : no we ca n't .
+	Free: Pattern=we ca n't, Pattern=no
+	Constrained: Pattern=ca n't, Pattern=n't, Pattern=we
+Turn ID=309| A | A : yeah , mount neuchatel to montreux .
+	Free: Pattern=neuchatel to montreux ., Pattern=yeah ,, Pattern=mount neuchatel
+	Constrained: Pattern=mount, Pattern=yeah, Pattern=neuchatel to, Pattern=to montreux ., Pattern=to, Pattern=montreux, Pattern=montreux ., Pattern=neuchatel
+Turn ID=310| B | B : mount neuchatel
+	Free: Pattern=mount neuchatel
+	Constrained: Pattern=mount, Pattern=neuchatel
+Turn ID=311| A | A : to the left of you .
+	Free: Pattern=you ., Pattern=the, Pattern=to, Pattern=of
+	Constrained: Pattern=you
+Turn ID=312| A | A : uh yeah neuchatel to montreux .
+	Free: Pattern=neuchatel to montreux ., Pattern=yeah, Pattern=uh
+	Constrained: Pattern=neuchatel to, Pattern=to montreux ., Pattern=to, Pattern=montreux, Pattern=montreux ., Pattern=neuchatel
+Turn ID=313| B | B : i 'm doing it !
+	Free: Pattern=i 'm, Pattern=it
+	Constrained: Pattern=i
+Turn ID=314| B | B : um how abou mount basel to neuchatel ?
+	Free: Pattern=mount basel to, Pattern=to neuchatel, Pattern=um, Pattern=how
+	Constrained: Pattern=basel, Pattern=mount, Pattern=neuchatel, Pattern=basel to, Pattern=to
+Turn ID=315| A | A : huh ?
+	Free: 
+	Constrained: 
+Turn ID=316| A | A : oh no !
+	Free: Pattern=oh no
+	Constrained: Pattern=oh, Pattern=no
+Turn ID=317| B | B : no and then we have to do it look .
+	Free: Pattern=and then we, Pattern=to do, Pattern=no, Pattern=it, Pattern=look, Pattern=we have to
+	Constrained: Pattern=have, Pattern=and, Pattern=we, Pattern=have to, Pattern=to, Pattern=do, Pattern=then, Pattern=we have, Pattern=and then
+Turn ID=318| A | A : alright .
+	Free: 
+	Constrained: 
+Turn ID=319| B | B : how much do we have now ?
+	Free: Pattern=we have, Pattern=how much, Pattern=do, Pattern=now
+	Constrained: Pattern=much, Pattern=how, Pattern=have, Pattern=we
+Turn ID=320| A | A : you you check .
+	Free: Pattern=check ., Pattern=you
+	Constrained: Pattern=check
+Turn ID=321| B | B : 4 , 5 .
+	Free: 
+	Constrained: 
+Turn ID=322| B | B : 6 7 8 9 10 11 12 , 14 .
+	Free: 
+	Constrained: 
+Turn ID=323| A | A : we have 14 and we get , we need to get to 22 .
+	Free: Pattern=and, Pattern=we have, Pattern=to get to, Pattern=we, Pattern=we need, Pattern=get
+	Constrained: Pattern=have, Pattern=to get, Pattern=we, Pattern=to, Pattern=get
+Turn ID=324| B | B : 18 16 17 18 19 20 21 .
+	Free: 
+	Constrained: 
+Turn ID=325| A | A : 14 to 22 .
+	Free: Pattern=to
+	Constrained: 
+Turn ID=326| A | A : how much is montreux ?
+	Free: Pattern=how much is, Pattern=montreux
+	Constrained: Pattern=is, Pattern=how much, Pattern=how, Pattern=much
+Turn ID=327| B | B : we need
+	Free: Pattern=we need
+	Constrained: Pattern=we
+Turn ID=328| B | B : 5 and a 4 .
+	Free: Pattern=5 and a 4
+	Constrained: Pattern=a 4, Pattern=and, Pattern=a
+Turn ID=329| A | A : oh 5 and a 4 , okay .
+	Free: Pattern=5 and a 4, Pattern=okay ., Pattern=, okay, Pattern=oh
+	Constrained: Pattern=a, Pattern=okay, Pattern=a 4, Pattern=and
+Turn ID=330| B | B : i 4 right now .
+	Free: Pattern=now ., Pattern=i, Pattern=right
+	Constrained: Pattern=now
+Turn ID=331| B | B : so , what can we do ?
+	Free: Pattern=, what, Pattern=can, Pattern=we, Pattern=do ?, Pattern=so
+	Constrained: Pattern=do, Pattern=what
+Turn ID=332| A | A : where is a 4 and where is a 5 ?
+	Free: Pattern=a 4, Pattern=where is, Pattern=and, Pattern=a
+	Constrained: Pattern=where, Pattern=a, Pattern=is
+Turn ID=333| B | B : okay found one zurich
+	Free: Pattern=okay, Pattern=zurich, Pattern=one
+	Constrained: 
+Turn ID=334| A | A : zurich
+	Free: Pattern=zurich
+	Constrained: 
+Turn ID=335| B | B : to davos .
+	Free: Pattern=to davos .
+	Constrained: Pattern=davos ., Pattern=to, Pattern=davos
+Turn ID=336| B | B : zurich to davos .
+	Free: Pattern=to davos ., Pattern=zurich to
+	Constrained: Pattern=zurich, Pattern=davos ., Pattern=davos, Pattern=to
+Turn ID=337| A | A : how much was that ?
+	Free: Pattern=how much, Pattern=was, Pattern=that
+	Constrained: Pattern=much, Pattern=how
+Turn ID=338| B | B : 4 .
+	Free: 
+	Constrained: 
+Turn ID=339| B | B : so that 's 4 gone now we need 5 .
+	Free: Pattern=now we, Pattern=we need, Pattern=that 's, Pattern=so
+	Constrained: Pattern='s, Pattern=that, Pattern=now, Pattern=we
+Turn ID=340| A | A : oh i know how to get to 5 .
+	Free: Pattern=to get to, Pattern=i know, Pattern=oh i, Pattern=how
+	Constrained: Pattern=know, Pattern=i, Pattern=to, Pattern=get, Pattern=to get, Pattern=oh
+Turn ID=341| A | A : we just need a 2 .
+	Free: Pattern=need a 2 ., Pattern=we just
+	Constrained: Pattern=just, Pattern=a, Pattern=need a, Pattern=we
+Turn ID=342| B | B : i 've got an idea .
+	Free: Pattern='ve got, Pattern=an, Pattern=i
+	Constrained: Pattern=got
+Turn ID=343| A | A : what , we need
+	Free: Pattern=what ,, Pattern=we need
+	Constrained: Pattern=we, Pattern=what
+Turn ID=344| B | B : to zurich
+	Free: Pattern=zurich, Pattern=to
+	Constrained: 
+Turn ID=345| A | A : zurich
+	Free: Pattern=zurich
+	Constrained: 
+Turn ID=346| B | B : to luzern .
+	Free: Pattern=to luzern .
+	Constrained: Pattern=luzern ., Pattern=luzern, Pattern=to
+Turn ID=347| A | A : why ?
+	Free: Pattern=why
+	Constrained: 
+Turn ID=348| A | A : how much , how much is that ?
+	Free: Pattern=how much is, Pattern=, how, Pattern=how much, Pattern=that
+	Constrained: Pattern=is, Pattern=how much, Pattern=how, Pattern=much
+Turn ID=349| B | B : to luzern .
+	Free: Pattern=to luzern .
+	Constrained: Pattern=luzern ., Pattern=luzern, Pattern=to
+Turn ID=350| B | B : um 3 , 2 .
+	Free: Pattern=um
+	Constrained: 
+Turn ID=351| A | A : and then we need a 3 .
+	Free: Pattern=and then we, Pattern=we need, Pattern=need a
+	Constrained: Pattern=and, Pattern=and then, Pattern=we, Pattern=then, Pattern=a
+Turn ID=352| A | A : okay uh
+	Free: Pattern=okay, Pattern=uh
+	Constrained: 
+Turn ID=353| B | B : go .
+	Free: Pattern=go .
+	Constrained: Pattern=go
+Turn ID=354| B | B : done , press check .
+	Free: Pattern=done ,, Pattern=check ., Pattern=press
+	Constrained: Pattern=check, Pattern=done
+Turn ID=355| A | A : oh no .
+	Free: Pattern=oh no .
+	Constrained: Pattern=oh no, Pattern=no ., Pattern=oh, Pattern=no
+Turn ID=356| B | B : press check .
+	Free: Pattern=check ., Pattern=press
+	Constrained: Pattern=check
+Turn ID=357| A | A : no , my check is still gray .
+	Free: Pattern=my, Pattern=check, Pattern=no, Pattern=is
+	Constrained: 
+Turn ID=358| B | B : what ?
+	Free: Pattern=what ?
+	Constrained: Pattern=what
+Turn ID=359| B | B : but we did it .
+	Free: Pattern=did it ., Pattern=but, Pattern=we
+	Constrained: Pattern=it ., Pattern=it, Pattern=did
+Turn ID=360| A | A : your check is i think we need to connect them all .
+	Free: Pattern=check, Pattern=to connect, Pattern=i think we, Pattern=we need, Pattern=is, Pattern=them all
+	Constrained: Pattern=connect, Pattern=think we, Pattern=think, Pattern=i, Pattern=we, Pattern=all, Pattern=to, Pattern=i think
+Turn ID=361| B | B : we had to do them all ?
+	Free: Pattern=to do, Pattern=them all, Pattern=we
+	Constrained: Pattern=all, Pattern=do, Pattern=to
+Turn ID=362| A | A : yeah .
+	Free: Pattern=yeah .
+	Constrained: Pattern=yeah
+Turn ID=363| B | B : we are terrible at this .
+	Free: Pattern=we are, Pattern=at, Pattern=this
+	Constrained: Pattern=are, Pattern=we
+Turn ID=364| A | A : uh
+	Free: Pattern=uh
+	Constrained: 
+Turn ID=365| B | B : robot help us .
+	Free: 
+	Constrained: 
+Turn ID=366| A | A : you both will
+	Free: Pattern=you, Pattern=will
+	Constrained: 
+Turn ID=367| A | A : oh that 's why .
+	Free: Pattern=oh that 's, Pattern=why
+	Constrained: Pattern=that 's, Pattern='s, Pattern=oh, Pattern=that
+Turn ID=368| A | A : we need to spend the uh we need to spend as less swiss francs as possible .
+	Free: Pattern=francs, Pattern=uh, Pattern=less, Pattern=the, Pattern=to, Pattern=we need
+	Constrained: Pattern=we
+Turn ID=369| B | B : what !
+	Free: Pattern=what
+	Constrained: 
+Turn ID=370| A | A : we just noticed that now .
+	Free: Pattern=now ., Pattern=we just, Pattern=that
+	Constrained: Pattern=now, Pattern=just, Pattern=we
+Turn ID=371| B | B : we are so dumb .
+	Free: Pattern=we are, Pattern=so
+	Constrained: Pattern=are, Pattern=we
+Turn ID=372| A | A : oh damn it okay .
+	Free: Pattern=okay ., Pattern=oh, Pattern=it
+	Constrained: Pattern=okay
+Turn ID=373| A | A : just connect them all and then we go to the next one and we know what to do .
+	Free: Pattern=go to, Pattern=and then we, Pattern=just, Pattern=we go, Pattern=and, Pattern=know what, Pattern=them all, Pattern=we, Pattern=the, Pattern=connect, Pattern=next, Pattern=one, Pattern=to do .
+	Constrained: Pattern=what, Pattern=and, Pattern=and then, Pattern=know, Pattern=we, Pattern=all, Pattern=to, Pattern=go, Pattern=to do, Pattern=do, Pattern=then
+Turn ID=374| B | B : okay .
+	Free: Pattern=okay .
+	Constrained: Pattern=okay
+Turn ID=375| A | A : okay uh how
+	Free: Pattern=okay, Pattern=how, Pattern=uh
+	Constrained: 
+Turn ID=376| A | A : um
+	Free: Pattern=um
+	Constrained: 
+Turn ID=377| A | A : oh what
+	Free: Pattern=oh, Pattern=what
+	Constrained: 
+Turn ID=378| A | A : what did you just do ?
+	Free: Pattern=you, Pattern=what, Pattern=did, Pattern=just do, Pattern=do ?
+	Constrained: Pattern=do, Pattern=just
+Turn ID=379| B | B : i just did something .
+	Free: Pattern=i, Pattern=did, Pattern=just
+	Constrained: 
+Turn ID=380| A | A : wow .
+	Free: 
+	Constrained: 
+Turn ID=381| B | B : what ?
+	Free: Pattern=what ?
+	Constrained: Pattern=what
+Turn ID=382| A | A : wow it 's changing tracks .
+	Free: Pattern=it 's
+	Constrained: Pattern='s, Pattern=it
+Turn ID=383| B | B : right so ?
+	Free: Pattern=so, Pattern=right
+	Constrained: 
+Turn ID=384| A | A : yeah by itself .
+	Free: Pattern=yeah
+	Constrained: 
+Turn ID=385| A | A : oh .
+	Free: Pattern=oh .
+	Constrained: Pattern=oh
+Turn ID=386| B | B : no oh no no .
+	Free: Pattern=oh no, Pattern=no no, Pattern=no ., Pattern=no
+	Constrained: Pattern=oh, Pattern=no
+Turn ID=387| B | B : i think
+	Free: Pattern=i think
+	Constrained: Pattern=i, Pattern=think
+Turn ID=388| A | A : oh .
+	Free: Pattern=oh .
+	Constrained: Pattern=oh
+Turn ID=389| B | B : so we submit it ?
+	Free: Pattern=we submit it ?, Pattern=so we
+	Constrained: Pattern=it ?, Pattern=so, Pattern=it, Pattern=we
+Turn ID=390| A | A : yeah let 's start over .
+	Free: Pattern=yeah let, Pattern=let 's, Pattern=start
+	Constrained: Pattern='s, Pattern=yeah
+Turn ID=391| B | B : robot say something to us .
+	Free: Pattern=to
+	Constrained: 
+Turn ID=392| B | B : yeah .
+	Free: Pattern=yeah .
+	Constrained: Pattern=yeah
+Turn ID=393| B | B : should we
+	Free: Pattern=should we
+	Constrained: Pattern=should, Pattern=we
+Turn ID=394| A | A : oh .
+	Free: Pattern=oh .
+	Constrained: Pattern=oh
+Turn ID=395| A | A : where is 2 ?
+	Free: Pattern=where is
+	Constrained: Pattern=where, Pattern=is
+Turn ID=396| A | A : give me a 2 .
+	Free: Pattern=give me a 2 .
+	Constrained: Pattern=a, Pattern=me, Pattern=give, Pattern=give me
+Turn ID=397| A | A : 2 francs one .
+	Free: Pattern=2 francs, Pattern=one .
+	Constrained: Pattern=one, Pattern=francs
+Turn ID=398| B | B : 2 francs um .
+	Free: Pattern=um ., Pattern=2 francs
+	Constrained: Pattern=um, Pattern=francs
+Turn ID=399| B | B : interlaken to zermatt .
+	Free: Pattern=interlaken to zermatt .
+	Constrained: Pattern=zermatt, Pattern=interlaken to, Pattern=interlaken, Pattern=to, Pattern=zermatt .
+Turn ID=400| A | A : interlaken to zermatt .
+	Free: Pattern=interlaken to zermatt .
+	Constrained: Pattern=zermatt, Pattern=interlaken to, Pattern=interlaken, Pattern=to, Pattern=zermatt .
+Turn ID=401| A | A : zermatt oh interlaken .
+	Free: Pattern=oh, Pattern=zermatt, Pattern=interlaken
+	Constrained: 
+Turn ID=402| A | A : that 's 2 ?
+	Free: Pattern=that 's 2
+	Constrained: Pattern=that 's, Pattern='s, Pattern=that
+Turn ID=403| B | B : interlaken to zermatt .
+	Free: Pattern=interlaken to zermatt .
+	Constrained: Pattern=zermatt, Pattern=interlaken to, Pattern=interlaken, Pattern=to, Pattern=zermatt .
+Turn ID=404| A | A : that 's 2 ?
+	Free: Pattern=that 's 2
+	Constrained: Pattern=that 's, Pattern='s, Pattern=that
+Turn ID=405| B | B : yes .
+	Free: Pattern=yes
+	Constrained: 
+Turn ID=406| A | A : oh .
+	Free: Pattern=oh .
+	Constrained: Pattern=oh
+Turn ID=407| B | B : and you want another 2 ?
+	Free: Pattern=another 2, Pattern=you, Pattern=and
+	Constrained: 
+Turn ID=408| A | A : yeah .
+	Free: Pattern=yeah .
+	Constrained: Pattern=yeah
+Turn ID=409| B | B : or 3 ?
+	Free: Pattern=or
+	Constrained: 
+Turn ID=410| A | A : yeah uh as much 2s and then as much 3s .
+	Free: Pattern=2s, Pattern=uh, Pattern=yeah, Pattern=and then, Pattern=much, Pattern=3s .
+	Constrained: Pattern=and, Pattern=then, Pattern=3s
+Turn ID=411| B | B : zermatt to montreux .
+	Free: Pattern=to montreux ., Pattern=zermatt to
+	Constrained: Pattern=montreux ., Pattern=to, Pattern=zermatt, Pattern=montreux
+Turn ID=412| B | B : montreux .
+	Free: Pattern=montreux .
+	Constrained: Pattern=montreux
+Turn ID=413| A | A : oh montreux .
+	Free: Pattern=montreux ., Pattern=oh
+	Constrained: Pattern=montreux
+Turn ID=414| A | A : uh
+	Free: Pattern=uh
+	Constrained: 
+Turn ID=415| B | B : okay my turn .
+	Free: Pattern=okay my turn .
+	Constrained: Pattern=my turn ., Pattern=my turn, Pattern=turn ., Pattern=my, Pattern=okay
+Turn ID=416| A | A : okay give me oh okay .
+	Free: Pattern=okay ., Pattern=give me, Pattern=oh okay, Pattern=okay
+	Constrained: Pattern=okay, Pattern=me, Pattern=oh, Pattern=give
+Turn ID=417| B | B : give me a 2 .
+	Free: Pattern=give me a 2 .
+	Constrained: Pattern=a, Pattern=me, Pattern=give, Pattern=give me
+Turn ID=418| A | A : um neuchatel to montreux .
+	Free: Pattern=neuchatel to montreux ., Pattern=um neuchatel
+	Constrained: Pattern=um, Pattern=neuchatel to, Pattern=to montreux ., Pattern=to, Pattern=montreux, Pattern=montreux ., Pattern=neuchatel
+Turn ID=419| B | B : neuchatel to montreux .
+	Free: Pattern=neuchatel to montreux .
+	Constrained: Pattern=neuchatel to, Pattern=to montreux ., Pattern=to, Pattern=montreux, Pattern=montreux ., Pattern=neuchatel
+Turn ID=420| B | B : i do n't really care actually .
+	Free: Pattern=i do n't
+	Constrained: Pattern=i do, Pattern=do, Pattern=i, Pattern=do n't, Pattern=n't
+Turn ID=421| A | A : um yeah me to i do n't like this , zurich to luzern .
+	Free: Pattern=me, Pattern=um, Pattern=i do n't, Pattern=yeah, Pattern=like, Pattern=to, Pattern=this, Pattern=, zurich to luzern .
+	Constrained: Pattern=i do, Pattern=luzern ., Pattern=do, Pattern=zurich, Pattern=zurich to luzern ., Pattern=do n't, Pattern=to, Pattern=n't, Pattern=to luzern ., Pattern=luzern, Pattern=zurich to, Pattern=i
+Turn ID=422| B | B : wait zurich ?
+	Free: Pattern=zurich, Pattern=wait
+	Constrained: 
+Turn ID=423| A | A : to luzern .
+	Free: Pattern=to luzern .
+	Constrained: Pattern=luzern ., Pattern=luzern, Pattern=to
+Turn ID=424| B | B : where is zurich ?
+	Free: Pattern=where is, Pattern=zurich
+	Constrained: Pattern=where, Pattern=is
+Turn ID=425| A | A : zurich is at the top .
+	Free: Pattern=at, Pattern=zurich, Pattern=the, Pattern=is
+	Constrained: 
+Turn ID=426| B | B : i ca n't do luzern .
+	Free: Pattern=ca n't do, Pattern=luzern ., Pattern=i
+	Constrained: Pattern=ca n't, Pattern=do, Pattern=n't, Pattern=luzern
+Turn ID=427| A | A : yeah you can .
+	Free: Pattern=you, Pattern=can, Pattern=yeah
+	Constrained: 
+Turn ID=428| A | A : zurich to luzern .
+	Free: Pattern=zurich to luzern .
+	Constrained: Pattern=luzern ., Pattern=zurich, Pattern=zurich to, Pattern=to, Pattern=to luzern ., Pattern=luzern
+Turn ID=429| B | B : where is luzern ?
+	Free: Pattern=where is, Pattern=luzern
+	Constrained: Pattern=where, Pattern=is
+Turn ID=430| A | A : luzern is under zurich .
+	Free: Pattern=zurich ., Pattern=luzern, Pattern=is
+	Constrained: Pattern=zurich
+Turn ID=431| B | B : i ca n't do it .
+	Free: Pattern=ca n't do, Pattern=it ., Pattern=i
+	Constrained: Pattern=ca n't, Pattern=do, Pattern=it, Pattern=n't
+Turn ID=432| A | A : yes you can .
+	Free: Pattern=you, Pattern=can, Pattern=yes
+	Constrained: 
+Turn ID=433| B | B : no i ca n't .
+	Free: Pattern=no i, Pattern=ca n't
+	Constrained: Pattern=n't, Pattern=i, Pattern=no
+Turn ID=434| A | A : yes you can it 's
+	Free: Pattern=it 's, Pattern=you, Pattern=can, Pattern=yes
+	Constrained: Pattern='s, Pattern=it
+Turn ID=435| B | B : how about mount zermatt to mount
+	Free: Pattern=zermatt to, Pattern=to mount, Pattern=mount, Pattern=how
+	Constrained: Pattern=mount, Pattern=to, Pattern=zermatt
+Turn ID=436| A | A : no yes you can zurich to luzern .
+	Free: Pattern=no, Pattern=can, Pattern=zurich to luzern ., Pattern=you, Pattern=yes
+	Constrained: Pattern=luzern ., Pattern=zurich, Pattern=zurich to, Pattern=to, Pattern=to luzern ., Pattern=luzern
+Turn ID=437| A | A : 2 .
+	Free: 
+	Constrained: 
+Turn ID=438| A | A : oh .
+	Free: Pattern=oh .
+	Constrained: Pattern=oh
+Turn ID=439| B | B : 3 .
+	Free: 
+	Constrained: 
+Turn ID=440| B | B : what ?
+	Free: Pattern=what ?
+	Constrained: Pattern=what
+Turn ID=441| A | A : let me
+	Free: Pattern=let me
+	Constrained: Pattern=me
+Turn ID=442| A | A : there you go .
+	Free: Pattern=go ., Pattern=there you
+	Constrained: Pattern=you, Pattern=go, Pattern=there
+Turn ID=443| A | A : what no
+	Free: Pattern=no, Pattern=what
+	Constrained: 
+Turn ID=444| B | B : you are erasing my mistake .
+	Free: Pattern=you are, Pattern=my
+	Constrained: Pattern=you, Pattern=are
+Turn ID=445| B | B : how dare you .
+	Free: Pattern=you ., Pattern=how
+	Constrained: Pattern=you
+Turn ID=446| A | A : i know .
+	Free: Pattern=i know
+	Constrained: Pattern=i, Pattern=know
+Turn ID=447| A | A : wait , what ?
+	Free: Pattern=wait , what ?
+	Constrained: Pattern=what ?, Pattern=what, Pattern=, what, Pattern=wait ,, Pattern=wait
+Turn ID=448| A | A : can i get pencil again ?
+	Free: Pattern=can i, Pattern=get, Pattern=again
+	Constrained: Pattern=can, Pattern=i
+Turn ID=449| A | A : oh oh .
+	Free: Pattern=oh ., Pattern=oh
+	Constrained: Pattern=oh
+Turn ID=450| A | A : oh .
+	Free: Pattern=oh .
+	Constrained: Pattern=oh
+Turn ID=451| A | A : okay .
+	Free: Pattern=okay .
+	Constrained: Pattern=okay
+Turn ID=452| B | B : we messed up again did n't we ?
+	Free: Pattern=n't, Pattern=did, Pattern=again, Pattern=we
+	Constrained: 
+Turn ID=453| A | A : okay number 2 , now another 2 .
+	Free: Pattern=2 , now, Pattern=another 2 ., Pattern=okay
+	Constrained: Pattern=another 2, Pattern=now
+Turn ID=454| B | B : another 2 .
+	Free: Pattern=another 2 .
+	Constrained: Pattern=another 2
+Turn ID=455| B | B : um let 's see .
+	Free: Pattern=let 's, Pattern=um, Pattern=see
+	Constrained: Pattern='s
+Turn ID=456| B | B : luzern to zurich .
+	Free: Pattern=luzern to, Pattern=zurich .
+	Constrained: Pattern=luzern, Pattern=zurich, Pattern=to
+Turn ID=457| A | A : i i told you to do that and then you did it .
+	Free: Pattern=you, Pattern=to do, Pattern=and then, Pattern=i, Pattern=do that, Pattern=did it .
+	Constrained: Pattern=it ., Pattern=to, Pattern=that, Pattern=do, Pattern=then, Pattern=did, Pattern=it, Pattern=and
+Turn ID=458| B | B : just do it .
+	Free: Pattern=it ., Pattern=just do
+	Constrained: Pattern=do, Pattern=it, Pattern=just
+Turn ID=459| A | A : no now we ca n't because it is an eraser now .
+	Free: Pattern=now we, Pattern=it is, Pattern=no, Pattern=we ca n't, Pattern=an eraser, Pattern=now .
+	Constrained: Pattern=an, Pattern=it, Pattern=ca n't, Pattern=is, Pattern=we, Pattern=now, Pattern=n't
+Turn ID=460| B | B : why , zurich to luzern .
+	Free: Pattern=, zurich to luzern ., Pattern=why
+	Constrained: Pattern=luzern ., Pattern=zurich, Pattern=zurich to luzern ., Pattern=zurich to, Pattern=to, Pattern=to luzern ., Pattern=luzern
+Turn ID=461| A | A : i
+	Free: Pattern=i
+	Constrained: 
+Turn ID=462| B | B : okay .
+	Free: Pattern=okay .
+	Constrained: Pattern=okay
+Turn ID=463| A | A : oh okay .
+	Free: Pattern=okay ., Pattern=oh okay
+	Constrained: Pattern=okay, Pattern=oh
+Turn ID=464| B | B : then um
+	Free: Pattern=then, Pattern=um
+	Constrained: 
+Turn ID=465| B | B : let 's see what we have .
+	Free: Pattern=what we have, Pattern=let 's, Pattern=see
+	Constrained: Pattern=have, Pattern=what, Pattern=we have, Pattern=we, Pattern=what we, Pattern='s
+Turn ID=466| A | A : there is no more 2s then 3s now .
+	Free: Pattern=2s, Pattern=then, Pattern=now ., Pattern=is, Pattern=3s, Pattern=no, Pattern=there
+	Constrained: Pattern=now
+Turn ID=467| B | B : yeah no we do n't have any 2s zermatt to davos .
+	Free: Pattern=2s, Pattern=zermatt to davos, Pattern=have, Pattern=no, Pattern=to davos ., Pattern=yeah, Pattern=we, Pattern=do n't
+	Constrained: Pattern=do, Pattern=davos ., Pattern=davos, Pattern=zermatt, Pattern=to, Pattern=n't, Pattern=zermatt to
+Turn ID=468| A | A : okay .
+	Free: Pattern=okay .
+	Constrained: Pattern=okay
+Turn ID=469| A | A : uh zermatt to davos there we go .
+	Free: Pattern=we go ., Pattern=zermatt to davos, Pattern=there, Pattern=uh
+	Constrained: Pattern=go, Pattern=we go, Pattern=davos, Pattern=we, Pattern=zermatt, Pattern=to, Pattern=zermatt to, Pattern=go .
+Turn ID=470| B | B : and then we 've got another 2 .
+	Free: Pattern=we 've got, Pattern=and then we, Pattern=another 2 .
+	Constrained: Pattern=another 2, Pattern=then, Pattern=and, Pattern=and then, Pattern='ve got, Pattern=we 've, Pattern=we, Pattern=got
+Turn ID=471| A | A : okay .
+	Free: Pattern=okay .
+	Constrained: Pattern=okay
+Turn ID=472| A | A : okay you 've done another 2 nice .
+	Free: Pattern=you 've, Pattern=another 2, Pattern=okay, Pattern=done
+	Constrained: Pattern=you
+Turn ID=473| A | A : zurich to gallen .
+	Free: Pattern=gallen ., Pattern=zurich to
+	Constrained: Pattern=zurich, Pattern=to, Pattern=gallen
+Turn ID=474| B | B : zurich to berlin ?
+	Free: Pattern=zurich to
+	Constrained: Pattern=zurich, Pattern=to
+Turn ID=475| A | A : saint gallen saint gallen .
+	Free: Pattern=saint gallen ., Pattern=saint gallen
+	Constrained: Pattern=saint gallen, Pattern=gallen ., Pattern=gallen
+Turn ID=476| A | A : um
+	Free: Pattern=um
+	Constrained: 
+Turn ID=477| B | B : i have a feeling we have not been doing this right .
+	Free: Pattern=have, Pattern=a, Pattern=we have, Pattern=right ., Pattern=i, Pattern=been, Pattern=this, Pattern=not
+	Constrained: Pattern=right, Pattern=have, Pattern=we
+Turn ID=478| A | A : um give me another 3 .
+	Free: Pattern=another 3 ., Pattern=give me, Pattern=um
+	Constrained: Pattern=another 3, Pattern=me, Pattern=give
+Turn ID=479| B | B : another 3 .
+	Free: Pattern=another 3 .
+	Constrained: Pattern=another 3
+Turn ID=480| B | B : zurich to bern .
+	Free: Pattern=zurich to bern .
+	Constrained: Pattern=zurich, Pattern=zurich to, Pattern=to, Pattern=bern, Pattern=to bern .
+Turn ID=481| A | A : zurich to bern .
+	Free: Pattern=zurich to bern .
+	Constrained: Pattern=zurich, Pattern=zurich to, Pattern=to, Pattern=bern, Pattern=to bern .
+Turn ID=482| B | B : and then
+	Free: Pattern=and then
+	Constrained: Pattern=and, Pattern=then
+Turn ID=483| A | A : oh no oops .
+	Free: Pattern=oh no
+	Constrained: Pattern=oh, Pattern=no
+Turn ID=484| A | A : there you go .
+	Free: Pattern=go ., Pattern=there you
+	Constrained: Pattern=you, Pattern=go, Pattern=there
+Turn ID=485| B | B : now we 've got double 3s .
+	Free: Pattern=we 've got, Pattern=now we, Pattern=3s .
+	Constrained: Pattern='ve got, Pattern=we 've, Pattern=we, Pattern=3s, Pattern=got, Pattern=now
+Turn ID=486| A | A : okay .
+	Free: Pattern=okay .
+	Constrained: Pattern=okay
+Turn ID=487| B | B : what can we do next ?
+	Free: Pattern=next, Pattern=what, Pattern=do, Pattern=can, Pattern=we
+	Constrained: 
+Turn ID=488| A | A : give me another 3 or 4 ?
+	Free: Pattern=another 3, Pattern=give me, Pattern=or
+	Constrained: Pattern=me, Pattern=give
+Turn ID=489| A | A : 3 , is there another 3 , if there is not then 4 .
+	Free: Pattern=then, Pattern=if, Pattern=is, Pattern=another 3, Pattern=not, Pattern=, is, Pattern=there
+	Constrained: Pattern=is
+Turn ID=490| B | B : how much
+	Free: Pattern=how much
+	Constrained: Pattern=much, Pattern=how
+Turn ID=491| A | A : oh we 've got a check .
+	Free: Pattern=we 've got a check, Pattern=check ., Pattern=oh we
+	Constrained: Pattern=check, Pattern=a, Pattern=we 've got, Pattern=oh, Pattern='ve got, Pattern=we 've, Pattern=we, Pattern=got
+Turn ID=492| B | B : we 've got a check ?
+	Free: Pattern=we 've got a check, Pattern=check ?
+	Constrained: Pattern=check, Pattern=a, Pattern=we 've got, Pattern='ve got, Pattern=we 've, Pattern=we, Pattern=got
+Turn ID=493| A | A : should we submit it ?
+	Free: Pattern=we submit it ?, Pattern=should we
+	Constrained: Pattern=it ?, Pattern=it, Pattern=we, Pattern=should
