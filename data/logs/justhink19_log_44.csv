@@ -1,358 +1,358 @@
-team_no	start	end	attempt_no	turn_no	event_no	subject	verb	object
-44	0.192	0.192	1	1	1	R	shows	observe gesture
-44	0.271	0.271	1	1	2	R	says	So, Sally and Anne, let's start building the tracks. I count on you guys. Are you ready? Also, you need to play this game together, as both of you will see different views at all times. You can talk now to help each other. To see my instructions again, check the information icon on your screens. Time to play. Let's Go!
-44	45.833	45.833	1	1	4	A	presses	help (enabled)
-44	47.598	47.598	1	1	6	B	presses	help (enabled)
-44	53.397	53.397	1	1	7	R	shows	thinking gesture
-44	53.403	53.403	1	1	8	R	says	(Hmm) I see.
-44	60.133	60.133	1	1	11	B	presses	help (enabled)
-44	98.453	98.453	1	1	12	R	shows	observe gesture
-44	103.688	103.688	1	1	14	A	presses	submit (disabled)
-44	120.663	120.663	1	1	19	B	presses	help (enabled)
-44	131.770	131.770	1	1	22	A	adds	Interlaken-Montreux (5-6)
-44	134.203	134.203	1	1	24	A	presses	submit (disabled)
-44	145.068	145.068	1	1	26	A	adds	Interlaken-Neuchatel (5-7)
-44	155.988	155.988	1	2	28	A	presses	submit (disabled)
-44	158.459	158.459	1	2	30	R	shows	thinking gesture
-44	158.463	158.463	1	2	31	R	says	(Hmm) I see.
-44	169.674	169.674	1	2	33	B	adds	Basel-Neuchatel (0-7)
-44	173.906	173.906	1	2	35	B	adds	Basel-Bern (0-3)
-44	180.147	180.147	1	3	37	A	adds	Zurich-Bern (2-3)
-44	185.388	185.388	1	3	39	A	adds	Zurich-Gallen (2-8)
-44	193.499	193.499	1	4	41	B	adds	Gallen-Davos (8-9)
-44	197.008	197.008	1	4	43	B	adds	Luzern-Davos (1-9)
-44	204.697	204.697	1	5	45	A	adds	Luzern-Zurich (1-2)
-44	210.886	210.886	1	5	47	A	adds	Basel-Zurich (0-2)
-44	219.461	219.461	1	6	49	B	adds	Luzern-Zermatt (1-4)
-44	219.883	219.883	1	6	50	R	shows	observe gesture
-44	233.756	233.756	1	6	52	A	presses	submit (enabled)
-44	234.720	234.720	1	6	53	T	submits	cost=35 (opt_cost=22)
-44	236.093	236.093	1	6	55	B	presses	submit (enabled)
-44	236.364	236.364	1	6	56	R	shows	talking emotion
-44	236.366	236.366	1	6	57	R	shows	up_left gesture
-44	236.494	236.494	1	6	58	R	says	You are away from the minimum by 13 Francs. Let's Try again.
-44	242.836	242.836	1	6	59	R	shows	talking emotion
-44	242.836	242.836	1	6	60	R	shows	point_front gesture
-44	242.839	242.839	1	6	61	R	says	By the way, you guys now also have the button on the bottom of your screen in the abstract view for comparing solutions.
-44	255.133	255.133	2	6	63	A	presses	compare (enabled)
-44	260.861	260.861	2	6	65	B	presses	help (enabled)
-44	280.326	280.326	2	6	68	B	adds	Interlaken-Montreux (5-6)
-44	282.984	282.984	2	6	73	A	presses	submit (disabled)
-44	283.240	283.240	2	6	74	B	adds	Interlaken-Neuchatel (5-7)
-44	289.005	289.005	2	7	76	A	adds	Neuchatel-Bern (7-3)
-44	293.831	293.831	2	7	78	A	adds	Luzern-Bern (1-3)
-44	299.359	299.359	2	8	80	B	adds	Basel-Bern (0-3)
-44	305.482	305.482	2	8	82	B	adds	Zurich-Bern (2-3)
-44	308.687	308.687	2	9	84	A	adds	Luzern-Davos (1-9)
-44	313.476	313.476	2	9	86	A	adds	Zurich-Davos (2-9)
-44	319.336	319.336	2	10	88	B	adds	Gallen-Davos (8-9)
-44	322.110	322.110	2	10	90	B	adds	Zermatt-Davos (4-9)
-44	337.237	337.237	2	11	93	A	presses	submit (enabled)
-44	353.868	353.868	2	11	95	A	presses	submit (selected)
-44	354.823	354.823	2	11	97	A	presses	submit (enabled)
-44	354.876	354.876	2	11	98	T	submits	cost=33 (opt_cost=22)
-44	356.027	356.027	2	11	100	B	presses	submit (enabled)
-44	357.103	357.103	2	11	101	R	shows	talking emotion
-44	357.105	357.105	2	11	102	R	shows	up_left gesture
-44	357.166	357.166	2	11	104	B	presses	submit (enabled)
-44	357.298	357.298	2	11	105	R	says	You are away from the minimum by 11 Francs. Let's Try again.
-44	367.437	367.437	3	11	107	A	adds	Zermatt-Montreux (4-6)
-44	371.352	371.352	3	11	109	A	adds	Zermatt-Davos (4-9)
-44	378.562	378.562	3	12	111	B	adds	Luzern-Zermatt (1-4)
-44	380.907	380.907	3	12	113	B	adds	Zermatt-Interlaken (4-5)
-44	385.240	385.240	3	13	115	A	adds	Luzern-Interlaken (1-5)
-44	389.615	389.615	3	13	117	A	adds	Luzern-Zurich (1-2)
-44	398.105	398.105	3	14	119	B	adds	Luzern-Davos (1-9)
-44	399.689	399.689	3	14	121	B	adds	Gallen-Davos (8-9)
-44	404.479	404.479	3	15	123	A	adds	Zurich-Gallen (2-8)
-44	415.163	415.163	3	15	126	A	adds	Zurich-Bern (2-3)
-44	420.379	420.379	3	16	128	B	adds	Interlaken-Bern (5-3)
-44	427.022	427.022	3	16	132	B	adds	Basel-Bern (0-3)
-44	430.049	430.049	3	17	134	A	adds	Basel-Neuchatel (0-7)
-44	436.134	436.134	3	17	136	A	adds	Interlaken-Neuchatel (5-7)
-44	447.228	447.228	3	18	139	A	presses	submit (enabled)
-44	447.406	447.406	3	18	140	T	submits	cost=41 (opt_cost=22)
-44	448.794	448.794	3	18	142	B	presses	submit (enabled)
-44	449.024	449.024	3	18	143	R	shows	talking emotion
-44	449.026	449.026	3	18	144	R	shows	up_left gesture
-44	449.154	449.154	3	18	145	R	says	You are not that far from the minimum; the difference is only 19 Francs. I am sure you can do it.
-44	459.237	459.237	4	18	147	A	presses	compare (enabled)
-44	463.632	463.632	4	18	149	B	adds	Gallen-Davos (8-9)
-44	473.776	473.776	4	18	151	B	adds	Zermatt-Davos (4-9)
-44	479.056	479.056	4	19	153	A	adds	Zurich-Gallen (2-8)
-44	485.434	485.434	4	19	155	A	adds	Zurich-Davos (2-9)
-44	490.991	490.991	4	20	157	B	adds	Luzern-Zurich (1-2)
-44	493.735	493.735	4	20	159	B	adds	Luzern-Zermatt (1-4)
-44	501.715	501.715	4	21	162	A	adds	Zurich-Bern (2-3)
-44	506.040	506.040	4	21	164	A	adds	Neuchatel-Bern (7-3)
-44	511.494	511.494	4	22	166	B	adds	Interlaken-Bern (5-3)
-44	513.872	513.872	4	22	168	B	adds	Basel-Bern (0-3)
-44	519.617	519.617	4	23	171	A	adds	Zermatt-Interlaken (4-5)
-44	523.497	523.497	4	23	173	A	adds	Montreux-Neuchatel (6-7)
-44	531.582	531.582	4	24	175	A	presses	submit (enabled)
-44	531.629	531.629	4	24	176	T	submits	cost=36 (opt_cost=22)
-44	532.673	532.673	4	24	178	B	presses	submit (enabled)
-44	533.266	533.266	4	24	179	R	shows	talking emotion
-44	533.267	533.267	4	24	180	R	shows	up_left gesture
-44	533.393	533.393	4	24	181	R	says	You are away from the minimum by 14 Francs. Let's Try again.
-44	541.100	541.100	5	24	183	A	presses	compare (enabled)
-44	544.801	544.801	5	24	186	A	presses	submit (disabled)
-44	545.126	545.126	5	24	187	B	adds	Gallen-Davos (8-9)
-44	545.969	545.969	5	24	189	A	presses	submit (disabled)
-44	547.972	547.972	5	24	191	B	adds	Zurich-Gallen (2-8)
-44	553.286	553.286	5	25	194	A	adds	Zermatt-Davos (4-9)
-44	556.485	556.485	5	25	196	A	adds	Zermatt-Interlaken (4-5)
-44	558.871	558.871	5	26	198	A	presses	compare (enabled)
-44	562.026	562.026	5	26	200	B	adds	Luzern-Zermatt (1-4)
-44	563.202	563.202	5	26	202	B	adds	Zermatt-Montreux (4-6)
-44	569.071	569.071	5	27	204	A	adds	Montreux-Neuchatel (6-7)
-44	573.279	573.279	5	27	206	A	adds	Neuchatel-Bern (7-3)
-44	578.352	578.352	5	28	208	R	shows	thinking gesture
-44	578.400	578.400	5	28	209	R	says	(Hmm) I see.
-44	583.591	583.591	5	28	211	B	adds	Luzern-Zurich (1-2)
-44	585.405	585.405	5	28	213	B	adds	Basel-Bern (0-3)
-44	590.714	590.714	5	29	215	A	presses	submit (enabled)
-44	590.754	590.754	5	29	216	T	submits	cost=27 (opt_cost=22)
-44	591.891	591.891	5	29	218	B	presses	submit (enabled)
-44	592.479	592.479	5	29	219	R	shows	talking emotion
-44	592.480	592.480	5	29	220	R	shows	up_left gesture
-44	592.576	592.576	5	29	221	R	says	You are not that far from the minimum; the difference is only 5 Francs. I am sure you can do it.
-44	601.347	601.347	5	29	223	R	shows	talking emotion
-44	601.347	601.347	5	29	224	R	shows	up_right gesture
-44	601.439	601.439	5	29	225	R	says	Hey guys, maybe, it would be easier to solve the problem if you look at your previous solutions more.
-44	614.497	614.497	6	29	229	B	presses	compare (enabled)
-44	618.634	618.634	6	29	233	B	presses	previous (enabled)
-44	619.356	619.356	6	29	235	B	presses	previous (enabled)
-44	619.858	619.858	6	29	237	B	presses	previous (enabled)
-44	620.354	620.354	6	29	238	A	adds	Zermatt-Montreux (4-6)
-44	620.358	620.358	6	29	240	B	presses	previous (enabled)
-44	621.224	621.224	6	29	242	B	presses	compare (enabled)
-44	621.232	621.232	6	29	243	B	presses	next (enabled)
-44	621.589	621.589	6	29	245	B	presses	compare (enabled)
-44	621.601	621.601	6	29	246	B	presses	next (enabled)
-44	621.800	621.800	6	29	248	B	presses	compare (enabled)
-44	621.808	621.808	6	29	249	B	presses	next (enabled)
-44	621.956	621.956	6	29	251	B	presses	compare (enabled)
-44	621.966	621.966	6	29	252	B	presses	next (enabled)
-44	622.124	622.124	6	29	254	B	presses	compare (enabled)
-44	630.880	630.880	6	29	256	A	adds	Zermatt-Davos (4-9)
-44	640.325	640.325	6	30	258	B	adds	Gallen-Davos (8-9)
-44	643.673	643.673	6	30	260	B	adds	Zurich-Gallen (2-8)
-44	651.521	651.521	6	31	262	A	adds	Luzern-Zurich (1-2)
-44	657.549	657.549	6	31	264	A	adds	Luzern-Bern (1-3)
-44	658.824	658.824	6	32	266	B	presses	previous (enabled)
-44	668.827	668.827	6	32	268	B	adds	Basel-Bern (0-3)
-44	683.096	683.096	6	32	271	B	adds	Basel-Neuchatel (0-7)
-44	693.617	693.617	6	33	273	A	adds	Interlaken-Neuchatel (5-7)
-44	707.228	707.228	6	33	275	A	adds	Zermatt-Interlaken (4-5)
-44	711.152	711.152	6	34	277	A	presses	submit (enabled)
-44	711.190	711.190	6	34	278	T	submits	cost=27 (opt_cost=22)
-44	712.390	712.390	6	34	280	B	presses	submit (enabled)
-44	712.857	712.857	6	34	281	R	shows	talking emotion
-44	712.858	712.858	6	34	282	R	shows	up_left gesture
-44	712.946	712.946	6	34	283	R	says	You are away from the minimum by 5 Francs. Let's Try again.
-44	720.474	720.474	7	34	285	A	presses	compare (enabled)
-44	732.422	732.422	7	34	287	B	adds	Zermatt-Montreux (4-6)
-44	739.130	739.130	7	34	289	B	adds	Zermatt-Davos (4-9)
-44	748.572	748.572	7	35	291	A	adds	Gallen-Davos (8-9)
-44	754.932	754.932	7	35	293	A	adds	Zurich-Gallen (2-8)
-44	763.262	763.262	7	36	295	B	adds	Luzern-Zurich (1-2)
-44	767.539	767.539	7	36	297	B	adds	Luzern-Bern (1-3)
-44	775.443	775.443	7	37	299	A	adds	Interlaken-Bern (5-3)
-44	783.266	783.266	7	37	301	A	adds	Interlaken-Neuchatel (5-7)
-44	800.371	800.371	7	38	303	B	adds	Zermatt-Interlaken (4-5)
-44	814.223	814.223	7	38	305	B	adds	Basel-Neuchatel (0-7)
-44	816.864	816.864	7	39	307	A	presses	submit (enabled)
-44	820.524	820.524	7	39	308	T	submits	cost=28 (opt_cost=22)
-44	821.893	821.893	7	39	310	B	presses	submit (enabled)
-44	822.133	822.133	7	39	311	R	shows	talking emotion
-44	822.133	822.133	7	39	312	R	shows	up_left gesture
-44	822.206	822.206	7	39	313	R	says	You are away from the minimum by 6 Francs. Let's Try again.
-44	830.162	830.162	8	39	315	B	presses	compare (enabled)
-44	834.874	834.874	8	39	317	A	adds	Interlaken-Montreux (5-6)
-44	845.470	845.470	8	39	319	A	adds	Interlaken-Neuchatel (5-7)
-44	855.643	855.643	8	40	321	B	adds	Basel-Neuchatel (0-7)
-44	861.438	861.438	8	40	323	B	adds	Basel-Bern (0-3)
-44	866.905	866.905	8	41	325	A	adds	Zurich-Bern (2-3)
-44	871.921	871.921	8	41	328	A	adds	Luzern-Bern (1-3)
-44	888.943	888.943	8	42	330	B	adds	Luzern-Zermatt (1-4)
-44	894.553	894.553	8	42	332	B	adds	Zermatt-Davos (4-9)
-44	900.064	900.064	8	43	334	A	adds	Gallen-Davos (8-9)
-44	905.106	905.106	8	43	336	A	presses	submit (enabled)
-44	905.149	905.149	8	43	337	T	submits	cost=28 (opt_cost=22)
-44	906.197	906.197	8	43	339	B	presses	submit (enabled)
-44	906.211	906.211	8	43	341	A	presses	submit (enabled)
-44	908.896	908.896	8	43	342	R	shows	talking emotion
-44	908.897	908.897	8	43	343	R	shows	up_left gesture
-44	908.994	908.994	8	43	344	R	says	You are away from the minimum by 6 Francs. Let's Try again.
-44	917.858	917.858	9	43	346	B	presses	compare (enabled)
-44	923.974	923.974	9	43	348	A	adds	Zermatt-Interlaken (4-5)
-44	937.819	937.819	9	43	350	A	adds	Zermatt-Montreux (4-6)
-44	949.142	949.142	9	44	353	B	adds	Montreux-Neuchatel (6-7)
-44	956.034	956.034	9	44	355	B	adds	Neuchatel-Bern (7-3)
-44	964.710	964.710	9	45	358	A	removes	Neuchatel-Bern (7-3)
-44	972.610	972.610	9	45	360	A	adds	Basel-Neuchatel (0-7)
-44	985.060	985.060	9	46	362	B	adds	Basel-Bern (0-3)
-44	997.831	997.831	9	46	364	B	adds	Zurich-Bern (2-3)
-44	1006.881	1006.881	9	47	366	A	adds	Zurich-Gallen (2-8)
-44	1010.945	1010.945	9	47	368	A	adds	Gallen-Davos (8-9)
-44	1020.008	1020.008	9	48	370	B	adds	Luzern-Davos (1-9)
-44	1027.133	1027.133	9	48	372	A	presses	submit (enabled)
-44	1027.242	1027.242	9	48	373	T	submits	cost=24 (opt_cost=22)
-44	1028.107	1028.107	9	48	375	B	presses	submit (enabled)
-44	1028.799	1028.799	9	48	376	R	shows	talking emotion
-44	1028.838	1028.838	9	48	377	R	shows	up_left gesture
-44	1028.883	1028.883	9	48	378	R	says	You are away from the minimum by 2 Francs. Let's Try again.
-44	1035.816	1035.816	10	48	380	A	presses	compare (enabled)
-44	1045.894	1045.894	10	48	382	B	adds	Zermatt-Montreux (4-6)
-44	1048.504	1048.504	10	48	384	B	adds	Zermatt-Interlaken (4-5)
-44	1055.288	1055.288	10	49	386	A	adds	Montreux-Neuchatel (6-7)
-44	1072.145	1072.145	10	49	388	A	adds	Interlaken-Neuchatel (5-7)
-44	1086.426	1086.426	10	50	390	B	removes	Interlaken-Neuchatel (5-7)
-44	1094.651	1094.651	10	50	392	B	adds	Interlaken-Bern (5-3)
-44	1102.318	1102.318	10	51	394	A	adds	Basel-Bern (0-3)
-44	1107.641	1107.641	10	51	396	A	adds	Zurich-Bern (2-3)
-44	1118.790	1118.790	10	52	398	B	adds	Zurich-Gallen (2-8)
-44	1123.017	1123.017	10	52	400	B	adds	Gallen-Davos (8-9)
-44	1126.462	1126.462	10	53	402	A	adds	Luzern-Davos (1-9)
-44	1137.872	1137.872	10	53	404	A	presses	submit (enabled)
-44	1138.023	1138.023	10	53	405	T	submits	cost=24 (opt_cost=22)
-44	1139.124	1139.124	10	53	407	B	presses	submit (enabled)
-44	1139.631	1139.631	10	53	408	R	shows	up_left gesture
-44	1139.631	1139.631	10	53	409	R	shows	talking emotion
-44	1139.717	1139.717	10	53	410	R	says	You are not that far from the minimum; the difference is only 2 Francs. I am sure you can do it.
-44	1148.663	1148.663	10	53	411	R	shows	talking emotion
-44	1148.663	1148.663	10	53	412	R	shows	up_right gesture
-44	1148.667	1148.667	10	53	413	R	says	Hey guys, maybe, it would be easier to solve the problem if you look at your previous solutions more.
-44	1158.190	1158.190	11	53	416	A	presses	submit (disabled)
-44	1161.539	1161.539	11	53	419	B	presses	compare (enabled)
-44	1161.802	1161.802	11	53	420	A	adds	Zermatt-Montreux (4-6)
-44	1164.320	1164.320	11	53	422	A	adds	Zermatt-Interlaken (4-5)
-44	1176.090	1176.090	11	54	424	B	adds	Montreux-Neuchatel (6-7)
-44	1186.382	1186.382	11	54	426	B	adds	Interlaken-Neuchatel (5-7)
-44	1193.821	1193.821	11	55	428	A	adds	Interlaken-Bern (5-3)
-44	1199.308	1199.308	11	55	430	A	adds	Basel-Bern (0-3)
-44	1215.905	1215.905	11	56	433	B	adds	Basel-Zurich (0-2)
-44	1221.274	1221.274	11	56	435	B	removes	Basel-Zurich (0-2)
-44	1226.418	1226.418	11	57	437	A	adds	Zurich-Bern (2-3)
-44	1231.727	1231.727	11	57	439	A	adds	Zurich-Gallen (2-8)
-44	1236.438	1236.438	11	58	441	B	adds	Gallen-Davos (8-9)
-44	1238.366	1238.366	11	58	443	R	shows	observe gesture
-44	1238.381	1238.381	11	58	444	R	says	So guys,..You have 5 more minutes to find the best solution. You can do it!
-44	1238.682	1238.682	11	58	445	B	adds	Luzern-Davos (1-9)
-44	1260.577	1260.577	11	59	448	A	presses	submit (enabled)
-44	1260.649	1260.649	11	59	449	T	submits	cost=27 (opt_cost=22)
-44	1261.987	1261.987	11	59	451	B	presses	submit (enabled)
-44	1262.398	1262.398	11	59	452	R	shows	talking emotion
-44	1262.399	1262.399	11	59	453	R	shows	up_left gesture
-44	1262.485	1262.485	11	59	454	R	says	You are not that far from the minimum; the difference is only 5 Francs. I am sure you can do it.
-44	1273.210	1273.210	12	59	456	A	adds	Zermatt-Montreux (4-6)
-44	1273.971	1273.971	12	59	459	B	presses	compare (enabled)
-44	1277.026	1277.026	12	59	461	A	adds	Zermatt-Interlaken (4-5)
-44	1294.654	1294.654	12	60	465	B	adds	Luzern-Zermatt (1-4)
-44	1299.815	1299.815	12	60	467	B	adds	Zermatt-Davos (4-9)
-44	1304.467	1304.467	12	61	469	A	adds	Gallen-Davos (8-9)
-44	1307.877	1307.877	12	61	471	A	adds	Zurich-Gallen (2-8)
-44	1314.130	1314.130	12	62	473	B	adds	Zurich-Bern (2-3)
-44	1317.220	1317.220	12	62	475	B	adds	Basel-Bern (0-3)
-44	1319.593	1319.593	12	63	477	A	adds	Basel-Neuchatel (0-7)
-44	1321.778	1321.778	12	63	479	A	presses	submit (enabled)
-44	1322.837	1322.837	12	63	480	T	submits	cost=25 (opt_cost=22)
-44	1324.170	1324.170	12	63	482	B	presses	submit (enabled)
-44	1324.588	1324.588	12	63	483	R	shows	talking emotion
-44	1324.588	1324.588	12	63	484	R	shows	up_left gesture
-44	1324.670	1324.670	12	63	485	R	says	You are away from the minimum by 3 Francs. Let's Try again.
-44	1337.557	1337.557	13	63	487	A	adds	Interlaken-Neuchatel (5-7)
-44	1343.336	1343.336	13	63	489	B	presses	compare (enabled)
-44	1346.476	1346.476	13	63	491	A	adds	Interlaken-Montreux (5-6)
-44	1353.087	1353.087	13	64	493	B	adds	Zermatt-Montreux (4-6)
-44	1358.793	1358.793	13	64	495	B	adds	Zermatt-Davos (4-9)
-44	1361.593	1361.593	13	65	497	A	adds	Gallen-Davos (8-9)
-44	1366.443	1366.443	13	65	499	A	adds	Zurich-Gallen (2-8)
-44	1372.403	1372.403	13	66	501	B	adds	Luzern-Zurich (1-2)
-44	1376.113	1376.113	13	66	503	B	adds	Luzern-Bern (1-3)
-44	1378.289	1378.289	13	67	505	A	adds	Basel-Bern (0-3)
-44	1380.111	1380.111	13	67	507	A	presses	submit (enabled)
-44	1380.791	1380.791	13	67	508	T	submits	cost=25 (opt_cost=22)
-44	1382.169	1382.169	13	67	510	B	presses	submit (enabled)
-44	1382.457	1382.457	13	67	511	R	shows	talking emotion
-44	1382.458	1382.458	13	67	512	R	shows	up_left gesture
-44	1382.541	1382.541	13	67	513	R	says	You are away from the minimum by 3 Francs. Let's Try again.
-44	1390.729	1390.729	14	67	515	A	adds	Gallen-Davos (8-9)
-44	1391.336	1391.336	14	67	517	B	presses	compare (enabled)
-44	1392.486	1392.486	14	67	519	B	presses	previous (enabled)
-44	1392.954	1392.954	14	67	521	B	presses	previous (enabled)
-44	1394.255	1394.255	14	67	523	B	presses	compare (enabled)
-44	1394.268	1394.268	14	67	524	B	presses	next (enabled)
-44	1404.163	1404.163	14	67	527	A	adds	Zermatt-Davos (4-9)
-44	1414.553	1414.553	14	68	529	B	adds	Luzern-Zermatt (1-4)
-44	1425.464	1425.464	14	68	531	B	adds	Luzern-Zurich (1-2)
-44	1429.108	1429.108	14	69	533	A	adds	Zurich-Bern (2-3)
-44	1432.773	1432.773	14	69	535	A	adds	Basel-Bern (0-3)
-44	1443.786	1443.786	14	70	537	B	adds	Basel-Neuchatel (0-7)
-44	1454.195	1454.195	14	70	539	B	adds	Montreux-Neuchatel (6-7)
-44	1456.005	1456.005	14	71	541	A	adds	Interlaken-Montreux (5-6)
-44	1459.011	1459.011	14	71	543	A	presses	submit (enabled)
-44	1459.254	1459.254	14	71	544	T	submits	cost=26 (opt_cost=22)
-44	1460.601	1460.601	14	71	546	B	presses	submit (enabled)
-44	1460.958	1460.958	14	71	547	R	shows	talking emotion
-44	1460.982	1460.982	14	71	548	R	shows	up_left gesture
-44	1461.187	1461.187	14	71	549	R	says	You are not that far from the minimum; the difference is only 4 Francs. I am sure you can do it.
-44	1472.668	1472.668	15	71	552	B	presses	compare (enabled)
-44	1472.986	1472.986	15	71	553	A	adds	Zermatt-Interlaken (4-5)
-44	1476.255	1476.255	15	71	555	A	adds	Luzern-Interlaken (1-5)
-44	1481.768	1481.768	15	72	557	B	adds	Zermatt-Montreux (4-6)
-44	1483.215	1483.215	15	72	559	B	adds	Montreux-Neuchatel (6-7)
-44	1488.924	1488.924	15	73	561	A	adds	Basel-Neuchatel (0-7)
-44	1490.648	1490.648	15	73	563	A	adds	Basel-Zurich (0-2)
-44	1494.618	1494.618	15	74	565	B	adds	Basel-Bern (0-3)
-44	1496.067	1496.067	15	74	567	B	adds	Interlaken-Bern (5-3)
-44	1504.503	1504.503	15	75	570	A	adds	Zurich-Gallen (2-8)
-44	1507.218	1507.218	15	75	572	A	adds	Gallen-Davos (8-9)
-44	1509.722	1509.722	15	76	574	A	presses	submit (enabled)
-44	1510.734	1510.734	15	76	575	T	submits	cost=31 (opt_cost=22)
-44	1512.084	1512.084	15	76	577	B	presses	submit (enabled)
-44	1512.365	1512.365	15	76	578	R	shows	talking emotion
-44	1512.365	1512.365	15	76	579	R	shows	up_left gesture
-44	1512.517	1512.517	15	76	580	R	says	You are not that far from the minimum; the difference is only 9 Francs. I am sure you can do it.
-44	1521.335	1521.335	15	76	582	A	presses	submit (enabled)
-44	1521.398	1521.398	15	76	583	R	shows	talking emotion
-44	1521.398	1521.398	15	76	584	R	shows	up_right gesture
-44	1521.401	1521.401	15	76	585	R	says	Hey guys, maybe, it would be easier to solve the problem if you look at your previous solutions more.
-44	1521.950	1521.950	15	76	587	A	presses	submit (enabled)
-44	1522.244	1522.244	15	76	589	A	presses	submit (enabled)
-44	1522.496	1522.496	15	76	591	A	presses	submit (enabled)
-44	1533.727	1533.727	16	76	593	A	presses	compare (enabled)
-44	1538.818	1538.818	16	76	595	B	adds	Zermatt-Montreux (4-6)
-44	1542.529	1542.529	16	76	597	B	adds	Zermatt-Davos (4-9)
-44	1543.725	1543.725	16	77	599	A	adds	Gallen-Davos (8-9)
-44	1545.837	1545.837	16	77	601	A	adds	Zurich-Gallen (2-8)
-44	1550.354	1550.354	16	78	603	B	adds	Luzern-Zurich (1-2)
-44	1553.110	1553.110	16	78	605	B	adds	Luzern-Bern (1-3)
-44	1558.027	1558.027	16	79	607	A	adds	Interlaken-Bern (5-3)
-44	1560.570	1560.570	16	79	609	A	adds	Interlaken-Neuchatel (5-7)
-44	1564.867	1564.867	16	80	611	B	adds	Basel-Neuchatel (0-7)
-44	1565.824	1565.824	16	80	613	A	presses	submit (enabled)
-44	1566.267	1566.267	16	80	614	T	submits	cost=26 (opt_cost=22)
-44	1567.633	1567.633	16	80	616	B	presses	submit (enabled)
-44	1567.954	1567.954	16	80	617	R	shows	talking emotion
-44	1567.960	1567.960	16	80	618	R	shows	up_left gesture
-44	1568.075	1568.075	16	80	619	R	says	You are away from the minimum by 4 Francs. Let's Try again.
-44	1575.512	1575.512	17	80	621	A	presses	compare (enabled)
-44	1578.850	1578.850	17	80	623	B	adds	Zermatt-Montreux (4-6)
-44	1579.544	1579.544	17	80	625	B	adds	Zermatt-Interlaken (4-5)
-44	1580.686	1580.686	17	81	627	A	adds	Interlaken-Neuchatel (5-7)
-44	1584.189	1584.189	17	81	629	A	adds	Basel-Neuchatel (0-7)
-44	1587.800	1587.800	17	82	631	B	adds	Basel-Bern (0-3)
-44	1588.578	1588.578	17	82	633	B	adds	Zurich-Bern (2-3)
-44	1592.096	1592.096	17	83	636	A	adds	Zurich-Gallen (2-8)
-44	1594.150	1594.150	17	83	638	A	adds	Gallen-Davos (8-9)
-44	1597.869	1597.869	17	84	640	B	adds	Luzern-Davos (1-9)
-44	1598.482	1598.482	17	84	643	A	presses	submit (enabled)
-44	1598.597	1598.597	17	84	644	B	adds	Luzern-Zermatt (1-4)
-44	1598.948	1598.948	17	85	645	T	submits	cost=28 (opt_cost=22)
-44	1599.200	1599.200	17	85	647	B	presses	submit (enabled)
-44	1600.317	1600.317	17	85	649	B	presses	submit (enabled)
-44	1600.655	1600.655	17	85	650	R	shows	talking emotion
-44	1600.655	1600.655	17	85	651	R	shows	up_left gesture
-44	1600.785	1600.785	17	85	652	R	says	You are not that far from the minimum; the difference is only 6 Francs. I am sure you can do it.
+team_no	attempt_no	turn_no	event_no	time	subject	verb	object
+44	1	1	1	0.192	R	shows	observe gesture
+44	1	1	2	0.271	R	says	so, ann and bob, let's start building the tracks. i count on you guys. are you ready? also, you need to play this game together, as both of you will see different views at all times. you can talk now to help each other. to see my instructions again, check the information icon on your screens. time to play. let's go!
+44	1	1	3	45.833	A	presses	help (enabled)
+44	1	1	4	47.598	B	presses	help (enabled)
+44	1	1	5	53.397	R	shows	thinking gesture
+44	1	1	6	53.403	R	says	hmm, i see.
+44	1	1	7	60.133	B	presses	help (enabled)
+44	1	1	8	98.453	R	shows	observe gesture
+44	1	1	9	103.688	A	presses	submit (disabled)
+44	1	1	10	120.663	B	presses	help (enabled)
+44	1	1	11	131.770	A	adds	Interlaken-Montreux (5-6)
+44	1	1	12	134.203	A	presses	submit (disabled)
+44	1	1	13	145.068	A	adds	Interlaken-Neuchatel (5-7)
+44	1	2	14	155.988	A	presses	submit (disabled)
+44	1	2	15	158.459	R	shows	thinking gesture
+44	1	2	16	158.463	R	says	hmm, i see.
+44	1	2	17	169.674	B	adds	Basel-Neuchatel (0-7)
+44	1	2	18	173.906	B	adds	Basel-Bern (0-3)
+44	1	3	19	180.147	A	adds	Zurich-Bern (2-3)
+44	1	3	20	185.388	A	adds	Zurich-Gallen (2-8)
+44	1	4	21	193.499	B	adds	Gallen-Davos (8-9)
+44	1	4	22	197.008	B	adds	Luzern-Davos (1-9)
+44	1	5	23	204.697	A	adds	Luzern-Zurich (1-2)
+44	1	5	24	210.886	A	adds	Basel-Zurich (0-2)
+44	1	6	25	219.461	B	adds	Luzern-Zermatt (1-4)
+44	1	6	26	219.883	R	shows	observe gesture
+44	1	6	27	233.756	A	presses	submit (enabled)
+44	1	6	28	234.720	T	submits	cost=35 (opt_cost=22)
+44	1	6	29	236.093	B	presses	submit (enabled)
+44	1	6	30	236.364	R	shows	talking emotion
+44	1	6	31	236.366	R	shows	up_left gesture
+44	1	6	32	236.494	R	says	you are away from the minimum by 13 francs. let's try again.
+44	1	6	33	242.836	R	shows	talking emotion
+44	1	6	34	242.836	R	shows	point_front gesture
+44	1	6	35	242.839	R	says	by the way, you guys now also have the button on the bottom of your screen in the abstract view for comparing solutions.
+44	2	6	36	255.133	A	presses	compare (enabled)
+44	2	6	37	260.861	B	presses	help (enabled)
+44	2	6	38	280.326	B	adds	Interlaken-Montreux (5-6)
+44	2	6	39	282.984	A	presses	submit (disabled)
+44	2	6	40	283.240	B	adds	Interlaken-Neuchatel (5-7)
+44	2	7	41	289.005	A	adds	Neuchatel-Bern (7-3)
+44	2	7	42	293.831	A	adds	Luzern-Bern (1-3)
+44	2	8	43	299.359	B	adds	Basel-Bern (0-3)
+44	2	8	44	305.482	B	adds	Zurich-Bern (2-3)
+44	2	9	45	308.687	A	adds	Luzern-Davos (1-9)
+44	2	9	46	313.476	A	adds	Zurich-Davos (2-9)
+44	2	10	47	319.336	B	adds	Gallen-Davos (8-9)
+44	2	10	48	322.110	B	adds	Zermatt-Davos (4-9)
+44	2	11	49	337.237	A	presses	submit (enabled)
+44	2	11	50	353.868	A	presses	submit (selected)
+44	2	11	51	354.823	A	presses	submit (enabled)
+44	2	11	52	354.876	T	submits	cost=33 (opt_cost=22)
+44	2	11	53	356.027	B	presses	submit (enabled)
+44	2	11	54	357.103	R	shows	talking emotion
+44	2	11	55	357.105	R	shows	up_left gesture
+44	2	11	56	357.166	B	presses	submit (enabled)
+44	2	11	57	357.298	R	says	you are away from the minimum by 11 francs. let's try again.
+44	3	11	58	367.437	A	adds	Zermatt-Montreux (4-6)
+44	3	11	59	371.352	A	adds	Zermatt-Davos (4-9)
+44	3	12	60	378.562	B	adds	Luzern-Zermatt (1-4)
+44	3	12	61	380.907	B	adds	Zermatt-Interlaken (4-5)
+44	3	13	62	385.240	A	adds	Luzern-Interlaken (1-5)
+44	3	13	63	389.615	A	adds	Luzern-Zurich (1-2)
+44	3	14	64	398.105	B	adds	Luzern-Davos (1-9)
+44	3	14	65	399.689	B	adds	Gallen-Davos (8-9)
+44	3	15	66	404.479	A	adds	Zurich-Gallen (2-8)
+44	3	15	67	415.163	A	adds	Zurich-Bern (2-3)
+44	3	16	68	420.379	B	adds	Interlaken-Bern (5-3)
+44	3	16	69	427.022	B	adds	Basel-Bern (0-3)
+44	3	17	70	430.049	A	adds	Basel-Neuchatel (0-7)
+44	3	17	71	436.134	A	adds	Interlaken-Neuchatel (5-7)
+44	3	18	72	447.228	A	presses	submit (enabled)
+44	3	18	73	447.406	T	submits	cost=41 (opt_cost=22)
+44	3	18	74	448.794	B	presses	submit (enabled)
+44	3	18	75	449.024	R	shows	talking emotion
+44	3	18	76	449.026	R	shows	up_left gesture
+44	3	18	77	449.154	R	says	you are not that far from the minimum; the difference is only 19 francs. i am sure you can do it.
+44	4	18	78	459.237	A	presses	compare (enabled)
+44	4	18	79	463.632	B	adds	Gallen-Davos (8-9)
+44	4	18	80	473.776	B	adds	Zermatt-Davos (4-9)
+44	4	19	81	479.056	A	adds	Zurich-Gallen (2-8)
+44	4	19	82	485.434	A	adds	Zurich-Davos (2-9)
+44	4	20	83	490.991	B	adds	Luzern-Zurich (1-2)
+44	4	20	84	493.735	B	adds	Luzern-Zermatt (1-4)
+44	4	21	85	501.715	A	adds	Zurich-Bern (2-3)
+44	4	21	86	506.040	A	adds	Neuchatel-Bern (7-3)
+44	4	22	87	511.494	B	adds	Interlaken-Bern (5-3)
+44	4	22	88	513.872	B	adds	Basel-Bern (0-3)
+44	4	23	89	519.617	A	adds	Zermatt-Interlaken (4-5)
+44	4	23	90	523.497	A	adds	Montreux-Neuchatel (6-7)
+44	4	24	91	531.582	A	presses	submit (enabled)
+44	4	24	92	531.629	T	submits	cost=36 (opt_cost=22)
+44	4	24	93	532.673	B	presses	submit (enabled)
+44	4	24	94	533.266	R	shows	talking emotion
+44	4	24	95	533.267	R	shows	up_left gesture
+44	4	24	96	533.393	R	says	you are away from the minimum by 14 francs. let's try again.
+44	5	24	97	541.100	A	presses	compare (enabled)
+44	5	24	98	544.801	A	presses	submit (disabled)
+44	5	24	99	545.126	B	adds	Gallen-Davos (8-9)
+44	5	24	100	545.969	A	presses	submit (disabled)
+44	5	24	101	547.972	B	adds	Zurich-Gallen (2-8)
+44	5	25	102	553.286	A	adds	Zermatt-Davos (4-9)
+44	5	25	103	556.485	A	adds	Zermatt-Interlaken (4-5)
+44	5	26	104	558.871	A	presses	compare (enabled)
+44	5	26	105	562.026	B	adds	Luzern-Zermatt (1-4)
+44	5	26	106	563.202	B	adds	Zermatt-Montreux (4-6)
+44	5	27	107	569.071	A	adds	Montreux-Neuchatel (6-7)
+44	5	27	108	573.279	A	adds	Neuchatel-Bern (7-3)
+44	5	28	109	578.352	R	shows	thinking gesture
+44	5	28	110	578.400	R	says	hmm, i see.
+44	5	28	111	583.591	B	adds	Luzern-Zurich (1-2)
+44	5	28	112	585.405	B	adds	Basel-Bern (0-3)
+44	5	29	113	590.714	A	presses	submit (enabled)
+44	5	29	114	590.754	T	submits	cost=27 (opt_cost=22)
+44	5	29	115	591.891	B	presses	submit (enabled)
+44	5	29	116	592.479	R	shows	talking emotion
+44	5	29	117	592.480	R	shows	up_left gesture
+44	5	29	118	592.576	R	says	you are not that far from the minimum; the difference is only 5 francs. i am sure you can do it.
+44	5	29	119	601.347	R	shows	talking emotion
+44	5	29	120	601.347	R	shows	up_right gesture
+44	5	29	121	601.439	R	says	hey guys, maybe, it would be easier to solve the problem if you look at your previous solutions more.
+44	6	29	122	614.497	B	presses	compare (enabled)
+44	6	29	123	618.634	B	presses	previous (enabled)
+44	6	29	124	619.356	B	presses	previous (enabled)
+44	6	29	125	619.858	B	presses	previous (enabled)
+44	6	29	126	620.354	A	adds	Zermatt-Montreux (4-6)
+44	6	29	127	620.358	B	presses	previous (enabled)
+44	6	29	128	621.224	B	presses	compare (enabled)
+44	6	29	129	621.232	B	presses	next (enabled)
+44	6	29	130	621.589	B	presses	compare (enabled)
+44	6	29	131	621.601	B	presses	next (enabled)
+44	6	29	132	621.800	B	presses	compare (enabled)
+44	6	29	133	621.808	B	presses	next (enabled)
+44	6	29	134	621.956	B	presses	compare (enabled)
+44	6	29	135	621.966	B	presses	next (enabled)
+44	6	29	136	622.124	B	presses	compare (enabled)
+44	6	29	137	630.880	A	adds	Zermatt-Davos (4-9)
+44	6	30	138	640.325	B	adds	Gallen-Davos (8-9)
+44	6	30	139	643.673	B	adds	Zurich-Gallen (2-8)
+44	6	31	140	651.521	A	adds	Luzern-Zurich (1-2)
+44	6	31	141	657.549	A	adds	Luzern-Bern (1-3)
+44	6	32	142	658.824	B	presses	previous (enabled)
+44	6	32	143	668.827	B	adds	Basel-Bern (0-3)
+44	6	32	144	683.096	B	adds	Basel-Neuchatel (0-7)
+44	6	33	145	693.617	A	adds	Interlaken-Neuchatel (5-7)
+44	6	33	146	707.228	A	adds	Zermatt-Interlaken (4-5)
+44	6	34	147	711.152	A	presses	submit (enabled)
+44	6	34	148	711.190	T	submits	cost=27 (opt_cost=22)
+44	6	34	149	712.390	B	presses	submit (enabled)
+44	6	34	150	712.857	R	shows	talking emotion
+44	6	34	151	712.858	R	shows	up_left gesture
+44	6	34	152	712.946	R	says	you are away from the minimum by 5 francs. let's try again.
+44	7	34	153	720.474	A	presses	compare (enabled)
+44	7	34	154	732.422	B	adds	Zermatt-Montreux (4-6)
+44	7	34	155	739.130	B	adds	Zermatt-Davos (4-9)
+44	7	35	156	748.572	A	adds	Gallen-Davos (8-9)
+44	7	35	157	754.932	A	adds	Zurich-Gallen (2-8)
+44	7	36	158	763.262	B	adds	Luzern-Zurich (1-2)
+44	7	36	159	767.539	B	adds	Luzern-Bern (1-3)
+44	7	37	160	775.443	A	adds	Interlaken-Bern (5-3)
+44	7	37	161	783.266	A	adds	Interlaken-Neuchatel (5-7)
+44	7	38	162	800.371	B	adds	Zermatt-Interlaken (4-5)
+44	7	38	163	814.223	B	adds	Basel-Neuchatel (0-7)
+44	7	39	164	816.864	A	presses	submit (enabled)
+44	7	39	165	820.524	T	submits	cost=28 (opt_cost=22)
+44	7	39	166	821.893	B	presses	submit (enabled)
+44	7	39	167	822.133	R	shows	talking emotion
+44	7	39	168	822.133	R	shows	up_left gesture
+44	7	39	169	822.206	R	says	you are away from the minimum by 6 francs. let's try again.
+44	8	39	170	830.162	B	presses	compare (enabled)
+44	8	39	171	834.874	A	adds	Interlaken-Montreux (5-6)
+44	8	39	172	845.470	A	adds	Interlaken-Neuchatel (5-7)
+44	8	40	173	855.643	B	adds	Basel-Neuchatel (0-7)
+44	8	40	174	861.438	B	adds	Basel-Bern (0-3)
+44	8	41	175	866.905	A	adds	Zurich-Bern (2-3)
+44	8	41	176	871.921	A	adds	Luzern-Bern (1-3)
+44	8	42	177	888.943	B	adds	Luzern-Zermatt (1-4)
+44	8	42	178	894.553	B	adds	Zermatt-Davos (4-9)
+44	8	43	179	900.064	A	adds	Gallen-Davos (8-9)
+44	8	43	180	905.106	A	presses	submit (enabled)
+44	8	43	181	905.149	T	submits	cost=28 (opt_cost=22)
+44	8	43	182	906.197	B	presses	submit (enabled)
+44	8	43	183	906.211	A	presses	submit (enabled)
+44	8	43	184	908.896	R	shows	talking emotion
+44	8	43	185	908.897	R	shows	up_left gesture
+44	8	43	186	908.994	R	says	you are away from the minimum by 6 francs. let's try again.
+44	9	43	187	917.858	B	presses	compare (enabled)
+44	9	43	188	923.974	A	adds	Zermatt-Interlaken (4-5)
+44	9	43	189	937.819	A	adds	Zermatt-Montreux (4-6)
+44	9	44	190	949.142	B	adds	Montreux-Neuchatel (6-7)
+44	9	44	191	956.034	B	adds	Neuchatel-Bern (7-3)
+44	9	45	192	964.710	A	removes	Neuchatel-Bern (7-3)
+44	9	45	193	972.610	A	adds	Basel-Neuchatel (0-7)
+44	9	46	194	985.060	B	adds	Basel-Bern (0-3)
+44	9	46	195	997.831	B	adds	Zurich-Bern (2-3)
+44	9	47	196	1006.881	A	adds	Zurich-Gallen (2-8)
+44	9	47	197	1010.945	A	adds	Gallen-Davos (8-9)
+44	9	48	198	1020.008	B	adds	Luzern-Davos (1-9)
+44	9	48	199	1027.133	A	presses	submit (enabled)
+44	9	48	200	1027.242	T	submits	cost=24 (opt_cost=22)
+44	9	48	201	1028.107	B	presses	submit (enabled)
+44	9	48	202	1028.799	R	shows	talking emotion
+44	9	48	203	1028.838	R	shows	up_left gesture
+44	9	48	204	1028.883	R	says	you are away from the minimum by 2 francs. let's try again.
+44	10	48	205	1035.816	A	presses	compare (enabled)
+44	10	48	206	1045.894	B	adds	Zermatt-Montreux (4-6)
+44	10	48	207	1048.504	B	adds	Zermatt-Interlaken (4-5)
+44	10	49	208	1055.288	A	adds	Montreux-Neuchatel (6-7)
+44	10	49	209	1072.145	A	adds	Interlaken-Neuchatel (5-7)
+44	10	50	210	1086.426	B	removes	Interlaken-Neuchatel (5-7)
+44	10	50	211	1094.651	B	adds	Interlaken-Bern (5-3)
+44	10	51	212	1102.318	A	adds	Basel-Bern (0-3)
+44	10	51	213	1107.641	A	adds	Zurich-Bern (2-3)
+44	10	52	214	1118.790	B	adds	Zurich-Gallen (2-8)
+44	10	52	215	1123.017	B	adds	Gallen-Davos (8-9)
+44	10	53	216	1126.462	A	adds	Luzern-Davos (1-9)
+44	10	53	217	1137.872	A	presses	submit (enabled)
+44	10	53	218	1138.023	T	submits	cost=24 (opt_cost=22)
+44	10	53	219	1139.124	B	presses	submit (enabled)
+44	10	53	220	1139.631	R	shows	up_left gesture
+44	10	53	221	1139.631	R	shows	talking emotion
+44	10	53	222	1139.717	R	says	you are not that far from the minimum; the difference is only 2 francs. i am sure you can do it.
+44	10	53	223	1148.663	R	shows	talking emotion
+44	10	53	224	1148.663	R	shows	up_right gesture
+44	10	53	225	1148.667	R	says	hey guys, maybe, it would be easier to solve the problem if you look at your previous solutions more.
+44	11	53	226	1158.190	A	presses	submit (disabled)
+44	11	53	227	1161.539	B	presses	compare (enabled)
+44	11	53	228	1161.802	A	adds	Zermatt-Montreux (4-6)
+44	11	53	229	1164.320	A	adds	Zermatt-Interlaken (4-5)
+44	11	54	230	1176.090	B	adds	Montreux-Neuchatel (6-7)
+44	11	54	231	1186.382	B	adds	Interlaken-Neuchatel (5-7)
+44	11	55	232	1193.821	A	adds	Interlaken-Bern (5-3)
+44	11	55	233	1199.308	A	adds	Basel-Bern (0-3)
+44	11	56	234	1215.905	B	adds	Basel-Zurich (0-2)
+44	11	56	235	1221.274	B	removes	Basel-Zurich (0-2)
+44	11	57	236	1226.418	A	adds	Zurich-Bern (2-3)
+44	11	57	237	1231.727	A	adds	Zurich-Gallen (2-8)
+44	11	58	238	1236.438	B	adds	Gallen-Davos (8-9)
+44	11	58	239	1238.366	R	shows	observe gesture
+44	11	58	240	1238.381	R	says	so guys,..you have 5 more minutes to find the best solution. you can do it!
+44	11	58	241	1238.682	B	adds	Luzern-Davos (1-9)
+44	11	59	242	1260.577	A	presses	submit (enabled)
+44	11	59	243	1260.649	T	submits	cost=27 (opt_cost=22)
+44	11	59	244	1261.987	B	presses	submit (enabled)
+44	11	59	245	1262.398	R	shows	talking emotion
+44	11	59	246	1262.399	R	shows	up_left gesture
+44	11	59	247	1262.485	R	says	you are not that far from the minimum; the difference is only 5 francs. i am sure you can do it.
+44	12	59	248	1273.210	A	adds	Zermatt-Montreux (4-6)
+44	12	59	249	1273.971	B	presses	compare (enabled)
+44	12	59	250	1277.026	A	adds	Zermatt-Interlaken (4-5)
+44	12	60	251	1294.654	B	adds	Luzern-Zermatt (1-4)
+44	12	60	252	1299.815	B	adds	Zermatt-Davos (4-9)
+44	12	61	253	1304.467	A	adds	Gallen-Davos (8-9)
+44	12	61	254	1307.877	A	adds	Zurich-Gallen (2-8)
+44	12	62	255	1314.130	B	adds	Zurich-Bern (2-3)
+44	12	62	256	1317.220	B	adds	Basel-Bern (0-3)
+44	12	63	257	1319.593	A	adds	Basel-Neuchatel (0-7)
+44	12	63	258	1321.778	A	presses	submit (enabled)
+44	12	63	259	1322.837	T	submits	cost=25 (opt_cost=22)
+44	12	63	260	1324.170	B	presses	submit (enabled)
+44	12	63	261	1324.588	R	shows	talking emotion
+44	12	63	262	1324.588	R	shows	up_left gesture
+44	12	63	263	1324.670	R	says	you are away from the minimum by 3 francs. let's try again.
+44	13	63	264	1337.557	A	adds	Interlaken-Neuchatel (5-7)
+44	13	63	265	1343.336	B	presses	compare (enabled)
+44	13	63	266	1346.476	A	adds	Interlaken-Montreux (5-6)
+44	13	64	267	1353.087	B	adds	Zermatt-Montreux (4-6)
+44	13	64	268	1358.793	B	adds	Zermatt-Davos (4-9)
+44	13	65	269	1361.593	A	adds	Gallen-Davos (8-9)
+44	13	65	270	1366.443	A	adds	Zurich-Gallen (2-8)
+44	13	66	271	1372.403	B	adds	Luzern-Zurich (1-2)
+44	13	66	272	1376.113	B	adds	Luzern-Bern (1-3)
+44	13	67	273	1378.289	A	adds	Basel-Bern (0-3)
+44	13	67	274	1380.111	A	presses	submit (enabled)
+44	13	67	275	1380.791	T	submits	cost=25 (opt_cost=22)
+44	13	67	276	1382.169	B	presses	submit (enabled)
+44	13	67	277	1382.457	R	shows	talking emotion
+44	13	67	278	1382.458	R	shows	up_left gesture
+44	13	67	279	1382.541	R	says	you are away from the minimum by 3 francs. let's try again.
+44	14	67	280	1390.729	A	adds	Gallen-Davos (8-9)
+44	14	67	281	1391.336	B	presses	compare (enabled)
+44	14	67	282	1392.486	B	presses	previous (enabled)
+44	14	67	283	1392.954	B	presses	previous (enabled)
+44	14	67	284	1394.255	B	presses	compare (enabled)
+44	14	67	285	1394.268	B	presses	next (enabled)
+44	14	67	286	1404.163	A	adds	Zermatt-Davos (4-9)
+44	14	68	287	1414.553	B	adds	Luzern-Zermatt (1-4)
+44	14	68	288	1425.464	B	adds	Luzern-Zurich (1-2)
+44	14	69	289	1429.108	A	adds	Zurich-Bern (2-3)
+44	14	69	290	1432.773	A	adds	Basel-Bern (0-3)
+44	14	70	291	1443.786	B	adds	Basel-Neuchatel (0-7)
+44	14	70	292	1454.195	B	adds	Montreux-Neuchatel (6-7)
+44	14	71	293	1456.005	A	adds	Interlaken-Montreux (5-6)
+44	14	71	294	1459.011	A	presses	submit (enabled)
+44	14	71	295	1459.254	T	submits	cost=26 (opt_cost=22)
+44	14	71	296	1460.601	B	presses	submit (enabled)
+44	14	71	297	1460.958	R	shows	talking emotion
+44	14	71	298	1460.982	R	shows	up_left gesture
+44	14	71	299	1461.187	R	says	you are not that far from the minimum; the difference is only 4 francs. i am sure you can do it.
+44	15	71	300	1472.668	B	presses	compare (enabled)
+44	15	71	301	1472.986	A	adds	Zermatt-Interlaken (4-5)
+44	15	71	302	1476.255	A	adds	Luzern-Interlaken (1-5)
+44	15	72	303	1481.768	B	adds	Zermatt-Montreux (4-6)
+44	15	72	304	1483.215	B	adds	Montreux-Neuchatel (6-7)
+44	15	73	305	1488.924	A	adds	Basel-Neuchatel (0-7)
+44	15	73	306	1490.648	A	adds	Basel-Zurich (0-2)
+44	15	74	307	1494.618	B	adds	Basel-Bern (0-3)
+44	15	74	308	1496.067	B	adds	Interlaken-Bern (5-3)
+44	15	75	309	1504.503	A	adds	Zurich-Gallen (2-8)
+44	15	75	310	1507.218	A	adds	Gallen-Davos (8-9)
+44	15	76	311	1509.722	A	presses	submit (enabled)
+44	15	76	312	1510.734	T	submits	cost=31 (opt_cost=22)
+44	15	76	313	1512.084	B	presses	submit (enabled)
+44	15	76	314	1512.365	R	shows	talking emotion
+44	15	76	315	1512.365	R	shows	up_left gesture
+44	15	76	316	1512.517	R	says	you are not that far from the minimum; the difference is only 9 francs. i am sure you can do it.
+44	15	76	317	1521.335	A	presses	submit (enabled)
+44	15	76	318	1521.398	R	shows	talking emotion
+44	15	76	319	1521.398	R	shows	up_right gesture
+44	15	76	320	1521.401	R	says	hey guys, maybe, it would be easier to solve the problem if you look at your previous solutions more.
+44	15	76	321	1521.950	A	presses	submit (enabled)
+44	15	76	322	1522.244	A	presses	submit (enabled)
+44	15	76	323	1522.496	A	presses	submit (enabled)
+44	16	76	324	1533.727	A	presses	compare (enabled)
+44	16	76	325	1538.818	B	adds	Zermatt-Montreux (4-6)
+44	16	76	326	1542.529	B	adds	Zermatt-Davos (4-9)
+44	16	77	327	1543.725	A	adds	Gallen-Davos (8-9)
+44	16	77	328	1545.837	A	adds	Zurich-Gallen (2-8)
+44	16	78	329	1550.354	B	adds	Luzern-Zurich (1-2)
+44	16	78	330	1553.110	B	adds	Luzern-Bern (1-3)
+44	16	79	331	1558.027	A	adds	Interlaken-Bern (5-3)
+44	16	79	332	1560.570	A	adds	Interlaken-Neuchatel (5-7)
+44	16	80	333	1564.867	B	adds	Basel-Neuchatel (0-7)
+44	16	80	334	1565.824	A	presses	submit (enabled)
+44	16	80	335	1566.267	T	submits	cost=26 (opt_cost=22)
+44	16	80	336	1567.633	B	presses	submit (enabled)
+44	16	80	337	1567.954	R	shows	talking emotion
+44	16	80	338	1567.960	R	shows	up_left gesture
+44	16	80	339	1568.075	R	says	you are away from the minimum by 4 francs. let's try again.
+44	17	80	340	1575.512	A	presses	compare (enabled)
+44	17	80	341	1578.850	B	adds	Zermatt-Montreux (4-6)
+44	17	80	342	1579.544	B	adds	Zermatt-Interlaken (4-5)
+44	17	81	343	1580.686	A	adds	Interlaken-Neuchatel (5-7)
+44	17	81	344	1584.189	A	adds	Basel-Neuchatel (0-7)
+44	17	82	345	1587.800	B	adds	Basel-Bern (0-3)
+44	17	82	346	1588.578	B	adds	Zurich-Bern (2-3)
+44	17	83	347	1592.096	A	adds	Zurich-Gallen (2-8)
+44	17	83	348	1594.150	A	adds	Gallen-Davos (8-9)
+44	17	84	349	1597.869	B	adds	Luzern-Davos (1-9)
+44	17	84	350	1598.482	A	presses	submit (enabled)
+44	17	84	351	1598.597	B	adds	Luzern-Zermatt (1-4)
+44	17	85	352	1598.948	T	submits	cost=28 (opt_cost=22)
+44	17	85	353	1599.200	B	presses	submit (enabled)
+44	17	85	354	1600.317	B	presses	submit (enabled)
+44	17	85	355	1600.655	R	shows	talking emotion
+44	17	85	356	1600.655	R	shows	up_left gesture
+44	17	85	357	1600.785	R	says	you are not that far from the minimum; the difference is only 6 francs. i am sure you can do it.
