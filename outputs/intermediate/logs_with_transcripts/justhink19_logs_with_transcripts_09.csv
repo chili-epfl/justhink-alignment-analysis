@@ -1,0 +1,1077 @@
+team_no,attempt_no,turn_no,start,end,subject,verb,object
+9,1,1,0.226,0.226,R,shows,observe gesture
+9,1,1,0.309,0.309,R,says,"so, ann and bob, let's start building the tracks. i count on you guys. are you ready? also, you need to play this game together, as both of you will see different views at all times. you can talk now to help each other. to see my instructions again, check the information icon on your screens. time to play. let's go!"
+9,1,1,40.591,41.040,B,says,uh
+9,1,1,41.489,42.268,B,says,ann ?
+9,1,1,42.268,42.897,A,says,yeah .
+9,1,1,43.411,45.792,B,says,if you did from mount montreux
+9,1,1,47.170,49.717,B,says,"to interlaken , mount interlaken ."
+9,1,1,50.388,54.633,B,says,that would make it less expensive than if you went to mount montreux then to zermatt .
+9,1,1,53.741,53.741,R,shows,thinking gesture
+9,1,1,53.746,53.746,R,says,"hmm, i see."
+9,1,1,55.352,56.010,R,says,i see .
+9,1,1,65.809,65.809,B,presses,help (enabled)
+9,1,1,66.276,66.276,B,presses,help (enabled)
+9,1,1,66.942,66.942,B,presses,help (enabled)
+9,1,1,93.176,93.176,B,presses,help (enabled)
+9,1,1,98.798,98.798,R,shows,observe gesture
+9,1,1,104.559,118.958,I,says,ann do you also want to read the instructions once ...
+9,1,1,111.002,111.601,B,says,um
+9,1,1,114.747,119.615,B,says,i've read the instructions and it says you could see the cost of it .
+9,1,1,120.004,123.794,B,says,in swiss francs but how would you find that out ?
+9,1,1,125.039,134.326,I,says,so can you open it again ...
+9,1,1,127.025,127.025,B,presses,help (enabled)
+9,1,1,127.366,127.366,A,presses,help (enabled)
+9,1,1,135.734,138.700,B,says,if she does it i see the cost .
+9,1,1,140.048,142.145,B,says,"oh , okay ."
+9,1,1,140.240,140.602,A,says,oh .
+9,1,1,144.276,145.834,B,says,"so , ann ."
+9,1,1,146.313,149.069,B,says,you are the interactive that's right .
+9,1,1,150.494,152.394,B,says,or do you have the dark screen .
+9,1,1,152.566,153.921,A,says,no i have the
+9,1,1,154.744,155.556,A,says,interactive .
+9,1,1,155.660,157.158,B,says,so .
+9,1,1,157.262,159.000,A,says,you have the abstract .
+9,1,1,158.392,158.985,B,says,yes .
+9,1,1,158.907,158.907,R,shows,thinking gesture
+9,1,1,158.907,158.907,R,says,"hmm, i see."
+9,1,1,160.350,160.948,R,says,i see .
+9,1,1,162.387,167.016,B,says,um could you go to mount montreux and then mount interlaken .
+9,1,1,167.540,168.349,B,says,to see
+9,1,1,170.056,170.595,A,says,mount
+9,1,1,171.332,173.549,A,says,montreux to interlaken .
+9,1,1,176.906,176.906,A,adds,Interlaken-Montreux (5-6)
+9,1,1,177.443,178.971,B,says,that's 4 .
+9,1,1,179.255,180.109,B,says,okay .
+9,1,1,180.454,181.787,B,says,"then , can you erase that ?"
+9,1,1,183.600,183.600,A,removes,Interlaken-Montreux (5-6)
+9,1,1,185.489,186.822,B,says,"oh , okay ."
+9,1,1,186.372,187.571,A,says,now we've swapped .
+9,1,1,187.571,188.335,B,says,okay .
+9,1,1,188.529,191.195,A,says,i think every time we erase something then we swap .
+9,1,1,191.300,191.929,B,says,okay .
+9,1,2,191.808,191.808,B,adds,Zermatt-Montreux (4-6)
+9,1,2,192.214,193.247,B,says,how much is that ?
+9,1,2,193.502,194.116,A,says,2 .
+9,1,2,195.616,198.867,B,says,"okay , 2 franc , 2 francs ."
+9,1,2,198.971,199.870,A,says,it says 2 .
+9,1,2,201.188,201.832,B,says,hmm
+9,1,2,203.106,204.289,B,says,how much is that ?
+9,1,2,204.285,204.285,B,adds,Luzern-Zermatt (1-4)
+9,1,2,205.202,205.757,A,says,3 .
+9,1,2,207.107,209.668,B,says,so we have 4 2 3 .
+9,1,2,207.347,208.515,A,says,we've swapped again .
+9,1,2,210.088,211.121,A,says,yes so
+9,1,2,210.477,213.428,B,says,try mount luzern to mount bern .
+9,1,2,213.263,215.210,A,says,luzern to mount bern ?
+9,1,2,215.315,216.094,B,says,yeah .
+9,1,2,217.757,220.183,B,says,i think you have to touch east so that's 3 francs .
+9,1,3,217.946,217.946,A,adds,Luzern-Bern (1-3)
+9,1,3,221.233,222.803,B,says,"oh , okay ."
+9,1,3,223.131,223.596,B,says,um
+9,1,3,223.786,229.599,B,says,"i think we should start to mount montreux , and then finish at mount interlaken ."
+9,1,3,229.978,230.392,A,says,yeah .
+9,1,3,229.978,230.444,B,says,you ?
+9,1,3,230.962,235.257,B,says,so kind of like go around in a snake instead of having to stop .
+9,1,3,234.670,236.932,A,says,"so should we, go to mount"
+9,1,3,239.306,239.727,A,says,basel .
+9,1,3,240.020,245.678,B,says,you should erase the mount bern and do it from mount luzern to mount davos i think .
+9,1,3,246.367,249.024,A,says,okay but you would have to do it because
+9,1,3,248.282,250.674,B,says,"yeah , i think though i'm not sure though ."
+9,1,3,250.303,250.303,A,removes,Luzern-Bern (1-3)
+9,1,3,251.329,251.967,A,says,okay .
+9,1,3,251.502,252.657,B,says,yes i will .
+9,1,3,252.864,255.676,B,says,so how about this how much is that ?
+9,1,4,254.575,254.575,B,adds,Luzern-Davos (1-9)
+9,1,4,255.124,255.727,A,says,3 .
+9,1,4,256.883,259.919,B,says,we've got 3 uh 2 3 2 .
+9,1,4,260.178,262.558,A,says,yeah so 4 2 3 2 .
+9,1,4,262.576,264.059,B,says,it's 6 8 .
+9,1,4,264.559,265.163,A,says,wait .
+9,1,4,265.767,268.009,A,says,3 3 6 yeah at 8 .
+9,1,4,267.552,269.398,B,says,so should i do mount saint gallen ?
+9,1,4,269.863,272.968,B,says,so we would have to go mount davos and mount saint gallen .
+9,1,4,273.399,278.277,B,says,and then mount zurich then mount bern to mount basel then mount interlaken .
+9,1,4,278.442,279.291,B,says,oh no then
+9,1,4,278.715,278.715,R,shows,observe gesture
+9,1,4,279.964,280.430,B,says,um
+9,1,4,280.723,284.303,B,says,mount neuchatel and then back to mount interlaken right ?
+9,1,4,286.589,287.115,B,says,right ?
+9,1,4,291.399,296.986,B,says,"so we go around and like we go to mount saint , gallen and then mount zurich then mount basel then mount bern"
+9,1,4,297.202,297.978,A,says,so from
+9,1,4,297.202,297.849,B,says,then mount
+9,1,4,297.909,300.151,B,says,"neuchatel , then interlaken"
+9,1,4,300.436,301.048,B,says,or
+9,1,4,301.366,305.385,B,says,you go from mount neuchatel to mount bern to mount interlaken .
+9,1,4,310.478,312.841,A,says,no i think the first idea was good .
+9,1,4,316.945,320.981,B,says,"first idea was good okay i'm gonna go track this way , but"
+9,1,4,321.491,322.440,B,says,no .
+9,1,4,323.734,325.976,B,says,no because i'll go twice on it .
+9,1,4,327.597,333.954,B,says,"oh if i go here , no i wanna i wanna draw i wanna draw i wanna draw ."
+9,1,4,337.982,343.053,B,says,okay you try mount davos to mount saint gallen .
+9,1,4,342.568,342.568,B,adds,Gallen-Davos (8-9)
+9,1,4,344.571,345.606,B,says,so that's
+9,1,4,346.192,346.813,A,says,2 .
+9,1,4,346.347,348.452,B,says,2 3 3 2 .
+9,1,4,348.435,350.108,A,says,2 3 3 2 .
+9,1,4,349.349,358.197,B,says,wait there is uh so each track was 2 then you go 3 3 and then you go 2 then you 3 3 and then you go 2 then you 3 3 and then you go 2 that looks like it .
+9,1,4,358.129,358.681,A,says,probably .
+9,1,4,359.233,360.526,A,says,so how it's going so far ?
+9,1,4,360.664,361.061,A,says,wait .
+9,1,4,361.268,363.767,A,says,"so , so from , mount saint"
+9,1,4,363.510,364.528,B,says,saint gallen .
+9,1,4,364.718,365.011,A,says,yeah .
+9,1,4,364.890,366.512,B,says,try mount zurich .
+9,1,4,366.460,366.874,A,says,okay .
+9,1,4,367.046,370.703,B,says,or you can go mount bern and then come back and then mount basel .
+9,1,4,369.461,371.221,A,says,i think we should go to mount zurich .
+9,1,4,371.721,373.670,A,says,and then go to bern and then go to basel .
+9,1,4,373.998,379.820,B,says,or we can go to mount zurich mount basel mount bern mount neuchatel mount interlaken .
+9,1,4,380.044,386.497,A,says,"no i think it would be better if we go to , mount zurich , and then bern ."
+9,1,4,387.116,388.224,B,says,i don't know .
+9,1,4,387.169,387.669,A,says,we
+9,1,4,388.467,395.331,A,says,or we should go mount saint gallen to mount zurich .
+9,1,4,397.076,398.229,A,says,to mount
+9,1,4,398.933,400.030,A,says,bern .
+9,1,4,400.030,407.346,A,says,wait no to mount basel to mount to mount neuchatel to mount bern then interlaken .
+9,1,4,407.965,409.850,B,says,to mount zurich ?
+9,1,4,410.272,415.420,B,says,mount bern to mount neuchatel to mount basel to mount and then mount interlaken ?
+9,1,4,415.983,418.459,B,says,you kind of like go there i'm not sure that could happen though .
+9,1,4,418.965,420.942,B,says,because i can't cross over .
+9,1,4,420.560,421.712,A,says,oh yeah true .
+9,1,4,420.942,421.891,B,says,i've tried that .
+9,1,4,422.337,422.988,A,says,true .
+9,1,4,423.720,426.195,A,says,"so , yeah okay ."
+9,1,4,424.987,426.591,B,says,so it has to be a straight line .
+9,1,4,426.985,429.876,B,says,or it can have zigzags but never overlap .
+9,1,4,427.452,428.245,A,says,yeah
+9,1,4,430.307,432.668,A,says,yeah so we should go
+9,1,4,433.118,434.075,A,says,i don't mind
+9,1,4,434.497,437.172,A,says,uh i think we should go to mount zurich though .
+9,1,4,437.564,442.346,B,says,and then go mount bern then mount basel or mount basel and then bern mount bern and then neuchatel .
+9,1,4,440.996,445.582,A,says,i think and then mount basel .
+9,1,4,442.740,449.155,B,says,i think what we should do is mount saint gallen mount zurich mount basel mount neuchatel mount bern then mount interlaken .
+9,1,4,449.606,453.208,A,says,i don't think i've got anything you've just said bob .
+9,1,4,459.876,461.952,B,says,or finish out mount bern
+9,1,4,462.422,466.318,A,says,i think we should finish at mount interlaken because we started we started
+9,1,4,466.684,468.569,A,says,uh mount montreux .
+9,1,4,467.134,473.295,B,says,"no we have to finish at mount um montreux because she wants all of them , there ."
+9,1,4,472.001,473.914,A,says,yeah because we've started there as well .
+9,1,4,475.189,475.773,A,says,okay .
+9,1,4,476.167,477.208,A,says,so where should
+9,1,4,477.011,479.121,B,says,i think we should go mount zurich first .
+9,1,4,479.036,481.343,A,says,okay so from mount saint gallen
+9,1,4,481.495,482.440,A,says,to zurich .
+9,1,4,481.514,482.426,B,says,to mount zurich .
+9,1,5,485.765,485.765,A,adds,Zurich-Gallen (2-8)
+9,1,5,485.985,487.111,A,says,how much was it ?
+9,1,5,487.702,488.377,B,says,3 .
+9,1,5,488.405,489.361,A,says,okay .
+9,1,5,488.911,495.129,B,says,so it's 2 3 3 oh but mount interlaken to mount montreux is 4 .
+9,1,5,495.488,495.847,A,says,yeah .
+9,1,5,497.413,498.597,B,says,that is weird .
+9,1,5,499.508,500.047,A,says,yeah .
+9,1,5,500.356,501.932,B,says,okay you are next move .
+9,1,5,502.380,504.176,B,says,we should go to mount bern then mount basel .
+9,1,5,504.098,505.898,A,says,"okay , so should i go"
+9,1,5,505.983,507.615,B,says,"i think so , i'm not sure though ."
+9,1,5,508.093,509.190,A,says,oh try it .
+9,1,5,510.572,510.572,A,adds,Zurich-Bern (2-3)
+9,1,5,510.709,512.454,B,says,it's another 3 .
+9,1,5,512.369,513.044,A,says,yeah .
+9,1,5,514.459,516.003,A,says,so it goes
+9,1,5,514.651,516.988,B,says,so should i go to mount basel ?
+9,1,5,517.499,518.535,A,says,yeah i think .
+9,1,5,517.555,520.561,B,says,then mount neuchatel then mount interlaken then
+9,1,5,520.223,523.937,A,says,"yeah i think we should i, i think we should ."
+9,1,5,520.702,524.134,B,says,"mount montreux , or should we go"
+9,1,5,525.062,525.794,A,says,oh .
+9,1,5,525.428,529.648,B,says,or should we go um mount montreux then mount interlaken ?
+9,1,5,530.233,532.090,B,says,we finish at interlaken .
+9,1,5,533.380,534.794,A,says,we should finish at interlaken .
+9,1,5,536.222,539.855,B,says,that was 4 franc 4 francs just to get from mount
+9,1,5,537.886,539.939,A,says,no we shouldn't we shouldn't we shouldn't .
+9,1,5,540.333,541.374,A,says,it's too much
+9,1,5,542.049,543.202,A,says,well wait i mean
+9,1,5,544.328,546.213,B,says,wait how much is this ?
+9,1,6,547.707,547.707,B,adds,Interlaken-Montreux (5-6)
+9,1,6,548.103,548.741,A,says,4 .
+9,1,6,549.649,551.248,B,says,it was 4 same way .
+9,1,6,556.455,557.416,B,says,how much is this ?
+9,1,6,561.738,561.738,B,adds,Interlaken-Neuchatel (5-7)
+9,1,6,562.383,562.974,A,says,3 .
+9,1,6,565.008,566.463,B,says,then or we can just
+9,1,6,567.011,569.768,B,says,go to mount neuchatel mount basel then mount bern .
+9,1,6,569.908,573.594,B,says,"because it's weird , because this is kind of like a circle , a circle has no end ."
+9,1,6,573.831,574.548,A,says,yeah .
+9,1,6,573.847,575.535,B,says,has a beginning but no end .
+9,1,6,576.103,576.491,A,says,yeah .
+9,1,6,577.476,578.996,A,says,"okay so , from"
+9,1,6,578.567,582.231,B,says,so we can start anywhere and end up at the same place .
+9,1,6,584.640,586.676,B,says,i'm not sure
+9,1,6,585.692,587.605,A,says,so mount basel then bern .
+9,1,6,587.984,588.519,A,says,okay .
+9,1,6,588.744,590.488,B,says,i'm not sure though .
+9,1,6,590.938,592.120,A,says,basel .
+9,1,7,591.670,591.670,A,adds,Basel-Neuchatel (0-7)
+9,1,7,591.888,591.888,R,shows,observe gesture
+9,1,7,592.232,596.786,R,says,guys do not hesitate to submit your solutions
+9,1,7,602.635,603.338,A,says,um
+9,1,7,603.619,604.942,A,says,and then mount bern .
+9,1,7,603.619,604.660,B,says,mount
+9,1,7,604.660,606.348,B,says,"yeah , i think so ."
+9,1,7,606.011,608.008,A,says,wait how much was the
+9,1,7,607.692,608.262,B,says,4 .
+9,1,7,610.175,611.075,A,says,okay .
+9,1,7,610.311,615.520,B,says,"oh wait , if we if we don't do that if you erase mount basel"
+9,1,7,617.242,622.244,B,says,and then make mount basel go to mount interlaken then mount neuchatel to mount bern .
+9,1,7,622.739,624.889,B,says,so kind of like rearrange it .
+9,1,7,623.960,627.002,A,says,so should i erase the one we just did ?
+9,1,7,626.470,630.634,B,says,yeah i think so but i'm gonna have to erase one too .
+9,1,7,630.291,630.859,A,says,okay .
+9,1,7,630.811,631.548,B,says,okay .
+9,1,7,631.926,632.380,B,says,go .
+9,1,7,632.250,632.250,A,removes,Basel-Neuchatel (0-7)
+9,1,7,633.307,634.545,A,says,erased .
+9,1,8,636.789,636.789,B,removes,Interlaken-Neuchatel (5-7)
+9,1,8,637.361,638.141,B,says,so .
+9,1,8,639.042,645.541,B,says,"mount basel , no , mount basel goes to no that won't work actually we have to redo that one ."
+9,1,8,650.532,651.883,B,says,this one uh .
+9,1,8,651.007,651.007,B,adds,Interlaken-Neuchatel (5-7)
+9,1,8,653.199,655.456,B,says,and then you go to mount bern then mount basel .
+9,1,8,655.444,657.076,A,says,mount bern .
+9,1,8,656.260,657.188,B,says,yep bern .
+9,1,8,657.526,659.074,A,says,from mount neuchatel ?
+9,1,8,658.377,666.051,B,says,no actually you have to go mount bern you have to do mount zurich oh this is so confusing uh
+9,1,8,667.007,671.199,B,says,if we went this way and then go up and meet there .
+9,1,8,671.916,679.118,B,says,"i think what we should do is go mount neuchatel to mount bern , and erase mount zurich and make mount zurich go to mount basel ."
+9,1,8,678.837,681.256,A,says,"okay , so should i do it ?"
+9,1,8,681.992,683.141,B,says,so where is mount
+9,1,8,685.466,689.500,A,says,i'm just gonna draw the thing from neuchatel to bern .
+9,1,8,689.021,690.061,B,says,okay .
+9,1,8,690.653,691.497,A,says,first .
+9,1,9,691.010,691.010,A,adds,Neuchatel-Bern (7-3)
+9,1,9,691.976,693.242,A,says,how much is it ?
+9,1,9,693.157,694.142,B,says,5 .
+9,1,9,695.710,698.411,A,says,okay and then should i erase mount zurich ?
+9,1,9,700.087,701.416,B,says,i thought uh
+9,1,9,702.012,709.326,B,says,"i think actually i am confused i think i should do it we should just do a normal circle , and meet at bern ."
+9,1,9,709.214,710.255,A,says,yeah okay .
+9,1,9,710.659,713.732,B,says,it's really getting confused .
+9,1,9,710.975,713.141,A,says,so which one should i erase ?
+9,1,9,713.732,714.464,B,says,the 5 .
+9,1,9,714.830,717.502,B,says,uh mount neuchatel to mount bern .
+9,1,9,716.630,718.599,A,says,so the long one .
+9,1,9,717.981,719.078,B,says,yeah long one .
+9,1,9,719.078,719.725,A,says,that one ?
+9,1,9,719.554,719.554,A,removes,Neuchatel-Bern (7-3)
+9,1,9,720.400,721.132,B,says,yes .
+9,1,9,720.991,721.891,A,says,okay .
+9,1,9,722.713,725.189,B,says,i think we should go there how much that is that ?
+9,1,10,723.773,723.773,B,adds,Basel-Neuchatel (0-7)
+9,1,10,727.074,732.613,I,says,so girls by the way you can submit your solutions as many times as you want so do not hesitate ....
+9,1,10,734.498,735.877,B,says,okay .
+9,1,10,735.877,738.683,B,says,um how much with that ?
+9,1,10,737.987,741.545,A,says,"um the one from neuchatel to basel , 4 ."
+9,1,10,743.288,744.246,B,says,how much was that ?
+9,1,10,743.436,743.436,B,adds,Basel-Bern (0-3)
+9,1,10,744.724,745.372,B,says,3 .
+9,1,10,744.809,745.765,A,says,3
+9,1,10,745.709,746.778,B,says,i think we should submit .
+9,1,10,747.313,747.875,A,says,now ?
+9,1,10,748.354,750.042,B,says,yeah because it comes like a circle .
+9,1,10,748.382,749.310,A,says,so press .
+9,1,10,749.929,750.661,A,says,okay .
+9,1,11,751.356,751.356,B,presses,submit (enabled)
+9,1,11,751.865,751.865,A,presses,submit (enabled)
+9,1,11,751.902,751.902,T,submits,cost=30 (opt_cost=22)
+9,1,11,752.192,752.192,R,shows,talking emotion
+9,1,11,752.192,752.192,R,shows,up_left gesture
+9,1,11,752.303,752.303,R,says,you are away from the minimum by 8 francs. let's try again.
+9,1,11,752.402,760.533,R,says,you are away from the minimum by 10 francs let's try again
+9,1,11,755.919,756.960,B,says,what ?
+9,1,11,757.607,759.801,A,says,8 franc .
+9,1,11,758.671,758.671,R,shows,point_front gesture
+9,1,11,758.671,758.671,R,shows,talking emotion
+9,1,11,758.740,758.740,R,says,"by the way, you guys now also have the button on the bottom of your screen in the abstract view for comparing solutions."
+9,1,11,760.533,769.676,R,says,by the way ...
+9,1,11,770.098,770.975,B,says,oh okay .
+9,2,11,771.056,771.056,B,presses,compare (enabled)
+9,2,11,771.566,772.962,A,says,so we have to start again .
+9,2,11,773.451,776.208,I,says,did you ...
+9,2,11,774.056,774.056,B,presses,apply (enabled)
+9,2,11,774.066,774.066,B,loads,"[(0, 3), (0, 7), (1, 4), (1, 9), (2, 3), (2, 8), (4, 6), (5, 6), (5, 7), (8, 9)]"
+9,2,11,775.306,775.306,B,presses,apply (enabled)
+9,2,11,775.316,775.316,B,loads,"[(0, 3), (0, 7), (1, 4), (1, 9), (2, 3), (2, 8), (4, 6), (5, 6), (5, 7), (8, 9)]"
+9,2,11,777.998,781.712,I,says,you are away from the minimum ...
+9,2,11,783.499,786.342,A,says,"away from the minimum , so you have to have"
+9,2,11,787.635,790.955,I,says,8 francs less ...
+9,2,11,789.211,791.039,B,says,okay .
+9,2,11,791.771,793.523,A,says,8 francs .
+9,2,11,793.962,796.888,B,says,"how did you , 4 so we have to take away the 4 ."
+9,2,11,794.047,795.031,A,says,so
+9,2,11,798.042,801.671,I,says,...
+9,2,11,800.124,810.137,B,says,"if we started from mount , so wait , we should if we start from mount interlaken then mount zermatt and then we do that , just we take out mount montreux , the things ."
+9,2,11,810.747,813.025,B,says,and then we put mount neuchatel .
+9,2,11,814.256,815.328,B,says,to mount
+9,2,11,816.367,819.239,B,says,"basel so we have 4 minus , okay ."
+9,2,11,821.058,825.355,B,says,so we erase the the things to go away from mount montreux .
+9,2,11,825.900,826.336,A,says,wait
+9,2,11,826.589,827.405,B,says,so
+9,2,11,826.842,828.024,A,says,wait which one ?
+9,2,11,828.049,831.369,I,says,try not to hold the thank you
+9,2,11,829.681,831.003,B,says,okay .
+9,2,11,835.278,841.496,B,says,uh try to uh erase the mount interlaken and mount zermatt the ones to go to montreux .
+9,2,11,841.665,842.570,A,says,this one ?
+9,2,11,844.089,844.595,B,says,what ?
+9,2,11,845.496,846.565,B,says,which one ?
+9,2,11,846.930,848.956,B,says,the one that um
+9,2,11,847.859,851.601,A,says,the montreux to mount mount zermatt .
+9,2,11,850.954,851.798,B,says,yeah .
+9,2,11,854.127,855.476,A,says,it's not working .
+9,2,11,856.707,858.021,B,says,my gosh .
+9,2,11,857.822,857.822,B,presses,compare (enabled)
+9,2,11,858.322,858.322,B,presses,apply (enabled)
+9,2,11,858.332,858.332,B,loads,"[(0, 3), (0, 7), (1, 4), (1, 9), (2, 3), (2, 8), (4, 6), (5, 6), (5, 7), (8, 9)]"
+9,2,11,859.372,861.228,B,says,this one i want this one .
+9,2,11,860.472,860.472,B,presses,apply (enabled)
+9,2,11,860.482,860.482,B,loads,"[(0, 3), (0, 7), (1, 4), (1, 9), (2, 3), (2, 8), (4, 6), (5, 6), (5, 7), (8, 9)]"
+9,2,11,860.778,860.778,B,presses,apply (enabled)
+9,2,11,860.842,860.842,B,presses,apply (enabled)
+9,2,11,861.055,861.055,B,presses,apply (enabled)
+9,2,11,861.288,861.288,B,presses,apply (enabled)
+9,2,11,861.940,863.170,B,says,wait what ?
+9,2,11,863.571,868.973,I,says,so you i think you uploaded your previous solution
+9,2,11,872.835,874.523,I,says,what is it
+9,2,11,874.647,876.456,A,says,it won't let me erase .
+9,2,11,876.886,881.078,I,says,you can not break it into 2 parts they need to be connected to each other
+9,2,11,882.434,883.101,B,says,oh .
+9,2,11,883.945,890.331,I,says,if you try to remove a road that will break the rest of them into 2
+9,2,11,890.721,895.661,A,says,no i don't it won't because mount bern is joining them to joining them together .
+9,2,11,895.616,898.373,I,says,now you can delete
+9,2,11,898.975,898.975,A,removes,Zermatt-Montreux (4-6)
+9,2,11,899.496,900.065,A,says,yeah .
+9,2,11,906.019,906.750,B,says,then
+9,2,11,907.172,911.448,B,says,you can take then mount zermatt can go to mount interlaken .
+9,2,11,911.414,912.033,A,says,okay .
+9,2,11,911.842,915.696,B,says,"and then erase the 4 , to go to mount neuchatel ."
+9,2,11,915.218,917.553,A,says,should i do it to zermatt ?
+9,2,11,916.587,919.607,B,says,no wait no uh um .
+9,2,11,922.241,924.745,B,says,so that one goes to there .
+9,2,11,925.561,926.855,B,says,oh that good .
+9,2,11,927.969,930.388,B,says,my idea's not gonna work .
+9,2,11,930.051,930.839,A,says,wait .
+9,2,11,931.345,934.243,A,says,so we erase the long one
+9,2,11,931.565,934.580,B,says,if that goes together oh actually it will .
+9,2,11,938.900,940.644,B,says,it will uh .
+9,2,11,941.122,944.752,B,says,you you have to erase the mount neuchatel to mount interlaken .
+9,2,11,945.131,946.523,A,says,mount neuchatel .
+9,2,11,948.046,950.771,A,says,no because they have to be joined .
+9,2,11,952.149,952.980,B,says,they do ?
+9,2,11,952.992,953.555,A,says,yeah .
+9,2,11,953.836,959.716,A,says,otherwise you because if then if it breaks two bits apart then uh you can't erase .
+9,2,11,960.960,965.678,B,says,then you should try mount montreux to mount neuchatel and then erase the interlaken part .
+9,2,11,965.481,968.941,A,says,mount montreux to mount neuchatel .
+9,2,11,968.396,969.061,B,says,yeah .
+9,2,11,969.569,972.341,A,says,montreux to mount neuchatel .
+9,2,11,972.195,972.195,A,adds,Montreux-Neuchatel (6-7)
+9,2,11,972.799,974.395,B,says,"it is 2 francs , okay ."
+9,2,11,973.446,974.515,A,says,okay i did that .
+9,2,11,975.414,976.151,B,says,now .
+9,2,11,976.352,979.298,A,says,then you erase the one you wanted to .
+9,2,11,976.428,977.722,B,says,little
+9,2,12,977.623,977.623,B,removes,Interlaken-Neuchatel (5-7)
+9,2,12,978.257,979.129,B,says,there .
+9,2,12,979.980,982.148,B,says,and then from interlaken to mount zermatt .
+9,2,12,982.903,982.903,B,adds,Zermatt-Interlaken (4-5)
+9,2,12,985.700,986.798,A,says,okay .
+9,2,12,986.179,988.276,B,says,it still 4 francs .
+9,2,12,990.371,991.271,A,says,hmm
+9,2,12,996.174,998.565,B,says,can we submit as many times we want ?
+9,2,12,998.396,1000.169,I,says,yes
+9,2,12,999.100,999.803,A,says,yeah .
+9,2,13,1000.714,1000.714,A,presses,submit (enabled)
+9,2,13,1001.949,1002.877,B,says,i'm gonna submit .
+9,2,13,1002.771,1002.771,B,presses,submit (enabled)
+9,2,13,1002.799,1003.809,A,says,waiting for your
+9,2,13,1002.810,1002.810,T,submits,cost=29 (opt_cost=22)
+9,2,13,1003.046,1003.046,R,shows,talking emotion
+9,2,13,1003.050,1003.050,R,shows,up_left gesture
+9,2,13,1003.139,1003.139,R,says,you are not that far from the minimum; the difference is only 7 francs. i am sure you can do it.
+9,2,13,1003.532,1012.113,R,says,you are not that far from the minimum the difference is only 7 francs i am sure you can do it
+9,2,13,1012.881,1014.569,A,says,7 francs .
+9,2,13,1015.767,1016.470,B,says,what ?
+9,2,13,1017.399,1018.187,B,says,what ?
+9,3,13,1018.155,1018.155,B,presses,compare (enabled)
+9,3,13,1020.353,1024.533,A,says,the minimum is 7 francs .
+9,3,13,1020.738,1020.738,B,presses,previous (enabled)
+9,3,13,1021.904,1021.904,B,presses,compare (enabled)
+9,3,13,1021.925,1021.925,B,presses,next (enabled)
+9,3,13,1024.104,1024.104,B,presses,previous (enabled)
+9,3,13,1025.845,1028.208,B,says,uh we have to get 7 francs less .
+9,3,13,1028.433,1034.398,B,says,we know mount zermatt to mount interlaken is 4 francs and we know mount neuchatel to mount basel is 4 francs .
+9,3,13,1034.928,1037.544,A,says,"one , one of them you said was 5 ."
+9,3,13,1034.928,1035.969,B,says,we don't want
+9,3,13,1040.328,1041.988,B,says,"which , what ?"
+9,3,13,1040.835,1042.745,A,says,i can't remember which one that was though .
+9,3,13,1042.914,1045.418,A,says,i think it was mount basel to mount zurich .
+9,3,13,1046.609,1049.075,B,says,no that was not never connected let me see .
+9,3,13,1048.688,1048.688,B,presses,compare (enabled)
+9,3,13,1048.706,1048.706,B,presses,next (enabled)
+9,3,13,1050.247,1052.592,B,says,uh the one that was 5 was neuchatel to bern .
+9,3,13,1055.033,1055.630,A,says,yeah .
+9,3,13,1059.132,1059.864,A,says,it's hard .
+9,3,13,1059.217,1059.812,B,says,um
+9,3,13,1061.677,1062.537,B,says,it's very hard .
+9,3,13,1062.537,1065.350,B,says,how about mount montreux to neuchatel ?
+9,3,13,1065.209,1067.995,A,says,mount montreux to
+9,3,13,1066.082,1067.713,B,says,"no , no , no ."
+9,3,13,1068.614,1069.570,A,says,um
+9,3,13,1069.075,1074.240,B,says,"mount neuchatel to mount interlaken , no , how would you get this to connected ."
+9,3,13,1074.932,1079.518,B,says,how many places so if you press mount montreux how many places can it go ?
+9,3,13,1079.574,1081.909,A,says,mount montreux um
+9,3,13,1082.609,1090.948,A,says,"it can go to interlaken mount zurich , mount zermatt sorry , and mount neuchatel , so it can go three places ."
+9,3,13,1088.641,1090.382,B,says,um
+9,3,13,1091.226,1095.981,B,says,"okay , how many times , how many places can now interlaken go ?"
+9,3,13,1097.299,1098.436,A,says,it can go
+9,3,13,1099.615,1112.781,A,says,to mount bern mount luzern mount zermatt mount montreux and mount neuchatel so it can go one two three four five .
+9,3,13,1116.041,1118.685,A,says,"do you want , that's a"
+9,3,13,1116.913,1129.601,B,says,"if no uh if , mount neuchatel goes , if mount montreux can go anyway else but not connect to um interlaken ."
+9,3,13,1130.947,1131.904,A,says,hmm ?
+9,3,13,1132.101,1134.914,B,says,can mount interlaken go any way ?
+9,3,13,1135.161,1137.115,A,says,"any way , what ?"
+9,3,13,1135.875,1146.055,B,says,"can can mount , how would you connect mount montreux with the rest without interlaken if you cannot touch mount interlaken ."
+9,3,13,1146.642,1149.380,A,says,i'm not sure because
+9,3,13,1146.819,1149.408,B,says,"oh , i have an idea !"
+9,3,13,1151.053,1155.316,B,says,if you go mount neuchatel to mount zermatt and just skip interlaken .
+9,3,13,1155.793,1158.128,B,says,now mount neuchatel touch interlaken .
+9,3,13,1155.877,1157.368,A,says,so
+9,3,13,1158.916,1160.230,A,says,wait
+9,3,13,1159.028,1160.463,B,says,it goes like kind of like
+9,3,13,1168.954,1170.473,I,says,it's okay you girls continue
+9,3,13,1170.135,1172.048,A,says,um wait what ?
+9,3,13,1171.261,1174.102,B,says,"so , mount neuchatel goes to mount montreux ."
+9,3,13,1174.440,1176.381,B,says,but neuchatel goes to interlaken .
+9,3,13,1176.770,1179.501,B,says,how much is mount neuchatel to go to interlaken .
+9,3,13,1179.501,1182.867,A,says,"neuchatel to interlaken , should i do it ?"
+9,3,13,1182.680,1183.271,B,says,yeah .
+9,3,13,1183.327,1184.368,A,says,okay .
+9,3,13,1185.397,1185.397,A,adds,Interlaken-Neuchatel (5-7)
+9,3,13,1186.046,1186.974,B,says,3 .
+9,3,13,1190.829,1193.108,A,says,neuchatel to montreux .
+9,3,13,1193.859,1193.859,A,adds,Montreux-Neuchatel (6-7)
+9,3,13,1194.655,1195.270,A,says,now
+9,3,13,1194.766,1195.354,B,says,2 .
+9,3,13,1195.664,1196.142,A,says,yeah .
+9,3,13,1197.388,1200.734,B,says,"okay , so if i go to uh mount montreux ."
+9,3,13,1202.657,1204.092,B,says,if i did this .
+9,3,13,1204.233,1212.054,B,says,"go to mount interlaken to mount bern , then to mount basel , and to mount zurich and to mount saint gallen and you go like ching ."
+9,3,13,1211.351,1212.375,A,says,try it .
+9,3,13,1213.776,1215.577,A,says,we can try it you know .
+9,3,13,1214.508,1217.434,B,says,so mount interlaken to mount bern .
+9,3,14,1216.487,1216.487,B,adds,Interlaken-Bern (5-3)
+9,3,14,1217.124,1217.884,A,says,4 .
+9,3,14,1218.661,1220.434,B,says,to mount basel .
+9,3,14,1220.184,1220.184,B,adds,Basel-Bern (0-3)
+9,3,14,1221.671,1222.544,B,says,3 .
+9,3,14,1226.180,1228.881,A,says,okay and then you want me to go to mount zurich ?
+9,3,14,1228.853,1229.556,B,says,yeah .
+9,3,14,1229.705,1230.520,A,says,okay .
+9,3,14,1232.198,1232.761,A,says,there .
+9,3,15,1232.437,1232.437,A,adds,Basel-Zurich (0-2)
+9,3,15,1233.323,1235.377,B,says,"that's 5 , oh my gosh ."
+9,3,15,1235.066,1237.290,A,says,then which one do you want me to go ?
+9,3,15,1236.503,1238.641,B,says,that's 5 though .
+9,3,15,1238.219,1240.779,A,says,yes so should we erase that one ?
+9,3,15,1242.375,1242.375,A,removes,Basel-Zurich (0-2)
+9,3,15,1243.110,1247.245,A,says,"okay , so and then maybe we could go from mount"
+9,3,15,1247.882,1249.064,A,says,no that won't work .
+9,3,15,1250.598,1253.271,B,says,we have to get mount basel to mount zurich .
+9,3,15,1253.862,1256.365,B,says,if we did that idea and submitted it .
+9,3,15,1256.675,1260.248,B,says,and then we can combine all the ideas to make a new one .
+9,3,15,1260.220,1261.092,A,says,okay .
+9,3,15,1262.217,1263.005,A,says,try .
+9,3,15,1263.033,1266.044,B,says,"so how much is this , this is 2 right ?"
+9,3,16,1265.587,1265.587,B,adds,Zermatt-Montreux (4-6)
+9,3,16,1266.269,1267.141,A,says,yeah .
+9,3,16,1269.331,1270.822,B,says,um how much is that ?
+9,3,16,1270.513,1270.513,B,adds,Luzern-Zermatt (1-4)
+9,3,16,1271.807,1272.566,B,says,3 .
+9,3,16,1272.707,1274.564,B,says,now mount davos .
+9,3,16,1274.817,1277.884,A,says,"mount davos , to where ?"
+9,3,16,1279.991,1281.820,B,says,to luzern .
+9,3,16,1282.467,1283.479,A,says,luzern .
+9,3,16,1283.986,1288.093,A,says,"no , wait , so from mount luzern to mount davos ?"
+9,3,17,1290.280,1290.280,A,adds,Luzern-Davos (1-9)
+9,3,17,1290.746,1291.646,A,says,okay .
+9,3,17,1291.055,1294.994,B,says,yeah saint mount saint gallen to mount davos .
+9,3,17,1297.851,1297.851,A,adds,Gallen-Davos (8-9)
+9,3,17,1298.546,1301.134,B,says,this 2 then this how much is that ?
+9,3,18,1301.219,1301.219,B,adds,Zurich-Gallen (2-8)
+9,3,18,1301.613,1302.316,A,says,3 .
+9,3,18,1303.610,1303.610,B,adds,Basel-Zurich (0-2)
+9,3,18,1304.499,1305.286,B,says,we submit .
+9,3,19,1305.320,1305.320,B,presses,submit (enabled)
+9,3,19,1306.749,1307.481,A,says,should we ?
+9,3,19,1307.706,1309.872,B,says,yeah could we do the full circle ?
+9,3,19,1310.190,1310.190,A,presses,submit (enabled)
+9,3,19,1310.230,1310.230,T,submits,cost=30 (opt_cost=22)
+9,3,19,1310.582,1310.582,R,shows,talking emotion
+9,3,19,1310.623,1310.623,R,shows,up_left gesture
+9,3,19,1310.670,1310.670,R,says,you are away from the minimum by 8 francs. let's try again.
+9,3,19,1310.716,1315.803,R,says,you are away from the minimum by 10 francs let's try again
+9,3,19,1315.071,1319.066,A,says,"i think , we did the exact same one as we did before ."
+9,3,19,1317.941,1319.854,B,says,no really ?
+9,4,19,1318.836,1318.836,B,presses,compare (enabled)
+9,4,19,1319.753,1319.753,B,presses,previous (enabled)
+9,4,19,1320.632,1321.476,A,says,wait .
+9,4,19,1321.636,1321.636,B,presses,previous (enabled)
+9,4,19,1321.869,1324.852,A,says,"wait , maybe we shouldn't start , wait"
+9,4,19,1322.010,1325.217,B,says,"um actually , no we"
+9,4,19,1325.220,1325.220,B,presses,compare (enabled)
+9,4,19,1325.232,1325.232,B,presses,next (enabled)
+9,4,19,1326.070,1327.419,B,says,first one second
+9,4,19,1327.586,1327.586,B,presses,compare (enabled)
+9,4,19,1327.595,1327.595,B,presses,next (enabled)
+9,4,19,1328.497,1329.304,B,says,thirdy
+9,4,19,1329.698,1330.486,A,says,bob .
+9,4,19,1329.819,1329.819,B,presses,previous (enabled)
+9,4,19,1330.470,1330.470,B,presses,previous (enabled)
+9,4,19,1331.246,1334.087,A,says,maybe we should try starting somewhere different .
+9,4,19,1333.820,1333.820,B,presses,compare (enabled)
+9,4,19,1333.835,1333.835,B,presses,next (enabled)
+9,4,19,1334.003,1334.003,B,presses,compare (enabled)
+9,4,19,1334.013,1334.013,B,presses,next (enabled)
+9,4,19,1334.375,1335.148,B,says,yeah .
+9,4,19,1335.248,1336.936,A,says,like not at mount montreux .
+9,4,19,1337.189,1338.576,B,says,maybe
+9,4,19,1337.392,1340.171,A,says,maybe like somewhere in the middle so .
+9,4,19,1340.882,1342.711,B,says,we could go mount luzern .
+9,4,19,1342.936,1345.074,B,says,that's in the middle you can go five places .
+9,4,19,1343.198,1344.380,A,says,luzern yeah .
+9,4,19,1345.046,1346.011,A,says,try it try it .
+9,4,19,1346.377,1347.418,A,says,"wait , i'll try ."
+9,4,19,1346.785,1347.488,B,says,you are the uh
+9,4,19,1347.713,1352.313,B,says,how about mount luzern to mount zermatt to mount bern to mount no
+9,4,19,1347.854,1348.979,A,says,wait wait
+9,4,19,1351.633,1354.714,A,says,to mount luzern to mount zermatt ?
+9,4,19,1355.619,1356.359,B,says,i have an idea
+9,4,19,1356.605,1366.240,B,says,"if we went mount luzern to mount bern to mount basel to mount neuchatel to mount interlaken to mount montreux to mount zermatt to mount davos to mount saint gallen to mount zurich , back to mount"
+9,4,19,1366.071,1366.521,A,says,wait
+9,4,19,1366.817,1369.996,A,says,try should i try mount luzern to mount bern
+9,4,19,1369.788,1370.295,B,says,yeah .
+9,4,19,1370.576,1371.083,A,says,okay .
+9,4,19,1372.476,1372.476,A,adds,Luzern-Bern (1-3)
+9,4,19,1372.840,1373.473,B,says,it's 3
+9,4,19,1373.655,1375.372,B,says,and mount basel
+9,4,19,1373.655,1374.049,A,says,okay .
+9,4,19,1375.976,1376.313,B,says,to mount
+9,4,19,1376.989,1377.495,B,says,bern .
+9,4,19,1377.771,1379.769,A,says,mount bern mount basel .
+9,4,19,1379.701,1379.701,A,adds,Basel-Bern (0-3)
+9,4,19,1380.766,1383.847,B,says,"how much , would this be ."
+9,4,19,1380.935,1381.779,A,says,3 .
+9,4,19,1384.502,1385.022,B,says,4 .
+9,4,20,1384.586,1384.586,B,adds,Basel-Neuchatel (0-7)
+9,4,20,1385.051,1385.923,A,says,"yeah , that's 4 ."
+9,4,20,1386.288,1387.189,B,says,how much is that ?
+9,4,20,1386.931,1386.931,B,adds,Interlaken-Neuchatel (5-7)
+9,4,20,1387.648,1388.042,A,says,3 .
+9,4,20,1388.970,1391.052,B,says,now how about interlaken to mount montreux ?
+9,4,20,1391.609,1392.875,A,says,that's 4 remember .
+9,4,20,1394.271,1395.382,B,says,no it isn't .
+9,4,20,1395.537,1396.085,B,says,try .
+9,4,20,1396.226,1397.633,A,says,remember it's 4 .
+9,4,20,1397.070,1398.772,B,says,wait no wait don't .
+9,4,21,1398.103,1398.103,B,presses,compare (enabled)
+9,4,21,1399.486,1399.486,B,presses,previous (enabled)
+9,4,21,1399.657,1400.909,A,says,where to then ?
+9,4,21,1400.065,1400.909,B,says,it is 4 .
+9,4,21,1402.464,1402.871,A,says,where to ?
+9,4,21,1405.579,1406.304,A,says,interlaken ?
+9,4,21,1406.459,1407.809,A,says,how about interlaken ?
+9,4,21,1408.147,1409.342,A,says,interlaken to
+9,4,21,1409.448,1414.595,B,says,"no how about mount bern to mount montreux , no , that wouldn't work , how would you get"
+9,4,21,1409.624,1410.538,A,says,mount
+9,4,21,1414.195,1415.835,A,says,what about mount interlaken
+9,4,21,1415.889,1416.620,B,says,to mount bern
+9,4,21,1416.677,1417.155,A,says,to
+9,4,21,1417.535,1418.998,A,says,no not to mount bern
+9,4,21,1419.293,1420.489,A,says,mount zermatt
+9,4,21,1422.083,1425.101,B,says,oh yeah but how would you get mount mount montreux then ?
+9,4,21,1425.279,1427.966,A,says,oh or we could just go to there and then go
+9,4,21,1428.195,1429.123,A,says,to
+9,4,21,1428.451,1432.213,B,says,oh how about mount montreux to mount zermatt to mount davos to mount saint gallen to mount zurich
+9,4,21,1432.498,1434.763,B,says,and you might do mount zurich to mount
+9,4,21,1432.611,1434.749,A,says,"mount , mount , wait what ?"
+9,4,21,1435.347,1441.307,B,says,"you go , you go full circle but you do not connect mount interlaken and mount um montreux ."
+9,4,21,1435.395,1436.975,A,says,"wait , so , from"
+9,4,21,1441.938,1443.795,A,says,okay how are meant do that ?
+9,4,21,1444.703,1445.266,A,says,wait .
+9,4,21,1445.941,1449.828,A,says,"if you go to mount, zermatt and then to mount"
+9,4,21,1452.251,1456.184,A,says,"if you go to mount wait no , if you go to mount zermatt"
+9,4,21,1456.718,1458.954,A,says,mount and then to mount montreux .
+9,4,21,1459.689,1460.533,B,says,yeah .
+9,4,21,1460.885,1463.347,A,says,"mount , yeah like , so should i do ?"
+9,4,21,1462.081,1463.248,B,says,but how would you do
+9,4,21,1463.412,1464.664,B,says,"yeah , i think ."
+9,4,21,1464.805,1466.394,A,says,"i'll do , i'll do this one ."
+9,4,21,1466.041,1466.041,A,adds,Zermatt-Interlaken (4-5)
+9,4,21,1469.125,1469.984,A,says,how much is that ?
+9,4,21,1470.181,1470.645,B,says,2 .
+9,4,21,1471.503,1473.697,B,says,how would you connect mount montreux then ?
+9,4,21,1475.080,1476.388,A,says,um oh wait !
+9,4,21,1475.783,1476.641,B,says,uh
+9,4,21,1476.833,1477.916,A,says,no that won't work .
+9,4,21,1478.548,1481.952,B,says,"to mount neuchatel , to mount montreux to mount zermatt"
+9,4,21,1478.562,1479.476,A,says,actually
+9,4,21,1482.833,1483.438,A,says,wait .
+9,4,21,1484.280,1484.815,A,says,so
+9,4,21,1485.518,1486.447,A,says,wait which one ?
+9,4,21,1486.714,1489.568,B,says,mount neuchatel to mount montreux i'm not sure how that will work though .
+9,4,21,1489.512,1492.480,A,says,wait should i erase the one from mount interlaken ?
+9,4,21,1491.219,1491.219,B,presses,compare (enabled)
+9,4,21,1491.467,1492.241,B,says,no .
+9,4,21,1493.688,1496.291,B,says,"try just try , just try mount neuchatel ."
+9,4,21,1496.688,1498.039,B,says,to mount montreux .
+9,4,21,1498.737,1499.117,A,says,okay .
+9,4,21,1498.953,1498.953,A,adds,Montreux-Neuchatel (6-7)
+9,4,21,1500.115,1501.142,A,says,that was 2 .
+9,4,21,1501.980,1505.399,B,says,and then i went mount montreux to zermatt .
+9,4,22,1505.603,1505.603,B,adds,Zermatt-Montreux (4-6)
+9,4,22,1506.283,1506.762,A,says,2 .
+9,4,22,1507.015,1508.211,B,says,to mount davos .
+9,4,22,1509.364,1509.364,B,adds,Zermatt-Davos (4-9)
+9,4,22,1509.874,1510.446,A,says,3 .
+9,4,22,1511.327,1513.578,B,says,and then you go mount saint gallen to mount zurich .
+9,4,22,1513.803,1516.025,A,says,mount saint gallen
+9,4,22,1513.803,1515.997,B,says,and then we connect it to mount luzern
+9,4,23,1516.372,1516.372,A,adds,Gallen-Davos (8-9)
+9,4,23,1516.690,1518.252,A,says,to mount zurich .
+9,4,23,1518.317,1518.317,A,adds,Zurich-Gallen (2-8)
+9,4,23,1519.662,1521.959,B,says,"to mount saint luzern , submit ."
+9,4,24,1520.869,1520.869,B,adds,Luzern-Zurich (1-2)
+9,4,24,1521.635,1521.635,B,presses,submit (enabled)
+9,4,24,1523.473,1523.979,A,says,submit .
+9,4,24,1523.809,1523.809,A,presses,submit (enabled)
+9,4,24,1523.835,1523.835,T,submits,cost=29 (opt_cost=22)
+9,4,24,1524.126,1524.126,R,shows,talking emotion
+9,4,24,1524.132,1524.132,R,shows,up_left gesture
+9,4,24,1524.208,1529.511,R,says,you are away from the minimum by 7 francs let's try again
+9,4,24,1524.323,1524.323,R,says,you are away from the minimum by 7 francs. let's try again.
+9,4,24,1527.711,1528.780,A,says,"again , wait !"
+9,4,24,1529.202,1529.835,A,says,wait .
+9,4,24,1529.961,1530.412,B,says,yeah ?
+9,4,24,1531.465,1533.772,A,says,we forgot to erase the 2 that we didn't need .
+9,4,24,1534.068,1535.417,A,says,"we forgot to erase , the"
+9,4,24,1535.810,1538.300,A,says,um mount neuchatel to mount interlaken
+9,4,24,1538.501,1540.062,A,says,and interlaken to zermatt
+9,4,24,1540.062,1541.385,A,says,we didn't need them anymore .
+9,4,24,1540.189,1540.639,B,says,okay .
+9,4,24,1542.458,1544.487,B,says,but how would you connect mount interlaken ?
+9,4,24,1545.415,1546.554,B,says,from mount to mount bern ?
+9,5,24,1547.119,1547.119,B,adds,Interlaken-Bern (5-3)
+9,5,24,1548.087,1548.917,A,says,that's 4 .
+9,5,24,1549.764,1551.790,B,says,that's 4 .
+9,5,24,1551.881,1551.881,B,removes,Interlaken-Bern (5-3)
+9,5,24,1553.313,1554.565,A,says,okay my
+9,5,25,1553.419,1553.419,B,presses,compare (enabled)
+9,5,25,1553.795,1555.496,B,says,okay wait wait um
+9,5,25,1558.402,1558.402,B,presses,apply (enabled)
+9,5,25,1558.412,1558.412,B,loads,"[(0, 3), (0, 7), (1, 2), (1, 3), (2, 8), (4, 5), (4, 6), (4, 9), (5, 7), (6, 7), (8, 9)]"
+9,5,25,1559.206,1559.838,B,says,that ?
+9,5,25,1561.458,1562.818,A,says,that's the one that we
+9,5,25,1562.948,1563.887,B,says,just did .
+9,5,25,1563.353,1563.835,A,says,or
+9,5,25,1565.031,1566.272,A,says,no that won't work wait .
+9,5,25,1566.531,1567.131,A,says,wait .
+9,5,25,1567.455,1567.939,A,says,um
+9,5,25,1568.799,1569.285,A,says,wait .
+9,5,25,1569.480,1570.533,A,says,or you could
+9,5,25,1569.528,1569.901,B,says,yeah ?
+9,5,25,1570.910,1571.849,A,says,keep the one
+9,5,25,1571.881,1573.777,B,says,"what's wait , why , if we ?"
+9,5,25,1575.179,1575.795,A,says,and then
+9,5,25,1576.232,1578.630,A,says,from mount interlaken to mount bern and then
+9,5,25,1579.066,1581.317,A,says,"we have , no that's not a full circle so"
+9,5,25,1580.459,1581.479,B,says,wait um .
+9,5,25,1582.180,1587.509,B,says,"if we did mount neuchatel , we just erase mount neuchatel to mount interlaken"
+9,5,25,1587.956,1593.301,B,says,and the mount zermatt to interlaken mount interlaken and we might we may put mount interlaken
+9,5,25,1594.634,1597.598,B,says,to mount luzern because we didn't do that .
+9,5,25,1598.418,1599.432,A,says,uh wait .
+9,5,25,1600.258,1601.165,A,says,um
+9,5,25,1601.937,1602.406,A,says,wait what ?
+9,5,25,1604.269,1606.829,A,says,i keep forgetting what you say .
+9,5,25,1606.505,1608.999,B,says,erase the mount neuchatel please .
+9,5,25,1608.668,1612.880,A,says,"neuchatel , which one because there are three connecting to neuchatel ."
+9,5,25,1612.329,1614.802,B,says,uh the one that goes to mount interlaken .
+9,5,25,1616.004,1616.004,A,removes,Interlaken-Neuchatel (5-7)
+9,5,25,1616.318,1616.821,A,says,that one ?
+9,5,25,1619.261,1621.431,B,says,and we erase this one .
+9,5,26,1622.082,1622.082,B,removes,Zermatt-Interlaken (4-5)
+9,5,26,1623.327,1624.266,B,says,oh gosh .
+9,5,26,1624.740,1627.299,B,says,"and you go mount interlaken to mount luzern , try that ."
+9,5,26,1629.425,1631.710,A,says,mount interlaken to mount luzern .
+9,5,26,1631.412,1631.817,B,says,yeah .
+9,5,26,1634.063,1636.266,A,says,eww it needs to be connected .
+9,5,26,1637.231,1637.863,B,says,it is .
+9,5,26,1638.154,1638.592,A,says,wait .
+9,5,26,1638.964,1640.730,A,says,"and then , there we go , sorry ."
+9,5,26,1640.706,1640.706,A,adds,Luzern-Interlaken (1-5)
+9,5,26,1641.382,1644.217,B,says,"4 let me try , submit ."
+9,5,27,1642.818,1642.818,B,presses,compare (enabled)
+9,5,27,1644.035,1644.035,B,presses,submit (enabled)
+9,5,27,1645.614,1651.543,R,says,you are not that far from the minimum the difference is only 6 francs i am sure you can do it
+9,5,27,1645.654,1645.654,T,submits,cost=28 (opt_cost=22)
+9,5,27,1645.665,1645.665,A,presses,submit (enabled)
+9,5,27,1645.927,1645.927,R,shows,up_left gesture
+9,5,27,1645.927,1645.927,R,shows,talking emotion
+9,5,27,1646.054,1646.054,R,says,you are not that far from the minimum; the difference is only 6 francs. i am sure you can do it.
+9,5,27,1651.816,1653.242,B,says,ahh
+9,5,27,1651.816,1652.562,A,says,ahh
+9,5,27,1654.957,1664.336,R,says,hey guys maybe it would be easier to solve the problem if you look at your previous solutions more
+9,5,27,1654.987,1654.987,R,shows,talking emotion
+9,5,27,1654.988,1654.988,R,shows,up_right gesture
+9,5,27,1655.105,1655.105,R,says,"hey guys, maybe, it would be easier to solve the problem if you look at your previous solutions more."
+9,6,27,1666.585,1666.585,B,presses,compare (enabled)
+9,6,27,1667.606,1668.221,A,says,so
+9,6,27,1669.857,1673.209,B,says,so ours was just price 28 .
+9,6,27,1674.230,1675.384,B,says,29 .
+9,6,27,1674.285,1674.285,B,presses,previous (enabled)
+9,6,27,1676.568,1676.568,B,presses,previous (enabled)
+9,6,27,1680.345,1681.301,A,says,um
+9,6,27,1682.099,1682.731,B,says,oh so wait .
+9,6,27,1683.087,1685.112,B,says,ours so if
+9,6,27,1684.205,1688.772,I,says,so girls just before you go ahead you have four more minutes to solve this
+9,6,27,1688.932,1689.596,A,says,4 .
+9,6,27,1689.337,1690.552,B,says,what happens if we don't ?
+9,6,27,1691.151,1692.561,B,says,what happens if
+9,6,27,1693.257,1694.569,B,says,had anybody solved this
+9,6,27,1695.503,1702.012,I,says,uh very few not much but it's fine it's okay
+9,6,27,1705.382,1708.022,A,says,i know matt and sarah did say it was hard .
+9,6,27,1711.912,1718.376,B,says,"if , wait , if we didn't do the basel to um to neuchatel"
+9,6,27,1714.751,1714.751,B,presses,compare (enabled)
+9,6,27,1714.768,1714.768,B,presses,next (enabled)
+9,6,27,1719.454,1719.892,A,says,uh
+9,6,27,1719.989,1723.379,B,says,so wait if i reloaded the better one and then
+9,6,27,1720.551,1720.551,B,presses,compare (enabled)
+9,6,27,1720.565,1720.565,B,presses,next (enabled)
+9,6,27,1720.951,1720.951,B,presses,compare (enabled)
+9,6,27,1724.837,1725.339,B,says,did
+9,6,27,1727.679,1731.599,B,says,neuchatel to interlaken okay wait i'm gonna upload upload one .
+9,6,27,1730.151,1730.151,B,presses,apply (enabled)
+9,6,27,1730.161,1730.161,B,loads,"[(0, 3), (0, 7), (1, 2), (1, 3), (1, 5), (2, 8), (4, 6), (4, 9), (6, 7), (8, 9)]"
+9,6,27,1731.956,1736.913,B,says,and we erase mount basel but i would do one from mount neuchatel to mount interlaken okay ?
+9,6,27,1737.104,1739.307,A,says,erase mount basel ?
+9,6,27,1738.918,1739.307,B,says,yeah !
+9,6,27,1739.803,1741.083,A,says,which one though there is two .
+9,6,27,1741.439,1742.184,B,says,the one that
+9,6,27,1742.492,1743.464,B,says,um goes
+9,6,27,1743.075,1743.902,A,says,neuchatel ?
+9,6,27,1743.464,1743.902,B,says,yes .
+9,6,27,1745.713,1745.713,A,removes,Basel-Neuchatel (0-7)
+9,6,27,1746.092,1746.610,A,says,okay .
+9,6,27,1746.335,1750.028,B,says,and then add one to mount interlaken .
+9,6,27,1750.952,1752.102,A,says,from neuchatel ?
+9,6,27,1751.729,1752.150,B,says,yes .
+9,6,27,1753.582,1753.582,A,adds,Interlaken-Neuchatel (5-7)
+9,6,27,1753.732,1754.234,A,says,and then
+9,6,27,1755.210,1755.956,A,says,um
+9,6,27,1755.243,1755.745,B,says,submit .
+9,6,28,1755.601,1755.601,B,presses,submit (enabled)
+9,6,28,1756.630,1757.796,A,says,submit it ?
+9,6,28,1757.618,1758.347,B,says,yeah .
+9,6,28,1759.106,1759.106,A,presses,submit (enabled)
+9,6,28,1759.152,1759.152,T,submits,cost=27 (opt_cost=22)
+9,6,28,1759.530,1760.081,A,says,try .
+9,6,28,1760.018,1766.676,R,says,you are away from the minimum by 5 francs let's try again
+9,6,28,1760.391,1760.391,R,shows,up_left gesture
+9,6,28,1760.391,1760.391,R,shows,talking emotion
+9,6,28,1760.531,1760.531,R,says,you are away from the minimum by 5 francs. let's try again.
+9,6,28,1767.641,1769.083,A,says,um
+9,6,28,1769.197,1772.696,B,says,wait just do okay can you go on the uh
+9,6,28,1773.407,1774.751,B,says,the one that we just did
+9,6,28,1775.225,1776.878,B,says,if you go on the green button
+9,7,28,1777.100,1777.100,A,presses,compare (enabled)
+9,7,28,1777.347,1778.822,B,says,this is it is not with the i .
+9,7,28,1777.931,1778.481,A,says,wait .
+9,7,28,1780.705,1781.645,A,says,this one ?
+9,7,28,1781.541,1781.541,A,presses,apply (enabled)
+9,7,28,1781.551,1781.551,A,loads,"[(0, 3), (1, 2), (1, 3), (1, 5), (2, 8), (4, 6), (4, 9), (5, 7), (6, 7), (8, 9)]"
+9,7,28,1782.449,1783.016,B,says,yeah .
+9,7,28,1783.469,1785.089,B,says,which ones are 4 francs ?
+9,7,28,1785.348,1786.353,A,says,4 francs ?
+9,7,28,1786.936,1790.935,A,says,um it's mount interlaken to mount luzern .
+9,7,28,1793.060,1794.000,B,says,how would we
+9,7,28,1794.502,1795.717,B,says,how about we erase that ?
+9,7,28,1796.251,1796.753,A,says,wait .
+9,7,28,1797.434,1798.341,A,says,if we um
+9,7,28,1798.118,1798.118,B,removes,Luzern-Interlaken (1-5)
+9,7,28,1799.463,1800.963,B,says,i just did uh
+9,7,28,1800.435,1801.294,A,says,doesn't matter .
+9,7,28,1801.498,1803.539,A,says,wait but we need to make a full circle now .
+9,7,28,1803.647,1804.327,B,says,no we don't .
+9,7,28,1804.554,1805.121,A,says,yeah .
+9,7,28,1805.250,1805.688,A,says,we do .
+9,7,28,1805.267,1805.834,B,says,do we ?
+9,7,28,1806.060,1806.498,A,says,yeah
+9,7,28,1807.863,1809.450,B,says,how about we submit it and see ?
+9,7,28,1809.872,1810.471,A,says,okay .
+9,7,28,1811.204,1811.204,A,presses,submit (enabled)
+9,7,28,1811.734,1811.734,B,presses,submit (enabled)
+9,7,28,1811.794,1811.794,T,submits,cost=23 (opt_cost=22)
+9,7,28,1812.214,1812.214,R,shows,talking emotion
+9,7,28,1812.215,1812.215,R,shows,up_left gesture
+9,7,28,1812.478,1817.970,R,says,you are away from the minimum by 1 francs let's try again
+9,7,28,1812.480,1812.480,R,says,you are away from the minimum by 1 francs. let's try again.
+9,7,28,1815.702,1816.852,A,says,oh !
+9,7,28,1815.783,1817.208,B,says,oh !
+9,7,28,1817.941,1818.476,A,says,come on .
+9,7,28,1818.606,1818.946,A,says,wait .
+9,7,28,1821.120,1821.914,B,says,how about
+9,7,28,1822.491,1824.516,B,says,okay you reupload one we just did .
+9,8,28,1824.377,1824.377,A,presses,compare (enabled)
+9,8,28,1825.112,1825.112,A,presses,apply (enabled)
+9,8,28,1825.122,1825.122,A,loads,"[(0, 3), (1, 2), (1, 3), (2, 8), (4, 6), (4, 9), (5, 7), (6, 7), (8, 9)]"
+9,8,28,1827.604,1829.918,B,says,if mount saint gallen
+9,8,28,1831.117,1831.797,B,says,uh
+9,8,28,1832.186,1834.843,B,says,if mount saint gallen was connected to luzern
+9,8,28,1835.167,1838.099,B,says,and mount bern and then mount basel
+9,8,28,1836.803,1838.876,A,says,just try it we don't know how much time .
+9,8,28,1841.271,1842.470,B,says,come on erase it .
+9,8,28,1842.713,1843.588,A,says,i can't .
+9,8,28,1842.907,1843.296,B,says,um
+9,8,28,1844.751,1844.751,B,adds,Basel-Zurich (0-2)
+9,8,28,1845.400,1846.064,B,says,how much is that ?
+9,8,28,1846.064,1847.085,B,says,the one i just did .
+9,8,28,1847.591,1848.353,A,says,5 .
+9,8,28,1849.733,1849.733,B,removes,Luzern-Zurich (1-2)
+9,8,28,1850.345,1851.139,B,says,how much is that ?
+9,8,28,1852.565,1853.148,B,says,submit .
+9,8,29,1854.387,1854.387,A,presses,submit (enabled)
+9,8,29,1854.517,1854.517,B,presses,submit (enabled)
+9,8,29,1854.553,1854.553,T,submits,cost=26 (opt_cost=22)
+9,8,29,1854.700,1855.284,A,says,come on .
+9,8,29,1854.893,1854.893,R,shows,talking emotion
+9,8,29,1854.895,1854.895,R,shows,up_left gesture
+9,8,29,1855.024,1860.370,R,says,you are away from the minimum by 4 francs let's try again
+9,8,29,1855.051,1855.051,R,says,you are away from the minimum by 4 francs. let's try again.
+9,8,29,1858.378,1859.593,A,says,just
+9,8,29,1860.526,1865.617,B,says,okay i'm gonna upload the one uh the one the one we did that was
+9,9,29,1862.234,1862.234,B,presses,compare (enabled)
+9,9,29,1863.067,1863.067,B,presses,previous (enabled)
+9,9,29,1866.020,1866.960,A,says,1 franc .
+9,9,29,1866.425,1867.203,B,says,1 franc .
+9,9,29,1867.235,1869.131,A,says,which was the one before you did the 5 .
+9,9,29,1867.284,1868.726,B,says,so upload .
+9,9,29,1868.100,1868.100,B,presses,apply (enabled)
+9,9,29,1868.110,1868.110,B,loads,"[(0, 3), (1, 2), (1, 3), (2, 8), (4, 6), (4, 9), (5, 7), (6, 7), (8, 9)]"
+9,9,29,1869.416,1870.097,A,says,yeah this one .
+9,9,29,1870.696,1871.328,A,says,please show .
+9,9,29,1872.786,1873.418,B,says,if
+9,9,29,1875.049,1875.049,B,presses,compare (enabled)
+9,9,29,1875.984,1875.984,B,presses,previous (enabled)
+9,9,29,1876.363,1879.214,B,says,"no , so that's 4 points that one ."
+9,9,29,1876.751,1876.751,B,presses,previous (enabled)
+9,9,29,1880.315,1885.499,B,says,"which one can we erase , how much would if you go to mount bern to mount zermatt ?"
+9,9,29,1885.912,1889.460,A,says,mount bern to mount zermatt i'll try it .
+9,9,29,1889.994,1891.112,A,says,no you can't do that .
+9,9,29,1891.640,1892.483,B,says,you can't ?
+9,9,29,1892.304,1895.674,A,says,no it says a cross when i try to do it .
+9,9,29,1896.341,1897.443,A,says,you're not allowed .
+9,9,29,1901.091,1901.707,A,says,which one ?
+9,9,29,1901.982,1904.331,B,says,uh the uh the mount bern to mount luzern .
+9,9,29,1904.558,1905.125,A,says,okay .
+9,9,29,1908.742,1909.681,B,says,can't do it ?
+9,9,29,1910.576,1911.500,A,says,no it won't work .
+9,9,29,1911.510,1915.900,B,says,so do mount neuchatel to mount basel and then we can erase it because then it would be .
+9,9,29,1911.737,1912.693,A,says,because that will
+9,9,29,1914.118,1915.673,A,says,mount neuchatel
+9,9,29,1916.163,1916.924,B,says,to mount basel .
+9,9,29,1916.373,1918.512,A,says,okay and then erase this one .
+9,9,29,1917.079,1917.079,A,adds,Basel-Neuchatel (0-7)
+9,9,29,1918.528,1919.500,B,says,yeah this 3 .
+9,9,29,1919.011,1919.011,A,removes,Luzern-Bern (1-3)
+9,9,29,1921.707,1924.100,B,says,uh okay now i go .
+9,9,29,1925.188,1927.553,B,says,mount bern can i go .
+9,9,29,1927.958,1929.951,B,says,oh no i can't do that .
+9,9,30,1934.768,1934.768,B,adds,Interlaken-Bern (5-3)
+9,9,30,1936.943,1936.943,B,removes,Interlaken-Neuchatel (5-7)
+9,9,30,1938.420,1939.457,B,says,can we submit ?
+9,9,30,1940.267,1941.060,A,says,submit .
+9,9,31,1940.584,1940.584,B,presses,submit (enabled)
+9,9,31,1941.165,1941.165,A,presses,submit (enabled)
+9,9,31,1941.227,1941.227,T,submits,cost=25 (opt_cost=22)
+9,9,31,1941.393,1946.879,R,says,you are away from the minimum by 3 francs let's try again
+9,9,31,1941.469,1941.469,R,shows,up_left gesture
+9,9,31,1941.469,1941.469,R,shows,talking emotion
+9,9,31,1941.572,1941.572,R,says,you are away from the minimum by 3 francs. let's try again.
+9,9,31,1944.957,1946.879,B,says,"oh , now we have to ."
+9,9,31,1948.125,1949.551,A,says,just upload it upload it .
+9,9,31,1949.291,1951.251,B,says,i'll upload it for you .
+9,10,31,1949.717,1949.717,B,presses,compare (enabled)
+9,10,31,1950.500,1950.500,B,presses,apply (enabled)
+9,10,31,1950.510,1950.510,B,loads,"[(0, 3), (0, 7), (1, 2), (2, 8), (4, 6), (4, 9), (5, 3), (6, 7), (8, 9)]"
+9,10,31,1951.763,1952.605,B,says,yeah .
+9,10,31,1953.756,1954.485,B,says,if
+9,10,31,1955.327,1957.206,B,says,we did mount saint gallen to mount luzern .
+9,10,31,1957.609,1958.225,B,says,try that .
+9,10,31,1958.014,1959.148,A,says,mount saint
+9,10,31,1959.472,1960.234,A,says,gallen
+9,10,31,1959.488,1960.088,B,says,gallen
+9,10,31,1960.509,1961.319,B,says,to mount luzern
+9,10,31,1962.943,1963.721,A,says,has a cross .
+9,10,31,1964.465,1966.765,B,says,my gosh mount davos to mount
+9,10,31,1966.004,1968.369,A,says,no wait because wait
+9,10,31,1967.381,1968.321,B,says,mount davos
+9,10,31,1968.726,1969.556,B,says,to mount luzern .
+9,10,31,1971.773,1971.773,A,adds,Luzern-Davos (1-9)
+9,10,31,1972.957,1975.516,B,says,erase the mount saint gallen to mount davos .
+9,10,31,1976.962,1978.128,A,says,mount saint
+9,10,31,1978.387,1978.987,A,says,gallen
+9,10,31,1979.197,1979.780,B,says,to mount
+9,10,31,1979.295,1979.295,A,removes,Gallen-Davos (8-9)
+9,10,31,1980.708,1981.443,A,says,yeah okay .
+9,10,31,1981.939,1983.964,B,says,how much was that ?
+9,10,31,1983.365,1983.980,A,says,which one ?
+9,10,31,1984.384,1985.096,B,says,the one
+9,10,31,1984.497,1986.425,A,says,the mount that i did ?
+9,10,31,1985.793,1987.429,B,says,uh submit submit see .
+9,10,32,1987.850,1987.850,B,presses,submit (enabled)
+9,10,32,1988.087,1989.156,A,says,but it was a 3 .
+9,10,32,1989.890,1990.829,B,says,um i know .
+9,10,32,1991.000,1991.000,T,submits,cost=26 (opt_cost=22)
+9,10,32,1991.000,1991.000,A,presses,submit (enabled)
+9,10,32,1991.423,1991.423,R,shows,talking emotion
+9,10,32,1991.426,1991.426,R,shows,up_left gesture
+9,10,32,1991.493,1999.758,R,says,you are not that far from the minimum the difference is only 4 francs i am sure you can do it
+9,10,32,1991.565,1991.565,R,says,you are not that far from the minimum; the difference is only 4 francs. i am sure you can do it.
+9,10,32,2000.112,2009.754,R,says,hey guys maybe it would be easier to solve the problem if you look at your previous solutions more
+9,10,32,2000.307,2000.307,R,shows,talking emotion
+9,10,32,2000.308,2000.308,R,shows,up_right gesture
+9,10,32,2000.488,2000.488,R,says,"hey guys, maybe, it would be easier to solve the problem if you look at your previous solutions more."
+9,10,32,2010.737,2011.822,B,says,how many minutes ?
+9,10,32,2012.658,2014.068,I,says,um 1
+9,10,32,2014.343,2015.153,B,says,one .
+9,10,32,2015.153,2016.708,B,says,we're not gonna make this .
+9,10,32,2016.486,2016.923,A,says,no .
+9,10,32,2017.830,2019.418,B,says,okay can you upload the previous one .
+9,11,32,2019.695,2019.695,A,presses,compare (enabled)
+9,11,32,2019.742,2020.309,A,says,which one ?
+9,11,32,2020.876,2021.767,A,says,upload .
+9,11,32,2020.909,2020.909,A,presses,apply (enabled)
+9,11,32,2020.919,2020.919,A,loads,"[(0, 3), (0, 7), (1, 2), (1, 9), (2, 8), (4, 6), (4, 9), (5, 3), (6, 7)]"
+9,11,32,2021.166,2022.575,B,says,the second previous one .
+9,11,32,2023.936,2024.681,A,says,that one ?
+9,11,32,2024.810,2026.187,B,says,no the one before it .
+9,11,32,2025.571,2025.571,A,presses,apply (enabled)
+9,11,32,2025.581,2025.581,A,loads,"[(0, 3), (0, 7), (1, 2), (1, 9), (2, 8), (4, 6), (4, 9), (5, 3), (6, 7)]"
+9,11,32,2027.099,2028.492,B,says,one before that one .
+9,11,32,2028.926,2028.926,A,presses,apply (enabled)
+9,11,32,2028.936,2028.936,A,loads,"[(0, 3), (0, 7), (1, 2), (1, 9), (2, 8), (4, 6), (4, 9), (5, 3), (6, 7)]"
+9,11,32,2030.197,2031.040,A,says,it's not letting me .
+9,11,32,2030.311,2030.910,B,says,no .
+9,11,32,2031.607,2032.060,B,says,what ?
+9,11,32,2031.765,2031.765,A,presses,apply (enabled)
+9,11,32,2031.775,2031.775,A,loads,"[(0, 3), (0, 7), (1, 2), (1, 9), (2, 8), (4, 6), (4, 9), (5, 3), (6, 7)]"
+9,11,32,2032.238,2032.433,A,says,wait .
+9,11,32,2032.661,2032.661,A,presses,previous (enabled)
+9,11,32,2033.620,2034.316,A,says,this one ?
+9,11,32,2034.413,2035.725,B,says,um no .
+9,11,32,2036.262,2036.262,A,presses,previous (enabled)
+9,11,32,2036.426,2037.171,A,says,this one .
+9,11,32,2038.467,2038.970,B,says,what ?
+9,11,32,2039.271,2039.952,A,says,this one ?
+9,11,32,2039.968,2040.908,B,says,no
+9,11,32,2041.625,2041.625,A,presses,previous (enabled)
+9,11,32,2041.878,2042.348,A,says,this one .
+9,11,32,2043.320,2044.632,B,says,you didn't change .
+9,11,32,2045.782,2047.499,B,says,it's alright um we just keep it .
+9,11,32,2046.673,2047.499,A,says,wait this one .
+9,11,32,2047.146,2047.146,A,presses,apply (enabled)
+9,11,32,2047.156,2047.156,A,loads,"[(0, 3), (0, 7), (1, 2), (1, 3), (1, 9), (2, 8), (4, 6), (4, 9), (5, 3), (5, 7), (6, 7), (8, 9)]"
+9,11,32,2047.907,2048.458,B,says,yes !
+9,11,32,2049.884,2050.532,B,says,if
+9,11,32,2051.066,2052.427,B,says,how would we um
+9,11,32,2052.427,2054.322,A,says,this is price 23 .
+9,11,32,2054.995,2056.615,B,says,we need 1 point less .
+9,11,32,2057.085,2058.089,A,says,wait .
+9,11,32,2057.182,2059.920,B,says,"how much is , wait which one is the most expensive"
+9,11,32,2058.327,2058.327,A,presses,compare (enabled)
+9,11,32,2058.346,2058.346,A,presses,next (enabled)
+9,11,32,2059.371,2059.371,A,presses,previous (enabled)
+9,11,32,2060.291,2062.073,A,says,most expensive that we've done ?
+9,11,32,2060.611,2060.611,A,presses,previous (enabled)
+9,11,32,2061.845,2061.845,A,presses,previous (enabled)
+9,11,32,2061.943,2062.348,B,says,yeah .
+9,11,32,2062.578,2062.578,A,presses,previous (enabled)
+9,11,32,2063.300,2063.300,A,presses,previous (enabled)
+9,11,32,2064.015,2064.015,A,presses,previous (enabled)
+9,11,32,2064.486,2065.086,A,says,30 .
+9,11,32,2065.397,2065.397,A,presses,compare (enabled)
+9,11,32,2065.420,2065.420,A,presses,next (enabled)
+9,11,32,2065.803,2068.799,B,says,no the uh what is the most expensive track ?
+9,11,32,2069.170,2069.802,A,says,30 .
+9,11,32,2070.531,2072.727,B,says,no the track we're on ours right now .
+9,11,32,2073.548,2074.147,A,says,what do you mean ?
+9,11,32,2074.487,2077.290,B,says,the one we're doing working on which is the most expensive track ?
+9,11,32,2075.452,2075.452,A,presses,compare (enabled)
+9,11,32,2075.502,2075.502,A,presses,next (enabled)
+9,11,32,2076.897,2076.897,A,presses,compare (enabled)
+9,11,32,2076.944,2076.944,A,presses,next (enabled)
+9,11,32,2077.837,2077.837,A,presses,compare (enabled)
+9,11,32,2077.856,2077.856,A,presses,next (enabled)
+9,11,32,2078.277,2079.751,A,says,uh track uh
+9,11,32,2079.314,2079.314,A,presses,compare (enabled)
+9,11,32,2079.328,2079.328,A,presses,next (enabled)
+9,11,32,2080.517,2081.894,A,says,this one
+9,11,32,2082.870,2084.603,A,says,the most expensive track
+9,11,32,2085.008,2085.802,A,says,is
+9,11,32,2088.042,2089.808,A,says,"they're all 3s , 2s and 3s ."
+9,11,32,2090.243,2091.393,A,says,because we erased the 4s .
+9,11,32,2092.139,2093.467,B,says,oh yeah um .
+9,11,32,2093.613,2094.974,A,says,they are all 2s and 3s .
+9,11,32,2096.529,2097.294,B,says,how much is that ?
+9,11,32,2097.183,2097.183,B,adds,Interlaken-Bern (5-3)
+9,11,32,2097.894,2099.497,B,says,the mount interlaken to mount bern ?
+9,11,32,2101.376,2101.829,A,says,4 .
+9,11,32,2104.028,2104.028,B,removes,Interlaken-Neuchatel (5-7)
+9,11,32,2104.571,2105.122,B,says,okay .
+9,11,32,2105.559,2106.143,B,says,submit .
+9,11,32,2106.985,2107.568,A,says,okay .
+9,11,33,2107.600,2107.600,B,presses,submit (enabled)
+9,11,33,2108.056,2108.056,A,presses,submit (enabled)
+9,11,33,2108.112,2108.112,T,submits,cost=24 (opt_cost=22)
+9,11,33,2108.295,2116.670,R,says,you are not that far from the minimum the difference is only 9 francs i am sure you can do it
+9,11,33,2108.486,2108.486,R,shows,talking emotion
+9,11,33,2108.488,2108.488,R,shows,up_left gesture
+9,11,33,2108.569,2108.569,R,says,you are not that far from the minimum; the difference is only 2 francs. i am sure you can do it.
+9,12,33,2119.450,2119.450,B,presses,compare (enabled)
+9,12,33,2120.862,2122.988,I,says,do you want to see the best solution
+9,12,33,2121.633,2121.633,B,presses,apply (enabled)
+9,12,33,2121.643,2121.643,B,loads,"[(0, 3), (1, 2), (1, 3), (2, 8), (4, 6), (4, 9), (5, 3), (6, 7), (8, 9)]"
+9,12,33,2122.697,2124.916,B,says,wait no can we can i try something .
+9,12,33,2127.313,2127.735,B,says,um
+9,12,33,2128.053,2131.276,B,says,could you go mount montreux to mount interlaken to mount neuchatel .
+9,12,33,2130.876,2133.192,A,says,wait mount which one mount ?
+9,12,33,2133.202,2135.195,B,says,interlaken to mount neuchatel .
+9,12,33,2135.890,2136.765,A,says,neuchatel .
+9,12,33,2137.153,2137.688,A,says,yeah .
+9,12,33,2137.518,2137.518,A,adds,Interlaken-Neuchatel (5-7)
+9,12,33,2138.093,2139.486,B,says,then to mount montreux .
+9,12,33,2139.933,2143.869,A,says,then from neuchatel to mount montreux ?
+9,12,33,2142.476,2144.436,B,says,no uh interlaken to mount montreux .
+9,12,33,2145.974,2145.974,A,adds,Interlaken-Montreux (5-6)
+9,12,33,2147.744,2149.543,B,says,and i'm gonna erase this one .
+9,12,34,2149.751,2149.751,B,removes,Montreux-Neuchatel (6-7)
+9,12,34,2149.850,2151.762,B,says,"here , submit , i wanna see ."
+9,12,34,2150.866,2150.866,B,presses,submit (enabled)
+9,12,34,2151.911,2152.737,A,says,submit .
+9,12,34,2152.393,2152.393,A,presses,submit (enabled)
+9,12,34,2152.477,2152.477,T,submits,cost=29 (opt_cost=22)
+9,12,34,2152.874,2152.874,R,shows,talking emotion
+9,12,34,2152.875,2152.875,R,shows,up_left gesture
+9,12,34,2153.025,2153.025,R,says,you are not that far from the minimum; the difference is only 7 francs. i am sure you can do it.
+9,12,34,2153.201,2160.857,R,says,you are not that far from the minimum the difference is only 7 francs i am sure you can do it
+9,12,34,2158.167,2160.354,B,says,okay yeah .
+9,12,34,2159.901,2160.630,A,says,yes .
