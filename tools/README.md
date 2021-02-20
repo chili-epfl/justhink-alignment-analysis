@@ -32,8 +32,8 @@ Only one feature (of performance), (minimum) error, is used next (hence a bit ov
 3. ✅ [Select and visualise a subset of teams for transcription](tools/3_visualise_transcribed_teams.ipynb)
 4. ✅ [Extract routines from transcripts](tools/4_extract_routines_from_transcripts.ipynb) (uses [dialign](https://github.com/GuillaumeDD/dialign) to extract routines)
 5. ⬜️ [Combine transcripts with logs](tools/5_combine_transcripts_with_logs.ipynb)
-6. ⬜️ [Recognise instructions and process follow-up actions](tools/6_recognise_instructions.ipynb)
-7. ⬜️ [Recognise instructions and process follow-up actions](tools/7_detect_follow-up_actions.ipynb)
+6. ⬜️ [Recognise instructions](tools/6_recognise_instructions.ipynb)
+7. ⬜️ [Relate instructions to the follow-up actions](tools/7_detect_follow-up_actions.ipynb)
 8. ⬜️ [Test the hypotheses](tools/8_test_the_hypotheses.ipynb) in [[1]](#references) (uses [cliffsDelta](https://github.com/neilernst/cliffsDelta) to estimate effect size)
 
 ### 2.2. Utilised External Tools/Packages
