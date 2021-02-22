@@ -21,14 +21,22 @@ def get_team_no_from_corpus_filename(filename):
     return int(str(pl.Path(filename).stem).split('_')[-1])
 
 
+def get_team_no_from_routine_filename(filename):
+    '''extract team no from a routine filename of format *_<team_no>.*'''
+    return int(str(pl.Path(filename).stem).split('_')[-1])
+
+
+
 def read_tables(input_dir, form='transcript', verbose=True):
     '''read transcript, log or corpus tables at a directory'''
     if form == 'transcript':
-        func = get_team_no_from_log_filename
+        parser = get_team_no_from_log_filename
     elif form == 'log':
-        func = get_team_no_from_transcript_filename
+        parser = get_team_no_from_transcript_filename
     elif form == 'corpus':
-        func = get_team_no_from_corpus_filename
+        parser = get_team_no_from_corpus_filename
+    elif form == 'routine':
+        parser = get_team_no_from_routine_filename
     else:
         raise ValueError
     if verbose:
@@ -40,7 +48,7 @@ def read_tables(input_dir, form='transcript', verbose=True):
         print('{} {} files found.'.format(form, len(filelist)))
 
     # Organize the file list as a dictionary keyed by team number.
-    files = {func(f): f for f in filelist}
+    files = {parser(f): f for f in filelist}
     if verbose:
         for team_no, file in files.items():
             print('File {} belongs to team {:2d}'.format(file.stem, team_no))
@@ -51,6 +59,16 @@ def read_tables(input_dir, form='transcript', verbose=True):
         # Read the file into a table.
         df = pd.read_csv(f, sep='\t')
         dfs[team_no] = df
+
+
+    # Make type conversions depending on the form.
+    if form == 'routine':
+        from ast import literal_eval
+        for team_no, df in dfs.items():
+            # Convert utterance_no_list strings to python list objects.
+            df.utterance_no_list = df.utterance_no_list.apply(literal_eval)
+
+
     if verbose:
         for team_no, df in dfs.items():
             if form == 'log':
