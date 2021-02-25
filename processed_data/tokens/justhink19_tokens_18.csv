@@ -1,0 +1,1447 @@
+team_no	utterance_no	token_no	start	end	interlocutor	utterance	token
+18	0	0	125.988	133.363	A	so we need to use less francs ?	so
+18	0	1	125.988	133.363	A	so we need to use less francs ?	we
+18	0	2	125.988	133.363	A	so we need to use less francs ?	need
+18	0	3	125.988	133.363	A	so we need to use less francs ?	to
+18	0	4	125.988	133.363	A	so we need to use less francs ?	use
+18	0	5	125.988	133.363	A	so we need to use less francs ?	less
+18	0	6	125.988	133.363	A	so we need to use less francs ?	francs
+18	0	7	125.988	133.363	A	so we need to use less francs ?	?
+18	1	8	135.788	137.360	B	um	um
+18	2	9	194.973	195.552	A	this .	this
+18	2	10	194.973	195.552	A	this .	.
+18	3	11	197.559	202.571	A	mount interlaken costs 4 ?	mount
+18	3	12	197.559	202.571	A	mount interlaken costs 4 ?	interlaken
+18	3	13	197.559	202.571	A	mount interlaken costs 4 ?	costs
+18	3	14	197.559	202.571	A	mount interlaken costs 4 ?	4
+18	3	15	197.559	202.571	A	mount interlaken costs 4 ?	?
+18	4	16	206.243	207.585	B	yeah and	yeah
+18	4	17	206.243	207.585	B	yeah and	and
+18	5	18	207.453	208.559	A	so .	so
+18	5	19	207.453	208.559	A	so .	.
+18	6	20	211.808	213.012	B	yeah .	yeah
+18	6	21	211.808	213.012	B	yeah .	.
+18	7	22	234.664	235.124	B	um	um
+18	8	23	239.657	242.394	B	how do you do anything right now ?	how
+18	8	24	239.657	242.394	B	how do you do anything right now ?	do
+18	8	25	239.657	242.394	B	how do you do anything right now ?	you
+18	8	26	239.657	242.394	B	how do you do anything right now ?	do
+18	8	27	239.657	242.394	B	how do you do anything right now ?	anything
+18	8	28	239.657	242.394	B	how do you do anything right now ?	right
+18	8	29	239.657	242.394	B	how do you do anything right now ?	now
+18	8	30	239.657	242.394	B	how do you do anything right now ?	?
+18	9	31	245.762	248.091	B	how do i do anything ?	how
+18	9	32	245.762	248.091	B	how do i do anything ?	do
+18	9	33	245.762	248.091	B	how do i do anything ?	i
+18	9	34	245.762	248.091	B	how do i do anything ?	do
+18	9	35	245.762	248.091	B	how do i do anything ?	anything
+18	9	36	245.762	248.091	B	how do i do anything ?	?
+18	10	37	263.289	263.953	A	oh .	oh
+18	10	38	263.289	263.953	A	oh .	.
+18	11	39	263.690	264.598	B	oh yeah .	oh
+18	11	40	263.690	264.598	B	oh yeah .	yeah
+18	11	41	263.690	264.598	B	oh yeah .	.
+18	12	42	265.433	266.183	B	um	um
+18	13	43	287.342	288.974	B	i think so .	i
+18	13	44	287.342	288.974	B	i think so .	think
+18	13	45	287.342	288.974	B	i think so .	so
+18	13	46	287.342	288.974	B	i think so .	.
+18	14	47	293.145	298.820	A	this costs 4 to mount basel .	this
+18	14	48	293.145	298.820	A	this costs 4 to mount basel .	costs
+18	14	49	293.145	298.820	A	this costs 4 to mount basel .	4
+18	14	50	293.145	298.820	A	this costs 4 to mount basel .	to
+18	14	51	293.145	298.820	A	this costs 4 to mount basel .	mount
+18	14	52	293.145	298.820	A	this costs 4 to mount basel .	basel
+18	14	53	293.145	298.820	A	this costs 4 to mount basel .	.
+18	15	54	303.426	303.899	B	yeah .	yeah
+18	15	55	303.426	303.899	B	yeah .	.
+18	16	56	306.314	309.130	A	so i think we need to erase .	so
+18	16	57	306.314	309.130	A	so i think we need to erase .	i
+18	16	58	306.314	309.130	A	so i think we need to erase .	think
+18	16	59	306.314	309.130	A	so i think we need to erase .	we
+18	16	60	306.314	309.130	A	so i think we need to erase .	need
+18	16	61	306.314	309.130	A	so i think we need to erase .	to
+18	16	62	306.314	309.130	A	so i think we need to erase .	erase
+18	16	63	306.314	309.130	A	so i think we need to erase .	.
+18	17	64	369.959	373.926	A	do you think this is good ?	do
+18	17	65	369.959	373.926	A	do you think this is good ?	you
+18	17	66	369.959	373.926	A	do you think this is good ?	think
+18	17	67	369.959	373.926	A	do you think this is good ?	this
+18	17	68	369.959	373.926	A	do you think this is good ?	is
+18	17	69	369.959	373.926	A	do you think this is good ?	good
+18	17	70	369.959	373.926	A	do you think this is good ?	?
+18	18	71	375.097	375.880	B	um	um
+18	19	72	379.466	381.380	B	yeah .	yeah
+18	19	73	379.466	381.380	B	yeah .	.
+18	20	74	433.045	435.887	B	um do we press the finish button ?	um
+18	20	75	433.045	435.887	B	um do we press the finish button ?	do
+18	20	76	433.045	435.887	B	um do we press the finish button ?	we
+18	20	77	433.045	435.887	B	um do we press the finish button ?	press
+18	20	78	433.045	435.887	B	um do we press the finish button ?	the
+18	20	79	433.045	435.887	B	um do we press the finish button ?	finish
+18	20	80	433.045	435.887	B	um do we press the finish button ?	button
+18	20	81	433.045	435.887	B	um do we press the finish button ?	?
+18	21	82	595.216	599.190	B	do i press this or	do
+18	21	83	595.216	599.190	B	do i press this or	i
+18	21	84	595.216	599.190	B	do i press this or	press
+18	21	85	595.216	599.190	B	do i press this or	this
+18	21	86	595.216	599.190	B	do i press this or	or
+18	22	87	613.243	615.085	A	so	so
+18	23	88	616.875	620.901	B	oh what do i do here ?	oh
+18	23	89	616.875	620.901	B	oh what do i do here ?	what
+18	23	90	616.875	620.901	B	oh what do i do here ?	do
+18	23	91	616.875	620.901	B	oh what do i do here ?	i
+18	23	92	616.875	620.901	B	oh what do i do here ?	do
+18	23	93	616.875	620.901	B	oh what do i do here ?	here
+18	23	94	616.875	620.901	B	oh what do i do here ?	?
+18	24	95	631.597	634.386	B	like how	like
+18	24	96	631.597	634.386	B	like how	how
+18	25	97	672.374	673.435	B	build what ?	build
+18	25	98	672.374	673.435	B	build what ?	what
+18	25	99	672.374	673.435	B	build what ?	?
+18	26	100	676.414	686.360	B	um mount montreux and mount interlaken	um
+18	26	101	676.414	686.360	B	um mount montreux and mount interlaken	mount
+18	26	102	676.414	686.360	B	um mount montreux and mount interlaken	montreux
+18	26	103	676.414	686.360	B	um mount montreux and mount interlaken	and
+18	26	104	676.414	686.360	B	um mount montreux and mount interlaken	mount
+18	26	105	676.414	686.360	B	um mount montreux and mount interlaken	interlaken
+18	27	106	685.518	687.110	A	okay .	okay
+18	27	107	685.518	687.110	A	okay .	.
+18	28	108	688.590	692.471	A	and what what is the next one ?	and
+18	28	109	688.590	692.471	A	and what what is the next one ?	what
+18	28	110	688.590	692.471	A	and what what is the next one ?	what
+18	28	111	688.590	692.471	A	and what what is the next one ?	is
+18	28	112	688.590	692.471	A	and what what is the next one ?	the
+18	28	113	688.590	692.471	A	and what what is the next one ?	next
+18	28	114	688.590	692.471	A	and what what is the next one ?	one
+18	28	115	688.590	692.471	A	and what what is the next one ?	?
+18	29	116	692.340	697.431	B	and then mount neuchatel .	and
+18	29	117	692.340	697.431	B	and then mount neuchatel .	then
+18	29	118	692.340	697.431	B	and then mount neuchatel .	mount
+18	29	119	692.340	697.431	B	and then mount neuchatel .	neuchatel
+18	29	120	692.340	697.431	B	and then mount neuchatel .	.
+18	30	121	706.037	708.629	A	like to the	like
+18	30	122	706.037	708.629	A	like to the	to
+18	30	123	706.037	708.629	A	like to the	the
+18	31	124	744.014	744.830	A	so	so
+18	32	125	744.580	747.632	B	um wait which one are you on ?	um
+18	32	126	744.580	747.632	B	um wait which one are you on ?	wait
+18	32	127	744.580	747.632	B	um wait which one are you on ?	which
+18	32	128	744.580	747.632	B	um wait which one are you on ?	one
+18	32	129	744.580	747.632	B	um wait which one are you on ?	are
+18	32	130	744.580	747.632	B	um wait which one are you on ?	you
+18	32	131	744.580	747.632	B	um wait which one are you on ?	on
+18	32	132	744.580	747.632	B	um wait which one are you on ?	?
+18	33	133	747.895	755.578	A	you need to do it like cost less , cost less .	you
+18	33	134	747.895	755.578	A	you need to do it like cost less , cost less .	need
+18	33	135	747.895	755.578	A	you need to do it like cost less , cost less .	to
+18	33	136	747.895	755.578	A	you need to do it like cost less , cost less .	do
+18	33	137	747.895	755.578	A	you need to do it like cost less , cost less .	it
+18	33	138	747.895	755.578	A	you need to do it like cost less , cost less .	like
+18	33	139	747.895	755.578	A	you need to do it like cost less , cost less .	cost
+18	33	140	747.895	755.578	A	you need to do it like cost less , cost less .	less
+18	33	141	747.895	755.578	A	you need to do it like cost less , cost less .	,
+18	33	142	747.895	755.578	A	you need to do it like cost less , cost less .	cost
+18	33	143	747.895	755.578	A	you need to do it like cost less , cost less .	less
+18	33	144	747.895	755.578	A	you need to do it like cost less , cost less .	.
+18	34	145	762.514	766.356	B	um so	um
+18	34	146	762.514	766.356	B	um so	so
+18	35	147	768.948	773.079	B	from mount bern to mount zurich , zurich .	from
+18	35	148	768.948	773.079	B	from mount bern to mount zurich , zurich .	mount
+18	35	149	768.948	773.079	B	from mount bern to mount zurich , zurich .	bern
+18	35	150	768.948	773.079	B	from mount bern to mount zurich , zurich .	to
+18	35	151	768.948	773.079	B	from mount bern to mount zurich , zurich .	mount
+18	35	152	768.948	773.079	B	from mount bern to mount zurich , zurich .	zurich
+18	35	153	768.948	773.079	B	from mount bern to mount zurich , zurich .	,
+18	35	154	768.948	773.079	B	from mount bern to mount zurich , zurich .	zurich
+18	35	155	768.948	773.079	B	from mount bern to mount zurich , zurich .	.
+18	36	156	773.882	776.829	A	mount mount	mount
+18	36	157	773.882	776.829	A	mount mount	mount
+18	37	158	777.211	780.986	B	um mount bern ?	um
+18	37	159	777.211	780.986	B	um mount bern ?	mount
+18	37	160	777.211	780.986	B	um mount bern ?	bern
+18	37	161	777.211	780.986	B	um mount bern ?	?
+18	38	162	781.948	787.487	B	did you connect mount neuchatel to mount basel ?	did
+18	38	163	781.948	787.487	B	did you connect mount neuchatel to mount basel ?	you
+18	38	164	781.948	787.487	B	did you connect mount neuchatel to mount basel ?	connect
+18	38	165	781.948	787.487	B	did you connect mount neuchatel to mount basel ?	mount
+18	38	166	781.948	787.487	B	did you connect mount neuchatel to mount basel ?	neuchatel
+18	38	167	781.948	787.487	B	did you connect mount neuchatel to mount basel ?	to
+18	38	168	781.948	787.487	B	did you connect mount neuchatel to mount basel ?	mount
+18	38	169	781.948	787.487	B	did you connect mount neuchatel to mount basel ?	basel
+18	38	170	781.948	787.487	B	did you connect mount neuchatel to mount basel ?	?
+18	39	171	787.737	789.777	A	mount basel ?	mount
+18	39	172	787.737	789.777	A	mount basel ?	basel
+18	39	173	787.737	789.777	A	mount basel ?	?
+18	40	174	790.250	792.382	B	mount basel its um	mount
+18	40	175	790.250	792.382	B	mount basel its um	basel
+18	40	176	790.250	792.382	B	mount basel its um	its
+18	40	177	790.250	792.382	B	mount basel its um	um
+18	41	178	794.895	795.684	B	the	the
+18	42	179	798.210	799.302	A	davos ?	davos
+18	42	180	798.210	799.302	A	davos ?	?
+18	43	181	799.816	800.500	B	what ?	what
+18	43	182	799.816	800.500	B	what ?	?
+18	44	183	801.225	802.357	A	which one ?	which
+18	44	184	801.225	802.357	A	which one ?	one
+18	44	185	801.225	802.357	A	which one ?	?
+18	45	186	802.528	803.896	B	mount basel .	mount
+18	45	187	802.528	803.896	B	mount basel .	basel
+18	45	188	802.528	803.896	B	mount basel .	.
+18	46	189	804.264	805.277	A	to	to
+18	47	190	806.343	811.579	B	um have you connected mount neuchatel to mount basel ?	um
+18	47	191	806.343	811.579	B	um have you connected mount neuchatel to mount basel ?	have
+18	47	192	806.343	811.579	B	um have you connected mount neuchatel to mount basel ?	you
+18	47	193	806.343	811.579	B	um have you connected mount neuchatel to mount basel ?	connected
+18	47	194	806.343	811.579	B	um have you connected mount neuchatel to mount basel ?	mount
+18	47	195	806.343	811.579	B	um have you connected mount neuchatel to mount basel ?	neuchatel
+18	47	196	806.343	811.579	B	um have you connected mount neuchatel to mount basel ?	to
+18	47	197	806.343	811.579	B	um have you connected mount neuchatel to mount basel ?	mount
+18	47	198	806.343	811.579	B	um have you connected mount neuchatel to mount basel ?	basel
+18	47	199	806.343	811.579	B	um have you connected mount neuchatel to mount basel ?	?
+18	48	200	812.066	816.132	A	neuchatel ?	neuchatel
+18	48	201	812.066	816.132	A	neuchatel ?	?
+18	49	202	821.343	828.238	A	um to the mount , bern ?	um
+18	49	203	821.343	828.238	A	um to the mount , bern ?	to
+18	49	204	821.343	828.238	A	um to the mount , bern ?	the
+18	49	205	821.343	828.238	A	um to the mount , bern ?	mount
+18	49	206	821.343	828.238	A	um to the mount , bern ?	,
+18	49	207	821.343	828.238	A	um to the mount , bern ?	bern
+18	49	208	821.343	828.238	A	um to the mount , bern ?	?
+18	50	209	829.053	834.434	B	mount bern yeah , no um no erase that one .	mount
+18	50	210	829.053	834.434	B	mount bern yeah , no um no erase that one .	bern
+18	50	211	829.053	834.434	B	mount bern yeah , no um no erase that one .	yeah
+18	50	212	829.053	834.434	B	mount bern yeah , no um no erase that one .	,
+18	50	213	829.053	834.434	B	mount bern yeah , no um no erase that one .	no
+18	50	214	829.053	834.434	B	mount bern yeah , no um no erase that one .	um
+18	50	215	829.053	834.434	B	mount bern yeah , no um no erase that one .	no
+18	50	216	829.053	834.434	B	mount bern yeah , no um no erase that one .	erase
+18	50	217	829.053	834.434	B	mount bern yeah , no um no erase that one .	that
+18	50	218	829.053	834.434	B	mount bern yeah , no um no erase that one .	one
+18	50	219	829.053	834.434	B	mount bern yeah , no um no erase that one .	.
+18	51	220	833.961	834.947	A	okay .	okay
+18	51	221	833.961	834.947	A	okay .	.
+18	52	222	836.434	838.368	B	okay um .	okay
+18	52	223	836.434	838.368	B	okay um .	um
+18	52	224	836.434	838.368	B	okay um .	.
+18	53	225	847.948	849.158	B	okay so	okay
+18	53	226	847.948	849.158	B	okay so	so
+18	54	227	854.882	855.711	B	have you	have
+18	54	228	854.882	855.711	B	have you	you
+18	55	229	858.658	870.026	B	wait , did you , you know did you erase the one from mount neuchatel to mount bern okay so then you go	wait
+18	55	230	858.658	870.026	B	wait , did you , you know did you erase the one from mount neuchatel to mount bern okay so then you go	,
+18	55	231	858.658	870.026	B	wait , did you , you know did you erase the one from mount neuchatel to mount bern okay so then you go	did
+18	55	232	858.658	870.026	B	wait , did you , you know did you erase the one from mount neuchatel to mount bern okay so then you go	you
+18	55	233	858.658	870.026	B	wait , did you , you know did you erase the one from mount neuchatel to mount bern okay so then you go	,
+18	55	234	858.658	870.026	B	wait , did you , you know did you erase the one from mount neuchatel to mount bern okay so then you go	you
+18	55	235	858.658	870.026	B	wait , did you , you know did you erase the one from mount neuchatel to mount bern okay so then you go	know
+18	55	236	858.658	870.026	B	wait , did you , you know did you erase the one from mount neuchatel to mount bern okay so then you go	did
+18	55	237	858.658	870.026	B	wait , did you , you know did you erase the one from mount neuchatel to mount bern okay so then you go	you
+18	55	238	858.658	870.026	B	wait , did you , you know did you erase the one from mount neuchatel to mount bern okay so then you go	erase
+18	55	239	858.658	870.026	B	wait , did you , you know did you erase the one from mount neuchatel to mount bern okay so then you go	the
+18	55	240	858.658	870.026	B	wait , did you , you know did you erase the one from mount neuchatel to mount bern okay so then you go	one
+18	55	241	858.658	870.026	B	wait , did you , you know did you erase the one from mount neuchatel to mount bern okay so then you go	from
+18	55	242	858.658	870.026	B	wait , did you , you know did you erase the one from mount neuchatel to mount bern okay so then you go	mount
+18	55	243	858.658	870.026	B	wait , did you , you know did you erase the one from mount neuchatel to mount bern okay so then you go	neuchatel
+18	55	244	858.658	870.026	B	wait , did you , you know did you erase the one from mount neuchatel to mount bern okay so then you go	to
+18	55	245	858.658	870.026	B	wait , did you , you know did you erase the one from mount neuchatel to mount bern okay so then you go	mount
+18	55	246	858.658	870.026	B	wait , did you , you know did you erase the one from mount neuchatel to mount bern okay so then you go	bern
+18	55	247	858.658	870.026	B	wait , did you , you know did you erase the one from mount neuchatel to mount bern okay so then you go	okay
+18	55	248	858.658	870.026	B	wait , did you , you know did you erase the one from mount neuchatel to mount bern okay so then you go	so
+18	55	249	858.658	870.026	B	wait , did you , you know did you erase the one from mount neuchatel to mount bern okay so then you go	then
+18	55	250	858.658	870.026	B	wait , did you , you know did you erase the one from mount neuchatel to mount bern okay so then you go	you
+18	55	251	858.658	870.026	B	wait , did you , you know did you erase the one from mount neuchatel to mount bern okay so then you go	go
+18	56	252	865.224	866.302	A	yes .	yes
+18	56	253	865.224	866.302	A	yes .	.
+18	57	254	872.092	873.158	B	to	to
+18	58	255	875.225	879.750	B	from mount zurich to mount saint gallen .	from
+18	58	256	875.225	879.750	B	from mount zurich to mount saint gallen .	mount
+18	58	257	875.225	879.750	B	from mount zurich to mount saint gallen .	zurich
+18	58	258	875.225	879.750	B	from mount zurich to mount saint gallen .	to
+18	58	259	875.225	879.750	B	from mount zurich to mount saint gallen .	mount
+18	58	260	875.225	879.750	B	from mount zurich to mount saint gallen .	saint
+18	58	261	875.225	879.750	B	from mount zurich to mount saint gallen .	gallen
+18	58	262	875.225	879.750	B	from mount zurich to mount saint gallen .	.
+18	59	263	880.382	881.678	A	mount	mount
+18	60	264	881.461	882.704	B	saint gallen .	saint
+18	60	265	881.461	882.704	B	saint gallen .	gallen
+18	60	266	881.461	882.704	B	saint gallen .	.
+18	61	267	890.520	891.079	A	mount	mount
+18	62	268	891.777	893.158	A	luzern ?	luzern
+18	62	269	891.777	893.158	A	luzern ?	?
+18	63	270	894.869	895.540	B	um	um
+18	64	271	896.158	899.842	B	you can go from mount bern to mount luzern .	you
+18	64	272	896.158	899.842	B	you can go from mount bern to mount luzern .	can
+18	64	273	896.158	899.842	B	you can go from mount bern to mount luzern .	go
+18	64	274	896.158	899.842	B	you can go from mount bern to mount luzern .	from
+18	64	275	896.158	899.842	B	you can go from mount bern to mount luzern .	mount
+18	64	276	896.158	899.842	B	you can go from mount bern to mount luzern .	bern
+18	64	277	896.158	899.842	B	you can go from mount bern to mount luzern .	to
+18	64	278	896.158	899.842	B	you can go from mount bern to mount luzern .	mount
+18	64	279	896.158	899.842	B	you can go from mount bern to mount luzern .	luzern
+18	64	280	896.158	899.842	B	you can go from mount bern to mount luzern .	.
+18	65	281	899.967	902.244	A	mount bern to mount luzern .	mount
+18	65	282	899.967	902.244	A	mount bern to mount luzern .	bern
+18	65	283	899.967	902.244	A	mount bern to mount luzern .	to
+18	65	284	899.967	902.244	A	mount bern to mount luzern .	mount
+18	65	285	899.967	902.244	A	mount bern to mount luzern .	luzern
+18	65	286	899.967	902.244	A	mount bern to mount luzern .	.
+18	66	287	901.803	907.020	B	and then from mount zurich you go to mount saint gallen .	and
+18	66	288	901.803	907.020	B	and then from mount zurich you go to mount saint gallen .	then
+18	66	289	901.803	907.020	B	and then from mount zurich you go to mount saint gallen .	from
+18	66	290	901.803	907.020	B	and then from mount zurich you go to mount saint gallen .	mount
+18	66	291	901.803	907.020	B	and then from mount zurich you go to mount saint gallen .	zurich
+18	66	292	901.803	907.020	B	and then from mount zurich you go to mount saint gallen .	you
+18	66	293	901.803	907.020	B	and then from mount zurich you go to mount saint gallen .	go
+18	66	294	901.803	907.020	B	and then from mount zurich you go to mount saint gallen .	to
+18	66	295	901.803	907.020	B	and then from mount zurich you go to mount saint gallen .	mount
+18	66	296	901.803	907.020	B	and then from mount zurich you go to mount saint gallen .	saint
+18	66	297	901.803	907.020	B	and then from mount zurich you go to mount saint gallen .	gallen
+18	66	298	901.803	907.020	B	and then from mount zurich you go to mount saint gallen .	.
+18	67	299	913.777	914.783	A	mount	mount
+18	68	300	915.303	916.849	B	from mount zurich	from
+18	68	301	915.303	916.849	B	from mount zurich	mount
+18	68	302	915.303	916.849	B	from mount zurich	zurich
+18	69	303	917.007	917.974	A	to	to
+18	70	304	919.007	921.448	B	you go to mount saint gallen .	you
+18	70	305	919.007	921.448	B	you go to mount saint gallen .	go
+18	70	306	919.007	921.448	B	you go to mount saint gallen .	to
+18	70	307	919.007	921.448	B	you go to mount saint gallen .	mount
+18	70	308	919.007	921.448	B	you go to mount saint gallen .	saint
+18	70	309	919.007	921.448	B	you go to mount saint gallen .	gallen
+18	70	310	919.007	921.448	B	you go to mount saint gallen .	.
+18	71	311	919.027	920.882	A	oh to	oh
+18	71	312	919.027	920.882	A	oh to	to
+18	72	313	926.376	929.027	B	okay and mount saint gallen .	okay
+18	72	314	926.376	929.027	B	okay and mount saint gallen .	and
+18	72	315	926.376	929.027	B	okay and mount saint gallen .	mount
+18	72	316	926.376	929.027	B	okay and mount saint gallen .	saint
+18	72	317	926.376	929.027	B	okay and mount saint gallen .	gallen
+18	72	318	926.376	929.027	B	okay and mount saint gallen .	.
+18	73	319	939.271	941.040	B	and	and
+18	74	320	943.856	953.756	A	i think we should erase the one that mount montreux to the mount interlaken .	i
+18	74	321	943.856	953.756	A	i think we should erase the one that mount montreux to the mount interlaken .	think
+18	74	322	943.856	953.756	A	i think we should erase the one that mount montreux to the mount interlaken .	we
+18	74	323	943.856	953.756	A	i think we should erase the one that mount montreux to the mount interlaken .	should
+18	74	324	943.856	953.756	A	i think we should erase the one that mount montreux to the mount interlaken .	erase
+18	74	325	943.856	953.756	A	i think we should erase the one that mount montreux to the mount interlaken .	the
+18	74	326	943.856	953.756	A	i think we should erase the one that mount montreux to the mount interlaken .	one
+18	74	327	943.856	953.756	A	i think we should erase the one that mount montreux to the mount interlaken .	that
+18	74	328	943.856	953.756	A	i think we should erase the one that mount montreux to the mount interlaken .	mount
+18	74	329	943.856	953.756	A	i think we should erase the one that mount montreux to the mount interlaken .	montreux
+18	74	330	943.856	953.756	A	i think we should erase the one that mount montreux to the mount interlaken .	to
+18	74	331	943.856	953.756	A	i think we should erase the one that mount montreux to the mount interlaken .	the
+18	74	332	943.856	953.756	A	i think we should erase the one that mount montreux to the mount interlaken .	mount
+18	74	333	943.856	953.756	A	i think we should erase the one that mount montreux to the mount interlaken .	interlaken
+18	74	334	943.856	953.756	A	i think we should erase the one that mount montreux to the mount interlaken .	.
+18	75	335	950.804	951.711	B	mount	mount
+18	76	336	954.014	956.757	B	mount montreux what ?	mount
+18	76	337	954.014	956.757	B	mount montreux what ?	montreux
+18	76	338	954.014	956.757	B	mount montreux what ?	what
+18	76	339	954.014	956.757	B	mount montreux what ?	?
+18	77	340	957.829	960.480	B	mount montreux to mount what ?	mount
+18	77	341	957.829	960.480	B	mount montreux to mount what ?	montreux
+18	77	342	957.829	960.480	B	mount montreux to mount what ?	to
+18	77	343	957.829	960.480	B	mount montreux to mount what ?	mount
+18	77	344	957.829	960.480	B	mount montreux to mount what ?	what
+18	77	345	957.829	960.480	B	mount montreux to mount what ?	?
+18	78	346	961.034	963.409	A	interlaken .	interlaken
+18	78	347	961.034	963.409	A	interlaken .	.
+18	79	348	964.685	965.731	A	i think we	i
+18	79	349	964.685	965.731	A	i think we	think
+18	79	350	964.685	965.731	A	i think we	we
+18	80	351	965.001	967.724	B	and to mount interlaken ?	and
+18	80	352	965.001	967.724	B	and to mount interlaken ?	to
+18	80	353	965.001	967.724	B	and to mount interlaken ?	mount
+18	80	354	965.001	967.724	B	and to mount interlaken ?	interlaken
+18	80	355	965.001	967.724	B	and to mount interlaken ?	?
+18	81	356	967.626	970.579	A	yes i think we should erase	yes
+18	81	357	967.626	970.579	A	yes i think we should erase	i
+18	81	358	967.626	970.579	A	yes i think we should erase	think
+18	81	359	967.626	970.579	A	yes i think we should erase	we
+18	81	360	967.626	970.579	A	yes i think we should erase	should
+18	81	361	967.626	970.579	A	yes i think we should erase	erase
+18	82	362	968.981	970.520	B	right yeah okay .	right
+18	82	363	968.981	970.520	B	right yeah okay .	yeah
+18	82	364	968.981	970.520	B	right yeah okay .	okay
+18	82	365	968.981	970.520	B	right yeah okay .	.
+18	83	366	970.928	972.691	B	so that	so
+18	83	367	970.928	972.691	B	so that	that
+18	84	368	974.507	974.882	B	uh	uh
+18	85	369	975.218	978.856	B	okay so tell me what to do .	okay
+18	85	370	975.218	978.856	B	okay so tell me what to do .	so
+18	85	371	975.218	978.856	B	okay so tell me what to do .	tell
+18	85	372	975.218	978.856	B	okay so tell me what to do .	me
+18	85	373	975.218	978.856	B	okay so tell me what to do .	what
+18	85	374	975.218	978.856	B	okay so tell me what to do .	to
+18	85	375	975.218	978.856	B	okay so tell me what to do .	do
+18	85	376	975.218	978.856	B	okay so tell me what to do .	.
+18	86	377	978.316	979.362	A	and	and
+18	87	378	982.889	984.027	A	um	um
+18	88	379	984.837	987.942	A	mount luzern	mount
+18	88	380	984.837	987.942	A	mount luzern	luzern
+18	89	381	988.251	989.330	B	mount luzern .	mount
+18	89	382	988.251	989.330	B	mount luzern .	luzern
+18	89	383	988.251	989.330	B	mount luzern .	.
+18	90	384	990.566	993.636	A	to mount zermatt .	to
+18	90	385	990.566	993.636	A	to mount zermatt .	mount
+18	90	386	990.566	993.636	A	to mount zermatt .	zermatt
+18	90	387	990.566	993.636	A	to mount zermatt .	.
+18	91	388	995.299	995.911	B	okay .	okay
+18	91	389	995.299	995.911	B	okay .	.
+18	92	390	996.555	997.345	B	um	um
+18	93	391	999.042	999.937	B	so	so
+18	94	392	1001.279	1007.002	B	from mount zermatt we go to mount davos davos .	from
+18	94	393	1001.279	1007.002	B	from mount zermatt we go to mount davos davos .	mount
+18	94	394	1001.279	1007.002	B	from mount zermatt we go to mount davos davos .	zermatt
+18	94	395	1001.279	1007.002	B	from mount zermatt we go to mount davos davos .	we
+18	94	396	1001.279	1007.002	B	from mount zermatt we go to mount davos davos .	go
+18	94	397	1001.279	1007.002	B	from mount zermatt we go to mount davos davos .	to
+18	94	398	1001.279	1007.002	B	from mount zermatt we go to mount davos davos .	mount
+18	94	399	1001.279	1007.002	B	from mount zermatt we go to mount davos davos .	davos
+18	94	400	1001.279	1007.002	B	from mount zermatt we go to mount davos davos .	davos
+18	94	401	1001.279	1007.002	B	from mount zermatt we go to mount davos davos .	.
+18	95	402	1007.168	1008.115	A	davos ?	davos
+18	95	403	1007.168	1008.115	A	davos ?	?
+18	96	404	1009.536	1013.207	B	and then from mount davos you go to mount zurich .	and
+18	96	405	1009.536	1013.207	B	and then from mount davos you go to mount zurich .	then
+18	96	406	1009.536	1013.207	B	and then from mount davos you go to mount zurich .	from
+18	96	407	1009.536	1013.207	B	and then from mount davos you go to mount zurich .	mount
+18	96	408	1009.536	1013.207	B	and then from mount davos you go to mount zurich .	davos
+18	96	409	1009.536	1013.207	B	and then from mount davos you go to mount zurich .	you
+18	96	410	1009.536	1013.207	B	and then from mount davos you go to mount zurich .	go
+18	96	411	1009.536	1013.207	B	and then from mount davos you go to mount zurich .	to
+18	96	412	1009.536	1013.207	B	and then from mount davos you go to mount zurich .	mount
+18	96	413	1009.536	1013.207	B	and then from mount davos you go to mount zurich .	zurich
+18	96	414	1009.536	1013.207	B	and then from mount davos you go to mount zurich .	.
+18	97	415	1017.352	1019.075	B	and	and
+18	98	416	1017.977	1019.095	A	and its	and
+18	98	417	1017.977	1019.095	A	and its	its
+18	99	418	1020.562	1024.055	A	mount montreux	mount
+18	99	419	1020.562	1024.055	A	mount montreux	montreux
+18	100	420	1024.509	1025.266	B	mount	mount
+18	101	421	1026.029	1026.371	B	what ?	what
+18	101	422	1026.029	1026.371	B	what ?	?
+18	102	423	1026.430	1028.384	A	mountreux .	mountreux
+18	102	424	1026.430	1028.384	A	mountreux .	.
+18	103	425	1031.753	1035.785	A	montreux to mount zermatt .	montreux
+18	103	426	1031.753	1035.785	A	montreux to mount zermatt .	to
+18	103	427	1031.753	1035.785	A	montreux to mount zermatt .	mount
+18	103	428	1031.753	1035.785	A	montreux to mount zermatt .	zermatt
+18	103	429	1031.753	1035.785	A	montreux to mount zermatt .	.
+18	104	430	1036.168	1038.911	B	mount zermatt	mount
+18	104	431	1036.168	1038.911	B	mount zermatt	zermatt
+18	105	432	1039.601	1042.114	B	but um it 's only the eraser .	but
+18	105	433	1039.601	1042.114	B	but um it 's only the eraser .	um
+18	105	434	1039.601	1042.114	B	but um it 's only the eraser .	it
+18	105	435	1039.601	1042.114	B	but um it 's only the eraser .	's
+18	105	436	1039.601	1042.114	B	but um it 's only the eraser .	only
+18	105	437	1039.601	1042.114	B	but um it 's only the eraser .	the
+18	105	438	1039.601	1042.114	B	but um it 's only the eraser .	eraser
+18	105	439	1039.601	1042.114	B	but um it 's only the eraser .	.
+18	106	440	1045.141	1049.628	A	mount zermatt to the mount montreux .	mount
+18	106	441	1045.141	1049.628	A	mount zermatt to the mount montreux .	zermatt
+18	106	442	1045.141	1049.628	A	mount zermatt to the mount montreux .	to
+18	106	443	1045.141	1049.628	A	mount zermatt to the mount montreux .	the
+18	106	444	1045.141	1049.628	A	mount zermatt to the mount montreux .	mount
+18	106	445	1045.141	1049.628	A	mount zermatt to the mount montreux .	montreux
+18	106	446	1045.141	1049.628	A	mount zermatt to the mount montreux .	.
+18	107	447	1050.319	1051.279	B	oh here .	oh
+18	107	448	1050.319	1051.279	B	oh here .	here
+18	107	449	1050.319	1051.279	B	oh here .	.
+18	108	450	1053.812	1055.430	B	and then ?	and
+18	108	451	1053.812	1055.430	B	and then ?	then
+18	108	452	1053.812	1055.430	B	and then ?	?
+18	109	453	1054.569	1063.121	A	and i think , we should erase the mount davos to the mount zurich .	and
+18	109	454	1054.569	1063.121	A	and i think , we should erase the mount davos to the mount zurich .	i
+18	109	455	1054.569	1063.121	A	and i think , we should erase the mount davos to the mount zurich .	think
+18	109	456	1054.569	1063.121	A	and i think , we should erase the mount davos to the mount zurich .	,
+18	109	457	1054.569	1063.121	A	and i think , we should erase the mount davos to the mount zurich .	we
+18	109	458	1054.569	1063.121	A	and i think , we should erase the mount davos to the mount zurich .	should
+18	109	459	1054.569	1063.121	A	and i think , we should erase the mount davos to the mount zurich .	erase
+18	109	460	1054.569	1063.121	A	and i think , we should erase the mount davos to the mount zurich .	the
+18	109	461	1054.569	1063.121	A	and i think , we should erase the mount davos to the mount zurich .	mount
+18	109	462	1054.569	1063.121	A	and i think , we should erase the mount davos to the mount zurich .	davos
+18	109	463	1054.569	1063.121	A	and i think , we should erase the mount davos to the mount zurich .	to
+18	109	464	1054.569	1063.121	A	and i think , we should erase the mount davos to the mount zurich .	the
+18	109	465	1054.569	1063.121	A	and i think , we should erase the mount davos to the mount zurich .	mount
+18	109	466	1054.569	1063.121	A	and i think , we should erase the mount davos to the mount zurich .	zurich
+18	109	467	1054.569	1063.121	A	and i think , we should erase the mount davos to the mount zurich .	.
+18	110	468	1061.069	1062.957	B	mount davos	mount
+18	110	469	1061.069	1062.957	B	mount davos	davos
+18	111	470	1069.497	1070.253	A	and	and
+18	112	471	1070.885	1072.391	A	it 's done .	it
+18	112	472	1070.885	1072.391	A	it 's done .	's
+18	112	473	1070.885	1072.391	A	it 's done .	done
+18	112	474	1070.885	1072.391	A	it 's done .	.
+18	113	475	1073.944	1076.174	B	no um i think we should	no
+18	113	476	1073.944	1076.174	B	no um i think we should	um
+18	113	477	1073.944	1076.174	B	no um i think we should	i
+18	113	478	1073.944	1076.174	B	no um i think we should	think
+18	113	479	1073.944	1076.174	B	no um i think we should	we
+18	113	480	1073.944	1076.174	B	no um i think we should	should
+18	114	481	1077.424	1078.049	B	um	um
+18	115	482	1079.010	1082.779	B	connect mount montreux to mount interlaken .	connect
+18	115	483	1079.010	1082.779	B	connect mount montreux to mount interlaken .	mount
+18	115	484	1079.010	1082.779	B	connect mount montreux to mount interlaken .	montreux
+18	115	485	1079.010	1082.779	B	connect mount montreux to mount interlaken .	to
+18	115	486	1079.010	1082.779	B	connect mount montreux to mount interlaken .	mount
+18	115	487	1079.010	1082.779	B	connect mount montreux to mount interlaken .	interlaken
+18	115	488	1079.010	1082.779	B	connect mount montreux to mount interlaken .	.
+18	116	489	1084.115	1089.088	A	but it 's connected to ten mountains .	but
+18	116	490	1084.115	1089.088	A	but it 's connected to ten mountains .	it
+18	116	491	1084.115	1089.088	A	but it 's connected to ten mountains .	's
+18	116	492	1084.115	1089.088	A	but it 's connected to ten mountains .	connected
+18	116	493	1084.115	1089.088	A	but it 's connected to ten mountains .	to
+18	116	494	1084.115	1089.088	A	but it 's connected to ten mountains .	ten
+18	116	495	1084.115	1089.088	A	but it 's connected to ten mountains .	mountains
+18	116	496	1084.115	1089.088	A	but it 's connected to ten mountains .	.
+18	117	497	1090.082	1090.581	B	what ?	what
+18	117	498	1090.082	1090.581	B	what ?	?
+18	118	499	1091.457	1094.161	A	it 's connected to ten mountains .	it
+18	118	500	1091.457	1094.161	A	it 's connected to ten mountains .	's
+18	118	501	1091.457	1094.161	A	it 's connected to ten mountains .	connected
+18	118	502	1091.457	1094.161	A	it 's connected to ten mountains .	to
+18	118	503	1091.457	1094.161	A	it 's connected to ten mountains .	ten
+18	118	504	1091.457	1094.161	A	it 's connected to ten mountains .	mountains
+18	118	505	1091.457	1094.161	A	it 's connected to ten mountains .	.
+18	119	506	1094.444	1096.589	B	to ten mountains ?	to
+18	119	507	1094.444	1096.589	B	to ten mountains ?	ten
+18	119	508	1094.444	1096.589	B	to ten mountains ?	mountains
+18	119	509	1094.444	1096.589	B	to ten mountains ?	?
+18	120	510	1099.852	1101.753	A	so think it 's done .	so
+18	120	511	1099.852	1101.753	A	so think it 's done .	think
+18	120	512	1099.852	1101.753	A	so think it 's done .	it
+18	120	513	1099.852	1101.753	A	so think it 's done .	's
+18	120	514	1099.852	1101.753	A	so think it 's done .	done
+18	120	515	1099.852	1101.753	A	so think it 's done .	.
+18	121	516	1102.404	1103.450	B	um	um
+18	122	517	1108.036	1109.286	B	um	um
+18	123	518	1110.490	1113.536	B	can you try it ?	can
+18	123	519	1110.490	1113.536	B	can you try it ?	you
+18	123	520	1110.490	1113.536	B	can you try it ?	try
+18	123	521	1110.490	1113.536	B	can you try it ?	it
+18	123	522	1110.490	1113.536	B	can you try it ?	?
+18	124	523	1116.483	1117.562	A	and	and
+18	125	524	1121.108	1128.108	A	how many does it cost to mount bern to mount , luzern ?	how
+18	125	525	1121.108	1128.108	A	how many does it cost to mount bern to mount , luzern ?	many
+18	125	526	1121.108	1128.108	A	how many does it cost to mount bern to mount , luzern ?	does
+18	125	527	1121.108	1128.108	A	how many does it cost to mount bern to mount , luzern ?	it
+18	125	528	1121.108	1128.108	A	how many does it cost to mount bern to mount , luzern ?	cost
+18	125	529	1121.108	1128.108	A	how many does it cost to mount bern to mount , luzern ?	to
+18	125	530	1121.108	1128.108	A	how many does it cost to mount bern to mount , luzern ?	mount
+18	125	531	1121.108	1128.108	A	how many does it cost to mount bern to mount , luzern ?	bern
+18	125	532	1121.108	1128.108	A	how many does it cost to mount bern to mount , luzern ?	to
+18	125	533	1121.108	1128.108	A	how many does it cost to mount bern to mount , luzern ?	mount
+18	125	534	1121.108	1128.108	A	how many does it cost to mount bern to mount , luzern ?	,
+18	125	535	1121.108	1128.108	A	how many does it cost to mount bern to mount , luzern ?	luzern
+18	125	536	1121.108	1128.108	A	how many does it cost to mount bern to mount , luzern ?	?
+18	126	537	1127.352	1130.121	B	for mount , bern to what ?	for
+18	126	538	1127.352	1130.121	B	for mount , bern to what ?	mount
+18	126	539	1127.352	1130.121	B	for mount , bern to what ?	,
+18	126	540	1127.352	1130.121	B	for mount , bern to what ?	bern
+18	126	541	1127.352	1130.121	B	for mount , bern to what ?	to
+18	126	542	1127.352	1130.121	B	for mount , bern to what ?	what
+18	126	543	1127.352	1130.121	B	for mount , bern to what ?	?
+18	127	544	1130.529	1132.062	A	mount luzern .	mount
+18	127	545	1130.529	1132.062	A	mount luzern .	luzern
+18	127	546	1130.529	1132.062	A	mount luzern .	.
+18	128	547	1132.325	1133.726	B	um 3 .	um
+18	128	548	1132.325	1133.726	B	um 3 .	3
+18	128	549	1132.325	1133.726	B	um 3 .	.
+18	129	550	1139.009	1142.049	B	mount luzern to	mount
+18	129	551	1139.009	1142.049	B	mount luzern to	luzern
+18	129	552	1139.009	1142.049	B	mount luzern to	to
+18	130	553	1142.563	1144.799	A	mount zurich .	mount
+18	130	554	1142.563	1144.799	A	mount zurich .	zurich
+18	130	555	1142.563	1144.799	A	mount zurich .	.
+18	131	556	1147.016	1147.884	B	what ?	what
+18	131	557	1147.016	1147.884	B	what ?	?
+18	132	558	1148.167	1150.726	A	mount zurich , zurich .	mount
+18	132	559	1148.167	1150.726	A	mount zurich , zurich .	zurich
+18	132	560	1148.167	1150.726	A	mount zurich , zurich .	,
+18	132	561	1148.167	1150.726	A	mount zurich , zurich .	zurich
+18	132	562	1148.167	1150.726	A	mount zurich , zurich .	.
+18	133	563	1150.825	1152.740	B	yeah to	yeah
+18	133	564	1150.825	1152.740	B	yeah to	to
+18	134	565	1152.602	1155.134	A	how much it does it cost ?	how
+18	134	566	1152.602	1155.134	A	how much it does it cost ?	much
+18	134	567	1152.602	1155.134	A	how much it does it cost ?	it
+18	134	568	1152.602	1155.134	A	how much it does it cost ?	does
+18	134	569	1152.602	1155.134	A	how much it does it cost ?	it
+18	134	570	1152.602	1155.134	A	how much it does it cost ?	cost
+18	134	571	1152.602	1155.134	A	how much it does it cost ?	?
+18	135	572	1154.766	1158.391	B	so mount zurich to mount	so
+18	135	573	1154.766	1158.391	B	so mount zurich to mount	mount
+18	135	574	1154.766	1158.391	B	so mount zurich to mount	zurich
+18	135	575	1154.766	1158.391	B	so mount zurich to mount	to
+18	135	576	1154.766	1158.391	B	so mount zurich to mount	mount
+18	136	577	1157.358	1159.023	A	mount luzern .	mount
+18	136	578	1157.358	1159.023	A	mount luzern .	luzern
+18	136	579	1157.358	1159.023	A	mount luzern .	.
+18	137	580	1159.148	1159.805	B	2 .	2
+18	137	581	1159.148	1159.805	B	2 .	.
+18	138	582	1160.352	1165.635	A	2 so i think we should erase mount bern to mount luzern .	2
+18	138	583	1160.352	1165.635	A	2 so i think we should erase mount bern to mount luzern .	so
+18	138	584	1160.352	1165.635	A	2 so i think we should erase mount bern to mount luzern .	i
+18	138	585	1160.352	1165.635	A	2 so i think we should erase mount bern to mount luzern .	think
+18	138	586	1160.352	1165.635	A	2 so i think we should erase mount bern to mount luzern .	we
+18	138	587	1160.352	1165.635	A	2 so i think we should erase mount bern to mount luzern .	should
+18	138	588	1160.352	1165.635	A	2 so i think we should erase mount bern to mount luzern .	erase
+18	138	589	1160.352	1165.635	A	2 so i think we should erase mount bern to mount luzern .	mount
+18	138	590	1160.352	1165.635	A	2 so i think we should erase mount bern to mount luzern .	bern
+18	138	591	1160.352	1165.635	A	2 so i think we should erase mount bern to mount luzern .	to
+18	138	592	1160.352	1165.635	A	2 so i think we should erase mount bern to mount luzern .	mount
+18	138	593	1160.352	1165.635	A	2 so i think we should erase mount bern to mount luzern .	luzern
+18	138	594	1160.352	1165.635	A	2 so i think we should erase mount bern to mount luzern .	.
+18	139	595	1167.338	1168.273	A	can i erase ?	can
+18	139	596	1167.338	1168.273	A	can i erase ?	i
+18	139	597	1167.338	1168.273	A	can i erase ?	erase
+18	139	598	1167.338	1168.273	A	can i erase ?	?
+18	140	599	1168.627	1170.936	A	because it cost 3 ?	because
+18	140	600	1168.627	1170.936	A	because it cost 3 ?	it
+18	140	601	1168.627	1170.936	A	because it cost 3 ?	cost
+18	140	602	1168.627	1170.936	A	because it cost 3 ?	3
+18	140	603	1168.627	1170.936	A	because it cost 3 ?	?
+18	141	604	1171.259	1172.127	B	um	um
+18	142	605	1173.016	1175.397	B	it 's 2 3 and 4 .	it
+18	142	606	1173.016	1175.397	B	it 's 2 3 and 4 .	's
+18	142	607	1173.016	1175.397	B	it 's 2 3 and 4 .	2
+18	142	608	1173.016	1175.397	B	it 's 2 3 and 4 .	3
+18	142	609	1173.016	1175.397	B	it 's 2 3 and 4 .	and
+18	142	610	1173.016	1175.397	B	it 's 2 3 and 4 .	4
+18	142	611	1173.016	1175.397	B	it 's 2 3 and 4 .	.
+18	143	612	1176.292	1177.193	B	and 5 .	and
+18	143	613	1176.292	1177.193	B	and 5 .	5
+18	143	614	1176.292	1177.193	B	and 5 .	.
+18	144	615	1178.312	1180.121	B	there is no one .	there
+18	144	616	1178.312	1180.121	B	there is no one .	is
+18	144	617	1178.312	1180.121	B	there is no one .	no
+18	144	618	1178.312	1180.121	B	there is no one .	one
+18	144	619	1178.312	1180.121	B	there is no one .	.
+18	145	620	1182.489	1184.081	B	so	so
+18	146	621	1185.174	1189.963	A	the mount zurich and mount luzern and mount bern	the
+18	146	622	1185.174	1189.963	A	the mount zurich and mount luzern and mount bern	mount
+18	146	623	1185.174	1189.963	A	the mount zurich and mount luzern and mount bern	zurich
+18	146	624	1185.174	1189.963	A	the mount zurich and mount luzern and mount bern	and
+18	146	625	1185.174	1189.963	A	the mount zurich and mount luzern and mount bern	mount
+18	146	626	1185.174	1189.963	A	the mount zurich and mount luzern and mount bern	luzern
+18	146	627	1185.174	1189.963	A	the mount zurich and mount luzern and mount bern	and
+18	146	628	1185.174	1189.963	A	the mount zurich and mount luzern and mount bern	mount
+18	146	629	1185.174	1189.963	A	the mount zurich and mount luzern and mount bern	bern
+18	147	630	1192.759	1194.430	B	mount what ?	mount
+18	147	631	1192.759	1194.430	B	mount what ?	what
+18	147	632	1192.759	1194.430	B	mount what ?	?
+18	148	633	1194.825	1195.384	A	um	um
+18	149	634	1195.509	1196.115	B	mount	mount
+18	150	635	1196.615	1203.792	A	can i erase the mount bern to the mount luzern because its cost , 3 ?	can
+18	150	636	1196.615	1203.792	A	can i erase the mount bern to the mount luzern because its cost , 3 ?	i
+18	150	637	1196.615	1203.792	A	can i erase the mount bern to the mount luzern because its cost , 3 ?	erase
+18	150	638	1196.615	1203.792	A	can i erase the mount bern to the mount luzern because its cost , 3 ?	the
+18	150	639	1196.615	1203.792	A	can i erase the mount bern to the mount luzern because its cost , 3 ?	mount
+18	150	640	1196.615	1203.792	A	can i erase the mount bern to the mount luzern because its cost , 3 ?	bern
+18	150	641	1196.615	1203.792	A	can i erase the mount bern to the mount luzern because its cost , 3 ?	to
+18	150	642	1196.615	1203.792	A	can i erase the mount bern to the mount luzern because its cost , 3 ?	the
+18	150	643	1196.615	1203.792	A	can i erase the mount bern to the mount luzern because its cost , 3 ?	mount
+18	150	644	1196.615	1203.792	A	can i erase the mount bern to the mount luzern because its cost , 3 ?	luzern
+18	150	645	1196.615	1203.792	A	can i erase the mount bern to the mount luzern because its cost , 3 ?	because
+18	150	646	1196.615	1203.792	A	can i erase the mount bern to the mount luzern because its cost , 3 ?	its
+18	150	647	1196.615	1203.792	A	can i erase the mount bern to the mount luzern because its cost , 3 ?	cost
+18	150	648	1196.615	1203.792	A	can i erase the mount bern to the mount luzern because its cost , 3 ?	,
+18	150	649	1196.615	1203.792	A	can i erase the mount bern to the mount luzern because its cost , 3 ?	3
+18	150	650	1196.615	1203.792	A	can i erase the mount bern to the mount luzern because its cost , 3 ?	?
+18	151	651	1205.082	1207.147	B	okay .	okay
+18	151	652	1205.082	1207.147	B	okay .	.
+18	152	653	1209.956	1211.864	A	and i think we are done .	and
+18	152	654	1209.956	1211.864	A	and i think we are done .	i
+18	152	655	1209.956	1211.864	A	and i think we are done .	think
+18	152	656	1209.956	1211.864	A	and i think we are done .	we
+18	152	657	1209.956	1211.864	A	and i think we are done .	are
+18	152	658	1209.956	1211.864	A	and i think we are done .	done
+18	152	659	1209.956	1211.864	A	and i think we are done .	.
+18	153	660	1216.891	1217.542	B	um	um
+18	154	661	1217.463	1219.180	A	can i press the	can
+18	154	662	1217.463	1219.180	A	can i press the	i
+18	154	663	1217.463	1219.180	A	can i press the	press
+18	154	664	1217.463	1219.180	A	can i press the	the
+18	155	665	1220.516	1221.739	B	sure	sure
+18	156	666	1227.832	1228.331	B	what ?	what
+18	156	667	1227.832	1228.331	B	what ?	?
+18	157	668	1228.305	1231.910	A	you have to press the tick thing .	you
+18	157	669	1228.305	1231.910	A	you have to press the tick thing .	have
+18	157	670	1228.305	1231.910	A	you have to press the tick thing .	to
+18	157	671	1228.305	1231.910	A	you have to press the tick thing .	press
+18	157	672	1228.305	1231.910	A	you have to press the tick thing .	the
+18	157	673	1228.305	1231.910	A	you have to press the tick thing .	tick
+18	157	674	1228.305	1231.910	A	you have to press the tick thing .	thing
+18	157	675	1228.305	1231.910	A	you have to press the tick thing .	.
+18	158	676	1248.808	1249.840	A	so	so
+18	159	677	1250.288	1251.202	B	wait so	wait
+18	159	678	1250.288	1251.202	B	wait so	so
+18	160	679	1251.143	1254.952	A	we need to find a way that cost minimum .	we
+18	160	680	1251.143	1254.952	A	we need to find a way that cost minimum .	need
+18	160	681	1251.143	1254.952	A	we need to find a way that cost minimum .	to
+18	160	682	1251.143	1254.952	A	we need to find a way that cost minimum .	find
+18	160	683	1251.143	1254.952	A	we need to find a way that cost minimum .	a
+18	160	684	1251.143	1254.952	A	we need to find a way that cost minimum .	way
+18	160	685	1251.143	1254.952	A	we need to find a way that cost minimum .	that
+18	160	686	1251.143	1254.952	A	we need to find a way that cost minimum .	cost
+18	160	687	1251.143	1254.952	A	we need to find a way that cost minimum .	minimum
+18	160	688	1251.143	1254.952	A	we need to find a way that cost minimum .	.
+18	161	689	1255.353	1257.925	B	oh so uh connect	oh
+18	161	690	1255.353	1257.925	B	oh so uh connect	so
+18	161	691	1255.353	1257.925	B	oh so uh connect	uh
+18	161	692	1255.353	1257.925	B	oh so uh connect	connect
+18	162	693	1256.827	1258.512	A	and connec the	and
+18	162	694	1256.827	1258.512	A	and connec the	connec
+18	162	695	1256.827	1258.512	A	and connec the	the
+18	163	696	1258.512	1261.439	B	mount basel to mount neuchatel .	mount
+18	163	697	1258.512	1261.439	B	mount basel to mount neuchatel .	basel
+18	163	698	1258.512	1261.439	B	mount basel to mount neuchatel .	to
+18	163	699	1258.512	1261.439	B	mount basel to mount neuchatel .	mount
+18	163	700	1258.512	1261.439	B	mount basel to mount neuchatel .	neuchatel
+18	163	701	1258.512	1261.439	B	mount basel to mount neuchatel .	.
+18	164	702	1258.985	1260.064	A	ten mountains .	ten
+18	164	703	1258.985	1260.064	A	ten mountains .	mountains
+18	164	704	1258.985	1260.064	A	ten mountains .	.
+18	165	705	1261.544	1265.649	A	um mount neuchatel to the	um
+18	165	706	1261.544	1265.649	A	um mount neuchatel to the	mount
+18	165	707	1261.544	1265.649	A	um mount neuchatel to the	neuchatel
+18	165	708	1261.544	1265.649	A	um mount neuchatel to the	to
+18	165	709	1261.544	1265.649	A	um mount neuchatel to the	the
+18	166	710	1266.840	1267.886	A	mount	mount
+18	167	711	1269.228	1269.800	A	where ?	where
+18	167	712	1269.228	1269.800	A	where ?	?
+18	168	713	1270.860	1275.373	B	mount neuchatel to mount montreux montreux .	mount
+18	168	714	1270.860	1275.373	B	mount neuchatel to mount montreux montreux .	neuchatel
+18	168	715	1270.860	1275.373	B	mount neuchatel to mount montreux montreux .	to
+18	168	716	1270.860	1275.373	B	mount neuchatel to mount montreux montreux .	mount
+18	168	717	1270.860	1275.373	B	mount neuchatel to mount montreux montreux .	montreux
+18	168	718	1270.860	1275.373	B	mount neuchatel to mount montreux montreux .	montreux
+18	168	719	1270.860	1275.373	B	mount neuchatel to mount montreux montreux .	.
+18	169	720	1276.229	1277.347	A	yes .	yes
+18	169	721	1276.229	1277.347	A	yes .	.
+18	170	722	1277.696	1278.525	B	and then	and
+18	170	723	1277.696	1278.525	B	and then	then
+18	171	724	1278.972	1279.794	B	and mount	and
+18	171	725	1278.972	1279.794	B	and mount	mount
+18	172	726	1280.768	1285.564	B	montreux to mount interlaken .	montreux
+18	172	727	1280.768	1285.564	B	montreux to mount interlaken .	to
+18	172	728	1280.768	1285.564	B	montreux to mount interlaken .	mount
+18	172	729	1280.768	1285.564	B	montreux to mount interlaken .	interlaken
+18	172	730	1280.768	1285.564	B	montreux to mount interlaken .	.
+18	173	731	1287.182	1288.820	A	mount	mount
+18	174	732	1289.070	1290.590	B	interlaken .	interlaken
+18	174	733	1289.070	1290.590	B	interlaken .	.
+18	175	734	1292.439	1293.202	B	um	um
+18	176	735	1294.400	1295.261	A	and it	and
+18	176	736	1294.400	1295.261	A	and it	it
+18	177	737	1294.413	1295.669	B	okay so	okay
+18	177	738	1294.413	1295.669	B	okay so	so
+18	178	739	1295.610	1296.538	A	oh what	oh
+18	178	740	1295.610	1296.538	A	oh what	what
+18	179	741	1296.551	1297.926	B	mount interlaken .	mount
+18	179	742	1296.551	1297.926	B	mount interlaken .	interlaken
+18	179	743	1296.551	1297.926	B	mount interlaken .	.
+18	180	744	1296.867	1302.742	A	the mount interlaken and montreux costs 4 .	the
+18	180	745	1296.867	1302.742	A	the mount interlaken and montreux costs 4 .	mount
+18	180	746	1296.867	1302.742	A	the mount interlaken and montreux costs 4 .	interlaken
+18	180	747	1296.867	1302.742	A	the mount interlaken and montreux costs 4 .	and
+18	180	748	1296.867	1302.742	A	the mount interlaken and montreux costs 4 .	montreux
+18	180	749	1296.867	1302.742	A	the mount interlaken and montreux costs 4 .	costs
+18	180	750	1296.867	1302.742	A	the mount interlaken and montreux costs 4 .	4
+18	180	751	1296.867	1302.742	A	the mount interlaken and montreux costs 4 .	.
+18	181	752	1303.802	1309.209	A	so i think we should connect the erase that and	so
+18	181	753	1303.802	1309.209	A	so i think we should connect the erase that and	i
+18	181	754	1303.802	1309.209	A	so i think we should connect the erase that and	think
+18	181	755	1303.802	1309.209	A	so i think we should connect the erase that and	we
+18	181	756	1303.802	1309.209	A	so i think we should connect the erase that and	should
+18	181	757	1303.802	1309.209	A	so i think we should connect the erase that and	connect
+18	181	758	1303.802	1309.209	A	so i think we should connect the erase that and	the
+18	181	759	1303.802	1309.209	A	so i think we should connect the erase that and	erase
+18	181	760	1303.802	1309.209	A	so i think we should connect the erase that and	that
+18	181	761	1303.802	1309.209	A	so i think we should connect the erase that and	and
+18	182	762	1304.992	1306.262	B	okay	okay
+18	183	763	1308.518	1310.472	B	wait like maybe like this ?	wait
+18	183	764	1308.518	1310.472	B	wait like maybe like this ?	like
+18	183	765	1308.518	1310.472	B	wait like maybe like this ?	maybe
+18	183	766	1308.518	1310.472	B	wait like maybe like this ?	like
+18	183	767	1308.518	1310.472	B	wait like maybe like this ?	this
+18	183	768	1308.518	1310.472	B	wait like maybe like this ?	?
+18	184	769	1312.031	1314.084	B	that costs 4 too	that
+18	184	770	1312.031	1314.084	B	that costs 4 too	costs
+18	184	771	1312.031	1314.084	B	that costs 4 too	4
+18	184	772	1312.031	1314.084	B	that costs 4 too	too
+18	185	773	1314.952	1315.866	B	and then and	and
+18	185	774	1314.952	1315.866	B	and then and	then
+18	185	775	1314.952	1315.866	B	and then and	and
+18	186	776	1316.505	1317.992	A	and like	and
+18	186	777	1316.505	1317.992	A	and like	like
+18	187	778	1316.742	1320.117	B	try mount basel to mount zurich .	try
+18	187	779	1316.742	1320.117	B	try mount basel to mount zurich .	mount
+18	187	780	1316.742	1320.117	B	try mount basel to mount zurich .	basel
+18	187	781	1316.742	1320.117	B	try mount basel to mount zurich .	to
+18	187	782	1316.742	1320.117	B	try mount basel to mount zurich .	mount
+18	187	783	1316.742	1320.117	B	try mount basel to mount zurich .	zurich
+18	187	784	1316.742	1320.117	B	try mount basel to mount zurich .	.
+18	188	785	1320.597	1322.985	A	how much does it cost ?	how
+18	188	786	1320.597	1322.985	A	how much does it cost ?	much
+18	188	787	1320.597	1322.985	A	how much does it cost ?	does
+18	188	788	1320.597	1322.985	A	how much does it cost ?	it
+18	188	789	1320.597	1322.985	A	how much does it cost ?	cost
+18	188	790	1320.597	1322.985	A	how much does it cost ?	?
+18	189	791	1322.888	1324.375	B	um i ca n't see right now .	um
+18	189	792	1322.888	1324.375	B	um i ca n't see right now .	i
+18	189	793	1322.888	1324.375	B	um i ca n't see right now .	ca
+18	189	794	1322.888	1324.375	B	um i ca n't see right now .	n't
+18	189	795	1322.888	1324.375	B	um i ca n't see right now .	see
+18	189	796	1322.888	1324.375	B	um i ca n't see right now .	right
+18	189	797	1322.888	1324.375	B	um i ca n't see right now .	now
+18	189	798	1322.888	1324.375	B	um i ca n't see right now .	.
+18	190	799	1324.540	1326.079	A	you can see it .	you
+18	190	800	1324.540	1326.079	A	you can see it .	can
+18	190	801	1324.540	1326.079	A	you can see it .	see
+18	190	802	1324.540	1326.079	A	you can see it .	it
+18	190	803	1324.540	1326.079	A	you can see it .	.
+18	191	804	1326.500	1329.198	A	oh on the bottom of the right .	oh
+18	191	805	1326.500	1329.198	A	oh on the bottom of the right .	on
+18	191	806	1326.500	1329.198	A	oh on the bottom of the right .	the
+18	191	807	1326.500	1329.198	A	oh on the bottom of the right .	bottom
+18	191	808	1326.500	1329.198	A	oh on the bottom of the right .	of
+18	191	809	1326.500	1329.198	A	oh on the bottom of the right .	the
+18	191	810	1326.500	1329.198	A	oh on the bottom of the right .	right
+18	191	811	1326.500	1329.198	A	oh on the bottom of the right .	.
+18	192	812	1331.915	1333.711	A	so you can see the cost .	so
+18	192	813	1331.915	1333.711	A	so you can see the cost .	you
+18	192	814	1331.915	1333.711	A	so you can see the cost .	can
+18	192	815	1331.915	1333.711	A	so you can see the cost .	see
+18	192	816	1331.915	1333.711	A	so you can see the cost .	the
+18	192	817	1331.915	1333.711	A	so you can see the cost .	cost
+18	192	818	1331.915	1333.711	A	so you can see the cost .	.
+18	193	819	1337.086	1337.645	A	so	so
+18	194	820	1340.823	1341.297	A	so	so
+18	195	821	1340.935	1343.974	B	okay .	okay
+18	195	822	1340.935	1343.974	B	okay .	.
+18	196	823	1342.580	1343.803	A	what should i do ?	what
+18	196	824	1342.580	1343.803	A	what should i do ?	should
+18	196	825	1342.580	1343.803	A	what should i do ?	i
+18	196	826	1342.580	1343.803	A	what should i do ?	do
+18	196	827	1342.580	1343.803	A	what should i do ?	?
+18	197	828	1345.264	1346.474	B	so	so
+18	198	829	1354.455	1358.547	B	um mount montreux to mount zermatt .	um
+18	198	830	1354.455	1358.547	B	um mount montreux to mount zermatt .	mount
+18	198	831	1354.455	1358.547	B	um mount montreux to mount zermatt .	montreux
+18	198	832	1354.455	1358.547	B	um mount montreux to mount zermatt .	to
+18	198	833	1354.455	1358.547	B	um mount montreux to mount zermatt .	mount
+18	198	834	1354.455	1358.547	B	um mount montreux to mount zermatt .	zermatt
+18	198	835	1354.455	1358.547	B	um mount montreux to mount zermatt .	.
+18	199	836	1360.556	1362.060	A	and next one ?	and
+18	199	837	1360.556	1362.060	A	and next one ?	next
+18	199	838	1360.556	1362.060	A	and next one ?	one
+18	199	839	1360.556	1362.060	A	and next one ?	?
+18	200	840	1363.171	1367.526	B	um mount zermatt to mount davos .	um
+18	200	841	1363.171	1367.526	B	um mount zermatt to mount davos .	mount
+18	200	842	1363.171	1367.526	B	um mount zermatt to mount davos .	zermatt
+18	200	843	1363.171	1367.526	B	um mount zermatt to mount davos .	to
+18	200	844	1363.171	1367.526	B	um mount zermatt to mount davos .	mount
+18	200	845	1363.171	1367.526	B	um mount zermatt to mount davos .	davos
+18	200	846	1363.171	1367.526	B	um mount zermatt to mount davos .	.
+18	201	847	1368.211	1368.922	A	davos ?	davos
+18	201	848	1368.211	1368.922	A	davos ?	?
+18	202	849	1369.797	1370.711	A	yes .	yes
+18	202	850	1369.797	1370.711	A	yes .	.
+18	203	851	1371.020	1373.434	B	okay , and davos	okay
+18	203	852	1371.020	1373.434	B	okay , and davos	,
+18	203	853	1371.020	1373.434	B	okay , and davos	and
+18	203	854	1371.020	1373.434	B	okay , and davos	davos
+18	204	855	1372.303	1373.560	A	and	and
+18	205	856	1374.336	1375.980	B	to mount gallen	to
+18	205	857	1374.336	1375.980	B	to mount gallen	mount
+18	205	858	1374.336	1375.980	B	to mount gallen	gallen
+18	206	859	1374.783	1379.474	A	mount luzern to mount zurich ?	mount
+18	206	860	1374.783	1379.474	A	mount luzern to mount zurich ?	luzern
+18	206	861	1374.783	1379.474	A	mount luzern to mount zurich ?	to
+18	206	862	1374.783	1379.474	A	mount luzern to mount zurich ?	mount
+18	206	863	1374.783	1379.474	A	mount luzern to mount zurich ?	zurich
+18	206	864	1374.783	1379.474	A	mount luzern to mount zurich ?	?
+18	207	865	1379.994	1381.784	B	mount zurich oh wait .	mount
+18	207	866	1379.994	1381.784	B	mount zurich oh wait .	zurich
+18	207	867	1379.994	1381.784	B	mount zurich oh wait .	oh
+18	207	868	1379.994	1381.784	B	mount zurich oh wait .	wait
+18	207	869	1379.994	1381.784	B	mount zurich oh wait .	.
+18	208	870	1383.718	1384.698	B	um how do i	um
+18	208	871	1383.718	1384.698	B	um how do i	how
+18	208	872	1383.718	1384.698	B	um how do i	do
+18	208	873	1383.718	1384.698	B	um how do i	i
+18	209	874	1385.540	1386.178	B	do it ?	do
+18	209	875	1385.540	1386.178	B	do it ?	it
+18	209	876	1385.540	1386.178	B	do it ?	?
+18	210	877	1396.658	1398.257	B	uh like this ?	uh
+18	210	878	1396.658	1398.257	B	uh like this ?	like
+18	210	879	1396.658	1398.257	B	uh like this ?	this
+18	210	880	1396.658	1398.257	B	uh like this ?	?
+18	211	881	1400.100	1401.396	B	and then i	and
+18	211	882	1400.100	1401.396	B	and then i	then
+18	211	883	1400.100	1401.396	B	and then i	i
+18	212	884	1400.942	1401.718	A	no like	no
+18	212	885	1400.942	1401.718	A	no like	like
+18	213	886	1401.889	1404.639	B	zurich to luzern .	zurich
+18	213	887	1401.889	1404.639	B	zurich to luzern .	to
+18	213	888	1401.889	1404.639	B	zurich to luzern .	luzern
+18	213	889	1401.889	1404.639	B	zurich to luzern .	.
+18	214	890	1405.191	1407.296	B	try zurich to luzern .	try
+18	214	891	1405.191	1407.296	B	try zurich to luzern .	zurich
+18	214	892	1405.191	1407.296	B	try zurich to luzern .	to
+18	214	893	1405.191	1407.296	B	try zurich to luzern .	luzern
+18	214	894	1405.191	1407.296	B	try zurich to luzern .	.
+18	215	895	1406.372	1408.277	A	and how much does it cost ?	and
+18	215	896	1406.372	1408.277	A	and how much does it cost ?	how
+18	215	897	1406.372	1408.277	A	and how much does it cost ?	much
+18	215	898	1406.372	1408.277	A	and how much does it cost ?	does
+18	215	899	1406.372	1408.277	A	and how much does it cost ?	it
+18	215	900	1406.372	1408.277	A	and how much does it cost ?	cost
+18	215	901	1406.372	1408.277	A	and how much does it cost ?	?
+18	216	902	1407.586	1408.145	B	2 .	2
+18	216	903	1407.586	1408.145	B	2 .	.
+18	217	904	1414.244	1415.494	B	to the mount what ?	to
+18	217	905	1414.244	1415.494	B	to the mount what ?	the
+18	217	906	1414.244	1415.494	B	to the mount what ?	mount
+18	217	907	1414.244	1415.494	B	to the mount what ?	what
+18	217	908	1414.244	1415.494	B	to the mount what ?	?
+18	218	909	1425.775	1427.229	A	how much does it cost ?	how
+18	218	910	1425.775	1427.229	A	how much does it cost ?	much
+18	218	911	1425.775	1427.229	A	how much does it cost ?	does
+18	218	912	1425.775	1427.229	A	how much does it cost ?	it
+18	218	913	1425.775	1427.229	A	how much does it cost ?	cost
+18	218	914	1425.775	1427.229	A	how much does it cost ?	?
+18	219	915	1427.637	1428.703	B	um 3 .	um
+18	219	916	1427.637	1428.703	B	um 3 .	3
+18	219	917	1427.637	1428.703	B	um 3 .	.
+18	220	918	1439.144	1442.499	B	and anything else ?	and
+18	220	919	1439.144	1442.499	B	and anything else ?	anything
+18	220	920	1439.144	1442.499	B	and anything else ?	else
+18	220	921	1439.144	1442.499	B	and anything else ?	?
+18	221	922	1442.841	1443.814	A	um	um
+18	222	923	1449.696	1451.347	A	so i think we are done .	so
+18	222	924	1449.696	1451.347	A	so i think we are done .	i
+18	222	925	1449.696	1451.347	A	so i think we are done .	think
+18	222	926	1449.696	1451.347	A	so i think we are done .	we
+18	222	927	1449.696	1451.347	A	so i think we are done .	are
+18	222	928	1449.696	1451.347	A	so i think we are done .	done
+18	222	929	1449.696	1451.347	A	so i think we are done .	.
+18	223	930	1453.406	1454.169	B	yeah sure .	yeah
+18	223	931	1453.406	1454.169	B	yeah sure .	sure
+18	223	932	1453.406	1454.169	B	yeah sure .	.
+18	224	933	1462.186	1463.857	A	5 francs .	5
+18	224	934	1462.186	1463.857	A	5 francs .	francs
+18	224	935	1462.186	1463.857	A	5 francs .	.
+18	225	936	1463.679	1465.771	B	um okay so	um
+18	225	937	1463.679	1465.771	B	um okay so	okay
+18	225	938	1463.679	1465.771	B	um okay so	so
+18	226	939	1466.962	1468.600	A	what can i do ?	what
+18	226	940	1466.962	1468.600	A	what can i do ?	can
+18	226	941	1466.962	1468.600	A	what can i do ?	i
+18	226	942	1466.962	1468.600	A	what can i do ?	do
+18	226	943	1466.962	1468.600	A	what can i do ?	?
+18	227	944	1467.383	1469.291	B	go from	go
+18	227	945	1467.383	1469.291	B	go from	from
+18	228	946	1471.134	1475.627	B	um mount montreux to mount zermatt .	um
+18	228	947	1471.134	1475.627	B	um mount montreux to mount zermatt .	mount
+18	228	948	1471.134	1475.627	B	um mount montreux to mount zermatt .	montreux
+18	228	949	1471.134	1475.627	B	um mount montreux to mount zermatt .	to
+18	228	950	1471.134	1475.627	B	um mount montreux to mount zermatt .	mount
+18	228	951	1471.134	1475.627	B	um mount montreux to mount zermatt .	zermatt
+18	228	952	1471.134	1475.627	B	um mount montreux to mount zermatt .	.
+18	229	953	1478.403	1479.607	A	and	and
+18	230	954	1482.252	1485.411	A	that cost 2 francs .	that
+18	230	955	1482.252	1485.411	A	that cost 2 francs .	cost
+18	230	956	1482.252	1485.411	A	that cost 2 francs .	2
+18	230	957	1482.252	1485.411	A	that cost 2 francs .	francs
+18	230	958	1482.252	1485.411	A	that cost 2 francs .	.
+18	231	959	1485.133	1485.551	B	yeah .	yeah
+18	231	960	1485.133	1485.551	B	yeah .	.
+18	232	961	1485.918	1486.968	B	and then	and
+18	232	962	1485.918	1486.968	B	and then	then
+18	233	963	1487.864	1490.985	B	mount montreux to mount	mount
+18	233	964	1487.864	1490.985	B	mount montreux to mount	montreux
+18	233	965	1487.864	1490.985	B	mount montreux to mount	to
+18	233	966	1487.864	1490.985	B	mount montreux to mount	mount
+18	234	967	1491.794	1493.314	B	neuchatel ?	neuchatel
+18	234	968	1491.794	1493.314	B	neuchatel ?	?
+18	235	969	1494.687	1496.707	A	neuchatel .	neuchatel
+18	235	970	1494.687	1496.707	A	neuchatel .	.
+18	236	971	1499.248	1502.714	A	oh neuchatel to the	oh
+18	236	972	1499.248	1502.714	A	oh neuchatel to the	neuchatel
+18	236	973	1499.248	1502.714	A	oh neuchatel to the	to
+18	236	974	1499.248	1502.714	A	oh neuchatel to the	the
+18	237	975	1505.212	1506.776	B	so um	so
+18	237	976	1505.212	1506.776	B	so um	um
+18	238	977	1509.023	1509.809	B	mount	mount
+18	239	978	1510.183	1510.448	B	okay .	okay
+18	239	979	1510.183	1510.448	B	okay .	.
+18	240	980	1510.800	1511.432	B	um	um
+18	241	981	1511.865	1515.515	A	okay and , mount davos ?	okay
+18	241	982	1511.865	1515.515	A	okay and , mount davos ?	and
+18	241	983	1511.865	1515.515	A	okay and , mount davos ?	,
+18	241	984	1511.865	1515.515	A	okay and , mount davos ?	mount
+18	241	985	1511.865	1515.515	A	okay and , mount davos ?	davos
+18	241	986	1511.865	1515.515	A	okay and , mount davos ?	?
+18	242	987	1513.981	1514.605	B	yeah ?	yeah
+18	242	988	1513.981	1514.605	B	yeah ?	?
+18	243	989	1516.617	1518.490	A	to the mount gallen ?	to
+18	243	990	1516.617	1518.490	A	to the mount gallen ?	the
+18	243	991	1516.617	1518.490	A	to the mount gallen ?	mount
+18	243	992	1516.617	1518.490	A	to the mount gallen ?	gallen
+18	243	993	1516.617	1518.490	A	to the mount gallen ?	?
+18	244	994	1521.465	1523.117	A	mount gallen ?	mount
+18	244	995	1521.465	1523.117	A	mount gallen ?	gallen
+18	244	996	1521.465	1523.117	A	mount gallen ?	?
+18	245	997	1523.682	1525.276	B	mount gallen .	mount
+18	245	998	1523.682	1525.276	B	mount gallen .	gallen
+18	245	999	1523.682	1525.276	B	mount gallen .	.
+18	246	1000	1524.343	1526.906	A	to the mount davos ?	to
+18	246	1001	1524.343	1526.906	A	to the mount davos ?	the
+18	246	1002	1524.343	1526.906	A	to the mount davos ?	mount
+18	246	1003	1524.343	1526.906	A	to the mount davos ?	davos
+18	246	1004	1524.343	1526.906	A	to the mount davos ?	?
+18	247	1005	1527.376	1528.081	B	mount	mount
+18	248	1006	1528.742	1535.058	B	saint gallen oh wait we can only do it with the ones that are connected ?	saint
+18	248	1007	1528.742	1535.058	B	saint gallen oh wait we can only do it with the ones that are connected ?	gallen
+18	248	1008	1528.742	1535.058	B	saint gallen oh wait we can only do it with the ones that are connected ?	oh
+18	248	1009	1528.742	1535.058	B	saint gallen oh wait we can only do it with the ones that are connected ?	wait
+18	248	1010	1528.742	1535.058	B	saint gallen oh wait we can only do it with the ones that are connected ?	we
+18	248	1011	1528.742	1535.058	B	saint gallen oh wait we can only do it with the ones that are connected ?	can
+18	248	1012	1528.742	1535.058	B	saint gallen oh wait we can only do it with the ones that are connected ?	only
+18	248	1013	1528.742	1535.058	B	saint gallen oh wait we can only do it with the ones that are connected ?	do
+18	248	1014	1528.742	1535.058	B	saint gallen oh wait we can only do it with the ones that are connected ?	it
+18	248	1015	1528.742	1535.058	B	saint gallen oh wait we can only do it with the ones that are connected ?	with
+18	248	1016	1528.742	1535.058	B	saint gallen oh wait we can only do it with the ones that are connected ?	the
+18	248	1017	1528.742	1535.058	B	saint gallen oh wait we can only do it with the ones that are connected ?	ones
+18	248	1018	1528.742	1535.058	B	saint gallen oh wait we can only do it with the ones that are connected ?	that
+18	248	1019	1528.742	1535.058	B	saint gallen oh wait we can only do it with the ones that are connected ?	are
+18	248	1020	1528.742	1535.058	B	saint gallen oh wait we can only do it with the ones that are connected ?	connected
+18	248	1021	1528.742	1535.058	B	saint gallen oh wait we can only do it with the ones that are connected ?	?
+18	249	1022	1535.286	1536.659	A	yes it 's connected .	yes
+18	249	1023	1535.286	1536.659	A	yes it 's connected .	it
+18	249	1024	1535.286	1536.659	A	yes it 's connected .	's
+18	249	1025	1535.286	1536.659	A	yes it 's connected .	connected
+18	249	1026	1535.286	1536.659	A	yes it 's connected .	.
+18	250	1027	1535.697	1538.414	B	how much does this cost ?	how
+18	250	1028	1535.697	1538.414	B	how much does this cost ?	much
+18	250	1029	1535.697	1538.414	B	how much does this cost ?	does
+18	250	1030	1535.697	1538.414	B	how much does this cost ?	this
+18	250	1031	1535.697	1538.414	B	how much does this cost ?	cost
+18	250	1032	1535.697	1538.414	B	how much does this cost ?	?
+18	251	1033	1537.629	1539.391	A	2 and 2 .	2
+18	251	1034	1537.629	1539.391	A	2 and 2 .	and
+18	251	1035	1537.629	1539.391	A	2 and 2 .	2
+18	251	1036	1537.629	1539.391	A	2 and 2 .	.
+18	252	1037	1540.765	1543.548	B	2 , and then , i go here .	2
+18	252	1038	1540.765	1543.548	B	2 , and then , i go here .	,
+18	252	1039	1540.765	1543.548	B	2 , and then , i go here .	and
+18	252	1040	1540.765	1543.548	B	2 , and then , i go here .	then
+18	252	1041	1540.765	1543.548	B	2 , and then , i go here .	,
+18	252	1042	1540.765	1543.548	B	2 , and then , i go here .	i
+18	252	1043	1540.765	1543.548	B	2 , and then , i go here .	go
+18	252	1044	1540.765	1543.548	B	2 , and then , i go here .	here
+18	252	1045	1540.765	1543.548	B	2 , and then , i go here .	.
+18	253	1046	1542.028	1544.628	A	mount davos to , yes .	mount
+18	253	1047	1542.028	1544.628	A	mount davos to , yes .	davos
+18	253	1048	1542.028	1544.628	A	mount davos to , yes .	to
+18	253	1049	1542.028	1544.628	A	mount davos to , yes .	,
+18	253	1050	1542.028	1544.628	A	mount davos to , yes .	yes
+18	253	1051	1542.028	1544.628	A	mount davos to , yes .	.
+18	254	1052	1544.870	1545.362	B	okay .	okay
+18	254	1053	1544.870	1545.362	B	okay .	.
+18	255	1054	1545.325	1546.486	A	and it 's your turn .	and
+18	255	1055	1545.325	1546.486	A	and it 's your turn .	it
+18	255	1056	1545.325	1546.486	A	and it 's your turn .	's
+18	255	1057	1545.325	1546.486	A	and it 's your turn .	your
+18	255	1058	1545.325	1546.486	A	and it 's your turn .	turn
+18	255	1059	1545.325	1546.486	A	and it 's your turn .	.
+18	256	1060	1547.125	1550.694	B	then saint gallen to zurich .	then
+18	256	1061	1547.125	1550.694	B	then saint gallen to zurich .	saint
+18	256	1062	1547.125	1550.694	B	then saint gallen to zurich .	gallen
+18	256	1063	1547.125	1550.694	B	then saint gallen to zurich .	to
+18	256	1064	1547.125	1550.694	B	then saint gallen to zurich .	zurich
+18	256	1065	1547.125	1550.694	B	then saint gallen to zurich .	.
+18	257	1066	1551.656	1552.699	A	zurich ?	zurich
+18	257	1067	1551.656	1552.699	A	zurich ?	?
+18	258	1068	1553.169	1555.989	B	and mount zurich to mount basel .	and
+18	258	1069	1553.169	1555.989	B	and mount zurich to mount basel .	mount
+18	258	1070	1553.169	1555.989	B	and mount zurich to mount basel .	zurich
+18	258	1071	1553.169	1555.989	B	and mount zurich to mount basel .	to
+18	258	1072	1553.169	1555.989	B	and mount zurich to mount basel .	mount
+18	258	1073	1553.169	1555.989	B	and mount zurich to mount basel .	basel
+18	258	1074	1553.169	1555.989	B	and mount zurich to mount basel .	.
+18	259	1075	1556.356	1558.001	A	how much does it cost ?	how
+18	259	1076	1556.356	1558.001	A	how much does it cost ?	much
+18	259	1077	1556.356	1558.001	A	how much does it cost ?	does
+18	259	1078	1556.356	1558.001	A	how much does it cost ?	it
+18	259	1079	1556.356	1558.001	A	how much does it cost ?	cost
+18	259	1080	1556.356	1558.001	A	how much does it cost ?	?
+18	260	1081	1561.842	1562.613	B	um	um
+18	261	1082	1564.237	1565.456	B	try 5 .	try
+18	261	1083	1564.237	1565.456	B	try 5 .	5
+18	261	1084	1564.237	1565.456	B	try 5 .	.
+18	262	1085	1565.728	1569.877	B	so it costs 5 and then let 's to like this ?	so
+18	262	1086	1565.728	1569.877	B	so it costs 5 and then let 's to like this ?	it
+18	262	1087	1565.728	1569.877	B	so it costs 5 and then let 's to like this ?	costs
+18	262	1088	1565.728	1569.877	B	so it costs 5 and then let 's to like this ?	5
+18	262	1089	1565.728	1569.877	B	so it costs 5 and then let 's to like this ?	and
+18	262	1090	1565.728	1569.877	B	so it costs 5 and then let 's to like this ?	then
+18	262	1091	1565.728	1569.877	B	so it costs 5 and then let 's to like this ?	let
+18	262	1092	1565.728	1569.877	B	so it costs 5 and then let 's to like this ?	's
+18	262	1093	1565.728	1569.877	B	so it costs 5 and then let 's to like this ?	to
+18	262	1094	1565.728	1569.877	B	so it costs 5 and then let 's to like this ?	like
+18	262	1095	1565.728	1569.877	B	so it costs 5 and then let 's to like this ?	this
+18	262	1096	1565.728	1569.877	B	so it costs 5 and then let 's to like this ?	?
+18	263	1097	1565.845	1566.851	A	5 ?	5
+18	263	1098	1565.845	1566.851	A	5 ?	?
+18	264	1099	1567.740	1570.626	A	so wait can you erase that ?	so
+18	264	1100	1567.740	1570.626	A	so wait can you erase that ?	wait
+18	264	1101	1567.740	1570.626	A	so wait can you erase that ?	can
+18	264	1102	1567.740	1570.626	A	so wait can you erase that ?	you
+18	264	1103	1567.740	1570.626	A	so wait can you erase that ?	erase
+18	264	1104	1567.740	1570.626	A	so wait can you erase that ?	that
+18	264	1105	1567.740	1570.626	A	so wait can you erase that ?	?
+18	265	1106	1571.272	1573.189	A	the mount basel to the	the
+18	265	1107	1571.272	1573.189	A	the mount basel to the	mount
+18	265	1108	1571.272	1573.189	A	the mount basel to the	basel
+18	265	1109	1571.272	1573.189	A	the mount basel to the	to
+18	265	1110	1571.272	1573.189	A	the mount basel to the	the
+18	266	1111	1573.932	1574.997	B	and then	and
+18	266	1112	1573.932	1574.997	B	and then	then
+18	267	1113	1575.121	1579.858	A	wait um mount zurich to the mount basel can i erase it ?	wait
+18	267	1114	1575.121	1579.858	A	wait um mount zurich to the mount basel can i erase it ?	um
+18	267	1115	1575.121	1579.858	A	wait um mount zurich to the mount basel can i erase it ?	mount
+18	267	1116	1575.121	1579.858	A	wait um mount zurich to the mount basel can i erase it ?	zurich
+18	267	1117	1575.121	1579.858	A	wait um mount zurich to the mount basel can i erase it ?	to
+18	267	1118	1575.121	1579.858	A	wait um mount zurich to the mount basel can i erase it ?	the
+18	267	1119	1575.121	1579.858	A	wait um mount zurich to the mount basel can i erase it ?	mount
+18	267	1120	1575.121	1579.858	A	wait um mount zurich to the mount basel can i erase it ?	basel
+18	267	1121	1575.121	1579.858	A	wait um mount zurich to the mount basel can i erase it ?	can
+18	267	1122	1575.121	1579.858	A	wait um mount zurich to the mount basel can i erase it ?	i
+18	267	1123	1575.121	1579.858	A	wait um mount zurich to the mount basel can i erase it ?	erase
+18	267	1124	1575.121	1579.858	A	wait um mount zurich to the mount basel can i erase it ?	it
+18	267	1125	1575.121	1579.858	A	wait um mount zurich to the mount basel can i erase it ?	?
+18	268	1126	1580.299	1582.142	A	because it costs 5 .	because
+18	268	1127	1580.299	1582.142	A	because it costs 5 .	it
+18	268	1128	1580.299	1582.142	A	because it costs 5 .	costs
+18	268	1129	1580.299	1582.142	A	because it costs 5 .	5
+18	268	1130	1580.299	1582.142	A	because it costs 5 .	.
+18	269	1131	1582.120	1584.741	B	yeah it cost a bit too much yeah sure .	yeah
+18	269	1132	1582.120	1584.741	B	yeah it cost a bit too much yeah sure .	it
+18	269	1133	1582.120	1584.741	B	yeah it cost a bit too much yeah sure .	cost
+18	269	1134	1582.120	1584.741	B	yeah it cost a bit too much yeah sure .	a
+18	269	1135	1582.120	1584.741	B	yeah it cost a bit too much yeah sure .	bit
+18	269	1136	1582.120	1584.741	B	yeah it cost a bit too much yeah sure .	too
+18	269	1137	1582.120	1584.741	B	yeah it cost a bit too much yeah sure .	much
+18	269	1138	1582.120	1584.741	B	yeah it cost a bit too much yeah sure .	yeah
+18	269	1139	1582.120	1584.741	B	yeah it cost a bit too much yeah sure .	sure
+18	269	1140	1582.120	1584.741	B	yeah it cost a bit too much yeah sure .	.
+18	270	1141	1585.344	1586.012	B	and	and
+18	271	1142	1586.467	1587.415	A	and	and
+18	272	1143	1588.018	1591.263	B	now mount bern to mount	now
+18	272	1144	1588.018	1591.263	B	now mount bern to mount	mount
+18	272	1145	1588.018	1591.263	B	now mount bern to mount	bern
+18	272	1146	1588.018	1591.263	B	now mount bern to mount	to
+18	272	1147	1588.018	1591.263	B	now mount bern to mount	mount
+18	273	1148	1592.769	1594.157	B	mount basel	mount
+18	273	1149	1592.769	1594.157	B	mount basel	basel
+18	274	1150	1594.634	1596.448	A	mount basel	mount
+18	274	1151	1594.634	1596.448	A	mount basel	basel
+18	275	1152	1597.536	1599.519	B	the highest one .	the
+18	275	1153	1597.536	1599.519	B	the highest one .	highest
+18	275	1154	1597.536	1599.519	B	the highest one .	one
+18	275	1155	1597.536	1599.519	B	the highest one .	.
+18	276	1156	1599.827	1600.701	A	to the	to
+18	276	1157	1599.827	1600.701	A	to the	the
+18	277	1158	1601.053	1603.484	B	to the mount um okay and then	to
+18	277	1159	1601.053	1603.484	B	to the mount um okay and then	the
+18	277	1160	1601.053	1603.484	B	to the mount um okay and then	mount
+18	277	1161	1601.053	1603.484	B	to the mount um okay and then	um
+18	277	1162	1601.053	1603.484	B	to the mount um okay and then	okay
+18	277	1163	1601.053	1603.484	B	to the mount um okay and then	and
+18	277	1164	1601.053	1603.484	B	to the mount um okay and then	then
+18	278	1165	1604.094	1606.069	B	let 's go like this .	let
+18	278	1166	1604.094	1606.069	B	let 's go like this .	's
+18	278	1167	1604.094	1606.069	B	let 's go like this .	go
+18	278	1168	1604.094	1606.069	B	let 's go like this .	like
+18	278	1169	1604.094	1606.069	B	let 's go like this .	this
+18	278	1170	1604.094	1606.069	B	let 's go like this .	.
+18	279	1171	1605.195	1605.878	A	and	and
+18	280	1172	1606.862	1608.375	A	no wait .	no
+18	280	1173	1606.862	1608.375	A	no wait .	wait
+18	280	1174	1606.862	1608.375	A	no wait .	.
+18	281	1175	1608.823	1610.094	B	and like this .	and
+18	281	1176	1608.823	1610.094	B	and like this .	like
+18	281	1177	1608.823	1610.094	B	and like this .	this
+18	281	1178	1608.823	1610.094	B	and like this .	.
+18	282	1179	1609.249	1611.173	A	wait .	wait
+18	282	1180	1609.249	1611.173	A	wait .	.
+18	283	1181	1614.097	1616.058	B	let 's see how much are this	let
+18	283	1182	1614.097	1616.058	B	let 's see how much are this	's
+18	283	1183	1614.097	1616.058	B	let 's see how much are this	see
+18	283	1184	1614.097	1616.058	B	let 's see how much are this	how
+18	283	1185	1614.097	1616.058	B	let 's see how much are this	much
+18	283	1186	1614.097	1616.058	B	let 's see how much are this	are
+18	283	1187	1614.097	1616.058	B	let 's see how much are this	this
+18	284	1188	1617.365	1618.841	B	um let 's see	um
+18	284	1189	1617.365	1618.841	B	um let 's see	let
+18	284	1190	1617.365	1618.841	B	um let 's see	's
+18	284	1191	1617.365	1618.841	B	um let 's see	see
+18	285	1192	1618.966	1620.427	A	wait , bob ?	wait
+18	285	1193	1618.966	1620.427	A	wait , bob ?	,
+18	285	1194	1618.966	1620.427	A	wait , bob ?	bob
+18	285	1195	1618.966	1620.427	A	wait , bob ?	?
+18	286	1196	1620.971	1622.623	B	are you finished ?	are
+18	286	1197	1620.971	1622.623	B	are you finished ?	you
+18	286	1198	1620.971	1622.623	B	are you finished ?	finished
+18	286	1199	1620.971	1622.623	B	are you finished ?	?
+18	287	1200	1623.739	1626.839	B	because i think that is good .	because
+18	287	1201	1623.739	1626.839	B	because i think that is good .	i
+18	287	1202	1623.739	1626.839	B	because i think that is good .	think
+18	287	1203	1623.739	1626.839	B	because i think that is good .	that
+18	287	1204	1623.739	1626.839	B	because i think that is good .	is
+18	287	1205	1623.739	1626.839	B	because i think that is good .	good
+18	287	1206	1623.739	1626.839	B	because i think that is good .	.
+18	288	1207	1627.566	1634.256	A	if we erase how much does it cost mount zurich to the mount gallen ?	if
+18	288	1208	1627.566	1634.256	A	if we erase how much does it cost mount zurich to the mount gallen ?	we
+18	288	1209	1627.566	1634.256	A	if we erase how much does it cost mount zurich to the mount gallen ?	erase
+18	288	1210	1627.566	1634.256	A	if we erase how much does it cost mount zurich to the mount gallen ?	how
+18	288	1211	1627.566	1634.256	A	if we erase how much does it cost mount zurich to the mount gallen ?	much
+18	288	1212	1627.566	1634.256	A	if we erase how much does it cost mount zurich to the mount gallen ?	does
+18	288	1213	1627.566	1634.256	A	if we erase how much does it cost mount zurich to the mount gallen ?	it
+18	288	1214	1627.566	1634.256	A	if we erase how much does it cost mount zurich to the mount gallen ?	cost
+18	288	1215	1627.566	1634.256	A	if we erase how much does it cost mount zurich to the mount gallen ?	mount
+18	288	1216	1627.566	1634.256	A	if we erase how much does it cost mount zurich to the mount gallen ?	zurich
+18	288	1217	1627.566	1634.256	A	if we erase how much does it cost mount zurich to the mount gallen ?	to
+18	288	1218	1627.566	1634.256	A	if we erase how much does it cost mount zurich to the mount gallen ?	the
+18	288	1219	1627.566	1634.256	A	if we erase how much does it cost mount zurich to the mount gallen ?	mount
+18	288	1220	1627.566	1634.256	A	if we erase how much does it cost mount zurich to the mount gallen ?	gallen
+18	288	1221	1627.566	1634.256	A	if we erase how much does it cost mount zurich to the mount gallen ?	?
+18	289	1222	1634.557	1636.804	B	mount zurich to mount gallen 3 .	mount
+18	289	1223	1634.557	1636.804	B	mount zurich to mount gallen 3 .	zurich
+18	289	1224	1634.557	1636.804	B	mount zurich to mount gallen 3 .	to
+18	289	1225	1634.557	1636.804	B	mount zurich to mount gallen 3 .	mount
+18	289	1226	1634.557	1636.804	B	mount zurich to mount gallen 3 .	gallen
+18	289	1227	1634.557	1636.804	B	mount zurich to mount gallen 3 .	3
+18	289	1228	1634.557	1636.804	B	mount zurich to mount gallen 3 .	.
+18	290	1229	1637.995	1643.003	A	and how much does it cost mount luzern to the mount zermatt ?	and
+18	290	1230	1637.995	1643.003	A	and how much does it cost mount luzern to the mount zermatt ?	how
+18	290	1231	1637.995	1643.003	A	and how much does it cost mount luzern to the mount zermatt ?	much
+18	290	1232	1637.995	1643.003	A	and how much does it cost mount luzern to the mount zermatt ?	does
+18	290	1233	1637.995	1643.003	A	and how much does it cost mount luzern to the mount zermatt ?	it
+18	290	1234	1637.995	1643.003	A	and how much does it cost mount luzern to the mount zermatt ?	cost
+18	290	1235	1637.995	1643.003	A	and how much does it cost mount luzern to the mount zermatt ?	mount
+18	290	1236	1637.995	1643.003	A	and how much does it cost mount luzern to the mount zermatt ?	luzern
+18	290	1237	1637.995	1643.003	A	and how much does it cost mount luzern to the mount zermatt ?	to
+18	290	1238	1637.995	1643.003	A	and how much does it cost mount luzern to the mount zermatt ?	the
+18	290	1239	1637.995	1643.003	A	and how much does it cost mount luzern to the mount zermatt ?	mount
+18	290	1240	1637.995	1643.003	A	and how much does it cost mount luzern to the mount zermatt ?	zermatt
+18	290	1241	1637.995	1643.003	A	and how much does it cost mount luzern to the mount zermatt ?	?
+18	291	1242	1643.231	1649.429	B	luzern to zermatt what we have n't connected	luzern
+18	291	1243	1643.231	1649.429	B	luzern to zermatt what we have n't connected	to
+18	291	1244	1643.231	1649.429	B	luzern to zermatt what we have n't connected	zermatt
+18	291	1245	1643.231	1649.429	B	luzern to zermatt what we have n't connected	what
+18	291	1246	1643.231	1649.429	B	luzern to zermatt what we have n't connected	we
+18	291	1247	1643.231	1649.429	B	luzern to zermatt what we have n't connected	have
+18	291	1248	1643.231	1649.429	B	luzern to zermatt what we have n't connected	n't
+18	291	1249	1643.231	1649.429	B	luzern to zermatt what we have n't connected	connected
+18	292	1250	1649.732	1654.776	A	yes so we can you can we press the , button on the right .	yes
+18	292	1251	1649.732	1654.776	A	yes so we can you can we press the , button on the right .	so
+18	292	1252	1649.732	1654.776	A	yes so we can you can we press the , button on the right .	we
+18	292	1253	1649.732	1654.776	A	yes so we can you can we press the , button on the right .	can
+18	292	1254	1649.732	1654.776	A	yes so we can you can we press the , button on the right .	you
+18	292	1255	1649.732	1654.776	A	yes so we can you can we press the , button on the right .	can
+18	292	1256	1649.732	1654.776	A	yes so we can you can we press the , button on the right .	we
+18	292	1257	1649.732	1654.776	A	yes so we can you can we press the , button on the right .	press
+18	292	1258	1649.732	1654.776	A	yes so we can you can we press the , button on the right .	the
+18	292	1259	1649.732	1654.776	A	yes so we can you can we press the , button on the right .	,
+18	292	1260	1649.732	1654.776	A	yes so we can you can we press the , button on the right .	button
+18	292	1261	1649.732	1654.776	A	yes so we can you can we press the , button on the right .	on
+18	292	1262	1649.732	1654.776	A	yes so we can you can we press the , button on the right .	the
+18	292	1263	1649.732	1654.776	A	yes so we can you can we press the , button on the right .	right
+18	292	1264	1649.732	1654.776	A	yes so we can you can we press the , button on the right .	.
+18	293	1265	1652.183	1652.925	B	luzern .	luzern
+18	293	1266	1652.183	1652.925	B	luzern .	.
+18	294	1267	1655.643	1658.485	B	wait uh we have n't connected luzern to zermatt .	wait
+18	294	1268	1655.643	1658.485	B	wait uh we have n't connected luzern to zermatt .	uh
+18	294	1269	1655.643	1658.485	B	wait uh we have n't connected luzern to zermatt .	we
+18	294	1270	1655.643	1658.485	B	wait uh we have n't connected luzern to zermatt .	have
+18	294	1271	1655.643	1658.485	B	wait uh we have n't connected luzern to zermatt .	n't
+18	294	1272	1655.643	1658.485	B	wait uh we have n't connected luzern to zermatt .	connected
+18	294	1273	1655.643	1658.485	B	wait uh we have n't connected luzern to zermatt .	luzern
+18	294	1274	1655.643	1658.485	B	wait uh we have n't connected luzern to zermatt .	to
+18	294	1275	1655.643	1658.485	B	wait uh we have n't connected luzern to zermatt .	zermatt
+18	294	1276	1655.643	1658.485	B	wait uh we have n't connected luzern to zermatt .	.
+18	295	1277	1657.882	1658.529	A	yes .	yes
+18	295	1278	1657.882	1658.529	A	yes .	.
+18	296	1279	1659.410	1661.055	A	so press the	so
+18	296	1280	1659.410	1661.055	A	so press the	press
+18	296	1281	1659.410	1661.055	A	so press the	the
+18	297	1282	1661.166	1664.162	B	but i ca n't see that .	but
+18	297	1283	1661.166	1664.162	B	but i ca n't see that .	i
+18	297	1284	1661.166	1664.162	B	but i ca n't see that .	ca
+18	297	1285	1661.166	1664.162	B	but i ca n't see that .	n't
+18	297	1286	1661.166	1664.162	B	but i ca n't see that .	see
+18	297	1287	1661.166	1664.162	B	but i ca n't see that .	that
+18	297	1288	1661.166	1664.162	B	but i ca n't see that .	.
+18	298	1289	1664.199	1667.041	A	press the button that	press
+18	298	1290	1664.199	1667.041	A	press the button that	the
+18	298	1291	1664.199	1667.041	A	press the button that	button
+18	298	1292	1664.199	1667.041	A	press the button that	that
+18	299	1293	1669.942	1674.238	A	and you can see the how much does it cost .	and
+18	299	1294	1669.942	1674.238	A	and you can see the how much does it cost .	you
+18	299	1295	1669.942	1674.238	A	and you can see the how much does it cost .	can
+18	299	1296	1669.942	1674.238	A	and you can see the how much does it cost .	see
+18	299	1297	1669.942	1674.238	A	and you can see the how much does it cost .	the
+18	299	1298	1669.942	1674.238	A	and you can see the how much does it cost .	how
+18	299	1299	1669.942	1674.238	A	and you can see the how much does it cost .	much
+18	299	1300	1669.942	1674.238	A	and you can see the how much does it cost .	does
+18	299	1301	1669.942	1674.238	A	and you can see the how much does it cost .	it
+18	299	1302	1669.942	1674.238	A	and you can see the how much does it cost .	cost
+18	299	1303	1669.942	1674.238	A	and you can see the how much does it cost .	.
+18	300	1304	1673.078	1674.569	B	oh 3 .	oh
+18	300	1305	1673.078	1674.569	B	oh 3 .	3
+18	300	1306	1673.078	1674.569	B	oh 3 .	.
+18	301	1307	1676.515	1679.834	A	so i think we can erase	so
+18	301	1308	1676.515	1679.834	A	so i think we can erase	i
+18	301	1309	1676.515	1679.834	A	so i think we can erase	think
+18	301	1310	1676.515	1679.834	A	so i think we can erase	we
+18	301	1311	1676.515	1679.834	A	so i think we can erase	can
+18	301	1312	1676.515	1679.834	A	so i think we can erase	erase
+18	302	1313	1681.296	1681.971	A	the	the
+18	303	1314	1682.463	1684.762	A	mount zurich to mount bern .	mount
+18	303	1315	1682.463	1684.762	A	mount zurich to mount bern .	zurich
+18	303	1316	1682.463	1684.762	A	mount zurich to mount bern .	to
+18	303	1317	1682.463	1684.762	A	mount zurich to mount bern .	mount
+18	303	1318	1682.463	1684.762	A	mount zurich to mount bern .	bern
+18	303	1319	1682.463	1684.762	A	mount zurich to mount bern .	.
+18	304	1320	1685.658	1687.303	B	mount zurich to mount bern .	mount
+18	304	1321	1685.658	1687.303	B	mount zurich to mount bern .	zurich
+18	304	1322	1685.658	1687.303	B	mount zurich to mount bern .	to
+18	304	1323	1685.658	1687.303	B	mount zurich to mount bern .	mount
+18	304	1324	1685.658	1687.303	B	mount zurich to mount bern .	bern
+18	304	1325	1685.658	1687.303	B	mount zurich to mount bern .	.
+18	305	1326	1688.633	1693.399	B	uh is n't already mount zurich to mount bern is n't it connected ?	uh
+18	305	1327	1688.633	1693.399	B	uh is n't already mount zurich to mount bern is n't it connected ?	is
+18	305	1328	1688.633	1693.399	B	uh is n't already mount zurich to mount bern is n't it connected ?	n't
+18	305	1329	1688.633	1693.399	B	uh is n't already mount zurich to mount bern is n't it connected ?	already
+18	305	1330	1688.633	1693.399	B	uh is n't already mount zurich to mount bern is n't it connected ?	mount
+18	305	1331	1688.633	1693.399	B	uh is n't already mount zurich to mount bern is n't it connected ?	zurich
+18	305	1332	1688.633	1693.399	B	uh is n't already mount zurich to mount bern is n't it connected ?	to
+18	305	1333	1688.633	1693.399	B	uh is n't already mount zurich to mount bern is n't it connected ?	mount
+18	305	1334	1688.633	1693.399	B	uh is n't already mount zurich to mount bern is n't it connected ?	bern
+18	305	1335	1688.633	1693.399	B	uh is n't already mount zurich to mount bern is n't it connected ?	is
+18	305	1336	1688.633	1693.399	B	uh is n't already mount zurich to mount bern is n't it connected ?	n't
+18	305	1337	1688.633	1693.399	B	uh is n't already mount zurich to mount bern is n't it connected ?	it
+18	305	1338	1688.633	1693.399	B	uh is n't already mount zurich to mount bern is n't it connected ?	connected
+18	305	1339	1688.633	1693.399	B	uh is n't already mount zurich to mount bern is n't it connected ?	?
+18	306	1340	1694.361	1695.235	A	yes .	yes
+18	306	1341	1694.361	1695.235	A	yes .	.
+18	307	1342	1696.300	1696.998	B	yeah .	yeah
+18	307	1343	1696.300	1696.998	B	yeah .	.
+18	308	1344	1697.475	1701.690	A	so , we need to do it minimum .	so
+18	308	1345	1697.475	1701.690	A	so , we need to do it minimum .	,
+18	308	1346	1697.475	1701.690	A	so , we need to do it minimum .	we
+18	308	1347	1697.475	1701.690	A	so , we need to do it minimum .	need
+18	308	1348	1697.475	1701.690	A	so , we need to do it minimum .	to
+18	308	1349	1697.475	1701.690	A	so , we need to do it minimum .	do
+18	308	1350	1697.475	1701.690	A	so , we need to do it minimum .	it
+18	308	1351	1697.475	1701.690	A	so , we need to do it minimum .	minimum
+18	308	1352	1697.475	1701.690	A	so , we need to do it minimum .	.
+18	309	1353	1702.638	1703.144	B	i	i
+18	310	1354	1721.858	1724.090	B	wait uh zurich to mount	wait
+18	310	1355	1721.858	1724.090	B	wait uh zurich to mount	uh
+18	310	1356	1721.858	1724.090	B	wait uh zurich to mount	zurich
+18	310	1357	1721.858	1724.090	B	wait uh zurich to mount	to
+18	310	1358	1721.858	1724.090	B	wait uh zurich to mount	mount
+18	311	1359	1724.817	1725.904	B	wait , try	wait
+18	311	1360	1724.817	1725.904	B	wait , try	,
+18	311	1361	1724.817	1725.904	B	wait , try	try
+18	312	1362	1727.197	1730.186	B	mount zurich to mount basel and then	mount
+18	312	1363	1727.197	1730.186	B	mount zurich to mount basel and then	zurich
+18	312	1364	1727.197	1730.186	B	mount zurich to mount basel and then	to
+18	312	1365	1727.197	1730.186	B	mount zurich to mount basel and then	mount
+18	312	1366	1727.197	1730.186	B	mount zurich to mount basel and then	basel
+18	312	1367	1727.197	1730.186	B	mount zurich to mount basel and then	and
+18	312	1368	1727.197	1730.186	B	mount zurich to mount basel and then	then
+18	313	1369	1729.048	1730.766	A	no you can see it .	no
+18	313	1370	1729.048	1730.766	A	no you can see it .	you
+18	313	1371	1729.048	1730.766	A	no you can see it .	can
+18	313	1372	1729.048	1730.766	A	no you can see it .	see
+18	313	1373	1729.048	1730.766	A	no you can see it .	it
+18	313	1374	1729.048	1730.766	A	no you can see it .	.
+18	314	1375	1731.310	1733.057	A	in the bottom of the right .	in
+18	314	1376	1731.310	1733.057	A	in the bottom of the right .	the
+18	314	1377	1731.310	1733.057	A	in the bottom of the right .	bottom
+18	314	1378	1731.310	1733.057	A	in the bottom of the right .	of
+18	314	1379	1731.310	1733.057	A	in the bottom of the right .	the
+18	314	1380	1731.310	1733.057	A	in the bottom of the right .	right
+18	314	1381	1731.310	1733.057	A	in the bottom of the right .	.
+18	315	1382	1733.168	1736.281	B	but i , i have an idea , so erase	but
+18	315	1383	1733.168	1736.281	B	but i , i have an idea , so erase	i
+18	315	1384	1733.168	1736.281	B	but i , i have an idea , so erase	,
+18	315	1385	1733.168	1736.281	B	but i , i have an idea , so erase	i
+18	315	1386	1733.168	1736.281	B	but i , i have an idea , so erase	have
+18	315	1387	1733.168	1736.281	B	but i , i have an idea , so erase	an
+18	315	1388	1733.168	1736.281	B	but i , i have an idea , so erase	idea
+18	315	1389	1733.168	1736.281	B	but i , i have an idea , so erase	,
+18	315	1390	1733.168	1736.281	B	but i , i have an idea , so erase	so
+18	315	1391	1733.168	1736.281	B	but i , i have an idea , so erase	erase
+18	316	1392	1736.862	1737.303	B	um	um
+18	317	1393	1737.912	1743.186	B	mount bern to mount basel and mount bern to mount zurich .	mount
+18	317	1394	1737.912	1743.186	B	mount bern to mount basel and mount bern to mount zurich .	bern
+18	317	1395	1737.912	1743.186	B	mount bern to mount basel and mount bern to mount zurich .	to
+18	317	1396	1737.912	1743.186	B	mount bern to mount basel and mount bern to mount zurich .	mount
+18	317	1397	1737.912	1743.186	B	mount bern to mount basel and mount bern to mount zurich .	basel
+18	317	1398	1737.912	1743.186	B	mount bern to mount basel and mount bern to mount zurich .	and
+18	317	1399	1737.912	1743.186	B	mount bern to mount basel and mount bern to mount zurich .	mount
+18	317	1400	1737.912	1743.186	B	mount bern to mount basel and mount bern to mount zurich .	bern
+18	317	1401	1737.912	1743.186	B	mount bern to mount basel and mount bern to mount zurich .	to
+18	317	1402	1737.912	1743.186	B	mount bern to mount basel and mount bern to mount zurich .	mount
+18	317	1403	1737.912	1743.186	B	mount bern to mount basel and mount bern to mount zurich .	zurich
+18	317	1404	1737.912	1743.186	B	mount bern to mount basel and mount bern to mount zurich .	.
+18	318	1405	1745.785	1746.211	A	here ?	here
+18	318	1406	1745.785	1746.211	A	here ?	?
+18	319	1407	1748.392	1749.516	A	is this right ?	is
+18	319	1408	1748.392	1749.516	A	is this right ?	this
+18	319	1409	1748.392	1749.516	A	is this right ?	right
+18	319	1410	1748.392	1749.516	A	is this right ?	?
+18	320	1411	1750.133	1750.867	B	yeah .	yeah
+18	320	1412	1750.133	1750.867	B	yeah .	.
+18	321	1413	1750.875	1752.028	A	and	and
+18	322	1414	1751.396	1754.165	B	uh and then mount bern to mount basel .	uh
+18	322	1415	1751.396	1754.165	B	uh and then mount bern to mount basel .	and
+18	322	1416	1751.396	1754.165	B	uh and then mount bern to mount basel .	then
+18	322	1417	1751.396	1754.165	B	uh and then mount bern to mount basel .	mount
+18	322	1418	1751.396	1754.165	B	uh and then mount bern to mount basel .	bern
+18	322	1419	1751.396	1754.165	B	uh and then mount bern to mount basel .	to
+18	322	1420	1751.396	1754.165	B	uh and then mount bern to mount basel .	mount
+18	322	1421	1751.396	1754.165	B	uh and then mount bern to mount basel .	basel
+18	322	1422	1751.396	1754.165	B	uh and then mount bern to mount basel .	.
+18	323	1423	1754.473	1756.537	A	mount bern .	mount
+18	323	1424	1754.473	1756.537	A	mount bern .	bern
+18	323	1425	1754.473	1756.537	A	mount bern .	.
+18	324	1426	1760.445	1761.840	A	it 's connected .	it
+18	324	1427	1760.445	1761.840	A	it 's connected .	's
+18	324	1428	1760.445	1761.840	A	it 's connected .	connected
+18	324	1429	1760.445	1761.840	A	it 's connected .	.
+18	325	1430	1762.464	1763.551	B	but um erase it .	but
+18	325	1431	1762.464	1763.551	B	but um erase it .	um
+18	325	1432	1762.464	1763.551	B	but um erase it .	erase
+18	325	1433	1762.464	1763.551	B	but um erase it .	it
+18	325	1434	1762.464	1763.551	B	but um erase it .	.
+18	326	1435	1763.933	1764.594	A	okay .	okay
+18	326	1436	1763.933	1764.594	A	okay .	.
+18	327	1437	1792.579	1796.905	A	wait can you erase the	wait
+18	327	1438	1792.579	1796.905	A	wait can you erase the	can
+18	327	1439	1792.579	1796.905	A	wait can you erase the	you
+18	327	1440	1792.579	1796.905	A	wait can you erase the	erase
+18	327	1441	1792.579	1796.905	A	wait can you erase the	the
+18	328	1442	1795.253	1796.935	B	uh so	uh
+18	328	1443	1795.253	1796.935	B	uh so	so
+18	329	1444	1798.139	1798.954	A	mount	mount
+18	330	1445	1802.890	1804.087	B	mount	mount

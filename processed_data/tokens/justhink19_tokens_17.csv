@@ -1,0 +1,1763 @@
+team_no	utterance_no	token_no	start	end	interlocutor	utterance	token
+17	0	0	48.714	51.047	A	you ca n't get past through the other mountains right ?	you
+17	0	1	48.714	51.047	A	you ca n't get past through the other mountains right ?	ca
+17	0	2	48.714	51.047	A	you ca n't get past through the other mountains right ?	n't
+17	0	3	48.714	51.047	A	you ca n't get past through the other mountains right ?	get
+17	0	4	48.714	51.047	A	you ca n't get past through the other mountains right ?	past
+17	0	5	48.714	51.047	A	you ca n't get past through the other mountains right ?	through
+17	0	6	48.714	51.047	A	you ca n't get past through the other mountains right ?	the
+17	0	7	48.714	51.047	A	you ca n't get past through the other mountains right ?	other
+17	0	8	48.714	51.047	A	you ca n't get past through the other mountains right ?	mountains
+17	0	9	48.714	51.047	A	you ca n't get past through the other mountains right ?	right
+17	0	10	48.714	51.047	A	you ca n't get past through the other mountains right ?	?
+17	1	11	51.533	52.636	B	i do n't know .	i
+17	1	12	51.533	52.636	B	i do n't know .	do
+17	1	13	51.533	52.636	B	i do n't know .	n't
+17	1	14	51.533	52.636	B	i do n't know .	know
+17	1	15	51.533	52.636	B	i do n't know .	.
+17	2	16	52.454	53.467	A	okay .	okay
+17	2	17	52.454	53.467	A	okay .	.
+17	3	18	69.184	69.620	B	oh .	oh
+17	3	19	69.184	69.620	B	oh .	.
+17	4	20	69.254	70.323	A	oh , okay .	oh
+17	4	21	69.254	70.323	A	oh , okay .	,
+17	4	22	69.254	70.323	A	oh , okay .	okay
+17	4	23	69.254	70.323	A	oh , okay .	.
+17	5	24	111.428	112.120	A	yeah .	yeah
+17	5	25	111.428	112.120	A	yeah .	.
+17	6	26	119.317	120.287	A	uh okay .	uh
+17	6	27	119.317	120.287	A	uh okay .	okay
+17	6	28	119.317	120.287	A	uh okay .	.
+17	7	29	129.379	131.630	A	okay so this is my view .	okay
+17	7	30	129.379	131.630	A	okay so this is my view .	so
+17	7	31	129.379	131.630	A	okay so this is my view .	this
+17	7	32	129.379	131.630	A	okay so this is my view .	is
+17	7	33	129.379	131.630	A	okay so this is my view .	my
+17	7	34	129.379	131.630	A	okay so this is my view .	view
+17	7	35	129.379	131.630	A	okay so this is my view .	.
+17	8	36	154.555	156.187	B	how do you go back ?	how
+17	8	37	154.555	156.187	B	how do you go back ?	do
+17	8	38	154.555	156.187	B	how do you go back ?	you
+17	8	39	154.555	156.187	B	how do you go back ?	go
+17	8	40	154.555	156.187	B	how do you go back ?	back
+17	8	41	154.555	156.187	B	how do you go back ?	?
+17	9	42	165.889	168.167	A	okay bob it 's your turn .	okay
+17	9	43	165.889	168.167	A	okay bob it 's your turn .	bob
+17	9	44	165.889	168.167	A	okay bob it 's your turn .	it
+17	9	45	165.889	168.167	A	okay bob it 's your turn .	's
+17	9	46	165.889	168.167	A	okay bob it 's your turn .	your
+17	9	47	165.889	168.167	A	okay bob it 's your turn .	turn
+17	9	48	165.889	168.167	A	okay bob it 's your turn .	.
+17	10	49	201.624	203.171	A	it 's my turn again .	it
+17	10	50	201.624	203.171	A	it 's my turn again .	's
+17	10	51	201.624	203.171	A	it 's my turn again .	my
+17	10	52	201.624	203.171	A	it 's my turn again .	turn
+17	10	53	201.624	203.171	A	it 's my turn again .	again
+17	10	54	201.624	203.171	A	it 's my turn again .	.
+17	11	55	205.721	207.812	A	your turn .	your
+17	11	56	205.721	207.812	A	your turn .	turn
+17	11	57	205.721	207.812	A	your turn .	.
+17	12	58	209.748	210.787	B	should we submit ?	should
+17	12	59	209.748	210.787	B	should we submit ?	we
+17	12	60	209.748	210.787	B	should we submit ?	submit
+17	12	61	209.748	210.787	B	should we submit ?	?
+17	13	62	211.365	211.984	A	what ?	what
+17	13	63	211.365	211.984	A	what ?	?
+17	14	64	211.913	212.912	B	should we submit ?	should
+17	14	65	211.913	212.912	B	should we submit ?	we
+17	14	66	211.913	212.912	B	should we submit ?	submit
+17	14	67	211.913	212.912	B	should we submit ?	?
+17	15	68	213.221	214.262	A	yeah i think .	yeah
+17	15	69	213.221	214.262	A	yeah i think .	i
+17	15	70	213.221	214.262	A	yeah i think .	think
+17	15	71	213.221	214.262	A	yeah i think .	.
+17	16	72	214.753	215.583	A	yeah it 's good .	yeah
+17	16	73	214.753	215.583	A	yeah it 's good .	it
+17	16	74	214.753	215.583	A	yeah it 's good .	's
+17	16	75	214.753	215.583	A	yeah it 's good .	good
+17	16	76	214.753	215.583	A	yeah it 's good .	.
+17	17	77	216.652	217.103	A	yeah .	yeah
+17	17	78	216.652	217.103	A	yeah .	.
+17	18	79	238.134	238.852	A	okay .	okay
+17	18	80	238.134	238.852	A	okay .	.
+17	19	81	246.319	247.009	A	okay .	okay
+17	19	82	246.319	247.009	A	okay .	.
+17	20	83	247.515	248.190	B	um	um
+17	21	84	250.679	252.470	A	okay your turn , bob .	okay
+17	21	85	250.679	252.470	A	okay your turn , bob .	your
+17	21	86	250.679	252.470	A	okay your turn , bob .	turn
+17	21	87	250.679	252.470	A	okay your turn , bob .	,
+17	21	88	250.679	252.470	A	okay your turn , bob .	bob
+17	21	89	250.679	252.470	A	okay your turn , bob .	.
+17	22	90	255.242	256.621	A	that 's 3 .	that
+17	22	91	255.242	256.621	A	that 's 3 .	's
+17	22	92	255.242	256.621	A	that 's 3 .	3
+17	22	93	255.242	256.621	A	that 's 3 .	.
+17	23	94	261.993	263.484	A	yeah okay .	yeah
+17	23	95	261.993	263.484	A	yeah okay .	okay
+17	23	96	261.993	263.484	A	yeah okay .	.
+17	24	97	281.368	282.282	A	okay .	okay
+17	24	98	281.368	282.282	A	okay .	.
+17	25	99	292.988	294.634	A	yeah okay .	yeah
+17	25	100	292.988	294.634	A	yeah okay .	okay
+17	25	101	292.988	294.634	A	yeah okay .	.
+17	26	102	311.630	319.037	A	it 's better to go from mount basel to mount interlaken because that costs less money , i think .	it
+17	26	103	311.630	319.037	A	it 's better to go from mount basel to mount interlaken because that costs less money , i think .	's
+17	26	104	311.630	319.037	A	it 's better to go from mount basel to mount interlaken because that costs less money , i think .	better
+17	26	105	311.630	319.037	A	it 's better to go from mount basel to mount interlaken because that costs less money , i think .	to
+17	26	106	311.630	319.037	A	it 's better to go from mount basel to mount interlaken because that costs less money , i think .	go
+17	26	107	311.630	319.037	A	it 's better to go from mount basel to mount interlaken because that costs less money , i think .	from
+17	26	108	311.630	319.037	A	it 's better to go from mount basel to mount interlaken because that costs less money , i think .	mount
+17	26	109	311.630	319.037	A	it 's better to go from mount basel to mount interlaken because that costs less money , i think .	basel
+17	26	110	311.630	319.037	A	it 's better to go from mount basel to mount interlaken because that costs less money , i think .	to
+17	26	111	311.630	319.037	A	it 's better to go from mount basel to mount interlaken because that costs less money , i think .	mount
+17	26	112	311.630	319.037	A	it 's better to go from mount basel to mount interlaken because that costs less money , i think .	interlaken
+17	26	113	311.630	319.037	A	it 's better to go from mount basel to mount interlaken because that costs less money , i think .	because
+17	26	114	311.630	319.037	A	it 's better to go from mount basel to mount interlaken because that costs less money , i think .	that
+17	26	115	311.630	319.037	A	it 's better to go from mount basel to mount interlaken because that costs less money , i think .	costs
+17	26	116	311.630	319.037	A	it 's better to go from mount basel to mount interlaken because that costs less money , i think .	less
+17	26	117	311.630	319.037	A	it 's better to go from mount basel to mount interlaken because that costs less money , i think .	money
+17	26	118	311.630	319.037	A	it 's better to go from mount basel to mount interlaken because that costs less money , i think .	,
+17	26	119	311.630	319.037	A	it 's better to go from mount basel to mount interlaken because that costs less money , i think .	i
+17	26	120	311.630	319.037	A	it 's better to go from mount basel to mount interlaken because that costs less money , i think .	think
+17	26	121	311.630	319.037	A	it 's better to go from mount basel to mount interlaken because that costs less money , i think .	.
+17	27	122	328.561	330.179	A	okay , uh .	okay
+17	27	123	328.561	330.179	A	okay , uh .	,
+17	27	124	328.561	330.179	A	okay , uh .	uh
+17	27	125	328.561	330.179	A	okay , uh .	.
+17	28	126	339.136	342.456	A	i think that cost less , then last time .	i
+17	28	127	339.136	342.456	A	i think that cost less , then last time .	think
+17	28	128	339.136	342.456	A	i think that cost less , then last time .	that
+17	28	129	339.136	342.456	A	i think that cost less , then last time .	cost
+17	28	130	339.136	342.456	A	i think that cost less , then last time .	less
+17	28	131	339.136	342.456	A	i think that cost less , then last time .	,
+17	28	132	339.136	342.456	A	i think that cost less , then last time .	then
+17	28	133	339.136	342.456	A	i think that cost less , then last time .	last
+17	28	134	339.136	342.456	A	i think that cost less , then last time .	time
+17	28	135	339.136	342.456	A	i think that cost less , then last time .	.
+17	29	136	342.821	344.143	B	um yeah , let 's submit .	um
+17	29	137	342.821	344.143	B	um yeah , let 's submit .	yeah
+17	29	138	342.821	344.143	B	um yeah , let 's submit .	,
+17	29	139	342.821	344.143	B	um yeah , let 's submit .	let
+17	29	140	342.821	344.143	B	um yeah , let 's submit .	's
+17	29	141	342.821	344.143	B	um yeah , let 's submit .	submit
+17	29	142	342.821	344.143	B	um yeah , let 's submit .	.
+17	30	143	344.354	345.254	A	yeah .	yeah
+17	30	144	344.354	345.254	A	yeah .	.
+17	31	145	355.362	358.597	A	oh so what 's the minimum is 9 i think , wait .	oh
+17	31	146	355.362	358.597	A	oh so what 's the minimum is 9 i think , wait .	so
+17	31	147	355.362	358.597	A	oh so what 's the minimum is 9 i think , wait .	what
+17	31	148	355.362	358.597	A	oh so what 's the minimum is 9 i think , wait .	's
+17	31	149	355.362	358.597	A	oh so what 's the minimum is 9 i think , wait .	the
+17	31	150	355.362	358.597	A	oh so what 's the minimum is 9 i think , wait .	minimum
+17	31	151	355.362	358.597	A	oh so what 's the minimum is 9 i think , wait .	is
+17	31	152	355.362	358.597	A	oh so what 's the minimum is 9 i think , wait .	9
+17	31	153	355.362	358.597	A	oh so what 's the minimum is 9 i think , wait .	i
+17	31	154	355.362	358.597	A	oh so what 's the minimum is 9 i think , wait .	think
+17	31	155	355.362	358.597	A	oh so what 's the minimum is 9 i think , wait .	,
+17	31	156	355.362	358.597	A	oh so what 's the minimum is 9 i think , wait .	wait
+17	31	157	355.362	358.597	A	oh so what 's the minimum is 9 i think , wait .	.
+17	32	158	359.332	362.358	A	we had the price which is 29 , so	we
+17	32	159	359.332	362.358	A	we had the price which is 29 , so	had
+17	32	160	359.332	362.358	A	we had the price which is 29 , so	the
+17	32	161	359.332	362.358	A	we had the price which is 29 , so	price
+17	32	162	359.332	362.358	A	we had the price which is 29 , so	which
+17	32	163	359.332	362.358	A	we had the price which is 29 , so	is
+17	32	164	359.332	362.358	A	we had the price which is 29 , so	29
+17	32	165	359.332	362.358	A	we had the price which is 29 , so	,
+17	32	166	359.332	362.358	A	we had the price which is 29 , so	so
+17	33	167	363.230	365.521	A	i think we used to do it one more time .	i
+17	33	168	363.230	365.521	A	i think we used to do it one more time .	think
+17	33	169	363.230	365.521	A	i think we used to do it one more time .	we
+17	33	170	363.230	365.521	A	i think we used to do it one more time .	used
+17	33	171	363.230	365.521	A	i think we used to do it one more time .	to
+17	33	172	363.230	365.521	A	i think we used to do it one more time .	do
+17	33	173	363.230	365.521	A	i think we used to do it one more time .	it
+17	33	174	363.230	365.521	A	i think we used to do it one more time .	one
+17	33	175	363.230	365.521	A	i think we used to do it one more time .	more
+17	33	176	363.230	365.521	A	i think we used to do it one more time .	time
+17	33	177	363.230	365.521	A	i think we used to do it one more time .	.
+17	34	178	366.213	366.767	B	um	um
+17	35	179	367.416	368.779	A	okay your turn first .	okay
+17	35	180	367.416	368.779	A	okay your turn first .	your
+17	35	181	367.416	368.779	A	okay your turn first .	turn
+17	35	182	367.416	368.779	A	okay your turn first .	first
+17	35	183	367.416	368.779	A	okay your turn first .	.
+17	36	184	369.303	371.565	A	why do n't you go from a different mountain this time ?	why
+17	36	185	369.303	371.565	A	why do n't you go from a different mountain this time ?	do
+17	36	186	369.303	371.565	A	why do n't you go from a different mountain this time ?	n't
+17	36	187	369.303	371.565	A	why do n't you go from a different mountain this time ?	you
+17	36	188	369.303	371.565	A	why do n't you go from a different mountain this time ?	go
+17	36	189	369.303	371.565	A	why do n't you go from a different mountain this time ?	from
+17	36	190	369.303	371.565	A	why do n't you go from a different mountain this time ?	a
+17	36	191	369.303	371.565	A	why do n't you go from a different mountain this time ?	different
+17	36	192	369.303	371.565	A	why do n't you go from a different mountain this time ?	mountain
+17	36	193	369.303	371.565	A	why do n't you go from a different mountain this time ?	this
+17	36	194	369.303	371.565	A	why do n't you go from a different mountain this time ?	time
+17	36	195	369.303	371.565	A	why do n't you go from a different mountain this time ?	?
+17	37	196	372.829	374.402	B	maybe mount bern ?	maybe
+17	37	197	372.829	374.402	B	maybe mount bern ?	mount
+17	37	198	372.829	374.402	B	maybe mount bern ?	bern
+17	37	199	372.829	374.402	B	maybe mount bern ?	?
+17	38	200	376.700	377.329	A	where ?	where
+17	38	201	376.700	377.329	A	where ?	?
+17	39	202	377.449	378.452	B	mount bern .	mount
+17	39	203	377.449	378.452	B	mount bern .	bern
+17	39	204	377.449	378.452	B	mount bern .	.
+17	40	205	378.559	379.877	A	okay start from there .	okay
+17	40	206	378.559	379.877	A	okay start from there .	start
+17	40	207	378.559	379.877	A	okay start from there .	from
+17	40	208	378.559	379.877	A	okay start from there .	there
+17	40	209	378.559	379.877	A	okay start from there .	.
+17	41	210	381.694	383.476	A	maybe go to mount basel after .	maybe
+17	41	211	381.694	383.476	A	maybe go to mount basel after .	go
+17	41	212	381.694	383.476	A	maybe go to mount basel after .	to
+17	41	213	381.694	383.476	A	maybe go to mount basel after .	mount
+17	41	214	381.694	383.476	A	maybe go to mount basel after .	basel
+17	41	215	381.694	383.476	A	maybe go to mount basel after .	after
+17	41	216	381.694	383.476	A	maybe go to mount basel after .	.
+17	42	217	384.588	386.490	A	that might cost less .	that
+17	42	218	384.588	386.490	A	that might cost less .	might
+17	42	219	384.588	386.490	A	that might cost less .	cost
+17	42	220	384.588	386.490	A	that might cost less .	less
+17	42	221	384.588	386.490	A	that might cost less .	.
+17	43	222	388.442	390.799	A	yeah , and then go to mount zurich .	yeah
+17	43	223	388.442	390.799	A	yeah , and then go to mount zurich .	,
+17	43	224	388.442	390.799	A	yeah , and then go to mount zurich .	and
+17	43	225	388.442	390.799	A	yeah , and then go to mount zurich .	then
+17	43	226	388.442	390.799	A	yeah , and then go to mount zurich .	go
+17	43	227	388.442	390.799	A	yeah , and then go to mount zurich .	to
+17	43	228	388.442	390.799	A	yeah , and then go to mount zurich .	mount
+17	43	229	388.442	390.799	A	yeah , and then go to mount zurich .	zurich
+17	43	230	388.442	390.799	A	yeah , and then go to mount zurich .	.
+17	44	231	394.146	394.805	A	yeah .	yeah
+17	44	232	394.146	394.805	A	yeah .	.
+17	45	233	395.044	397.471	A	oh no that costs more .	oh
+17	45	234	395.044	397.471	A	oh no that costs more .	no
+17	45	235	395.044	397.471	A	oh no that costs more .	that
+17	45	236	395.044	397.471	A	oh no that costs more .	costs
+17	45	237	395.044	397.471	A	oh no that costs more .	more
+17	45	238	395.044	397.471	A	oh no that costs more .	.
+17	46	239	397.775	398.688	A	uh	uh
+17	47	240	398.179	399.707	B	we should erase it .	we
+17	47	241	398.179	399.707	B	we should erase it .	should
+17	47	242	398.179	399.707	B	we should erase it .	erase
+17	47	243	398.179	399.707	B	we should erase it .	it
+17	47	244	398.179	399.707	B	we should erase it .	.
+17	48	245	400.101	401.823	A	yeah , i 'll erase it .	yeah
+17	48	246	400.101	401.823	A	yeah , i 'll erase it .	,
+17	48	247	400.101	401.823	A	yeah , i 'll erase it .	i
+17	48	248	400.101	401.823	A	yeah , i 'll erase it .	'll
+17	48	249	400.101	401.823	A	yeah , i 'll erase it .	erase
+17	48	250	400.101	401.823	A	yeah , i 'll erase it .	it
+17	48	251	400.101	401.823	A	yeah , i 'll erase it .	.
+17	49	252	403.327	405.170	A	that , that 's better okay .	that
+17	49	253	403.327	405.170	A	that , that 's better okay .	,
+17	49	254	403.327	405.170	A	that , that 's better okay .	that
+17	49	255	403.327	405.170	A	that , that 's better okay .	's
+17	49	256	403.327	405.170	A	that , that 's better okay .	better
+17	49	257	403.327	405.170	A	that , that 's better okay .	okay
+17	49	258	403.327	405.170	A	that , that 's better okay .	.
+17	50	259	405.589	408.755	A	so , go from mount bern	so
+17	50	260	405.589	408.755	A	so , go from mount bern	,
+17	50	261	405.589	408.755	A	so , go from mount bern	go
+17	50	262	405.589	408.755	A	so , go from mount bern	from
+17	50	263	405.589	408.755	A	so , go from mount bern	mount
+17	50	264	405.589	408.755	A	so , go from mount bern	bern
+17	51	265	409.279	412.320	A	to straight to mount zurich i think maybe that 's better .	to
+17	51	266	409.279	412.320	A	to straight to mount zurich i think maybe that 's better .	straight
+17	51	267	409.279	412.320	A	to straight to mount zurich i think maybe that 's better .	to
+17	51	268	409.279	412.320	A	to straight to mount zurich i think maybe that 's better .	mount
+17	51	269	409.279	412.320	A	to straight to mount zurich i think maybe that 's better .	zurich
+17	51	270	409.279	412.320	A	to straight to mount zurich i think maybe that 's better .	i
+17	51	271	409.279	412.320	A	to straight to mount zurich i think maybe that 's better .	think
+17	51	272	409.279	412.320	A	to straight to mount zurich i think maybe that 's better .	maybe
+17	51	273	409.279	412.320	A	to straight to mount zurich i think maybe that 's better .	that
+17	51	274	409.279	412.320	A	to straight to mount zurich i think maybe that 's better .	's
+17	51	275	409.279	412.320	A	to straight to mount zurich i think maybe that 's better .	better
+17	51	276	409.279	412.320	A	to straight to mount zurich i think maybe that 's better .	.
+17	52	277	413.065	414.637	A	that would cost a lot .	that
+17	52	278	413.065	414.637	A	that would cost a lot .	would
+17	52	279	413.065	414.637	A	that would cost a lot .	cost
+17	52	280	413.065	414.637	A	that would cost a lot .	a
+17	52	281	413.065	414.637	A	that would cost a lot .	lot
+17	52	282	413.065	414.637	A	that would cost a lot .	.
+17	53	283	414.877	416.195	A	yeah .	yeah
+17	53	284	414.877	416.195	A	yeah .	.
+17	54	285	416.959	419.430	A	then mount saint gallen maybe ?	then
+17	54	286	416.959	419.430	A	then mount saint gallen maybe ?	mount
+17	54	287	416.959	419.430	A	then mount saint gallen maybe ?	saint
+17	54	288	416.959	419.430	A	then mount saint gallen maybe ?	gallen
+17	54	289	416.959	419.430	A	then mount saint gallen maybe ?	maybe
+17	54	290	416.959	419.430	A	then mount saint gallen maybe ?	?
+17	55	291	422.988	425.449	A	yeah , it 's better .	yeah
+17	55	292	422.988	425.449	A	yeah , it 's better .	,
+17	55	293	422.988	425.449	A	yeah , it 's better .	it
+17	55	294	422.988	425.449	A	yeah , it 's better .	's
+17	55	295	422.988	425.449	A	yeah , it 's better .	better
+17	55	296	422.988	425.449	A	yeah , it 's better .	.
+17	56	297	427.385	430.246	A	i 'm gon na go from mount bern to mount basel .	i
+17	56	298	427.385	430.246	A	i 'm gon na go from mount bern to mount basel .	'm
+17	56	299	427.385	430.246	A	i 'm gon na go from mount bern to mount basel .	gon
+17	56	300	427.385	430.246	A	i 'm gon na go from mount bern to mount basel .	na
+17	56	301	427.385	430.246	A	i 'm gon na go from mount bern to mount basel .	go
+17	56	302	427.385	430.246	A	i 'm gon na go from mount bern to mount basel .	from
+17	56	303	427.385	430.246	A	i 'm gon na go from mount bern to mount basel .	mount
+17	56	304	427.385	430.246	A	i 'm gon na go from mount bern to mount basel .	bern
+17	56	305	427.385	430.246	A	i 'm gon na go from mount bern to mount basel .	to
+17	56	306	427.385	430.246	A	i 'm gon na go from mount bern to mount basel .	mount
+17	56	307	427.385	430.246	A	i 'm gon na go from mount bern to mount basel .	basel
+17	56	308	427.385	430.246	A	i 'm gon na go from mount bern to mount basel .	.
+17	57	309	432.498	436.141	A	oh you 're gon na go from saint gallen right down to mount davos .	oh
+17	57	310	432.498	436.141	A	oh you 're gon na go from saint gallen right down to mount davos .	you
+17	57	311	432.498	436.141	A	oh you 're gon na go from saint gallen right down to mount davos .	're
+17	57	312	432.498	436.141	A	oh you 're gon na go from saint gallen right down to mount davos .	gon
+17	57	313	432.498	436.141	A	oh you 're gon na go from saint gallen right down to mount davos .	na
+17	57	314	432.498	436.141	A	oh you 're gon na go from saint gallen right down to mount davos .	go
+17	57	315	432.498	436.141	A	oh you 're gon na go from saint gallen right down to mount davos .	from
+17	57	316	432.498	436.141	A	oh you 're gon na go from saint gallen right down to mount davos .	saint
+17	57	317	432.498	436.141	A	oh you 're gon na go from saint gallen right down to mount davos .	gallen
+17	57	318	432.498	436.141	A	oh you 're gon na go from saint gallen right down to mount davos .	right
+17	57	319	432.498	436.141	A	oh you 're gon na go from saint gallen right down to mount davos .	down
+17	57	320	432.498	436.141	A	oh you 're gon na go from saint gallen right down to mount davos .	to
+17	57	321	432.498	436.141	A	oh you 're gon na go from saint gallen right down to mount davos .	mount
+17	57	322	432.498	436.141	A	oh you 're gon na go from saint gallen right down to mount davos .	davos
+17	57	323	432.498	436.141	A	oh you 're gon na go from saint gallen right down to mount davos .	.
+17	58	324	436.580	438.258	A	yeah that 's better .	yeah
+17	58	325	436.580	438.258	A	yeah that 's better .	that
+17	58	326	436.580	438.258	A	yeah that 's better .	's
+17	58	327	436.580	438.258	A	yeah that 's better .	better
+17	58	328	436.580	438.258	A	yeah that 's better .	.
+17	59	329	439.179	440.843	A	so we cut the 5 out .	so
+17	59	330	439.179	440.843	A	so we cut the 5 out .	we
+17	59	331	439.179	440.843	A	so we cut the 5 out .	cut
+17	59	332	439.179	440.843	A	so we cut the 5 out .	the
+17	59	333	439.179	440.843	A	so we cut the 5 out .	5
+17	59	334	439.179	440.843	A	so we cut the 5 out .	out
+17	59	335	439.179	440.843	A	so we cut the 5 out .	.
+17	60	336	442.053	443.600	B	i 'll go from	i
+17	60	337	442.053	443.600	B	i 'll go from	'll
+17	60	338	442.053	443.600	B	i 'll go from	go
+17	60	339	442.053	443.600	B	i 'll go from	from
+17	61	340	450.625	455.281	A	uh no i think you should go from mount davos to mount luzern , but if you want to go from mount	uh
+17	61	341	450.625	455.281	A	uh no i think you should go from mount davos to mount luzern , but if you want to go from mount	no
+17	61	342	450.625	455.281	A	uh no i think you should go from mount davos to mount luzern , but if you want to go from mount	i
+17	61	343	450.625	455.281	A	uh no i think you should go from mount davos to mount luzern , but if you want to go from mount	think
+17	61	344	450.625	455.281	A	uh no i think you should go from mount davos to mount luzern , but if you want to go from mount	you
+17	61	345	450.625	455.281	A	uh no i think you should go from mount davos to mount luzern , but if you want to go from mount	should
+17	61	346	450.625	455.281	A	uh no i think you should go from mount davos to mount luzern , but if you want to go from mount	go
+17	61	347	450.625	455.281	A	uh no i think you should go from mount davos to mount luzern , but if you want to go from mount	from
+17	61	348	450.625	455.281	A	uh no i think you should go from mount davos to mount luzern , but if you want to go from mount	mount
+17	61	349	450.625	455.281	A	uh no i think you should go from mount davos to mount luzern , but if you want to go from mount	davos
+17	61	350	450.625	455.281	A	uh no i think you should go from mount davos to mount luzern , but if you want to go from mount	to
+17	61	351	450.625	455.281	A	uh no i think you should go from mount davos to mount luzern , but if you want to go from mount	mount
+17	61	352	450.625	455.281	A	uh no i think you should go from mount davos to mount luzern , but if you want to go from mount	luzern
+17	61	353	450.625	455.281	A	uh no i think you should go from mount davos to mount luzern , but if you want to go from mount	,
+17	61	354	450.625	455.281	A	uh no i think you should go from mount davos to mount luzern , but if you want to go from mount	but
+17	61	355	450.625	455.281	A	uh no i think you should go from mount davos to mount luzern , but if you want to go from mount	if
+17	61	356	450.625	455.281	A	uh no i think you should go from mount davos to mount luzern , but if you want to go from mount	you
+17	61	357	450.625	455.281	A	uh no i think you should go from mount davos to mount luzern , but if you want to go from mount	want
+17	61	358	450.625	455.281	A	uh no i think you should go from mount davos to mount luzern , but if you want to go from mount	to
+17	61	359	450.625	455.281	A	uh no i think you should go from mount davos to mount luzern , but if you want to go from mount	go
+17	61	360	450.625	455.281	A	uh no i think you should go from mount davos to mount luzern , but if you want to go from mount	from
+17	61	361	450.625	455.281	A	uh no i think you should go from mount davos to mount luzern , but if you want to go from mount	mount
+17	62	362	456.401	458.188	A	yeah , maybe like that 's better .	yeah
+17	62	363	456.401	458.188	A	yeah , maybe like that 's better .	,
+17	62	364	456.401	458.188	A	yeah , maybe like that 's better .	maybe
+17	62	365	456.401	458.188	A	yeah , maybe like that 's better .	like
+17	62	366	456.401	458.188	A	yeah , maybe like that 's better .	that
+17	62	367	456.401	458.188	A	yeah , maybe like that 's better .	's
+17	62	368	456.401	458.188	A	yeah , maybe like that 's better .	better
+17	62	369	456.401	458.188	A	yeah , maybe like that 's better .	.
+17	63	370	459.715	463.161	A	and then mount luzern to mount zermatt .	and
+17	63	371	459.715	463.161	A	and then mount luzern to mount zermatt .	then
+17	63	372	459.715	463.161	A	and then mount luzern to mount zermatt .	mount
+17	63	373	459.715	463.161	A	and then mount luzern to mount zermatt .	luzern
+17	63	374	459.715	463.161	A	and then mount luzern to mount zermatt .	to
+17	63	375	459.715	463.161	A	and then mount luzern to mount zermatt .	mount
+17	63	376	459.715	463.161	A	and then mount luzern to mount zermatt .	zermatt
+17	63	377	459.715	463.161	A	and then mount luzern to mount zermatt .	.
+17	64	378	466.163	467.708	A	yeah , perfect .	yeah
+17	64	379	466.163	467.708	A	yeah , perfect .	,
+17	64	380	466.163	467.708	A	yeah , perfect .	perfect
+17	64	381	466.163	467.708	A	yeah , perfect .	.
+17	65	382	468.485	470.257	A	oh good , should i go to mount	oh
+17	65	383	468.485	470.257	A	oh good , should i go to mount	good
+17	65	384	468.485	470.257	A	oh good , should i go to mount	,
+17	65	385	468.485	470.257	A	oh good , should i go to mount	should
+17	65	386	468.485	470.257	A	oh good , should i go to mount	i
+17	65	387	468.485	470.257	A	oh good , should i go to mount	go
+17	65	388	468.485	470.257	A	oh good , should i go to mount	to
+17	65	389	468.485	470.257	A	oh good , should i go to mount	mount
+17	66	390	471.270	476.671	A	interlaken interlaken or mount montreux ?	interlaken
+17	66	391	471.270	476.671	A	interlaken interlaken or mount montreux ?	interlaken
+17	66	392	471.270	476.671	A	interlaken interlaken or mount montreux ?	or
+17	66	393	471.270	476.671	A	interlaken interlaken or mount montreux ?	mount
+17	66	394	471.270	476.671	A	interlaken interlaken or mount montreux ?	montreux
+17	66	395	471.270	476.671	A	interlaken interlaken or mount montreux ?	?
+17	67	396	477.373	477.866	A	i think	i
+17	67	397	477.373	477.866	A	i think	think
+17	68	398	477.458	480.426	B	um montreux i think .	um
+17	68	399	477.458	480.426	B	um montreux i think .	montreux
+17	68	400	477.458	480.426	B	um montreux i think .	i
+17	68	401	477.458	480.426	B	um montreux i think .	think
+17	68	402	477.458	480.426	B	um montreux i think .	.
+17	69	403	480.663	481.381	A	okay .	okay
+17	69	404	480.663	481.381	A	okay .	.
+17	70	405	482.659	483.950	A	and then i 'll go to mount	and
+17	70	406	482.659	483.950	A	and then i 'll go to mount	then
+17	70	407	482.659	483.950	A	and then i 'll go to mount	i
+17	70	408	482.659	483.950	A	and then i 'll go to mount	'll
+17	70	409	482.659	483.950	A	and then i 'll go to mount	go
+17	70	410	482.659	483.950	A	and then i 'll go to mount	to
+17	70	411	482.659	483.950	A	and then i 'll go to mount	mount
+17	71	412	483.950	484.836	A	interlaken .	interlaken
+17	71	413	483.950	484.836	A	interlaken .	.
+17	72	414	484.048	485.005	B	interlaken .	interlaken
+17	72	415	484.048	485.005	B	interlaken .	.
+17	73	416	485.174	485.990	A	yeah .	yeah
+17	73	417	485.174	485.990	A	yeah .	.
+17	74	418	487.272	488.182	A	oh actually	oh
+17	74	419	487.272	488.182	A	oh actually	actually
+17	75	420	488.425	489.464	A	oh next time	oh
+17	75	421	488.425	489.464	A	oh next time	next
+17	75	422	488.425	489.464	A	oh next time	time
+17	76	423	489.464	492.899	A	can you erase mount interlaken so we go straight mount	can
+17	76	424	489.464	492.899	A	can you erase mount interlaken so we go straight mount	you
+17	76	425	489.464	492.899	A	can you erase mount interlaken so we go straight mount	erase
+17	76	426	489.464	492.899	A	can you erase mount interlaken so we go straight mount	mount
+17	76	427	489.464	492.899	A	can you erase mount interlaken so we go straight mount	interlaken
+17	76	428	489.464	492.899	A	can you erase mount interlaken so we go straight mount	so
+17	76	429	489.464	492.899	A	can you erase mount interlaken so we go straight mount	we
+17	76	430	489.464	492.899	A	can you erase mount interlaken so we go straight mount	go
+17	76	431	489.464	492.899	A	can you erase mount interlaken so we go straight mount	straight
+17	76	432	489.464	492.899	A	can you erase mount interlaken so we go straight mount	mount
+17	77	433	493.254	495.968	A	neuchatel because that costs more , mount	neuchatel
+17	77	434	493.254	495.968	A	neuchatel because that costs more , mount	because
+17	77	435	493.254	495.968	A	neuchatel because that costs more , mount	that
+17	77	436	493.254	495.968	A	neuchatel because that costs more , mount	costs
+17	77	437	493.254	495.968	A	neuchatel because that costs more , mount	more
+17	77	438	493.254	495.968	A	neuchatel because that costs more , mount	,
+17	77	439	493.254	495.968	A	neuchatel because that costs more , mount	mount
+17	78	440	496.334	497.403	A	interlaken .	interlaken
+17	78	441	496.334	497.403	A	interlaken .	.
+17	79	442	499.564	500.999	B	so , erase what ?	so
+17	79	443	499.564	500.999	B	so , erase what ?	,
+17	79	444	499.564	500.999	B	so , erase what ?	erase
+17	79	445	499.564	500.999	B	so , erase what ?	what
+17	79	446	499.564	500.999	B	so , erase what ?	?
+17	80	447	501.147	507.481	A	um mount montreux to mount interlaken because that costs 4 .	um
+17	80	448	501.147	507.481	A	um mount montreux to mount interlaken because that costs 4 .	mount
+17	80	449	501.147	507.481	A	um mount montreux to mount interlaken because that costs 4 .	montreux
+17	80	450	501.147	507.481	A	um mount montreux to mount interlaken because that costs 4 .	to
+17	80	451	501.147	507.481	A	um mount montreux to mount interlaken because that costs 4 .	mount
+17	80	452	501.147	507.481	A	um mount montreux to mount interlaken because that costs 4 .	interlaken
+17	80	453	501.147	507.481	A	um mount montreux to mount interlaken because that costs 4 .	because
+17	80	454	501.147	507.481	A	um mount montreux to mount interlaken because that costs 4 .	that
+17	80	455	501.147	507.481	A	um mount montreux to mount interlaken because that costs 4 .	costs
+17	80	456	501.147	507.481	A	um mount montreux to mount interlaken because that costs 4 .	4
+17	80	457	501.147	507.481	A	um mount montreux to mount interlaken because that costs 4 .	.
+17	81	458	508.034	509.525	B	but how do you erase this ?	but
+17	81	459	508.034	509.525	B	but how do you erase this ?	how
+17	81	460	508.034	509.525	B	but how do you erase this ?	do
+17	81	461	508.034	509.525	B	but how do you erase this ?	you
+17	81	462	508.034	509.525	B	but how do you erase this ?	erase
+17	81	463	508.034	509.525	B	but how do you erase this ?	this
+17	81	464	508.034	509.525	B	but how do you erase this ?	?
+17	82	465	510.959	511.873	A	maybe you already	maybe
+17	82	466	510.959	511.873	A	maybe you already	you
+17	82	467	510.959	511.873	A	maybe you already	already
+17	83	468	512.098	513.716	A	erase	erase
+17	84	469	513.982	514.967	B	how do you erase this ?	how
+17	84	470	513.982	514.967	B	how do you erase this ?	do
+17	84	471	513.982	514.967	B	how do you erase this ?	you
+17	84	472	513.982	514.967	B	how do you erase this ?	erase
+17	84	473	513.982	514.967	B	how do you erase this ?	this
+17	84	474	513.982	514.967	B	how do you erase this ?	?
+17	85	475	522.818	523.238	B	yeah .	yeah
+17	85	476	522.818	523.238	B	yeah .	.
+17	86	477	527.971	532.209	A	yeah then i think you go should mount montreux , to mount neuchatel ?	yeah
+17	86	478	527.971	532.209	A	yeah then i think you go should mount montreux , to mount neuchatel ?	then
+17	86	479	527.971	532.209	A	yeah then i think you go should mount montreux , to mount neuchatel ?	i
+17	86	480	527.971	532.209	A	yeah then i think you go should mount montreux , to mount neuchatel ?	think
+17	86	481	527.971	532.209	A	yeah then i think you go should mount montreux , to mount neuchatel ?	you
+17	86	482	527.971	532.209	A	yeah then i think you go should mount montreux , to mount neuchatel ?	go
+17	86	483	527.971	532.209	A	yeah then i think you go should mount montreux , to mount neuchatel ?	should
+17	86	484	527.971	532.209	A	yeah then i think you go should mount montreux , to mount neuchatel ?	mount
+17	86	485	527.971	532.209	A	yeah then i think you go should mount montreux , to mount neuchatel ?	montreux
+17	86	486	527.971	532.209	A	yeah then i think you go should mount montreux , to mount neuchatel ?	,
+17	86	487	527.971	532.209	A	yeah then i think you go should mount montreux , to mount neuchatel ?	to
+17	86	488	527.971	532.209	A	yeah then i think you go should mount montreux , to mount neuchatel ?	mount
+17	86	489	527.971	532.209	A	yeah then i think you go should mount montreux , to mount neuchatel ?	neuchatel
+17	86	490	527.971	532.209	A	yeah then i think you go should mount montreux , to mount neuchatel ?	?
+17	87	491	532.955	534.024	B	okay .	okay
+17	87	492	532.955	534.024	B	okay .	.
+17	88	493	535.744	536.264	A	yeah .	yeah
+17	88	494	535.744	536.264	A	yeah .	.
+17	89	495	537.061	542.612	A	then i 'm gon na go , to mount basel , and then i go mount basel to mount interlaken .	then
+17	89	496	537.061	542.612	A	then i 'm gon na go , to mount basel , and then i go mount basel to mount interlaken .	i
+17	89	497	537.061	542.612	A	then i 'm gon na go , to mount basel , and then i go mount basel to mount interlaken .	'm
+17	89	498	537.061	542.612	A	then i 'm gon na go , to mount basel , and then i go mount basel to mount interlaken .	gon
+17	89	499	537.061	542.612	A	then i 'm gon na go , to mount basel , and then i go mount basel to mount interlaken .	na
+17	89	500	537.061	542.612	A	then i 'm gon na go , to mount basel , and then i go mount basel to mount interlaken .	go
+17	89	501	537.061	542.612	A	then i 'm gon na go , to mount basel , and then i go mount basel to mount interlaken .	,
+17	89	502	537.061	542.612	A	then i 'm gon na go , to mount basel , and then i go mount basel to mount interlaken .	to
+17	89	503	537.061	542.612	A	then i 'm gon na go , to mount basel , and then i go mount basel to mount interlaken .	mount
+17	89	504	537.061	542.612	A	then i 'm gon na go , to mount basel , and then i go mount basel to mount interlaken .	basel
+17	89	505	537.061	542.612	A	then i 'm gon na go , to mount basel , and then i go mount basel to mount interlaken .	,
+17	89	506	537.061	542.612	A	then i 'm gon na go , to mount basel , and then i go mount basel to mount interlaken .	and
+17	89	507	537.061	542.612	A	then i 'm gon na go , to mount basel , and then i go mount basel to mount interlaken .	then
+17	89	508	537.061	542.612	A	then i 'm gon na go , to mount basel , and then i go mount basel to mount interlaken .	i
+17	89	509	537.061	542.612	A	then i 'm gon na go , to mount basel , and then i go mount basel to mount interlaken .	go
+17	89	510	537.061	542.612	A	then i 'm gon na go , to mount basel , and then i go mount basel to mount interlaken .	mount
+17	89	511	537.061	542.612	A	then i 'm gon na go , to mount basel , and then i go mount basel to mount interlaken .	basel
+17	89	512	537.061	542.612	A	then i 'm gon na go , to mount basel , and then i go mount basel to mount interlaken .	to
+17	89	513	537.061	542.612	A	then i 'm gon na go , to mount basel , and then i go mount basel to mount interlaken .	mount
+17	89	514	537.061	542.612	A	then i 'm gon na go , to mount basel , and then i go mount basel to mount interlaken .	interlaken
+17	89	515	537.061	542.612	A	then i 'm gon na go , to mount basel , and then i go mount basel to mount interlaken .	.
+17	90	516	544.092	545.400	A	oh you ca n't do that .	oh
+17	90	517	544.092	545.400	A	oh you ca n't do that .	you
+17	90	518	544.092	545.400	A	oh you ca n't do that .	ca
+17	90	519	544.092	545.400	A	oh you ca n't do that .	n't
+17	90	520	544.092	545.400	A	oh you ca n't do that .	do
+17	90	521	544.092	545.400	A	oh you ca n't do that .	that
+17	90	522	544.092	545.400	A	oh you ca n't do that .	.
+17	91	523	547.369	549.831	A	then you go from this to that yeah that 's better .	then
+17	91	524	547.369	549.831	A	then you go from this to that yeah that 's better .	you
+17	91	525	547.369	549.831	A	then you go from this to that yeah that 's better .	go
+17	91	526	547.369	549.831	A	then you go from this to that yeah that 's better .	from
+17	91	527	547.369	549.831	A	then you go from this to that yeah that 's better .	this
+17	91	528	547.369	549.831	A	then you go from this to that yeah that 's better .	to
+17	91	529	547.369	549.831	A	then you go from this to that yeah that 's better .	that
+17	91	530	547.369	549.831	A	then you go from this to that yeah that 's better .	yeah
+17	91	531	547.369	549.831	A	then you go from this to that yeah that 's better .	that
+17	91	532	547.369	549.831	A	then you go from this to that yeah that 's better .	's
+17	91	533	547.369	549.831	A	then you go from this to that yeah that 's better .	better
+17	91	534	547.369	549.831	A	then you go from this to that yeah that 's better .	.
+17	92	535	551.275	553.235	A	oh no that cost 4 .	oh
+17	92	536	551.275	553.235	A	oh no that cost 4 .	no
+17	92	537	551.275	553.235	A	oh no that cost 4 .	that
+17	92	538	551.275	553.235	A	oh no that cost 4 .	cost
+17	92	539	551.275	553.235	A	oh no that cost 4 .	4
+17	92	540	551.275	553.235	A	oh no that cost 4 .	.
+17	93	541	554.470	556.947	B	so should we go from mount	so
+17	93	542	554.470	556.947	B	so should we go from mount	should
+17	93	543	554.470	556.947	B	so should we go from mount	we
+17	93	544	554.470	556.947	B	so should we go from mount	go
+17	93	545	554.470	556.947	B	so should we go from mount	from
+17	93	546	554.470	556.947	B	so should we go from mount	mount
+17	94	547	557.650	560.066	B	neuchatel to mount interlaken ?	neuchatel
+17	94	548	557.650	560.066	B	neuchatel to mount interlaken ?	to
+17	94	549	557.650	560.066	B	neuchatel to mount interlaken ?	mount
+17	94	550	557.650	560.066	B	neuchatel to mount interlaken ?	interlaken
+17	94	551	557.650	560.066	B	neuchatel to mount interlaken ?	?
+17	95	552	561.571	564.787	A	yeah then cut out mount basel to mount interlaken .	yeah
+17	95	553	561.571	564.787	A	yeah then cut out mount basel to mount interlaken .	then
+17	95	554	561.571	564.787	A	yeah then cut out mount basel to mount interlaken .	cut
+17	95	555	561.571	564.787	A	yeah then cut out mount basel to mount interlaken .	out
+17	95	556	561.571	564.787	A	yeah then cut out mount basel to mount interlaken .	mount
+17	95	557	561.571	564.787	A	yeah then cut out mount basel to mount interlaken .	basel
+17	95	558	561.571	564.787	A	yeah then cut out mount basel to mount interlaken .	to
+17	95	559	561.571	564.787	A	yeah then cut out mount basel to mount interlaken .	mount
+17	95	560	561.571	564.787	A	yeah then cut out mount basel to mount interlaken .	interlaken
+17	95	561	561.571	564.787	A	yeah then cut out mount basel to mount interlaken .	.
+17	96	562	565.154	565.822	A	maybe .	maybe
+17	96	563	565.154	565.822	A	maybe .	.
+17	97	564	568.288	568.731	A	yeah .	yeah
+17	97	565	568.288	568.731	A	yeah .	.
+17	98	566	569.170	570.689	A	and then just do mount	and
+17	98	567	569.170	570.689	A	and then just do mount	then
+17	98	568	569.170	570.689	A	and then just do mount	just
+17	98	569	569.170	570.689	A	and then just do mount	do
+17	98	570	569.170	570.689	A	and then just do mount	mount
+17	99	571	571.407	573.094	A	to interlaken to mount zermatt ?	to
+17	99	572	571.407	573.094	A	to interlaken to mount zermatt ?	interlaken
+17	99	573	571.407	573.094	A	to interlaken to mount zermatt ?	to
+17	99	574	571.407	573.094	A	to interlaken to mount zermatt ?	mount
+17	99	575	571.407	573.094	A	to interlaken to mount zermatt ?	zermatt
+17	99	576	571.407	573.094	A	to interlaken to mount zermatt ?	?
+17	100	577	573.322	574.370	A	maybe that 's better ?	maybe
+17	100	578	573.322	574.370	A	maybe that 's better ?	that
+17	100	579	573.322	574.370	A	maybe that 's better ?	's
+17	100	580	573.322	574.370	A	maybe that 's better ?	better
+17	100	581	573.322	574.370	A	maybe that 's better ?	?
+17	101	582	585.458	587.343	A	yeah like that , i think that 's better .	yeah
+17	101	583	585.458	587.343	A	yeah like that , i think that 's better .	like
+17	101	584	585.458	587.343	A	yeah like that , i think that 's better .	that
+17	101	585	585.458	587.343	A	yeah like that , i think that 's better .	,
+17	101	586	585.458	587.343	A	yeah like that , i think that 's better .	i
+17	101	587	585.458	587.343	A	yeah like that , i think that 's better .	think
+17	101	588	585.458	587.343	A	yeah like that , i think that 's better .	that
+17	101	589	585.458	587.343	A	yeah like that , i think that 's better .	's
+17	101	590	585.458	587.343	A	yeah like that , i think that 's better .	better
+17	101	591	585.458	587.343	A	yeah like that , i think that 's better .	.
+17	102	592	587.540	588.133	B	yeah .	yeah
+17	102	593	587.540	588.133	B	yeah .	.
+17	103	594	587.677	589.303	A	do you wanna , do , it ?	do
+17	103	595	587.677	589.303	A	do you wanna , do , it ?	you
+17	103	596	587.677	589.303	A	do you wanna , do , it ?	wanna
+17	103	597	587.677	589.303	A	do you wanna , do , it ?	,
+17	103	598	587.677	589.303	A	do you wanna , do , it ?	do
+17	103	599	587.677	589.303	A	do you wanna , do , it ?	,
+17	103	600	587.677	589.303	A	do you wanna , do , it ?	it
+17	103	601	587.677	589.303	A	do you wanna , do , it ?	?
+17	104	602	590.826	593.530	A	yeah let 's go , i 'm ticking it .	yeah
+17	104	603	590.826	593.530	A	yeah let 's go , i 'm ticking it .	let
+17	104	604	590.826	593.530	A	yeah let 's go , i 'm ticking it .	's
+17	104	605	590.826	593.530	A	yeah let 's go , i 'm ticking it .	go
+17	104	606	590.826	593.530	A	yeah let 's go , i 'm ticking it .	,
+17	104	607	590.826	593.530	A	yeah let 's go , i 'm ticking it .	i
+17	104	608	590.826	593.530	A	yeah let 's go , i 'm ticking it .	'm
+17	104	609	590.826	593.530	A	yeah let 's go , i 'm ticking it .	ticking
+17	104	610	590.826	593.530	A	yeah let 's go , i 'm ticking it .	it
+17	104	611	590.826	593.530	A	yeah let 's go , i 'm ticking it .	.
+17	105	612	594.653	596.781	A	okay tick it maybe .	okay
+17	105	613	594.653	596.781	A	okay tick it maybe .	tick
+17	105	614	594.653	596.781	A	okay tick it maybe .	it
+17	105	615	594.653	596.781	A	okay tick it maybe .	maybe
+17	105	616	594.653	596.781	A	okay tick it maybe .	.
+17	106	617	596.583	597.176	B	okay .	okay
+17	106	618	596.583	597.176	B	okay .	.
+17	107	619	597.417	598.481	A	yeah .	yeah
+17	107	620	597.417	598.481	A	yeah .	.
+17	108	621	601.409	602.143	A	uh	uh
+17	109	622	604.907	605.333	A	okay .	okay
+17	109	623	604.907	605.333	A	okay .	.
+17	110	624	606.153	606.913	A	uh	uh
+17	111	625	607.358	609.531	A	i 'm gon na start	i
+17	111	626	607.358	609.531	A	i 'm gon na start	'm
+17	111	627	607.358	609.531	A	i 'm gon na start	gon
+17	111	628	607.358	609.531	A	i 'm gon na start	na
+17	111	629	607.358	609.531	A	i 'm gon na start	start
+17	112	630	610.227	614.169	A	at mount zermatt because that 's the , no what is the cheapest ?	at
+17	112	631	610.227	614.169	A	at mount zermatt because that 's the , no what is the cheapest ?	mount
+17	112	632	610.227	614.169	A	at mount zermatt because that 's the , no what is the cheapest ?	zermatt
+17	112	633	610.227	614.169	A	at mount zermatt because that 's the , no what is the cheapest ?	because
+17	112	634	610.227	614.169	A	at mount zermatt because that 's the , no what is the cheapest ?	that
+17	112	635	610.227	614.169	A	at mount zermatt because that 's the , no what is the cheapest ?	's
+17	112	636	610.227	614.169	A	at mount zermatt because that 's the , no what is the cheapest ?	the
+17	112	637	610.227	614.169	A	at mount zermatt because that 's the , no what is the cheapest ?	,
+17	112	638	610.227	614.169	A	at mount zermatt because that 's the , no what is the cheapest ?	no
+17	112	639	610.227	614.169	A	at mount zermatt because that 's the , no what is the cheapest ?	what
+17	112	640	610.227	614.169	A	at mount zermatt because that 's the , no what is the cheapest ?	is
+17	112	641	610.227	614.169	A	at mount zermatt because that 's the , no what is the cheapest ?	the
+17	112	642	610.227	614.169	A	at mount zermatt because that 's the , no what is the cheapest ?	cheapest
+17	112	643	610.227	614.169	A	at mount zermatt because that 's the , no what is the cheapest ?	?
+17	113	644	614.200	615.096	B	okay .	okay
+17	113	645	614.200	615.096	B	okay .	.
+17	114	646	616.052	617.830	A	which one is the cheapest bob ?	which
+17	114	647	616.052	617.830	A	which one is the cheapest bob ?	one
+17	114	648	616.052	617.830	A	which one is the cheapest bob ?	is
+17	114	649	616.052	617.830	A	which one is the cheapest bob ?	the
+17	114	650	616.052	617.830	A	which one is the cheapest bob ?	cheapest
+17	114	651	616.052	617.830	A	which one is the cheapest bob ?	bob
+17	114	652	616.052	617.830	A	which one is the cheapest bob ?	?
+17	115	653	618.483	619.441	B	i do n't know .	i
+17	115	654	618.483	619.441	B	i do n't know .	do
+17	115	655	618.483	619.441	B	i do n't know .	n't
+17	115	656	618.483	619.441	B	i do n't know .	know
+17	115	657	618.483	619.441	B	i do n't know .	.
+17	116	658	619.243	620.964	A	okay uh okay go from	okay
+17	116	659	619.243	620.964	A	okay uh okay go from	uh
+17	116	660	619.243	620.964	A	okay uh okay go from	okay
+17	116	661	619.243	620.964	A	okay uh okay go from	go
+17	116	662	619.243	620.964	A	okay uh okay go from	from
+17	117	663	621.466	622.210	A	mount	mount
+17	118	664	623.092	624.474	A	saint gallen	saint
+17	118	665	623.092	624.474	A	saint gallen	gallen
+17	119	666	625.329	626.924	A	to mount davos	to
+17	119	667	625.329	626.924	A	to mount davos	mount
+17	119	668	625.329	626.924	A	to mount davos	davos
+17	120	669	626.879	628.155	B	that 's 2 .	that
+17	120	670	626.879	628.155	B	that 's 2 .	's
+17	120	671	626.879	628.155	B	that 's 2 .	2
+17	120	672	626.879	628.155	B	that 's 2 .	.
+17	121	673	628.317	630.413	A	that 's 2 okay then	that
+17	121	674	628.317	630.413	A	that 's 2 okay then	's
+17	121	675	628.317	630.413	A	that 's 2 okay then	2
+17	121	676	628.317	630.413	A	that 's 2 okay then	okay
+17	121	677	628.317	630.413	A	that 's 2 okay then	then
+17	122	678	633.142	637.518	A	i 'm gon na go from mount davos to mount zermatt .	i
+17	122	679	633.142	637.518	A	i 'm gon na go from mount davos to mount zermatt .	'm
+17	122	680	633.142	637.518	A	i 'm gon na go from mount davos to mount zermatt .	gon
+17	122	681	633.142	637.518	A	i 'm gon na go from mount davos to mount zermatt .	na
+17	122	682	633.142	637.518	A	i 'm gon na go from mount davos to mount zermatt .	go
+17	122	683	633.142	637.518	A	i 'm gon na go from mount davos to mount zermatt .	from
+17	122	684	633.142	637.518	A	i 'm gon na go from mount davos to mount zermatt .	mount
+17	122	685	633.142	637.518	A	i 'm gon na go from mount davos to mount zermatt .	davos
+17	122	686	633.142	637.518	A	i 'm gon na go from mount davos to mount zermatt .	to
+17	122	687	633.142	637.518	A	i 'm gon na go from mount davos to mount zermatt .	mount
+17	122	688	633.142	637.518	A	i 'm gon na go from mount davos to mount zermatt .	zermatt
+17	122	689	633.142	637.518	A	i 'm gon na go from mount davos to mount zermatt .	.
+17	123	690	638.155	639.431	B	that 's 3 .	that
+17	123	691	638.155	639.431	B	that 's 3 .	's
+17	123	692	638.155	639.431	B	that 's 3 .	3
+17	123	693	638.155	639.431	B	that 's 3 .	.
+17	124	694	638.853	640.176	A	that 's 3 yeah .	that
+17	124	695	638.853	640.176	A	that 's 3 yeah .	's
+17	124	696	638.853	640.176	A	that 's 3 yeah .	3
+17	124	697	638.853	640.176	A	that 's 3 yeah .	yeah
+17	124	698	638.853	640.176	A	that 's 3 yeah .	.
+17	125	699	641.310	643.574	B	then i 'm going to go from	then
+17	125	700	641.310	643.574	B	then i 'm going to go from	i
+17	125	701	641.310	643.574	B	then i 'm going to go from	'm
+17	125	702	641.310	643.574	B	then i 'm going to go from	going
+17	125	703	641.310	643.574	B	then i 'm going to go from	to
+17	125	704	641.310	643.574	B	then i 'm going to go from	go
+17	125	705	641.310	643.574	B	then i 'm going to go from	from
+17	126	706	644.166	646.895	B	mount zermatt to mount , luzern ?	mount
+17	126	707	644.166	646.895	B	mount zermatt to mount , luzern ?	zermatt
+17	126	708	644.166	646.895	B	mount zermatt to mount , luzern ?	to
+17	126	709	644.166	646.895	B	mount zermatt to mount , luzern ?	mount
+17	126	710	644.166	646.895	B	mount zermatt to mount , luzern ?	,
+17	126	711	644.166	646.895	B	mount zermatt to mount , luzern ?	luzern
+17	126	712	644.166	646.895	B	mount zermatt to mount , luzern ?	?
+17	127	713	646.606	647.260	A	yeah .	yeah
+17	127	714	646.606	647.260	A	yeah .	.
+17	128	715	651.537	655.488	A	luzern to mount zurich maybe that costs less .	luzern
+17	128	716	651.537	655.488	A	luzern to mount zurich maybe that costs less .	to
+17	128	717	651.537	655.488	A	luzern to mount zurich maybe that costs less .	mount
+17	128	718	651.537	655.488	A	luzern to mount zurich maybe that costs less .	zurich
+17	128	719	651.537	655.488	A	luzern to mount zurich maybe that costs less .	maybe
+17	128	720	651.537	655.488	A	luzern to mount zurich maybe that costs less .	that
+17	128	721	651.537	655.488	A	luzern to mount zurich maybe that costs less .	costs
+17	128	722	651.537	655.488	A	luzern to mount zurich maybe that costs less .	less
+17	128	723	651.537	655.488	A	luzern to mount zurich maybe that costs less .	.
+17	129	724	657.892	660.855	A	yeah that cost 2 , perfect .	yeah
+17	129	725	657.892	660.855	A	yeah that cost 2 , perfect .	that
+17	129	726	657.892	660.855	A	yeah that cost 2 , perfect .	cost
+17	129	727	657.892	660.855	A	yeah that cost 2 , perfect .	2
+17	129	728	657.892	660.855	A	yeah that cost 2 , perfect .	,
+17	129	729	657.892	660.855	A	yeah that cost 2 , perfect .	perfect
+17	129	730	657.892	660.855	A	yeah that cost 2 , perfect .	.
+17	130	731	661.685	665.190	A	then maybe to mount zermatt how much does that cost ?	then
+17	130	732	661.685	665.190	A	then maybe to mount zermatt how much does that cost ?	maybe
+17	130	733	661.685	665.190	A	then maybe to mount zermatt how much does that cost ?	to
+17	130	734	661.685	665.190	A	then maybe to mount zermatt how much does that cost ?	mount
+17	130	735	661.685	665.190	A	then maybe to mount zermatt how much does that cost ?	zermatt
+17	130	736	661.685	665.190	A	then maybe to mount zermatt how much does that cost ?	how
+17	130	737	661.685	665.190	A	then maybe to mount zermatt how much does that cost ?	much
+17	130	738	661.685	665.190	A	then maybe to mount zermatt how much does that cost ?	does
+17	130	739	661.685	665.190	A	then maybe to mount zermatt how much does that cost ?	that
+17	130	740	661.685	665.190	A	then maybe to mount zermatt how much does that cost ?	cost
+17	130	741	661.685	665.190	A	then maybe to mount zermatt how much does that cost ?	?
+17	131	742	664.916	665.509	B	3 .	3
+17	131	743	664.916	665.509	B	3 .	.
+17	132	744	666.105	666.622	A	3 ?	3
+17	132	745	666.105	666.622	A	3 ?	?
+17	133	746	668.475	668.992	A	wait .	wait
+17	133	747	668.475	668.992	A	wait .	.
+17	134	748	670.041	670.664	A	or	or
+17	135	749	670.983	674.755	A	maybe try mount zurich to mount basel how much is that ?	maybe
+17	135	750	670.983	674.755	A	maybe try mount zurich to mount basel how much is that ?	try
+17	135	751	670.983	674.755	A	maybe try mount zurich to mount basel how much is that ?	mount
+17	135	752	670.983	674.755	A	maybe try mount zurich to mount basel how much is that ?	zurich
+17	135	753	670.983	674.755	A	maybe try mount zurich to mount basel how much is that ?	to
+17	135	754	670.983	674.755	A	maybe try mount zurich to mount basel how much is that ?	mount
+17	135	755	670.983	674.755	A	maybe try mount zurich to mount basel how much is that ?	basel
+17	135	756	670.983	674.755	A	maybe try mount zurich to mount basel how much is that ?	how
+17	135	757	670.983	674.755	A	maybe try mount zurich to mount basel how much is that ?	much
+17	135	758	670.983	674.755	A	maybe try mount zurich to mount basel how much is that ?	is
+17	135	759	670.983	674.755	A	maybe try mount zurich to mount basel how much is that ?	that
+17	135	760	670.983	674.755	A	maybe try mount zurich to mount basel how much is that ?	?
+17	136	761	674.015	674.698	B	yeah .	yeah
+17	136	762	674.015	674.698	B	yeah .	.
+17	137	763	675.716	678.597	A	basel basel .	basel
+17	137	764	675.716	678.597	A	basel basel .	basel
+17	137	765	675.716	678.597	A	basel basel .	.
+17	138	766	679.843	681.500	A	that 's 5 so do n't do that .	that
+17	138	767	679.843	681.500	A	that 's 5 so do n't do that .	's
+17	138	768	679.843	681.500	A	that 's 5 so do n't do that .	5
+17	138	769	679.843	681.500	A	that 's 5 so do n't do that .	so
+17	138	770	679.843	681.500	A	that 's 5 so do n't do that .	do
+17	138	771	679.843	681.500	A	that 's 5 so do n't do that .	n't
+17	138	772	679.843	681.500	A	that 's 5 so do n't do that .	do
+17	138	773	679.843	681.500	A	that 's 5 so do n't do that .	that
+17	138	774	679.843	681.500	A	that 's 5 so do n't do that .	.
+17	139	775	683.428	686.315	A	so we should do mount zurich to mount bern yeah .	so
+17	139	776	683.428	686.315	A	so we should do mount zurich to mount bern yeah .	we
+17	139	777	683.428	686.315	A	so we should do mount zurich to mount bern yeah .	should
+17	139	778	683.428	686.315	A	so we should do mount zurich to mount bern yeah .	do
+17	139	779	683.428	686.315	A	so we should do mount zurich to mount bern yeah .	mount
+17	139	780	683.428	686.315	A	so we should do mount zurich to mount bern yeah .	zurich
+17	139	781	683.428	686.315	A	so we should do mount zurich to mount bern yeah .	to
+17	139	782	683.428	686.315	A	so we should do mount zurich to mount bern yeah .	mount
+17	139	783	683.428	686.315	A	so we should do mount zurich to mount bern yeah .	bern
+17	139	784	683.428	686.315	A	so we should do mount zurich to mount bern yeah .	yeah
+17	139	785	683.428	686.315	A	so we should do mount zurich to mount bern yeah .	.
+17	140	786	686.825	687.965	A	i 'll do that now .	i
+17	140	787	686.825	687.965	A	i 'll do that now .	'll
+17	140	788	686.825	687.965	A	i 'll do that now .	do
+17	140	789	686.825	687.965	A	i 'll do that now .	that
+17	140	790	686.825	687.965	A	i 'll do that now .	now
+17	140	791	686.825	687.965	A	i 'll do that now .	.
+17	141	792	687.904	688.755	B	okay .	okay
+17	141	793	687.904	688.755	B	okay .	.
+17	142	794	689.788	690.670	A	then	then
+17	143	795	692.537	694.634	B	then mount bern to mount basel ?	then
+17	143	796	692.537	694.634	B	then mount bern to mount basel ?	mount
+17	143	797	692.537	694.634	B	then mount bern to mount basel ?	bern
+17	143	798	692.537	694.634	B	then mount bern to mount basel ?	to
+17	143	799	692.537	694.634	B	then mount bern to mount basel ?	mount
+17	143	800	692.537	694.634	B	then mount bern to mount basel ?	basel
+17	143	801	692.537	694.634	B	then mount bern to mount basel ?	?
+17	144	802	694.917	695.480	A	yeah .	yeah
+17	144	803	694.917	695.480	A	yeah .	.
+17	145	804	695.920	696.893	A	how much is that ?	how
+17	145	805	695.920	696.893	A	how much is that ?	much
+17	145	806	695.920	696.893	A	how much is that ?	is
+17	145	807	695.920	696.893	A	how much is that ?	that
+17	145	808	695.920	696.893	A	how much is that ?	?
+17	146	809	696.918	698.240	B	that 's 3 .	that
+17	146	810	696.918	698.240	B	that 's 3 .	's
+17	146	811	696.918	698.240	B	that 's 3 .	3
+17	146	812	696.918	698.240	B	that 's 3 .	.
+17	147	813	697.769	698.999	A	yeah that 's better .	yeah
+17	147	814	697.769	698.999	A	yeah that 's better .	that
+17	147	815	697.769	698.999	A	yeah that 's better .	's
+17	147	816	697.769	698.999	A	yeah that 's better .	better
+17	147	817	697.769	698.999	A	yeah that 's better .	.
+17	148	818	700.821	701.900	B	uh	uh
+17	149	819	701.140	704.028	A	we have n't got any 5s or even 4s yet so	we
+17	149	820	701.140	704.028	A	we have n't got any 5s or even 4s yet so	have
+17	149	821	701.140	704.028	A	we have n't got any 5s or even 4s yet so	n't
+17	149	822	701.140	704.028	A	we have n't got any 5s or even 4s yet so	got
+17	149	823	701.140	704.028	A	we have n't got any 5s or even 4s yet so	any
+17	149	824	701.140	704.028	A	we have n't got any 5s or even 4s yet so	5s
+17	149	825	701.140	704.028	A	we have n't got any 5s or even 4s yet so	or
+17	149	826	701.140	704.028	A	we have n't got any 5s or even 4s yet so	even
+17	149	827	701.140	704.028	A	we have n't got any 5s or even 4s yet so	4s
+17	149	828	701.140	704.028	A	we have n't got any 5s or even 4s yet so	yet
+17	149	829	701.140	704.028	A	we have n't got any 5s or even 4s yet so	so
+17	150	830	706.087	711.101	B	should i go from mount basel to , mount , neuchatel ?	should
+17	150	831	706.087	711.101	B	should i go from mount basel to , mount , neuchatel ?	i
+17	150	832	706.087	711.101	B	should i go from mount basel to , mount , neuchatel ?	go
+17	150	833	706.087	711.101	B	should i go from mount basel to , mount , neuchatel ?	from
+17	150	834	706.087	711.101	B	should i go from mount basel to , mount , neuchatel ?	mount
+17	150	835	706.087	711.101	B	should i go from mount basel to , mount , neuchatel ?	basel
+17	150	836	706.087	711.101	B	should i go from mount basel to , mount , neuchatel ?	to
+17	150	837	706.087	711.101	B	should i go from mount basel to , mount , neuchatel ?	,
+17	150	838	706.087	711.101	B	should i go from mount basel to , mount , neuchatel ?	mount
+17	150	839	706.087	711.101	B	should i go from mount basel to , mount , neuchatel ?	,
+17	150	840	706.087	711.101	B	should i go from mount basel to , mount , neuchatel ?	neuchatel
+17	150	841	706.087	711.101	B	should i go from mount basel to , mount , neuchatel ?	?
+17	151	842	712.001	712.883	A	uh	uh
+17	152	843	713.202	714.267	A	see how much that is yeah .	see
+17	152	844	713.202	714.267	A	see how much that is yeah .	how
+17	152	845	713.202	714.267	A	see how much that is yeah .	much
+17	152	846	713.202	714.267	A	see how much that is yeah .	that
+17	152	847	713.202	714.267	A	see how much that is yeah .	is
+17	152	848	713.202	714.267	A	see how much that is yeah .	yeah
+17	152	849	713.202	714.267	A	see how much that is yeah .	.
+17	153	850	714.615	715.375	A	do that .	do
+17	153	851	714.615	715.375	A	do that .	that
+17	153	852	714.615	715.375	A	do that .	.
+17	154	853	716.426	721.347	A	that 's 4 , maybe try mount basel from to mount interlaken .	that
+17	154	854	716.426	721.347	A	that 's 4 , maybe try mount basel from to mount interlaken .	's
+17	154	855	716.426	721.347	A	that 's 4 , maybe try mount basel from to mount interlaken .	4
+17	154	856	716.426	721.347	A	that 's 4 , maybe try mount basel from to mount interlaken .	,
+17	154	857	716.426	721.347	A	that 's 4 , maybe try mount basel from to mount interlaken .	maybe
+17	154	858	716.426	721.347	A	that 's 4 , maybe try mount basel from to mount interlaken .	try
+17	154	859	716.426	721.347	A	that 's 4 , maybe try mount basel from to mount interlaken .	mount
+17	154	860	716.426	721.347	A	that 's 4 , maybe try mount basel from to mount interlaken .	basel
+17	154	861	716.426	721.347	A	that 's 4 , maybe try mount basel from to mount interlaken .	from
+17	154	862	716.426	721.347	A	that 's 4 , maybe try mount basel from to mount interlaken .	to
+17	154	863	716.426	721.347	A	that 's 4 , maybe try mount basel from to mount interlaken .	mount
+17	154	864	716.426	721.347	A	that 's 4 , maybe try mount basel from to mount interlaken .	interlaken
+17	154	865	716.426	721.347	A	that 's 4 , maybe try mount basel from to mount interlaken .	.
+17	155	866	721.582	722.797	B	we ca n't do that .	we
+17	155	867	721.582	722.797	B	we ca n't do that .	ca
+17	155	868	721.582	722.797	B	we ca n't do that .	n't
+17	155	869	721.582	722.797	B	we ca n't do that .	do
+17	155	870	721.582	722.797	B	we ca n't do that .	that
+17	155	871	721.582	722.797	B	we ca n't do that .	.
+17	156	872	722.721	723.983	A	you ca n't , okay .	you
+17	156	873	722.721	723.983	A	you ca n't , okay .	ca
+17	156	874	722.721	723.983	A	you ca n't , okay .	n't
+17	156	875	722.721	723.983	A	you ca n't , okay .	,
+17	156	876	722.721	723.983	A	you ca n't , okay .	okay
+17	156	877	722.721	723.983	A	you ca n't , okay .	.
+17	157	878	725.642	729.806	A	i 'm gon na try mount bern to mount mount interlaken .	i
+17	157	879	725.642	729.806	A	i 'm gon na try mount bern to mount mount interlaken .	'm
+17	157	880	725.642	729.806	A	i 'm gon na try mount bern to mount mount interlaken .	gon
+17	157	881	725.642	729.806	A	i 'm gon na try mount bern to mount mount interlaken .	na
+17	157	882	725.642	729.806	A	i 'm gon na try mount bern to mount mount interlaken .	try
+17	157	883	725.642	729.806	A	i 'm gon na try mount bern to mount mount interlaken .	mount
+17	157	884	725.642	729.806	A	i 'm gon na try mount bern to mount mount interlaken .	bern
+17	157	885	725.642	729.806	A	i 'm gon na try mount bern to mount mount interlaken .	to
+17	157	886	725.642	729.806	A	i 'm gon na try mount bern to mount mount interlaken .	mount
+17	157	887	725.642	729.806	A	i 'm gon na try mount bern to mount mount interlaken .	mount
+17	157	888	725.642	729.806	A	i 'm gon na try mount bern to mount mount interlaken .	interlaken
+17	157	889	725.642	729.806	A	i 'm gon na try mount bern to mount mount interlaken .	.
+17	158	890	730.883	731.932	A	how much is that ?	how
+17	158	891	730.883	731.932	A	how much is that ?	much
+17	158	892	730.883	731.932	A	how much is that ?	is
+17	158	893	730.883	731.932	A	how much is that ?	that
+17	158	894	730.883	731.932	A	how much is that ?	?
+17	159	895	731.780	732.722	B	that 's 4 .	that
+17	159	896	731.780	732.722	B	that 's 4 .	's
+17	159	897	731.780	732.722	B	that 's 4 .	4
+17	159	898	731.780	732.722	B	that 's 4 .	.
+17	160	899	732.904	734.925	A	yeah i 'm gon na go do n't do that uh .	yeah
+17	160	900	732.904	734.925	A	yeah i 'm gon na go do n't do that uh .	i
+17	160	901	732.904	734.925	A	yeah i 'm gon na go do n't do that uh .	'm
+17	160	902	732.904	734.925	A	yeah i 'm gon na go do n't do that uh .	gon
+17	160	903	732.904	734.925	A	yeah i 'm gon na go do n't do that uh .	na
+17	160	904	732.904	734.925	A	yeah i 'm gon na go do n't do that uh .	go
+17	160	905	732.904	734.925	A	yeah i 'm gon na go do n't do that uh .	do
+17	160	906	732.904	734.925	A	yeah i 'm gon na go do n't do that uh .	n't
+17	160	907	732.904	734.925	A	yeah i 'm gon na go do n't do that uh .	do
+17	160	908	732.904	734.925	A	yeah i 'm gon na go do n't do that uh .	that
+17	160	909	732.904	734.925	A	yeah i 'm gon na go do n't do that uh .	uh
+17	160	910	732.904	734.925	A	yeah i 'm gon na go do n't do that uh .	.
+17	161	911	736.625	739.771	B	uh mount zermatt to mount montreux .	uh
+17	161	912	736.625	739.771	B	uh mount zermatt to mount montreux .	mount
+17	161	913	736.625	739.771	B	uh mount zermatt to mount montreux .	zermatt
+17	161	914	736.625	739.771	B	uh mount zermatt to mount montreux .	to
+17	161	915	736.625	739.771	B	uh mount zermatt to mount montreux .	mount
+17	161	916	736.625	739.771	B	uh mount zermatt to mount montreux .	montreux
+17	161	917	736.625	739.771	B	uh mount zermatt to mount montreux .	.
+17	162	918	742.266	744.226	A	yeah that 's 2 that 's perfect .	yeah
+17	162	919	742.266	744.226	A	yeah that 's 2 that 's perfect .	that
+17	162	920	742.266	744.226	A	yeah that 's 2 that 's perfect .	's
+17	162	921	742.266	744.226	A	yeah that 's 2 that 's perfect .	2
+17	162	922	742.266	744.226	A	yeah that 's 2 that 's perfect .	that
+17	162	923	742.266	744.226	A	yeah that 's 2 that 's perfect .	's
+17	162	924	742.266	744.226	A	yeah that 's 2 that 's perfect .	perfect
+17	162	925	742.266	744.226	A	yeah that 's 2 that 's perfect .	.
+17	163	926	744.713	749.016	A	okay , then , do mounts montreux to mount interlaken .	okay
+17	163	927	744.713	749.016	A	okay , then , do mounts montreux to mount interlaken .	,
+17	163	928	744.713	749.016	A	okay , then , do mounts montreux to mount interlaken .	then
+17	163	929	744.713	749.016	A	okay , then , do mounts montreux to mount interlaken .	,
+17	163	930	744.713	749.016	A	okay , then , do mounts montreux to mount interlaken .	do
+17	163	931	744.713	749.016	A	okay , then , do mounts montreux to mount interlaken .	mounts
+17	163	932	744.713	749.016	A	okay , then , do mounts montreux to mount interlaken .	montreux
+17	163	933	744.713	749.016	A	okay , then , do mounts montreux to mount interlaken .	to
+17	163	934	744.713	749.016	A	okay , then , do mounts montreux to mount interlaken .	mount
+17	163	935	744.713	749.016	A	okay , then , do mounts montreux to mount interlaken .	interlaken
+17	163	936	744.713	749.016	A	okay , then , do mounts montreux to mount interlaken .	.
+17	164	937	751.907	753.046	B	how much is that ?	how
+17	164	938	751.907	753.046	B	how much is that ?	much
+17	164	939	751.907	753.046	B	how much is that ?	is
+17	164	940	751.907	753.046	B	how much is that ?	that
+17	164	941	751.907	753.046	B	how much is that ?	?
+17	165	942	751.967	753.077	A	that 's 4 .	that
+17	165	943	751.967	753.077	A	that 's 4 .	's
+17	165	944	751.967	753.077	A	that 's 4 .	4
+17	165	945	751.967	753.077	A	that 's 4 .	.
+17	166	946	754.292	757.240	A	i 'm gon na do so wait , i 'm gon na erase , that .	i
+17	166	947	754.292	757.240	A	i 'm gon na do so wait , i 'm gon na erase , that .	'm
+17	166	948	754.292	757.240	A	i 'm gon na do so wait , i 'm gon na erase , that .	gon
+17	166	949	754.292	757.240	A	i 'm gon na do so wait , i 'm gon na erase , that .	na
+17	166	950	754.292	757.240	A	i 'm gon na do so wait , i 'm gon na erase , that .	do
+17	166	951	754.292	757.240	A	i 'm gon na do so wait , i 'm gon na erase , that .	so
+17	166	952	754.292	757.240	A	i 'm gon na do so wait , i 'm gon na erase , that .	wait
+17	166	953	754.292	757.240	A	i 'm gon na do so wait , i 'm gon na erase , that .	,
+17	166	954	754.292	757.240	A	i 'm gon na do so wait , i 'm gon na erase , that .	i
+17	166	955	754.292	757.240	A	i 'm gon na do so wait , i 'm gon na erase , that .	'm
+17	166	956	754.292	757.240	A	i 'm gon na do so wait , i 'm gon na erase , that .	gon
+17	166	957	754.292	757.240	A	i 'm gon na do so wait , i 'm gon na erase , that .	na
+17	166	958	754.292	757.240	A	i 'm gon na do so wait , i 'm gon na erase , that .	erase
+17	166	959	754.292	757.240	A	i 'm gon na do so wait , i 'm gon na erase , that .	,
+17	166	960	754.292	757.240	A	i 'm gon na do so wait , i 'm gon na erase , that .	that
+17	166	961	754.292	757.240	A	i 'm gon na do so wait , i 'm gon na erase , that .	.
+17	167	962	759.928	762.603	A	have to erase it , oh you ca n't because you 've done it .	have
+17	167	963	759.928	762.603	A	have to erase it , oh you ca n't because you 've done it .	to
+17	167	964	759.928	762.603	A	have to erase it , oh you ca n't because you 've done it .	erase
+17	167	965	759.928	762.603	A	have to erase it , oh you ca n't because you 've done it .	it
+17	167	966	759.928	762.603	A	have to erase it , oh you ca n't because you 've done it .	,
+17	167	967	759.928	762.603	A	have to erase it , oh you ca n't because you 've done it .	oh
+17	167	968	759.928	762.603	A	have to erase it , oh you ca n't because you 've done it .	you
+17	167	969	759.928	762.603	A	have to erase it , oh you ca n't because you 've done it .	ca
+17	167	970	759.928	762.603	A	have to erase it , oh you ca n't because you 've done it .	n't
+17	167	971	759.928	762.603	A	have to erase it , oh you ca n't because you 've done it .	because
+17	167	972	759.928	762.603	A	have to erase it , oh you ca n't because you 've done it .	you
+17	167	973	759.928	762.603	A	have to erase it , oh you ca n't because you 've done it .	've
+17	167	974	759.928	762.603	A	have to erase it , oh you ca n't because you 've done it .	done
+17	167	975	759.928	762.603	A	have to erase it , oh you ca n't because you 've done it .	it
+17	167	976	759.928	762.603	A	have to erase it , oh you ca n't because you 've done it .	.
+17	168	977	765.539	766.739	A	uh	uh
+17	169	978	767.712	768.289	A	wait .	wait
+17	169	979	767.712	768.289	A	wait .	.
+17	170	980	768.611	771.878	B	maybe try mount montreux to mount , neuchatel ?	maybe
+17	170	981	768.611	771.878	B	maybe try mount montreux to mount , neuchatel ?	try
+17	170	982	768.611	771.878	B	maybe try mount montreux to mount , neuchatel ?	mount
+17	170	983	768.611	771.878	B	maybe try mount montreux to mount , neuchatel ?	montreux
+17	170	984	768.611	771.878	B	maybe try mount montreux to mount , neuchatel ?	to
+17	170	985	768.611	771.878	B	maybe try mount montreux to mount , neuchatel ?	mount
+17	170	986	768.611	771.878	B	maybe try mount montreux to mount , neuchatel ?	,
+17	170	987	768.611	771.878	B	maybe try mount montreux to mount , neuchatel ?	neuchatel
+17	170	988	768.611	771.878	B	maybe try mount montreux to mount , neuchatel ?	?
+17	171	989	772.156	776.387	A	wait so i 'll erase , i 'm gon na go from mount montreux to mount neuchatel how much is that ?	wait
+17	171	990	772.156	776.387	A	wait so i 'll erase , i 'm gon na go from mount montreux to mount neuchatel how much is that ?	so
+17	171	991	772.156	776.387	A	wait so i 'll erase , i 'm gon na go from mount montreux to mount neuchatel how much is that ?	i
+17	171	992	772.156	776.387	A	wait so i 'll erase , i 'm gon na go from mount montreux to mount neuchatel how much is that ?	'll
+17	171	993	772.156	776.387	A	wait so i 'll erase , i 'm gon na go from mount montreux to mount neuchatel how much is that ?	erase
+17	171	994	772.156	776.387	A	wait so i 'll erase , i 'm gon na go from mount montreux to mount neuchatel how much is that ?	,
+17	171	995	772.156	776.387	A	wait so i 'll erase , i 'm gon na go from mount montreux to mount neuchatel how much is that ?	i
+17	171	996	772.156	776.387	A	wait so i 'll erase , i 'm gon na go from mount montreux to mount neuchatel how much is that ?	'm
+17	171	997	772.156	776.387	A	wait so i 'll erase , i 'm gon na go from mount montreux to mount neuchatel how much is that ?	gon
+17	171	998	772.156	776.387	A	wait so i 'll erase , i 'm gon na go from mount montreux to mount neuchatel how much is that ?	na
+17	171	999	772.156	776.387	A	wait so i 'll erase , i 'm gon na go from mount montreux to mount neuchatel how much is that ?	go
+17	171	1000	772.156	776.387	A	wait so i 'll erase , i 'm gon na go from mount montreux to mount neuchatel how much is that ?	from
+17	171	1001	772.156	776.387	A	wait so i 'll erase , i 'm gon na go from mount montreux to mount neuchatel how much is that ?	mount
+17	171	1002	772.156	776.387	A	wait so i 'll erase , i 'm gon na go from mount montreux to mount neuchatel how much is that ?	montreux
+17	171	1003	772.156	776.387	A	wait so i 'll erase , i 'm gon na go from mount montreux to mount neuchatel how much is that ?	to
+17	171	1004	772.156	776.387	A	wait so i 'll erase , i 'm gon na go from mount montreux to mount neuchatel how much is that ?	mount
+17	171	1005	772.156	776.387	A	wait so i 'll erase , i 'm gon na go from mount montreux to mount neuchatel how much is that ?	neuchatel
+17	171	1006	772.156	776.387	A	wait so i 'll erase , i 'm gon na go from mount montreux to mount neuchatel how much is that ?	how
+17	171	1007	772.156	776.387	A	wait so i 'll erase , i 'm gon na go from mount montreux to mount neuchatel how much is that ?	much
+17	171	1008	772.156	776.387	A	wait so i 'll erase , i 'm gon na go from mount montreux to mount neuchatel how much is that ?	is
+17	171	1009	772.156	776.387	A	wait so i 'll erase , i 'm gon na go from mount montreux to mount neuchatel how much is that ?	that
+17	171	1010	772.156	776.387	A	wait so i 'll erase , i 'm gon na go from mount montreux to mount neuchatel how much is that ?	?
+17	172	1011	776.617	777.954	B	2 that 's perfect .	2
+17	172	1012	776.617	777.954	B	2 that 's perfect .	that
+17	172	1013	776.617	777.954	B	2 that 's perfect .	's
+17	172	1014	776.617	777.954	B	2 that 's perfect .	perfect
+17	172	1015	776.617	777.954	B	2 that 's perfect .	.
+17	173	1016	777.103	782.842	A	yeah that 's perfect then go from mount neuchatel to mount , interlaken .	yeah
+17	173	1017	777.103	782.842	A	yeah that 's perfect then go from mount neuchatel to mount , interlaken .	that
+17	173	1018	777.103	782.842	A	yeah that 's perfect then go from mount neuchatel to mount , interlaken .	's
+17	173	1019	777.103	782.842	A	yeah that 's perfect then go from mount neuchatel to mount , interlaken .	perfect
+17	173	1020	777.103	782.842	A	yeah that 's perfect then go from mount neuchatel to mount , interlaken .	then
+17	173	1021	777.103	782.842	A	yeah that 's perfect then go from mount neuchatel to mount , interlaken .	go
+17	173	1022	777.103	782.842	A	yeah that 's perfect then go from mount neuchatel to mount , interlaken .	from
+17	173	1023	777.103	782.842	A	yeah that 's perfect then go from mount neuchatel to mount , interlaken .	mount
+17	173	1024	777.103	782.842	A	yeah that 's perfect then go from mount neuchatel to mount , interlaken .	neuchatel
+17	173	1025	777.103	782.842	A	yeah that 's perfect then go from mount neuchatel to mount , interlaken .	to
+17	173	1026	777.103	782.842	A	yeah that 's perfect then go from mount neuchatel to mount , interlaken .	mount
+17	173	1027	777.103	782.842	A	yeah that 's perfect then go from mount neuchatel to mount , interlaken .	,
+17	173	1028	777.103	782.842	A	yeah that 's perfect then go from mount neuchatel to mount , interlaken .	interlaken
+17	173	1029	777.103	782.842	A	yeah that 's perfect then go from mount neuchatel to mount , interlaken .	.
+17	174	1030	784.926	785.746	A	and then	and
+17	174	1031	784.926	785.746	A	and then	then
+17	175	1032	786.339	787.296	A	i think go	i
+17	175	1033	786.339	787.296	A	i think go	think
+17	175	1034	786.339	787.296	A	i think go	go
+17	176	1035	787.903	792.295	A	from mount interlaken to mount basel , it 's better .	from
+17	176	1036	787.903	792.295	A	from mount interlaken to mount basel , it 's better .	mount
+17	176	1037	787.903	792.295	A	from mount interlaken to mount basel , it 's better .	interlaken
+17	176	1038	787.903	792.295	A	from mount interlaken to mount basel , it 's better .	to
+17	176	1039	787.903	792.295	A	from mount interlaken to mount basel , it 's better .	mount
+17	176	1040	787.903	792.295	A	from mount interlaken to mount basel , it 's better .	basel
+17	176	1041	787.903	792.295	A	from mount interlaken to mount basel , it 's better .	,
+17	176	1042	787.903	792.295	A	from mount interlaken to mount basel , it 's better .	it
+17	176	1043	787.903	792.295	A	from mount interlaken to mount basel , it 's better .	's
+17	176	1044	787.903	792.295	A	from mount interlaken to mount basel , it 's better .	better
+17	176	1045	787.903	792.295	A	from mount interlaken to mount basel , it 's better .	.
+17	177	1046	793.832	795.139	B	you ca n't do that .	you
+17	177	1047	793.832	795.139	B	you ca n't do that .	ca
+17	177	1048	793.832	795.139	B	you ca n't do that .	n't
+17	177	1049	793.832	795.139	B	you ca n't do that .	do
+17	177	1050	793.832	795.139	B	you ca n't do that .	that
+17	177	1051	793.832	795.139	B	you ca n't do that .	.
+17	178	1052	795.109	796.446	A	you ca n't ?	you
+17	178	1053	795.109	796.446	A	you ca n't ?	ca
+17	178	1054	795.109	796.446	A	you ca n't ?	n't
+17	178	1055	795.109	796.446	A	you ca n't ?	?
+17	179	1056	796.157	796.765	B	yeah .	yeah
+17	179	1057	796.157	796.765	B	yeah .	.
+17	180	1058	797.282	799.029	A	then i think we should submit .	then
+17	180	1059	797.282	799.029	A	then i think we should submit .	i
+17	180	1060	797.282	799.029	A	then i think we should submit .	think
+17	180	1061	797.282	799.029	A	then i think we should submit .	we
+17	180	1062	797.282	799.029	A	then i think we should submit .	should
+17	180	1063	797.282	799.029	A	then i think we should submit .	submit
+17	180	1064	797.282	799.029	A	then i think we should submit .	.
+17	181	1065	799.986	800.518	A	yeah ?	yeah
+17	181	1066	799.986	800.518	A	yeah ?	?
+17	182	1067	800.685	801.217	B	yeah .	yeah
+17	182	1068	800.685	801.217	B	yeah .	.
+17	183	1069	805.792	806.840	B	what .	what
+17	183	1070	805.792	806.840	B	what .	.
+17	184	1071	805.792	807.631	A	oh what oh .	oh
+17	184	1072	805.792	807.631	A	oh what oh .	what
+17	184	1073	805.792	807.631	A	oh what oh .	oh
+17	184	1074	805.792	807.631	A	oh what oh .	.
+17	185	1075	808.314	809.986	A	oh i 've got 1 franc okay .	oh
+17	185	1076	808.314	809.986	A	oh i 've got 1 franc okay .	i
+17	185	1077	808.314	809.986	A	oh i 've got 1 franc okay .	've
+17	185	1078	808.314	809.986	A	oh i 've got 1 franc okay .	got
+17	185	1079	808.314	809.986	A	oh i 've got 1 franc okay .	1
+17	185	1080	808.314	809.986	A	oh i 've got 1 franc okay .	franc
+17	185	1081	808.314	809.986	A	oh i 've got 1 franc okay .	okay
+17	185	1082	808.314	809.986	A	oh i 've got 1 franc okay .	.
+17	186	1083	820.739	825.541	A	uh um maybe go from mount zermatt to mount zurich .	uh
+17	186	1084	820.739	825.541	A	uh um maybe go from mount zermatt to mount zurich .	um
+17	186	1085	820.739	825.541	A	uh um maybe go from mount zermatt to mount zurich .	maybe
+17	186	1086	820.739	825.541	A	uh um maybe go from mount zermatt to mount zurich .	go
+17	186	1087	820.739	825.541	A	uh um maybe go from mount zermatt to mount zurich .	from
+17	186	1088	820.739	825.541	A	uh um maybe go from mount zermatt to mount zurich .	mount
+17	186	1089	820.739	825.541	A	uh um maybe go from mount zermatt to mount zurich .	zermatt
+17	186	1090	820.739	825.541	A	uh um maybe go from mount zermatt to mount zurich .	to
+17	186	1091	820.739	825.541	A	uh um maybe go from mount zermatt to mount zurich .	mount
+17	186	1092	820.739	825.541	A	uh um maybe go from mount zermatt to mount zurich .	zurich
+17	186	1093	820.739	825.541	A	uh um maybe go from mount zermatt to mount zurich .	.
+17	187	1094	825.541	828.507	A	oh no maybe go from mount zermatt to mount luzern .	oh
+17	187	1095	825.541	828.507	A	oh no maybe go from mount zermatt to mount luzern .	no
+17	187	1096	825.541	828.507	A	oh no maybe go from mount zermatt to mount luzern .	maybe
+17	187	1097	825.541	828.507	A	oh no maybe go from mount zermatt to mount luzern .	go
+17	187	1098	825.541	828.507	A	oh no maybe go from mount zermatt to mount luzern .	from
+17	187	1099	825.541	828.507	A	oh no maybe go from mount zermatt to mount luzern .	mount
+17	187	1100	825.541	828.507	A	oh no maybe go from mount zermatt to mount luzern .	zermatt
+17	187	1101	825.541	828.507	A	oh no maybe go from mount zermatt to mount luzern .	to
+17	187	1102	825.541	828.507	A	oh no maybe go from mount zermatt to mount luzern .	mount
+17	187	1103	825.541	828.507	A	oh no maybe go from mount zermatt to mount luzern .	luzern
+17	187	1104	825.541	828.507	A	oh no maybe go from mount zermatt to mount luzern .	.
+17	188	1105	828.656	829.507	B	okay .	okay
+17	188	1106	828.656	829.507	B	okay .	.
+17	189	1107	830.024	830.920	B	how much is that ?	how
+17	189	1108	830.024	830.920	B	how much is that ?	much
+17	189	1109	830.024	830.920	B	how much is that ?	is
+17	189	1110	830.024	830.920	B	how much is that ?	that
+17	189	1111	830.024	830.920	B	how much is that ?	?
+17	190	1112	830.966	832.424	A	3 franc .	3
+17	190	1113	830.966	832.424	A	3 franc .	franc
+17	190	1114	830.966	832.424	A	3 franc .	.
+17	191	1115	833.071	835.564	A	maybe that 's too expensive .	maybe
+17	191	1116	833.071	835.564	A	maybe that 's too expensive .	that
+17	191	1117	833.071	835.564	A	maybe that 's too expensive .	's
+17	191	1118	833.071	835.564	A	maybe that 's too expensive .	too
+17	191	1119	833.071	835.564	A	maybe that 's too expensive .	expensive
+17	191	1120	833.071	835.564	A	maybe that 's too expensive .	.
+17	192	1121	835.785	837.563	B	yeah maybe i 'll erase it .	yeah
+17	192	1122	835.785	837.563	B	yeah maybe i 'll erase it .	maybe
+17	192	1123	835.785	837.563	B	yeah maybe i 'll erase it .	i
+17	192	1124	835.785	837.563	B	yeah maybe i 'll erase it .	'll
+17	192	1125	835.785	837.563	B	yeah maybe i 'll erase it .	erase
+17	192	1126	835.785	837.563	B	yeah maybe i 'll erase it .	it
+17	192	1127	835.785	837.563	B	yeah maybe i 'll erase it .	.
+17	193	1128	837.381	840.743	A	yeah , then try mount zermatt to mount	yeah
+17	193	1129	837.381	840.743	A	yeah , then try mount zermatt to mount	,
+17	193	1130	837.381	840.743	A	yeah , then try mount zermatt to mount	then
+17	193	1131	837.381	840.743	A	yeah , then try mount zermatt to mount	try
+17	193	1132	837.381	840.743	A	yeah , then try mount zermatt to mount	mount
+17	193	1133	837.381	840.743	A	yeah , then try mount zermatt to mount	zermatt
+17	193	1134	837.381	840.743	A	yeah , then try mount zermatt to mount	to
+17	193	1135	837.381	840.743	A	yeah , then try mount zermatt to mount	mount
+17	194	1136	840.393	841.457	B	it 's your turn .	it
+17	194	1137	840.393	841.457	B	it 's your turn .	's
+17	194	1138	840.393	841.457	B	it 's your turn .	your
+17	194	1139	840.393	841.457	B	it 's your turn .	turn
+17	194	1140	840.393	841.457	B	it 's your turn .	.
+17	195	1141	841.594	844.754	A	okay i 'll just see for mount zermatt to mount davos .	okay
+17	195	1142	841.594	844.754	A	okay i 'll just see for mount zermatt to mount davos .	i
+17	195	1143	841.594	844.754	A	okay i 'll just see for mount zermatt to mount davos .	'll
+17	195	1144	841.594	844.754	A	okay i 'll just see for mount zermatt to mount davos .	just
+17	195	1145	841.594	844.754	A	okay i 'll just see for mount zermatt to mount davos .	see
+17	195	1146	841.594	844.754	A	okay i 'll just see for mount zermatt to mount davos .	for
+17	195	1147	841.594	844.754	A	okay i 'll just see for mount zermatt to mount davos .	mount
+17	195	1148	841.594	844.754	A	okay i 'll just see for mount zermatt to mount davos .	zermatt
+17	195	1149	841.594	844.754	A	okay i 'll just see for mount zermatt to mount davos .	to
+17	195	1150	841.594	844.754	A	okay i 'll just see for mount zermatt to mount davos .	mount
+17	195	1151	841.594	844.754	A	okay i 'll just see for mount zermatt to mount davos .	davos
+17	195	1152	841.594	844.754	A	okay i 'll just see for mount zermatt to mount davos .	.
+17	196	1153	845.153	846.034	B	okay .	okay
+17	196	1154	845.153	846.034	B	okay .	.
+17	197	1155	846.672	848.313	A	how much is that bob ?	how
+17	197	1156	846.672	848.313	A	how much is that bob ?	much
+17	197	1157	846.672	848.313	A	how much is that bob ?	is
+17	197	1158	846.672	848.313	A	how much is that bob ?	that
+17	197	1159	846.672	848.313	A	how much is that bob ?	bob
+17	197	1160	846.672	848.313	A	how much is that bob ?	?
+17	198	1161	847.873	849.256	B	that 's 3 .	that
+17	198	1162	847.873	849.256	B	that 's 3 .	's
+17	198	1163	847.873	849.256	B	that 's 3 .	3
+17	198	1164	847.873	849.256	B	that 's 3 .	.
+17	199	1165	850.637	851.792	A	you can go for 3 .	you
+17	199	1166	850.637	851.792	A	you can go for 3 .	can
+17	199	1167	850.637	851.792	A	you can go for 3 .	go
+17	199	1168	850.637	851.792	A	you can go for 3 .	for
+17	199	1169	850.637	851.792	A	you can go for 3 .	3
+17	199	1170	850.637	851.792	A	you can go for 3 .	.
+17	200	1171	852.020	853.779	A	oh though last time it was 2 .	oh
+17	200	1172	852.020	853.779	A	oh though last time it was 2 .	though
+17	200	1173	852.020	853.779	A	oh though last time it was 2 .	last
+17	200	1174	852.020	853.779	A	oh though last time it was 2 .	time
+17	200	1175	852.020	853.779	A	oh though last time it was 2 .	it
+17	200	1176	852.020	853.779	A	oh though last time it was 2 .	was
+17	200	1177	852.020	853.779	A	oh though last time it was 2 .	2
+17	200	1178	852.020	853.779	A	oh though last time it was 2 .	.
+17	201	1179	855.700	858.010	A	yeah , do you wannna do 3 or , 2 ?	yeah
+17	201	1180	855.700	858.010	A	yeah , do you wannna do 3 or , 2 ?	,
+17	201	1181	855.700	858.010	A	yeah , do you wannna do 3 or , 2 ?	do
+17	201	1182	855.700	858.010	A	yeah , do you wannna do 3 or , 2 ?	you
+17	201	1183	855.700	858.010	A	yeah , do you wannna do 3 or , 2 ?	wannna
+17	201	1184	855.700	858.010	A	yeah , do you wannna do 3 or , 2 ?	do
+17	201	1185	855.700	858.010	A	yeah , do you wannna do 3 or , 2 ?	3
+17	201	1186	855.700	858.010	A	yeah , do you wannna do 3 or , 2 ?	or
+17	201	1187	855.700	858.010	A	yeah , do you wannna do 3 or , 2 ?	,
+17	201	1188	855.700	858.010	A	yeah , do you wannna do 3 or , 2 ?	2
+17	201	1189	855.700	858.010	A	yeah , do you wannna do 3 or , 2 ?	?
+17	202	1190	858.662	862.127	B	i do n't know , try , mount davos to mount zermatt .	i
+17	202	1191	858.662	862.127	B	i do n't know , try , mount davos to mount zermatt .	do
+17	202	1192	858.662	862.127	B	i do n't know , try , mount davos to mount zermatt .	n't
+17	202	1193	858.662	862.127	B	i do n't know , try , mount davos to mount zermatt .	know
+17	202	1194	858.662	862.127	B	i do n't know , try , mount davos to mount zermatt .	,
+17	202	1195	858.662	862.127	B	i do n't know , try , mount davos to mount zermatt .	try
+17	202	1196	858.662	862.127	B	i do n't know , try , mount davos to mount zermatt .	,
+17	202	1197	858.662	862.127	B	i do n't know , try , mount davos to mount zermatt .	mount
+17	202	1198	858.662	862.127	B	i do n't know , try , mount davos to mount zermatt .	davos
+17	202	1199	858.662	862.127	B	i do n't know , try , mount davos to mount zermatt .	to
+17	202	1200	858.662	862.127	B	i do n't know , try , mount davos to mount zermatt .	mount
+17	202	1201	858.662	862.127	B	i do n't know , try , mount davos to mount zermatt .	zermatt
+17	202	1202	858.662	862.127	B	i do n't know , try , mount davos to mount zermatt .	.
+17	203	1203	865.013	865.651	A	mount	mount
+17	204	1204	867.604	869.716	A	oh yeah oh , wait .	oh
+17	204	1205	867.604	869.716	A	oh yeah oh , wait .	yeah
+17	204	1206	867.604	869.716	A	oh yeah oh , wait .	oh
+17	204	1207	867.604	869.716	A	oh yeah oh , wait .	,
+17	204	1208	867.604	869.716	A	oh yeah oh , wait .	wait
+17	204	1209	867.604	869.716	A	oh yeah oh , wait .	.
+17	205	1210	870.050	873.029	A	bob so you wanna do mount zermatt to mount davos ?	bob
+17	205	1211	870.050	873.029	A	bob so you wanna do mount zermatt to mount davos ?	so
+17	205	1212	870.050	873.029	A	bob so you wanna do mount zermatt to mount davos ?	you
+17	205	1213	870.050	873.029	A	bob so you wanna do mount zermatt to mount davos ?	wanna
+17	205	1214	870.050	873.029	A	bob so you wanna do mount zermatt to mount davos ?	do
+17	205	1215	870.050	873.029	A	bob so you wanna do mount zermatt to mount davos ?	mount
+17	205	1216	870.050	873.029	A	bob so you wanna do mount zermatt to mount davos ?	zermatt
+17	205	1217	870.050	873.029	A	bob so you wanna do mount zermatt to mount davos ?	to
+17	205	1218	870.050	873.029	A	bob so you wanna do mount zermatt to mount davos ?	mount
+17	205	1219	870.050	873.029	A	bob so you wanna do mount zermatt to mount davos ?	davos
+17	205	1220	870.050	873.029	A	bob so you wanna do mount zermatt to mount davos ?	?
+17	206	1221	873.863	874.562	B	yeah .	yeah
+17	206	1222	873.863	874.562	B	yeah .	.
+17	207	1223	874.896	877.555	B	no mount luzern to mount davos .	no
+17	207	1224	874.896	877.555	B	no mount luzern to mount davos .	mount
+17	207	1225	874.896	877.555	B	no mount luzern to mount davos .	luzern
+17	207	1226	874.896	877.555	B	no mount luzern to mount davos .	to
+17	207	1227	874.896	877.555	B	no mount luzern to mount davos .	mount
+17	207	1228	874.896	877.555	B	no mount luzern to mount davos .	davos
+17	207	1229	874.896	877.555	B	no mount luzern to mount davos .	.
+17	208	1230	878.122	883.384	A	mount , okay , so i 'm gon na erase mount zermatt , wait i 'm gon na have a look at our previous solutions .	mount
+17	208	1231	878.122	883.384	A	mount , okay , so i 'm gon na erase mount zermatt , wait i 'm gon na have a look at our previous solutions .	,
+17	208	1232	878.122	883.384	A	mount , okay , so i 'm gon na erase mount zermatt , wait i 'm gon na have a look at our previous solutions .	okay
+17	208	1233	878.122	883.384	A	mount , okay , so i 'm gon na erase mount zermatt , wait i 'm gon na have a look at our previous solutions .	,
+17	208	1234	878.122	883.384	A	mount , okay , so i 'm gon na erase mount zermatt , wait i 'm gon na have a look at our previous solutions .	so
+17	208	1235	878.122	883.384	A	mount , okay , so i 'm gon na erase mount zermatt , wait i 'm gon na have a look at our previous solutions .	i
+17	208	1236	878.122	883.384	A	mount , okay , so i 'm gon na erase mount zermatt , wait i 'm gon na have a look at our previous solutions .	'm
+17	208	1237	878.122	883.384	A	mount , okay , so i 'm gon na erase mount zermatt , wait i 'm gon na have a look at our previous solutions .	gon
+17	208	1238	878.122	883.384	A	mount , okay , so i 'm gon na erase mount zermatt , wait i 'm gon na have a look at our previous solutions .	na
+17	208	1239	878.122	883.384	A	mount , okay , so i 'm gon na erase mount zermatt , wait i 'm gon na have a look at our previous solutions .	erase
+17	208	1240	878.122	883.384	A	mount , okay , so i 'm gon na erase mount zermatt , wait i 'm gon na have a look at our previous solutions .	mount
+17	208	1241	878.122	883.384	A	mount , okay , so i 'm gon na erase mount zermatt , wait i 'm gon na have a look at our previous solutions .	zermatt
+17	208	1242	878.122	883.384	A	mount , okay , so i 'm gon na erase mount zermatt , wait i 'm gon na have a look at our previous solutions .	,
+17	208	1243	878.122	883.384	A	mount , okay , so i 'm gon na erase mount zermatt , wait i 'm gon na have a look at our previous solutions .	wait
+17	208	1244	878.122	883.384	A	mount , okay , so i 'm gon na erase mount zermatt , wait i 'm gon na have a look at our previous solutions .	i
+17	208	1245	878.122	883.384	A	mount , okay , so i 'm gon na erase mount zermatt , wait i 'm gon na have a look at our previous solutions .	'm
+17	208	1246	878.122	883.384	A	mount , okay , so i 'm gon na erase mount zermatt , wait i 'm gon na have a look at our previous solutions .	gon
+17	208	1247	878.122	883.384	A	mount , okay , so i 'm gon na erase mount zermatt , wait i 'm gon na have a look at our previous solutions .	na
+17	208	1248	878.122	883.384	A	mount , okay , so i 'm gon na erase mount zermatt , wait i 'm gon na have a look at our previous solutions .	have
+17	208	1249	878.122	883.384	A	mount , okay , so i 'm gon na erase mount zermatt , wait i 'm gon na have a look at our previous solutions .	a
+17	208	1250	878.122	883.384	A	mount , okay , so i 'm gon na erase mount zermatt , wait i 'm gon na have a look at our previous solutions .	look
+17	208	1251	878.122	883.384	A	mount , okay , so i 'm gon na erase mount zermatt , wait i 'm gon na have a look at our previous solutions .	at
+17	208	1252	878.122	883.384	A	mount , okay , so i 'm gon na erase mount zermatt , wait i 'm gon na have a look at our previous solutions .	our
+17	208	1253	878.122	883.384	A	mount , okay , so i 'm gon na erase mount zermatt , wait i 'm gon na have a look at our previous solutions .	previous
+17	208	1254	878.122	883.384	A	mount , okay , so i 'm gon na erase mount zermatt , wait i 'm gon na have a look at our previous solutions .	solutions
+17	208	1255	878.122	883.384	A	mount , okay , so i 'm gon na erase mount zermatt , wait i 'm gon na have a look at our previous solutions .	.
+17	209	1256	886.183	887.474	A	last time we did	last
+17	209	1257	886.183	887.474	A	last time we did	time
+17	209	1258	886.183	887.474	A	last time we did	we
+17	209	1259	886.183	887.474	A	last time we did	did
+17	210	1260	887.976	889.206	A	mount zermatt	mount
+17	210	1261	887.976	889.206	A	mount zermatt	zermatt
+17	211	1262	889.890	891.712	A	we need to find as a way to do	we
+17	211	1263	889.890	891.712	A	we need to find as a way to do	need
+17	211	1264	889.890	891.712	A	we need to find as a way to do	to
+17	211	1265	889.890	891.712	A	we need to find as a way to do	find
+17	211	1266	889.890	891.712	A	we need to find as a way to do	as
+17	211	1267	889.890	891.712	A	we need to find as a way to do	a
+17	211	1268	889.890	891.712	A	we need to find as a way to do	way
+17	211	1269	889.890	891.712	A	we need to find as a way to do	to
+17	211	1270	889.890	891.712	A	we need to find as a way to do	do
+17	212	1271	891.971	895.678	A	mount zermatt to mount davos or mount davos .	mount
+17	212	1272	891.971	895.678	A	mount zermatt to mount davos or mount davos .	zermatt
+17	212	1273	891.971	895.678	A	mount zermatt to mount davos or mount davos .	to
+17	212	1274	891.971	895.678	A	mount zermatt to mount davos or mount davos .	mount
+17	212	1275	891.971	895.678	A	mount zermatt to mount davos or mount davos .	davos
+17	212	1276	891.971	895.678	A	mount zermatt to mount davos or mount davos .	or
+17	212	1277	891.971	895.678	A	mount zermatt to mount davos or mount davos .	mount
+17	212	1278	891.971	895.678	A	mount zermatt to mount davos or mount davos .	davos
+17	212	1279	891.971	895.678	A	mount zermatt to mount davos or mount davos .	.
+17	213	1280	895.864	899.100	A	why do n't you do , this , why do n't you do mount gallen	why
+17	213	1281	895.864	899.100	A	why do n't you do , this , why do n't you do mount gallen	do
+17	213	1282	895.864	899.100	A	why do n't you do , this , why do n't you do mount gallen	n't
+17	213	1283	895.864	899.100	A	why do n't you do , this , why do n't you do mount gallen	you
+17	213	1284	895.864	899.100	A	why do n't you do , this , why do n't you do mount gallen	do
+17	213	1285	895.864	899.100	A	why do n't you do , this , why do n't you do mount gallen	,
+17	213	1286	895.864	899.100	A	why do n't you do , this , why do n't you do mount gallen	this
+17	213	1287	895.864	899.100	A	why do n't you do , this , why do n't you do mount gallen	,
+17	213	1288	895.864	899.100	A	why do n't you do , this , why do n't you do mount gallen	why
+17	213	1289	895.864	899.100	A	why do n't you do , this , why do n't you do mount gallen	do
+17	213	1290	895.864	899.100	A	why do n't you do , this , why do n't you do mount gallen	n't
+17	213	1291	895.864	899.100	A	why do n't you do , this , why do n't you do mount gallen	you
+17	213	1292	895.864	899.100	A	why do n't you do , this , why do n't you do mount gallen	do
+17	213	1293	895.864	899.100	A	why do n't you do , this , why do n't you do mount gallen	mount
+17	213	1294	895.864	899.100	A	why do n't you do , this , why do n't you do mount gallen	gallen
+17	214	1295	900.149	901.729	A	to mount davos .	to
+17	214	1296	900.149	901.729	A	to mount davos .	mount
+17	214	1297	900.149	901.729	A	to mount davos .	davos
+17	214	1298	900.149	901.729	A	to mount davos .	.
+17	215	1299	903.318	909.233	A	mount saint gallen , yeah , and then to mount davos , to mount luzern , see how much that is .	mount
+17	215	1300	903.318	909.233	A	mount saint gallen , yeah , and then to mount davos , to mount luzern , see how much that is .	saint
+17	215	1301	903.318	909.233	A	mount saint gallen , yeah , and then to mount davos , to mount luzern , see how much that is .	gallen
+17	215	1302	903.318	909.233	A	mount saint gallen , yeah , and then to mount davos , to mount luzern , see how much that is .	,
+17	215	1303	903.318	909.233	A	mount saint gallen , yeah , and then to mount davos , to mount luzern , see how much that is .	yeah
+17	215	1304	903.318	909.233	A	mount saint gallen , yeah , and then to mount davos , to mount luzern , see how much that is .	,
+17	215	1305	903.318	909.233	A	mount saint gallen , yeah , and then to mount davos , to mount luzern , see how much that is .	and
+17	215	1306	903.318	909.233	A	mount saint gallen , yeah , and then to mount davos , to mount luzern , see how much that is .	then
+17	215	1307	903.318	909.233	A	mount saint gallen , yeah , and then to mount davos , to mount luzern , see how much that is .	to
+17	215	1308	903.318	909.233	A	mount saint gallen , yeah , and then to mount davos , to mount luzern , see how much that is .	mount
+17	215	1309	903.318	909.233	A	mount saint gallen , yeah , and then to mount davos , to mount luzern , see how much that is .	davos
+17	215	1310	903.318	909.233	A	mount saint gallen , yeah , and then to mount davos , to mount luzern , see how much that is .	,
+17	215	1311	903.318	909.233	A	mount saint gallen , yeah , and then to mount davos , to mount luzern , see how much that is .	to
+17	215	1312	903.318	909.233	A	mount saint gallen , yeah , and then to mount davos , to mount luzern , see how much that is .	mount
+17	215	1313	903.318	909.233	A	mount saint gallen , yeah , and then to mount davos , to mount luzern , see how much that is .	luzern
+17	215	1314	903.318	909.233	A	mount saint gallen , yeah , and then to mount davos , to mount luzern , see how much that is .	,
+17	215	1315	903.318	909.233	A	mount saint gallen , yeah , and then to mount davos , to mount luzern , see how much that is .	see
+17	215	1316	903.318	909.233	A	mount saint gallen , yeah , and then to mount davos , to mount luzern , see how much that is .	how
+17	215	1317	903.318	909.233	A	mount saint gallen , yeah , and then to mount davos , to mount luzern , see how much that is .	much
+17	215	1318	903.318	909.233	A	mount saint gallen , yeah , and then to mount davos , to mount luzern , see how much that is .	that
+17	215	1319	903.318	909.233	A	mount saint gallen , yeah , and then to mount davos , to mount luzern , see how much that is .	is
+17	215	1320	903.318	909.233	A	mount saint gallen , yeah , and then to mount davos , to mount luzern , see how much that is .	.
+17	216	1321	911.865	912.792	A	that 's 3 .	that
+17	216	1322	911.865	912.792	A	that 's 3 .	's
+17	216	1323	911.865	912.792	A	that 's 3 .	3
+17	216	1324	911.865	912.792	A	that 's 3 .	.
+17	217	1325	913.719	916.150	A	how much is mount luzern to mount zermatt ?	how
+17	217	1326	913.719	916.150	A	how much is mount luzern to mount zermatt ?	much
+17	217	1327	913.719	916.150	A	how much is mount luzern to mount zermatt ?	is
+17	217	1328	913.719	916.150	A	how much is mount luzern to mount zermatt ?	mount
+17	217	1329	913.719	916.150	A	how much is mount luzern to mount zermatt ?	luzern
+17	217	1330	913.719	916.150	A	how much is mount luzern to mount zermatt ?	to
+17	217	1331	913.719	916.150	A	how much is mount luzern to mount zermatt ?	mount
+17	217	1332	913.719	916.150	A	how much is mount luzern to mount zermatt ?	zermatt
+17	217	1333	913.719	916.150	A	how much is mount luzern to mount zermatt ?	?
+17	218	1334	916.555	917.725	B	okay .	okay
+17	218	1335	916.555	917.725	B	okay .	.
+17	219	1336	917.774	919.932	A	how much is that , which i just put ?	how
+17	219	1337	917.774	919.932	A	how much is that , which i just put ?	much
+17	219	1338	917.774	919.932	A	how much is that , which i just put ?	is
+17	219	1339	917.774	919.932	A	how much is that , which i just put ?	that
+17	219	1340	917.774	919.932	A	how much is that , which i just put ?	,
+17	219	1341	917.774	919.932	A	how much is that , which i just put ?	which
+17	219	1342	917.774	919.932	A	how much is that , which i just put ?	i
+17	219	1343	917.774	919.932	A	how much is that , which i just put ?	just
+17	219	1344	917.774	919.932	A	how much is that , which i just put ?	put
+17	219	1345	917.774	919.932	A	how much is that , which i just put ?	?
+17	220	1346	919.638	920.853	B	that 's 3 .	that
+17	220	1347	919.638	920.853	B	that 's 3 .	's
+17	220	1348	919.638	920.853	B	that 's 3 .	3
+17	220	1349	919.638	920.853	B	that 's 3 .	.
+17	221	1350	922.206	923.893	A	yeah then i 'll not gon na do that .	yeah
+17	221	1351	922.206	923.893	A	yeah then i 'll not gon na do that .	then
+17	221	1352	922.206	923.893	A	yeah then i 'll not gon na do that .	i
+17	221	1353	922.206	923.893	A	yeah then i 'll not gon na do that .	'll
+17	221	1354	922.206	923.893	A	yeah then i 'll not gon na do that .	not
+17	221	1355	922.206	923.893	A	yeah then i 'll not gon na do that .	gon
+17	221	1356	922.206	923.893	A	yeah then i 'll not gon na do that .	na
+17	221	1357	922.206	923.893	A	yeah then i 'll not gon na do that .	do
+17	221	1358	922.206	923.893	A	yeah then i 'll not gon na do that .	that
+17	221	1359	922.206	923.893	A	yeah then i 'll not gon na do that .	.
+17	222	1360	924.646	927.275	A	uh how do we get to mount zermatt uh .	uh
+17	222	1361	924.646	927.275	A	uh how do we get to mount zermatt uh .	how
+17	222	1362	924.646	927.275	A	uh how do we get to mount zermatt uh .	do
+17	222	1363	924.646	927.275	A	uh how do we get to mount zermatt uh .	we
+17	222	1364	924.646	927.275	A	uh how do we get to mount zermatt uh .	get
+17	222	1365	924.646	927.275	A	uh how do we get to mount zermatt uh .	to
+17	222	1366	924.646	927.275	A	uh how do we get to mount zermatt uh .	mount
+17	222	1367	924.646	927.275	A	uh how do we get to mount zermatt uh .	zermatt
+17	222	1368	924.646	927.275	A	uh how do we get to mount zermatt uh .	uh
+17	222	1369	924.646	927.275	A	uh how do we get to mount zermatt uh .	.
+17	223	1370	931.644	933.695	A	oh you know what that 's 3 3 6 .	oh
+17	223	1371	931.644	933.695	A	oh you know what that 's 3 3 6 .	you
+17	223	1372	931.644	933.695	A	oh you know what that 's 3 3 6 .	know
+17	223	1373	931.644	933.695	A	oh you know what that 's 3 3 6 .	what
+17	223	1374	931.644	933.695	A	oh you know what that 's 3 3 6 .	that
+17	223	1375	931.644	933.695	A	oh you know what that 's 3 3 6 .	's
+17	223	1376	931.644	933.695	A	oh you know what that 's 3 3 6 .	3
+17	223	1377	931.644	933.695	A	oh you know what that 's 3 3 6 .	3
+17	223	1378	931.644	933.695	A	oh you know what that 's 3 3 6 .	6
+17	223	1379	931.644	933.695	A	oh you know what that 's 3 3 6 .	.
+17	224	1380	934.419	935.027	A	7 8 .	7
+17	224	1381	934.419	935.027	A	7 8 .	8
+17	224	1382	934.419	935.027	A	7 8 .	.
+17	225	1383	935.361	936.744	A	8 that 's 8 .	8
+17	225	1384	935.361	936.744	A	8 that 's 8 .	that
+17	225	1385	935.361	936.744	A	8 that 's 8 .	's
+17	225	1386	935.361	936.744	A	8 that 's 8 .	8
+17	225	1387	935.361	936.744	A	8 that 's 8 .	.
+17	226	1388	939.087	943.139	A	i 'll go to mount luzern to mount zurich how much is that , that 's 2 .	i
+17	226	1389	939.087	943.139	A	i 'll go to mount luzern to mount zurich how much is that , that 's 2 .	'll
+17	226	1390	939.087	943.139	A	i 'll go to mount luzern to mount zurich how much is that , that 's 2 .	go
+17	226	1391	939.087	943.139	A	i 'll go to mount luzern to mount zurich how much is that , that 's 2 .	to
+17	226	1392	939.087	943.139	A	i 'll go to mount luzern to mount zurich how much is that , that 's 2 .	mount
+17	226	1393	939.087	943.139	A	i 'll go to mount luzern to mount zurich how much is that , that 's 2 .	luzern
+17	226	1394	939.087	943.139	A	i 'll go to mount luzern to mount zurich how much is that , that 's 2 .	to
+17	226	1395	939.087	943.139	A	i 'll go to mount luzern to mount zurich how much is that , that 's 2 .	mount
+17	226	1396	939.087	943.139	A	i 'll go to mount luzern to mount zurich how much is that , that 's 2 .	zurich
+17	226	1397	939.087	943.139	A	i 'll go to mount luzern to mount zurich how much is that , that 's 2 .	how
+17	226	1398	939.087	943.139	A	i 'll go to mount luzern to mount zurich how much is that , that 's 2 .	much
+17	226	1399	939.087	943.139	A	i 'll go to mount luzern to mount zurich how much is that , that 's 2 .	is
+17	226	1400	939.087	943.139	A	i 'll go to mount luzern to mount zurich how much is that , that 's 2 .	that
+17	226	1401	939.087	943.139	A	i 'll go to mount luzern to mount zurich how much is that , that 's 2 .	,
+17	226	1402	939.087	943.139	A	i 'll go to mount luzern to mount zurich how much is that , that 's 2 .	that
+17	226	1403	939.087	943.139	A	i 'll go to mount luzern to mount zurich how much is that , that 's 2 .	's
+17	226	1404	939.087	943.139	A	i 'll go to mount luzern to mount zurich how much is that , that 's 2 .	2
+17	226	1405	939.087	943.139	A	i 'll go to mount luzern to mount zurich how much is that , that 's 2 .	.
+17	227	1406	942.257	943.609	B	that 's 2 .	that
+17	227	1407	942.257	943.609	B	that 's 2 .	's
+17	227	1408	942.257	943.609	B	that 's 2 .	2
+17	227	1409	942.257	943.609	B	that 's 2 .	.
+17	228	1410	943.944	945.022	A	is that okay ?	is
+17	228	1411	943.944	945.022	A	is that okay ?	that
+17	228	1412	943.944	945.022	A	is that okay ?	okay
+17	228	1413	943.944	945.022	A	is that okay ?	?
+17	229	1414	944.840	945.615	B	yeah .	yeah
+17	229	1415	944.840	945.615	B	yeah .	.
+17	230	1416	945.615	946.540	A	it 's better .	it
+17	230	1417	945.615	946.540	A	it 's better .	's
+17	230	1418	945.615	946.540	A	it 's better .	better
+17	230	1419	945.615	946.540	A	it 's better .	.
+17	231	1420	947.452	948.227	A	because we did	because
+17	231	1421	947.452	948.227	A	because we did	we
+17	231	1422	947.452	948.227	A	because we did	did
+17	232	1423	947.695	950.947	B	i 'll i 'll do from mount zurich to mount bern .	i
+17	232	1424	947.695	950.947	B	i 'll i 'll do from mount zurich to mount bern .	'll
+17	232	1425	947.695	950.947	B	i 'll i 'll do from mount zurich to mount bern .	i
+17	232	1426	947.695	950.947	B	i 'll i 'll do from mount zurich to mount bern .	'll
+17	232	1427	947.695	950.947	B	i 'll i 'll do from mount zurich to mount bern .	do
+17	232	1428	947.695	950.947	B	i 'll i 'll do from mount zurich to mount bern .	from
+17	232	1429	947.695	950.947	B	i 'll i 'll do from mount zurich to mount bern .	mount
+17	232	1430	947.695	950.947	B	i 'll i 'll do from mount zurich to mount bern .	zurich
+17	232	1431	947.695	950.947	B	i 'll i 'll do from mount zurich to mount bern .	to
+17	232	1432	947.695	950.947	B	i 'll i 'll do from mount zurich to mount bern .	mount
+17	232	1433	947.695	950.947	B	i 'll i 'll do from mount zurich to mount bern .	bern
+17	232	1434	947.695	950.947	B	i 'll i 'll do from mount zurich to mount bern .	.
+17	233	1435	951.777	952.369	A	okay .	okay
+17	233	1436	951.777	952.369	A	okay .	.
+17	234	1437	952.855	953.737	B	how much is that ?	how
+17	234	1438	952.855	953.737	B	how much is that ?	much
+17	234	1439	952.855	953.737	B	how much is that ?	is
+17	234	1440	952.855	953.737	B	how much is that ?	that
+17	234	1441	952.855	953.737	B	how much is that ?	?
+17	235	1442	953.752	954.876	A	3 , i do n't	3
+17	235	1443	953.752	954.876	A	3 , i do n't	,
+17	235	1444	953.752	954.876	A	3 , i do n't	i
+17	235	1445	953.752	954.876	A	3 , i do n't	do
+17	235	1446	953.752	954.876	A	3 , i do n't	n't
+17	236	1447	956.242	957.610	A	yeah , do that one .	yeah
+17	236	1448	956.242	957.610	A	yeah , do that one .	,
+17	236	1449	956.242	957.610	A	yeah , do that one .	do
+17	236	1450	956.242	957.610	A	yeah , do that one .	that
+17	236	1451	956.242	957.610	A	yeah , do that one .	one
+17	236	1452	956.242	957.610	A	yeah , do that one .	.
+17	237	1453	958.774	959.792	B	um	um
+17	238	1454	961.038	963.859	A	then do mount bern to mount zermatt .	then
+17	238	1455	961.038	963.859	A	then do mount bern to mount zermatt .	do
+17	238	1456	961.038	963.859	A	then do mount bern to mount zermatt .	mount
+17	238	1457	961.038	963.859	A	then do mount bern to mount zermatt .	bern
+17	238	1458	961.038	963.859	A	then do mount bern to mount zermatt .	to
+17	238	1459	961.038	963.859	A	then do mount bern to mount zermatt .	mount
+17	238	1460	961.038	963.859	A	then do mount bern to mount zermatt .	zermatt
+17	238	1461	961.038	963.859	A	then do mount bern to mount zermatt .	.
+17	239	1462	964.786	965.975	A	maybe that 's better .	maybe
+17	239	1463	964.786	965.975	A	maybe that 's better .	that
+17	239	1464	964.786	965.975	A	maybe that 's better .	's
+17	239	1465	964.786	965.975	A	maybe that 's better .	better
+17	239	1466	964.786	965.975	A	maybe that 's better .	.
+17	240	1467	966.340	967.905	B	you ca n't do that .	you
+17	240	1468	966.340	967.905	B	you ca n't do that .	ca
+17	240	1469	966.340	967.905	B	you ca n't do that .	n't
+17	240	1470	966.340	967.905	B	you ca n't do that .	do
+17	240	1471	966.340	967.905	B	you ca n't do that .	that
+17	240	1472	966.340	967.905	B	you ca n't do that .	.
+17	241	1473	967.595	968.066	A	oh .	oh
+17	241	1474	967.595	968.066	A	oh .	.
+17	242	1475	969.793	970.857	A	then do	then
+17	242	1476	969.793	970.857	A	then do	do
+17	243	1477	971.225	973.444	B	mount bern to mount interlaken ?	mount
+17	243	1478	971.225	973.444	B	mount bern to mount interlaken ?	bern
+17	243	1479	971.225	973.444	B	mount bern to mount interlaken ?	to
+17	243	1480	971.225	973.444	B	mount bern to mount interlaken ?	mount
+17	243	1481	971.225	973.444	B	mount bern to mount interlaken ?	interlaken
+17	243	1482	971.225	973.444	B	mount bern to mount interlaken ?	?
+17	244	1483	973.980	974.527	A	yeah .	yeah
+17	244	1484	973.980	974.527	A	yeah .	.
+17	245	1485	974.937	976.426	A	i think that 's 4 though .	i
+17	245	1486	974.937	976.426	A	i think that 's 4 though .	think
+17	245	1487	974.937	976.426	A	i think that 's 4 though .	that
+17	245	1488	974.937	976.426	A	i think that 's 4 though .	's
+17	245	1489	974.937	976.426	A	i think that 's 4 though .	4
+17	245	1490	974.937	976.426	A	i think that 's 4 though .	though
+17	245	1491	974.937	976.426	A	i think that 's 4 though .	.
+17	246	1492	977.068	978.041	A	so do n't do that .	so
+17	246	1493	977.068	978.041	A	so do n't do that .	do
+17	246	1494	977.068	978.041	A	so do n't do that .	n't
+17	246	1495	977.068	978.041	A	so do n't do that .	do
+17	246	1496	977.068	978.041	A	so do n't do that .	that
+17	246	1497	977.068	978.041	A	so do n't do that .	.
+17	247	1498	978.087	979.029	B	is that 4 ?	is
+17	247	1499	978.087	979.029	B	is that 4 ?	that
+17	247	1500	978.087	979.029	B	is that 4 ?	4
+17	247	1501	978.087	979.029	B	is that 4 ?	?
+17	248	1502	978.406	980.184	A	oh yeah it 's , it is 4 .	oh
+17	248	1503	978.406	980.184	A	oh yeah it 's , it is 4 .	yeah
+17	248	1504	978.406	980.184	A	oh yeah it 's , it is 4 .	it
+17	248	1505	978.406	980.184	A	oh yeah it 's , it is 4 .	's
+17	248	1506	978.406	980.184	A	oh yeah it 's , it is 4 .	,
+17	248	1507	978.406	980.184	A	oh yeah it 's , it is 4 .	it
+17	248	1508	978.406	980.184	A	oh yeah it 's , it is 4 .	is
+17	248	1509	978.406	980.184	A	oh yeah it 's , it is 4 .	4
+17	248	1510	978.406	980.184	A	oh yeah it 's , it is 4 .	.
+17	249	1511	980.434	981.380	B	okay .	okay
+17	249	1512	980.434	981.380	B	okay .	.
+17	250	1513	981.753	983.014	B	should erase that .	should
+17	250	1514	981.753	983.014	B	should erase that .	erase
+17	250	1515	981.753	983.014	B	should erase that .	that
+17	250	1516	981.753	983.014	B	should erase that .	.
+17	251	1517	981.813	982.832	A	okay .	okay
+17	251	1518	981.813	982.832	A	okay .	.
+17	252	1519	984.076	987.404	A	how much is , wait look at our uh previous reviews .	how
+17	252	1520	984.076	987.404	A	how much is , wait look at our uh previous reviews .	much
+17	252	1521	984.076	987.404	A	how much is , wait look at our uh previous reviews .	is
+17	252	1522	984.076	987.404	A	how much is , wait look at our uh previous reviews .	,
+17	252	1523	984.076	987.404	A	how much is , wait look at our uh previous reviews .	wait
+17	252	1524	984.076	987.404	A	how much is , wait look at our uh previous reviews .	look
+17	252	1525	984.076	987.404	A	how much is , wait look at our uh previous reviews .	at
+17	252	1526	984.076	987.404	A	how much is , wait look at our uh previous reviews .	our
+17	252	1527	984.076	987.404	A	how much is , wait look at our uh previous reviews .	uh
+17	252	1528	984.076	987.404	A	how much is , wait look at our uh previous reviews .	previous
+17	252	1529	984.076	987.404	A	how much is , wait look at our uh previous reviews .	reviews
+17	252	1530	984.076	987.404	A	how much is , wait look at our uh previous reviews .	.
+17	253	1531	988.122	991.287	A	see how much mount bern to mount basel was would you ?	see
+17	253	1532	988.122	991.287	A	see how much mount bern to mount basel was would you ?	how
+17	253	1533	988.122	991.287	A	see how much mount bern to mount basel was would you ?	much
+17	253	1534	988.122	991.287	A	see how much mount bern to mount basel was would you ?	mount
+17	253	1535	988.122	991.287	A	see how much mount bern to mount basel was would you ?	bern
+17	253	1536	988.122	991.287	A	see how much mount bern to mount basel was would you ?	to
+17	253	1537	988.122	991.287	A	see how much mount bern to mount basel was would you ?	mount
+17	253	1538	988.122	991.287	A	see how much mount bern to mount basel was would you ?	basel
+17	253	1539	988.122	991.287	A	see how much mount bern to mount basel was would you ?	was
+17	253	1540	988.122	991.287	A	see how much mount bern to mount basel was would you ?	would
+17	253	1541	988.122	991.287	A	see how much mount bern to mount basel was would you ?	you
+17	253	1542	988.122	991.287	A	see how much mount bern to mount basel was would you ?	?
+17	254	1543	991.135	994.159	B	mount bern to mount basel is 3 .	mount
+17	254	1544	991.135	994.159	B	mount bern to mount basel is 3 .	bern
+17	254	1545	991.135	994.159	B	mount bern to mount basel is 3 .	to
+17	254	1546	991.135	994.159	B	mount bern to mount basel is 3 .	mount
+17	254	1547	991.135	994.159	B	mount bern to mount basel is 3 .	basel
+17	254	1548	991.135	994.159	B	mount bern to mount basel is 3 .	is
+17	254	1549	991.135	994.159	B	mount bern to mount basel is 3 .	3
+17	254	1550	991.135	994.159	B	mount bern to mount basel is 3 .	.
+17	255	1551	994.603	995.530	A	3 okay .	3
+17	255	1552	994.603	995.530	A	3 okay .	okay
+17	255	1553	994.603	995.530	A	3 okay .	.
+17	256	1554	996.488	997.764	A	do you wanna do that ?	do
+17	256	1555	996.488	997.764	A	do you wanna do that ?	you
+17	256	1556	996.488	997.764	A	do you wanna do that ?	wanna
+17	256	1557	996.488	997.764	A	do you wanna do that ?	do
+17	256	1558	996.488	997.764	A	do you wanna do that ?	that
+17	256	1559	996.488	997.764	A	do you wanna do that ?	?
+17	257	1560	998.260	999.704	B	um okay .	um
+17	257	1561	998.260	999.704	B	um okay .	okay
+17	257	1562	998.260	999.704	B	um okay .	.
+17	258	1563	999.764	1000.463	A	yeah .	yeah
+17	258	1564	999.764	1000.463	A	yeah .	.
+17	259	1565	1003.105	1003.890	A	then	then
+17	260	1566	1004.573	1007.515	A	i think we should go from mount bern to mount basel then	i
+17	260	1567	1004.573	1007.515	A	i think we should go from mount bern to mount basel then	think
+17	260	1568	1004.573	1007.515	A	i think we should go from mount bern to mount basel then	we
+17	260	1569	1004.573	1007.515	A	i think we should go from mount bern to mount basel then	should
+17	260	1570	1004.573	1007.515	A	i think we should go from mount bern to mount basel then	go
+17	260	1571	1004.573	1007.515	A	i think we should go from mount bern to mount basel then	from
+17	260	1572	1004.573	1007.515	A	i think we should go from mount bern to mount basel then	mount
+17	260	1573	1004.573	1007.515	A	i think we should go from mount bern to mount basel then	bern
+17	260	1574	1004.573	1007.515	A	i think we should go from mount bern to mount basel then	to
+17	260	1575	1004.573	1007.515	A	i think we should go from mount bern to mount basel then	mount
+17	260	1576	1004.573	1007.515	A	i think we should go from mount bern to mount basel then	basel
+17	260	1577	1004.573	1007.515	A	i think we should go from mount bern to mount basel then	then
+17	261	1578	1007.932	1008.707	A	go from	go
+17	261	1579	1007.932	1008.707	A	go from	from
+17	262	1580	1009.926	1012.601	A	basel to interlaken see how much that is ?	basel
+17	262	1581	1009.926	1012.601	A	basel to interlaken see how much that is ?	to
+17	262	1582	1009.926	1012.601	A	basel to interlaken see how much that is ?	interlaken
+17	262	1583	1009.926	1012.601	A	basel to interlaken see how much that is ?	see
+17	262	1584	1009.926	1012.601	A	basel to interlaken see how much that is ?	how
+17	262	1585	1009.926	1012.601	A	basel to interlaken see how much that is ?	much
+17	262	1586	1009.926	1012.601	A	basel to interlaken see how much that is ?	that
+17	262	1587	1009.926	1012.601	A	basel to interlaken see how much that is ?	is
+17	262	1588	1009.926	1012.601	A	basel to interlaken see how much that is ?	?
+17	263	1589	1013.024	1013.556	A	maybe .	maybe
+17	263	1590	1013.024	1013.556	A	maybe .	.
+17	264	1591	1013.206	1014.467	B	you ca n't do that .	you
+17	264	1592	1013.206	1014.467	B	you ca n't do that .	ca
+17	264	1593	1013.206	1014.467	B	you ca n't do that .	n't
+17	264	1594	1013.206	1014.467	B	you ca n't do that .	do
+17	264	1595	1013.206	1014.467	B	you ca n't do that .	that
+17	264	1596	1013.206	1014.467	B	you ca n't do that .	.
+17	265	1597	1014.407	1014.954	A	oh .	oh
+17	265	1598	1014.407	1014.954	A	oh .	.
+17	266	1599	1015.835	1017.598	A	okay , then go to mount	okay
+17	266	1600	1015.835	1017.598	A	okay , then go to mount	,
+17	266	1601	1015.835	1017.598	A	okay , then go to mount	then
+17	266	1602	1015.835	1017.598	A	okay , then go to mount	go
+17	266	1603	1015.835	1017.598	A	okay , then go to mount	to
+17	266	1604	1015.835	1017.598	A	okay , then go to mount	mount
+17	267	1605	1019.132	1019.801	A	uh	uh
+17	268	1606	1020.418	1024.095	A	can you go to mount zermatt to mount mount montreux ?	can
+17	268	1607	1020.418	1024.095	A	can you go to mount zermatt to mount mount montreux ?	you
+17	268	1608	1020.418	1024.095	A	can you go to mount zermatt to mount mount montreux ?	go
+17	268	1609	1020.418	1024.095	A	can you go to mount zermatt to mount mount montreux ?	to
+17	268	1610	1020.418	1024.095	A	can you go to mount zermatt to mount mount montreux ?	mount
+17	268	1611	1020.418	1024.095	A	can you go to mount zermatt to mount mount montreux ?	zermatt
+17	268	1612	1020.418	1024.095	A	can you go to mount zermatt to mount mount montreux ?	to
+17	268	1613	1020.418	1024.095	A	can you go to mount zermatt to mount mount montreux ?	mount
+17	268	1614	1020.418	1024.095	A	can you go to mount zermatt to mount mount montreux ?	mount
+17	268	1615	1020.418	1024.095	A	can you go to mount zermatt to mount mount montreux ?	montreux
+17	268	1616	1020.418	1024.095	A	can you go to mount zermatt to mount mount montreux ?	?
+17	269	1617	1027.233	1027.780	A	yeah .	yeah
+17	269	1618	1027.233	1027.780	A	yeah .	.
+17	270	1619	1027.279	1028.175	B	how much is that ?	how
+17	270	1620	1027.279	1028.175	B	how much is that ?	much
+17	270	1621	1027.279	1028.175	B	how much is that ?	is
+17	270	1622	1027.279	1028.175	B	how much is that ?	that
+17	270	1623	1027.279	1028.175	B	how much is that ?	?
+17	271	1624	1028.130	1028.722	A	2 .	2
+17	271	1625	1028.130	1028.722	A	2 .	.
+17	272	1626	1028.996	1030.196	B	okay that 's good .	okay
+17	272	1627	1028.996	1030.196	B	okay that 's good .	that
+17	272	1628	1028.996	1030.196	B	okay that 's good .	's
+17	272	1629	1028.996	1030.196	B	okay that 's good .	good
+17	272	1630	1028.996	1030.196	B	okay that 's good .	.
+17	273	1631	1030.515	1031.229	A	then	then
+17	274	1632	1032.171	1033.052	A	mount	mount
+17	275	1633	1033.725	1036.916	A	interlaken see that 's 4 though do n't do that .	interlaken
+17	275	1634	1033.725	1036.916	A	interlaken see that 's 4 though do n't do that .	see
+17	275	1635	1033.725	1036.916	A	interlaken see that 's 4 though do n't do that .	that
+17	275	1636	1033.725	1036.916	A	interlaken see that 's 4 though do n't do that .	's
+17	275	1637	1033.725	1036.916	A	interlaken see that 's 4 though do n't do that .	4
+17	275	1638	1033.725	1036.916	A	interlaken see that 's 4 though do n't do that .	though
+17	275	1639	1033.725	1036.916	A	interlaken see that 's 4 though do n't do that .	do
+17	275	1640	1033.725	1036.916	A	interlaken see that 's 4 though do n't do that .	n't
+17	275	1641	1033.725	1036.916	A	interlaken see that 's 4 though do n't do that .	do
+17	275	1642	1033.725	1036.916	A	interlaken see that 's 4 though do n't do that .	that
+17	275	1643	1033.725	1036.916	A	interlaken see that 's 4 though do n't do that .	.
+17	276	1644	1037.457	1040.739	B	so should i do mount montreux to mount neuchatel ?	so
+17	276	1645	1037.457	1040.739	B	so should i do mount montreux to mount neuchatel ?	should
+17	276	1646	1037.457	1040.739	B	so should i do mount montreux to mount neuchatel ?	i
+17	276	1647	1037.457	1040.739	B	so should i do mount montreux to mount neuchatel ?	do
+17	276	1648	1037.457	1040.739	B	so should i do mount montreux to mount neuchatel ?	mount
+17	276	1649	1037.457	1040.739	B	so should i do mount montreux to mount neuchatel ?	montreux
+17	276	1650	1037.457	1040.739	B	so should i do mount montreux to mount neuchatel ?	to
+17	276	1651	1037.457	1040.739	B	so should i do mount montreux to mount neuchatel ?	mount
+17	276	1652	1037.457	1040.739	B	so should i do mount montreux to mount neuchatel ?	neuchatel
+17	276	1653	1037.457	1040.739	B	so should i do mount montreux to mount neuchatel ?	?
+17	277	1654	1040.890	1041.726	A	yeah .	yeah
+17	277	1655	1040.890	1041.726	A	yeah .	.
+17	278	1656	1042.778	1043.508	B	um	um
+17	279	1657	1043.584	1049.858	A	then we 're gon na be stuck in the same position of how do we get to mount interlaken i 'm gon na try this .	then
+17	279	1658	1043.584	1049.858	A	then we 're gon na be stuck in the same position of how do we get to mount interlaken i 'm gon na try this .	we
+17	279	1659	1043.584	1049.858	A	then we 're gon na be stuck in the same position of how do we get to mount interlaken i 'm gon na try this .	're
+17	279	1660	1043.584	1049.858	A	then we 're gon na be stuck in the same position of how do we get to mount interlaken i 'm gon na try this .	gon
+17	279	1661	1043.584	1049.858	A	then we 're gon na be stuck in the same position of how do we get to mount interlaken i 'm gon na try this .	na
+17	279	1662	1043.584	1049.858	A	then we 're gon na be stuck in the same position of how do we get to mount interlaken i 'm gon na try this .	be
+17	279	1663	1043.584	1049.858	A	then we 're gon na be stuck in the same position of how do we get to mount interlaken i 'm gon na try this .	stuck
+17	279	1664	1043.584	1049.858	A	then we 're gon na be stuck in the same position of how do we get to mount interlaken i 'm gon na try this .	in
+17	279	1665	1043.584	1049.858	A	then we 're gon na be stuck in the same position of how do we get to mount interlaken i 'm gon na try this .	the
+17	279	1666	1043.584	1049.858	A	then we 're gon na be stuck in the same position of how do we get to mount interlaken i 'm gon na try this .	same
+17	279	1667	1043.584	1049.858	A	then we 're gon na be stuck in the same position of how do we get to mount interlaken i 'm gon na try this .	position
+17	279	1668	1043.584	1049.858	A	then we 're gon na be stuck in the same position of how do we get to mount interlaken i 'm gon na try this .	of
+17	279	1669	1043.584	1049.858	A	then we 're gon na be stuck in the same position of how do we get to mount interlaken i 'm gon na try this .	how
+17	279	1670	1043.584	1049.858	A	then we 're gon na be stuck in the same position of how do we get to mount interlaken i 'm gon na try this .	do
+17	279	1671	1043.584	1049.858	A	then we 're gon na be stuck in the same position of how do we get to mount interlaken i 'm gon na try this .	we
+17	279	1672	1043.584	1049.858	A	then we 're gon na be stuck in the same position of how do we get to mount interlaken i 'm gon na try this .	get
+17	279	1673	1043.584	1049.858	A	then we 're gon na be stuck in the same position of how do we get to mount interlaken i 'm gon na try this .	to
+17	279	1674	1043.584	1049.858	A	then we 're gon na be stuck in the same position of how do we get to mount interlaken i 'm gon na try this .	mount
+17	279	1675	1043.584	1049.858	A	then we 're gon na be stuck in the same position of how do we get to mount interlaken i 'm gon na try this .	interlaken
+17	279	1676	1043.584	1049.858	A	then we 're gon na be stuck in the same position of how do we get to mount interlaken i 'm gon na try this .	i
+17	279	1677	1043.584	1049.858	A	then we 're gon na be stuck in the same position of how do we get to mount interlaken i 'm gon na try this .	'm
+17	279	1678	1043.584	1049.858	A	then we 're gon na be stuck in the same position of how do we get to mount interlaken i 'm gon na try this .	gon
+17	279	1679	1043.584	1049.858	A	then we 're gon na be stuck in the same position of how do we get to mount interlaken i 'm gon na try this .	na
+17	279	1680	1043.584	1049.858	A	then we 're gon na be stuck in the same position of how do we get to mount interlaken i 'm gon na try this .	try
+17	279	1681	1043.584	1049.858	A	then we 're gon na be stuck in the same position of how do we get to mount interlaken i 'm gon na try this .	this
+17	279	1682	1043.584	1049.858	A	then we 're gon na be stuck in the same position of how do we get to mount interlaken i 'm gon na try this .	.
+17	280	1683	1051.052	1052.572	A	uh how much is that ?	uh
+17	280	1684	1051.052	1052.572	A	uh how much is that ?	how
+17	280	1685	1051.052	1052.572	A	uh how much is that ?	much
+17	280	1686	1051.052	1052.572	A	uh how much is that ?	is
+17	280	1687	1051.052	1052.572	A	uh how much is that ?	that
+17	280	1688	1051.052	1052.572	A	uh how much is that ?	?
+17	281	1689	1053.210	1053.833	B	what ?	what
+17	281	1690	1053.210	1053.833	B	what ?	?
+17	282	1691	1054.065	1056.010	A	this mount bern to	this
+17	282	1692	1054.065	1056.010	A	this mount bern to	mount
+17	282	1693	1054.065	1056.010	A	this mount bern to	bern
+17	282	1694	1054.065	1056.010	A	this mount bern to	to
+17	283	1695	1055.250	1056.131	B	that 's 4 .	that
+17	283	1696	1055.250	1056.131	B	that 's 4 .	's
+17	283	1697	1055.250	1056.131	B	that 's 4 .	4
+17	283	1698	1055.250	1056.131	B	that 's 4 .	.
+17	284	1699	1056.435	1057.453	A	that 's , okay .	that
+17	284	1700	1056.435	1057.453	A	that 's , okay .	's
+17	284	1701	1056.435	1057.453	A	that 's , okay .	,
+17	284	1702	1056.435	1057.453	A	that 's , okay .	okay
+17	284	1703	1056.435	1057.453	A	that 's , okay .	.
+17	285	1704	1057.848	1060.427	A	we need to found another way to get to mount though .	we
+17	285	1705	1057.848	1060.427	A	we need to found another way to get to mount though .	need
+17	285	1706	1057.848	1060.427	A	we need to found another way to get to mount though .	to
+17	285	1707	1057.848	1060.427	A	we need to found another way to get to mount though .	found
+17	285	1708	1057.848	1060.427	A	we need to found another way to get to mount though .	another
+17	285	1709	1057.848	1060.427	A	we need to found another way to get to mount though .	way
+17	285	1710	1057.848	1060.427	A	we need to found another way to get to mount though .	to
+17	285	1711	1057.848	1060.427	A	we need to found another way to get to mount though .	get
+17	285	1712	1057.848	1060.427	A	we need to found another way to get to mount though .	to
+17	285	1713	1057.848	1060.427	A	we need to found another way to get to mount though .	mount
+17	285	1714	1057.848	1060.427	A	we need to found another way to get to mount though .	though
+17	285	1715	1057.848	1060.427	A	we need to found another way to get to mount though .	.
+17	286	1716	1061.022	1062.238	B	interlaken .	interlaken
+17	286	1717	1061.022	1062.238	B	interlaken .	.
+17	287	1718	1061.645	1062.390	A	yeah .	yeah
+17	287	1719	1061.645	1062.390	A	yeah .	.
+17	288	1720	1063.165	1065.307	A	try to zermatt to interlaken .	try
+17	288	1721	1063.165	1065.307	A	try to zermatt to interlaken .	to
+17	288	1722	1063.165	1065.307	A	try to zermatt to interlaken .	zermatt
+17	288	1723	1063.165	1065.307	A	try to zermatt to interlaken .	to
+17	288	1724	1063.165	1065.307	A	try to zermatt to interlaken .	interlaken
+17	288	1725	1063.165	1065.307	A	try to zermatt to interlaken .	.
+17	289	1726	1065.752	1066.238	B	yeah .	yeah
+17	289	1727	1065.752	1066.238	B	yeah .	.
+17	290	1728	1066.831	1067.545	A	does that work ?	does
+17	290	1729	1066.831	1067.545	A	does that work ?	that
+17	290	1730	1066.831	1067.545	A	does that work ?	work
+17	290	1731	1066.831	1067.545	A	does that work ?	?
+17	291	1732	1068.289	1069.200	B	let 's see .	let
+17	291	1733	1068.289	1069.200	B	let 's see .	's
+17	291	1734	1068.289	1069.200	B	let 's see .	see
+17	291	1735	1068.289	1069.200	B	let 's see .	.
+17	292	1736	1069.307	1071.009	A	that 's 2 perfect yeah do that .	that
+17	292	1737	1069.307	1071.009	A	that 's 2 perfect yeah do that .	's
+17	292	1738	1069.307	1071.009	A	that 's 2 perfect yeah do that .	2
+17	292	1739	1069.307	1071.009	A	that 's 2 perfect yeah do that .	perfect
+17	292	1740	1069.307	1071.009	A	that 's 2 perfect yeah do that .	yeah
+17	292	1741	1069.307	1071.009	A	that 's 2 perfect yeah do that .	do
+17	292	1742	1069.307	1071.009	A	that 's 2 perfect yeah do that .	that
+17	292	1743	1069.307	1071.009	A	that 's 2 perfect yeah do that .	.
+17	293	1744	1071.347	1072.213	A	i think that 's it .	i
+17	293	1745	1071.347	1072.213	A	i think that 's it .	think
+17	293	1746	1071.347	1072.213	A	i think that 's it .	that
+17	293	1747	1071.347	1072.213	A	i think that 's it .	's
+17	293	1748	1071.347	1072.213	A	i think that 's it .	it
+17	293	1749	1071.347	1072.213	A	i think that 's it .	.
+17	294	1750	1072.931	1073.569	B	yeah .	yeah
+17	294	1751	1072.931	1073.569	B	yeah .	.
+17	295	1752	1073.007	1074.238	A	do you wanna do that , yeah .	do
+17	295	1753	1073.007	1074.238	A	do you wanna do that , yeah .	you
+17	295	1754	1073.007	1074.238	A	do you wanna do that , yeah .	wanna
+17	295	1755	1073.007	1074.238	A	do you wanna do that , yeah .	do
+17	295	1756	1073.007	1074.238	A	do you wanna do that , yeah .	that
+17	295	1757	1073.007	1074.238	A	do you wanna do that , yeah .	,
+17	295	1758	1073.007	1074.238	A	do you wanna do that , yeah .	yeah
+17	295	1759	1073.007	1074.238	A	do you wanna do that , yeah .	.
+17	296	1760	1074.587	1075.073	A	done .	done
+17	296	1761	1074.587	1075.073	A	done .	.

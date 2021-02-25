@@ -1,0 +1,2534 @@
+team_no	utterance_no	token_no	start	end	interlocutor	utterance	token
+20	0	0	41.587	42.194	A	okay .	okay
+20	0	1	41.587	42.194	A	okay .	.
+20	1	2	43.838	47.343	A	so i guess we have to connect all these with the .	so
+20	1	3	43.838	47.343	A	so i guess we have to connect all these with the .	i
+20	1	4	43.838	47.343	A	so i guess we have to connect all these with the .	guess
+20	1	5	43.838	47.343	A	so i guess we have to connect all these with the .	we
+20	1	6	43.838	47.343	A	so i guess we have to connect all these with the .	have
+20	1	7	43.838	47.343	A	so i guess we have to connect all these with the .	to
+20	1	8	43.838	47.343	A	so i guess we have to connect all these with the .	connect
+20	1	9	43.838	47.343	A	so i guess we have to connect all these with the .	all
+20	1	10	43.838	47.343	A	so i guess we have to connect all these with the .	these
+20	1	11	43.838	47.343	A	so i guess we have to connect all these with the .	with
+20	1	12	43.838	47.343	A	so i guess we have to connect all these with the .	the
+20	1	13	43.838	47.343	A	so i guess we have to connect all these with the .	.
+20	2	14	47.774	49.958	B	um do we , how many .	um
+20	2	15	47.774	49.958	B	um do we , how many .	do
+20	2	16	47.774	49.958	B	um do we , how many .	we
+20	2	17	47.774	49.958	B	um do we , how many .	,
+20	2	18	47.774	49.958	B	um do we , how many .	how
+20	2	19	47.774	49.958	B	um do we , how many .	many
+20	2	20	47.774	49.958	B	um do we , how many .	.
+20	3	21	51.957	52.982	A	oh .	oh
+20	3	22	51.957	52.982	A	oh .	.
+20	4	23	57.510	59.302	B	so we have n't even done anything .	so
+20	4	24	57.510	59.302	B	so we have n't even done anything .	we
+20	4	25	57.510	59.302	B	so we have n't even done anything .	have
+20	4	26	57.510	59.302	B	so we have n't even done anything .	n't
+20	4	27	57.510	59.302	B	so we have n't even done anything .	even
+20	4	28	57.510	59.302	B	so we have n't even done anything .	done
+20	4	29	57.510	59.302	B	so we have n't even done anything .	anything
+20	4	30	57.510	59.302	B	so we have n't even done anything .	.
+20	5	31	60.152	61.230	B	have you done anything ?	have
+20	5	32	60.152	61.230	B	have you done anything ?	you
+20	5	33	60.152	61.230	B	have you done anything ?	done
+20	5	34	60.152	61.230	B	have you done anything ?	anything
+20	5	35	60.152	61.230	B	have you done anything ?	?
+20	6	36	61.756	62.201	A	no .	no
+20	6	37	61.756	62.201	A	no .	.
+20	7	38	63.162	67.225	B	so , how many ten circles and zero .	so
+20	7	39	63.162	67.225	B	so , how many ten circles and zero .	,
+20	7	40	63.162	67.225	B	so , how many ten circles and zero .	how
+20	7	41	63.162	67.225	B	so , how many ten circles and zero .	many
+20	7	42	63.162	67.225	B	so , how many ten circles and zero .	ten
+20	7	43	63.162	67.225	B	so , how many ten circles and zero .	circles
+20	7	44	63.162	67.225	B	so , how many ten circles and zero .	and
+20	7	45	63.162	67.225	B	so , how many ten circles and zero .	zero
+20	7	46	63.162	67.225	B	so , how many ten circles and zero .	.
+20	8	47	67.832	68.856	B	minuses .	minuses
+20	8	48	67.832	68.856	B	minuses .	.
+20	9	49	77.274	78.056	B	i 'm just gon na .	i
+20	9	50	77.274	78.056	B	i 'm just gon na .	'm
+20	9	51	77.274	78.056	B	i 'm just gon na .	just
+20	9	52	77.274	78.056	B	i 'm just gon na .	gon
+20	9	53	77.274	78.056	B	i 'm just gon na .	na
+20	9	54	77.274	78.056	B	i 'm just gon na .	.
+20	10	55	79.054	79.472	A	uh	uh
+20	11	56	80.065	80.402	A	uh	uh
+20	12	57	80.590	81.332	B	oh there .	oh
+20	12	58	80.590	81.332	B	oh there .	there
+20	12	59	80.590	81.332	B	oh there .	.
+20	13	60	81.143	82.410	A	oh two three .	oh
+20	13	61	81.143	82.410	A	oh two three .	two
+20	13	62	81.143	82.410	A	oh two three .	three
+20	13	63	81.143	82.410	A	oh two three .	.
+20	14	64	82.505	84.857	B	oh that 's what you 've been doing this all time .	oh
+20	14	65	82.505	84.857	B	oh that 's what you 've been doing this all time .	that
+20	14	66	82.505	84.857	B	oh that 's what you 've been doing this all time .	's
+20	14	67	82.505	84.857	B	oh that 's what you 've been doing this all time .	what
+20	14	68	82.505	84.857	B	oh that 's what you 've been doing this all time .	you
+20	14	69	82.505	84.857	B	oh that 's what you 've been doing this all time .	've
+20	14	70	82.505	84.857	B	oh that 's what you 've been doing this all time .	been
+20	14	71	82.505	84.857	B	oh that 's what you 've been doing this all time .	doing
+20	14	72	82.505	84.857	B	oh that 's what you 've been doing this all time .	this
+20	14	73	82.505	84.857	B	oh that 's what you 've been doing this all time .	all
+20	14	74	82.505	84.857	B	oh that 's what you 've been doing this all time .	time
+20	14	75	82.505	84.857	B	oh that 's what you 've been doing this all time .	.
+20	15	76	85.708	86.746	B	uh	uh
+20	16	77	87.072	89.525	B	what we ca n't block the roads , right ?	what
+20	16	78	87.072	89.525	B	what we ca n't block the roads , right ?	we
+20	16	79	87.072	89.525	B	what we ca n't block the roads , right ?	ca
+20	16	80	87.072	89.525	B	what we ca n't block the roads , right ?	n't
+20	16	81	87.072	89.525	B	what we ca n't block the roads , right ?	block
+20	16	82	87.072	89.525	B	what we ca n't block the roads , right ?	the
+20	16	83	87.072	89.525	B	what we ca n't block the roads , right ?	roads
+20	16	84	87.072	89.525	B	what we ca n't block the roads , right ?	,
+20	16	85	87.072	89.525	B	what we ca n't block the roads , right ?	right
+20	16	86	87.072	89.525	B	what we ca n't block the roads , right ?	?
+20	17	87	90.124	90.974	A	yeah i think .	yeah
+20	17	88	90.124	90.974	A	yeah i think .	i
+20	17	89	90.124	90.974	A	yeah i think .	think
+20	17	90	90.124	90.974	A	yeah i think .	.
+20	18	91	94.117	94.967	A	um	um
+20	19	92	95.522	96.924	B	i 'm gon na try to do another one .	i
+20	19	93	95.522	96.924	B	i 'm gon na try to do another one .	'm
+20	19	94	95.522	96.924	B	i 'm gon na try to do another one .	gon
+20	19	95	95.522	96.924	B	i 'm gon na try to do another one .	na
+20	19	96	95.522	96.924	B	i 'm gon na try to do another one .	try
+20	19	97	95.522	96.924	B	i 'm gon na try to do another one .	to
+20	19	98	95.522	96.924	B	i 'm gon na try to do another one .	do
+20	19	99	95.522	96.924	B	i 'm gon na try to do another one .	another
+20	19	100	95.522	96.924	B	i 'm gon na try to do another one .	one
+20	19	101	95.522	96.924	B	i 'm gon na try to do another one .	.
+20	20	102	99.437	100.381	B	i do n't want to .	i
+20	20	103	99.437	100.381	B	i do n't want to .	do
+20	20	104	99.437	100.381	B	i do n't want to .	n't
+20	20	105	99.437	100.381	B	i do n't want to .	want
+20	20	106	99.437	100.381	B	i do n't want to .	to
+20	20	107	99.437	100.381	B	i do n't want to .	.
+20	21	108	101.500	102.781	B	i do n't want an eraser .	i
+20	21	109	101.500	102.781	B	i do n't want an eraser .	do
+20	21	110	101.500	102.781	B	i do n't want an eraser .	n't
+20	21	111	101.500	102.781	B	i do n't want an eraser .	want
+20	21	112	101.500	102.781	B	i do n't want an eraser .	an
+20	21	113	101.500	102.781	B	i do n't want an eraser .	eraser
+20	21	114	101.500	102.781	B	i do n't want an eraser .	.
+20	22	115	106.536	107.501	B	i got one .	i
+20	22	116	106.536	107.501	B	i got one .	got
+20	22	117	106.536	107.501	B	i got one .	one
+20	22	118	106.536	107.501	B	i got one .	.
+20	23	119	109.953	114.393	A	oh that 's what you 've been oh that 's why i 'm in this position .	oh
+20	23	120	109.953	114.393	A	oh that 's what you 've been oh that 's why i 'm in this position .	that
+20	23	121	109.953	114.393	A	oh that 's what you 've been oh that 's why i 'm in this position .	's
+20	23	122	109.953	114.393	A	oh that 's what you 've been oh that 's why i 'm in this position .	what
+20	23	123	109.953	114.393	A	oh that 's what you 've been oh that 's why i 'm in this position .	you
+20	23	124	109.953	114.393	A	oh that 's what you 've been oh that 's why i 'm in this position .	've
+20	23	125	109.953	114.393	A	oh that 's what you 've been oh that 's why i 'm in this position .	been
+20	23	126	109.953	114.393	A	oh that 's what you 've been oh that 's why i 'm in this position .	oh
+20	23	127	109.953	114.393	A	oh that 's what you 've been oh that 's why i 'm in this position .	that
+20	23	128	109.953	114.393	A	oh that 's what you 've been oh that 's why i 'm in this position .	's
+20	23	129	109.953	114.393	A	oh that 's what you 've been oh that 's why i 'm in this position .	why
+20	23	130	109.953	114.393	A	oh that 's what you 've been oh that 's why i 'm in this position .	i
+20	23	131	109.953	114.393	A	oh that 's what you 've been oh that 's why i 'm in this position .	'm
+20	23	132	109.953	114.393	A	oh that 's what you 've been oh that 's why i 'm in this position .	in
+20	23	133	109.953	114.393	A	oh that 's what you 've been oh that 's why i 'm in this position .	this
+20	23	134	109.953	114.393	A	oh that 's what you 've been oh that 's why i 'm in this position .	position
+20	23	135	109.953	114.393	A	oh that 's what you 've been oh that 's why i 'm in this position .	.
+20	24	136	115.450	116.744	B	okay can you tell me ?	okay
+20	24	137	115.450	116.744	B	okay can you tell me ?	can
+20	24	138	115.450	116.744	B	okay can you tell me ?	you
+20	24	139	115.450	116.744	B	okay can you tell me ?	tell
+20	24	140	115.450	116.744	B	okay can you tell me ?	me
+20	24	141	115.450	116.744	B	okay can you tell me ?	?
+20	25	142	118.227	119.898	B	so , what can i do ?	so
+20	25	143	118.227	119.898	B	so , what can i do ?	,
+20	25	144	118.227	119.898	B	so , what can i do ?	what
+20	25	145	118.227	119.898	B	so , what can i do ?	can
+20	25	146	118.227	119.898	B	so , what can i do ?	i
+20	25	147	118.227	119.898	B	so , what can i do ?	do
+20	25	148	118.227	119.898	B	so , what can i do ?	?
+20	26	149	121.915	123.950	A	let me see the information box .	let
+20	26	150	121.915	123.950	A	let me see the information box .	me
+20	26	151	121.915	123.950	A	let me see the information box .	see
+20	26	152	121.915	123.950	A	let me see the information box .	the
+20	26	153	121.915	123.950	A	let me see the information box .	information
+20	26	154	121.915	123.950	A	let me see the information box .	box
+20	26	155	121.915	123.950	A	let me see the information box .	.
+20	27	156	124.642	126.637	A	you are number two i think .	you
+20	27	157	124.642	126.637	A	you are number two i think .	are
+20	27	158	124.642	126.637	A	you are number two i think .	number
+20	27	159	124.642	126.637	A	you are number two i think .	two
+20	27	160	124.642	126.637	A	you are number two i think .	i
+20	27	161	124.642	126.637	A	you are number two i think .	think
+20	27	162	124.642	126.637	A	you are number two i think .	.
+20	28	163	127.603	128.506	A	abstract .	abstract
+20	28	164	127.603	128.506	A	abstract .	.
+20	29	165	128.452	129.449	B	yeah , so .	yeah
+20	29	166	128.452	129.449	B	yeah , so .	,
+20	29	167	128.452	129.449	B	yeah , so .	so
+20	29	168	128.452	129.449	B	yeah , so .	.
+20	30	169	129.665	131.741	A	uh no no you are in interactive view .	uh
+20	30	170	129.665	131.741	A	uh no no you are in interactive view .	no
+20	30	171	129.665	131.741	A	uh no no you are in interactive view .	no
+20	30	172	129.665	131.741	A	uh no no you are in interactive view .	you
+20	30	173	129.665	131.741	A	uh no no you are in interactive view .	are
+20	30	174	129.665	131.741	A	uh no no you are in interactive view .	in
+20	30	175	129.665	131.741	A	uh no no you are in interactive view .	interactive
+20	30	176	129.665	131.741	A	uh no no you are in interactive view .	view
+20	30	177	129.665	131.741	A	uh no no you are in interactive view .	.
+20	31	178	131.768	132.563	B	yeah i 'm in the	yeah
+20	31	179	131.768	132.563	B	yeah i 'm in the	i
+20	31	180	131.768	132.563	B	yeah i 'm in the	'm
+20	31	181	131.768	132.563	B	yeah i 'm in the	in
+20	31	182	131.768	132.563	B	yeah i 'm in the	the
+20	32	183	132.038	134.923	A	in this view you can interact and build tracks .	in
+20	32	184	132.038	134.923	A	in this view you can interact and build tracks .	this
+20	32	185	132.038	134.923	A	in this view you can interact and build tracks .	view
+20	32	186	132.038	134.923	A	in this view you can interact and build tracks .	you
+20	32	187	132.038	134.923	A	in this view you can interact and build tracks .	can
+20	32	188	132.038	134.923	A	in this view you can interact and build tracks .	interact
+20	32	189	132.038	134.923	A	in this view you can interact and build tracks .	and
+20	32	190	132.038	134.923	A	in this view you can interact and build tracks .	build
+20	32	191	132.038	134.923	A	in this view you can interact and build tracks .	tracks
+20	32	192	132.038	134.923	A	in this view you can interact and build tracks .	.
+20	33	193	135.131	137.409	A	click , drag and release to build a track .	click
+20	33	194	135.131	137.409	A	click , drag and release to build a track .	,
+20	33	195	135.131	137.409	A	click , drag and release to build a track .	drag
+20	33	196	135.131	137.409	A	click , drag and release to build a track .	and
+20	33	197	135.131	137.409	A	click , drag and release to build a track .	release
+20	33	198	135.131	137.409	A	click , drag and release to build a track .	to
+20	33	199	135.131	137.409	A	click , drag and release to build a track .	build
+20	33	200	135.131	137.409	A	click , drag and release to build a track .	a
+20	33	201	135.131	137.409	A	click , drag and release to build a track .	track
+20	33	202	135.131	137.409	A	click , drag and release to build a track .	.
+20	34	203	137.698	140.030	A	a brief press on the track will remove it .	a
+20	34	204	137.698	140.030	A	a brief press on the track will remove it .	brief
+20	34	205	137.698	140.030	A	a brief press on the track will remove it .	press
+20	34	206	137.698	140.030	A	a brief press on the track will remove it .	on
+20	34	207	137.698	140.030	A	a brief press on the track will remove it .	the
+20	34	208	137.698	140.030	A	a brief press on the track will remove it .	track
+20	34	209	137.698	140.030	A	a brief press on the track will remove it .	will
+20	34	210	137.698	140.030	A	a brief press on the track will remove it .	remove
+20	34	211	137.698	140.030	A	a brief press on the track will remove it .	it
+20	34	212	137.698	140.030	A	a brief press on the track will remove it .	.
+20	35	213	144.175	145.186	B	i 'm confused .	i
+20	35	214	144.175	145.186	B	i 'm confused .	'm
+20	35	215	144.175	145.186	B	i 'm confused .	confused
+20	35	216	144.175	145.186	B	i 'm confused .	.
+20	36	217	148.104	149.331	A	oh okay my turn .	oh
+20	36	218	148.104	149.331	A	oh okay my turn .	okay
+20	36	219	148.104	149.331	A	oh okay my turn .	my
+20	36	220	148.104	149.331	A	oh okay my turn .	turn
+20	36	221	148.104	149.331	A	oh okay my turn .	.
+20	37	222	152.250	153.908	B	okay so um .	okay
+20	37	223	152.250	153.908	B	okay so um .	so
+20	37	224	152.250	153.908	B	okay so um .	um
+20	37	225	152.250	153.908	B	okay so um .	.
+20	38	226	157.218	159.402	A	oh we , oh wait oh wait .	oh
+20	38	227	157.218	159.402	A	oh we , oh wait oh wait .	we
+20	38	228	157.218	159.402	A	oh we , oh wait oh wait .	,
+20	38	229	157.218	159.402	A	oh we , oh wait oh wait .	oh
+20	38	230	157.218	159.402	A	oh we , oh wait oh wait .	wait
+20	38	231	157.218	159.402	A	oh we , oh wait oh wait .	oh
+20	38	232	157.218	159.402	A	oh we , oh wait oh wait .	wait
+20	38	233	157.218	159.402	A	oh we , oh wait oh wait .	.
+20	39	234	159.361	160.480	B	let me see this .	let
+20	39	235	159.361	160.480	B	let me see this .	me
+20	39	236	159.361	160.480	B	let me see this .	see
+20	39	237	159.361	160.480	B	let me see this .	this
+20	39	238	159.361	160.480	B	let me see this .	.
+20	40	239	160.901	161.400	B	we 've got	we
+20	40	240	160.901	161.400	B	we 've got	've
+20	40	241	160.901	161.400	B	we 've got	got
+20	41	242	161.899	163.611	A	oh it 's your turn .	oh
+20	41	243	161.899	163.611	A	oh it 's your turn .	it
+20	41	244	161.899	163.611	A	oh it 's your turn .	's
+20	41	245	161.899	163.611	A	oh it 's your turn .	your
+20	41	246	161.899	163.611	A	oh it 's your turn .	turn
+20	41	247	161.899	163.611	A	oh it 's your turn .	.
+20	42	248	163.467	164.613	B	um that was quick .	um
+20	42	249	163.467	164.613	B	um that was quick .	that
+20	42	250	163.467	164.613	B	um that was quick .	was
+20	42	251	163.467	164.613	B	um that was quick .	quick
+20	42	252	163.467	164.613	B	um that was quick .	.
+20	43	253	165.439	169.119	B	oh six , you ca n't block the streets remember .	oh
+20	43	254	165.439	169.119	B	oh six , you ca n't block the streets remember .	six
+20	43	255	165.439	169.119	B	oh six , you ca n't block the streets remember .	,
+20	43	256	165.439	169.119	B	oh six , you ca n't block the streets remember .	you
+20	43	257	165.439	169.119	B	oh six , you ca n't block the streets remember .	ca
+20	43	258	165.439	169.119	B	oh six , you ca n't block the streets remember .	n't
+20	43	259	165.439	169.119	B	oh six , you ca n't block the streets remember .	block
+20	43	260	165.439	169.119	B	oh six , you ca n't block the streets remember .	the
+20	43	261	165.439	169.119	B	oh six , you ca n't block the streets remember .	streets
+20	43	262	165.439	169.119	B	oh six , you ca n't block the streets remember .	remember
+20	43	263	165.439	169.119	B	oh six , you ca n't block the streets remember .	.
+20	44	264	169.017	170.419	A	yeah we ca n't block them .	yeah
+20	44	265	169.017	170.419	A	yeah we ca n't block them .	we
+20	44	266	169.017	170.419	A	yeah we ca n't block them .	ca
+20	44	267	169.017	170.419	A	yeah we ca n't block them .	n't
+20	44	268	169.017	170.419	A	yeah we ca n't block them .	block
+20	44	269	169.017	170.419	A	yeah we ca n't block them .	them
+20	44	270	169.017	170.419	A	yeah we ca n't block them .	.
+20	45	271	170.271	172.077	B	i 'm blocking a school .	i
+20	45	272	170.271	172.077	B	i 'm blocking a school .	'm
+20	45	273	170.271	172.077	B	i 'm blocking a school .	blocking
+20	45	274	170.271	172.077	B	i 'm blocking a school .	a
+20	45	275	170.271	172.077	B	i 'm blocking a school .	school
+20	45	276	170.271	172.077	B	i 'm blocking a school .	.
+20	46	277	172.486	173.254	A	oh	oh
+20	47	278	173.780	175.451	A	oh good uh .	oh
+20	47	279	173.780	175.451	A	oh good uh .	good
+20	47	280	173.780	175.451	A	oh good uh .	uh
+20	47	281	173.780	175.451	A	oh good uh .	.
+20	48	282	176.374	177.816	B	mountain basel okay .	mountain
+20	48	283	176.374	177.816	B	mountain basel okay .	basel
+20	48	284	176.374	177.816	B	mountain basel okay .	okay
+20	48	285	176.374	177.816	B	mountain basel okay .	.
+20	49	286	178.504	180.162	A	i 'm gon na	i
+20	49	287	178.504	180.162	A	i 'm gon na	'm
+20	49	288	178.504	180.162	A	i 'm gon na	gon
+20	49	289	178.504	180.162	A	i 'm gon na	na
+20	50	290	179.164	183.266	B	try um mount zurich from mount saint gallen .	try
+20	50	291	179.164	183.266	B	try um mount zurich from mount saint gallen .	um
+20	50	292	179.164	183.266	B	try um mount zurich from mount saint gallen .	mount
+20	50	293	179.164	183.266	B	try um mount zurich from mount saint gallen .	zurich
+20	50	294	179.164	183.266	B	try um mount zurich from mount saint gallen .	from
+20	50	295	179.164	183.266	B	try um mount zurich from mount saint gallen .	mount
+20	50	296	179.164	183.266	B	try um mount zurich from mount saint gallen .	saint
+20	50	297	179.164	183.266	B	try um mount zurich from mount saint gallen .	gallen
+20	50	298	179.164	183.266	B	try um mount zurich from mount saint gallen .	.
+20	51	299	183.554	184.040	A	okay .	okay
+20	51	300	183.554	184.040	A	okay .	.
+20	52	301	184.673	189.545	A	no i think we should do this , mount bern and then go to mount saint gallen .	no
+20	52	302	184.673	189.545	A	no i think we should do this , mount bern and then go to mount saint gallen .	i
+20	52	303	184.673	189.545	A	no i think we should do this , mount bern and then go to mount saint gallen .	think
+20	52	304	184.673	189.545	A	no i think we should do this , mount bern and then go to mount saint gallen .	we
+20	52	305	184.673	189.545	A	no i think we should do this , mount bern and then go to mount saint gallen .	should
+20	52	306	184.673	189.545	A	no i think we should do this , mount bern and then go to mount saint gallen .	do
+20	52	307	184.673	189.545	A	no i think we should do this , mount bern and then go to mount saint gallen .	this
+20	52	308	184.673	189.545	A	no i think we should do this , mount bern and then go to mount saint gallen .	,
+20	52	309	184.673	189.545	A	no i think we should do this , mount bern and then go to mount saint gallen .	mount
+20	52	310	184.673	189.545	A	no i think we should do this , mount bern and then go to mount saint gallen .	bern
+20	52	311	184.673	189.545	A	no i think we should do this , mount bern and then go to mount saint gallen .	and
+20	52	312	184.673	189.545	A	no i think we should do this , mount bern and then go to mount saint gallen .	then
+20	52	313	184.673	189.545	A	no i think we should do this , mount bern and then go to mount saint gallen .	go
+20	52	314	184.673	189.545	A	no i think we should do this , mount bern and then go to mount saint gallen .	to
+20	52	315	184.673	189.545	A	no i think we should do this , mount bern and then go to mount saint gallen .	mount
+20	52	316	184.673	189.545	A	no i think we should do this , mount bern and then go to mount saint gallen .	saint
+20	52	317	184.673	189.545	A	no i think we should do this , mount bern and then go to mount saint gallen .	gallen
+20	52	318	184.673	189.545	A	no i think we should do this , mount bern and then go to mount saint gallen .	.
+20	53	319	191.469	192.251	B	okay .	okay
+20	53	320	191.469	192.251	B	okay .	.
+20	54	321	192.790	195.298	A	try to go to mount saint gallen .	try
+20	54	322	192.790	195.298	A	try to go to mount saint gallen .	to
+20	54	323	192.790	195.298	A	try to go to mount saint gallen .	go
+20	54	324	192.790	195.298	A	try to go to mount saint gallen .	to
+20	54	325	192.790	195.298	A	try to go to mount saint gallen .	mount
+20	54	326	192.790	195.298	A	try to go to mount saint gallen .	saint
+20	54	327	192.790	195.298	A	try to go to mount saint gallen .	gallen
+20	54	328	192.790	195.298	A	try to go to mount saint gallen .	.
+20	55	329	194.543	196.592	B	oh i think we have to connect all of them .	oh
+20	55	330	194.543	196.592	B	oh i think we have to connect all of them .	i
+20	55	331	194.543	196.592	B	oh i think we have to connect all of them .	think
+20	55	332	194.543	196.592	B	oh i think we have to connect all of them .	we
+20	55	333	194.543	196.592	B	oh i think we have to connect all of them .	have
+20	55	334	194.543	196.592	B	oh i think we have to connect all of them .	to
+20	55	335	194.543	196.592	B	oh i think we have to connect all of them .	connect
+20	55	336	194.543	196.592	B	oh i think we have to connect all of them .	all
+20	55	337	194.543	196.592	B	oh i think we have to connect all of them .	of
+20	55	338	194.543	196.592	B	oh i think we have to connect all of them .	them
+20	55	339	194.543	196.592	B	oh i think we have to connect all of them .	.
+20	56	340	196.730	197.269	A	oh .	oh
+20	56	341	196.730	197.269	A	oh .	.
+20	57	342	197.916	199.551	B	okay i did some .	okay
+20	57	343	197.916	199.551	B	okay i did some .	i
+20	57	344	197.916	199.551	B	okay i did some .	did
+20	57	345	197.916	199.551	B	okay i did some .	some
+20	57	346	197.916	199.551	B	okay i did some .	.
+20	58	347	200.239	201.182	B	okay for me .	okay
+20	58	348	200.239	201.182	B	okay for me .	for
+20	58	349	200.239	201.182	B	okay for me .	me
+20	58	350	200.239	201.182	B	okay for me .	.
+20	59	351	203.466	204.086	A	oh no .	oh
+20	59	352	203.466	204.086	A	oh no .	no
+20	59	353	203.466	204.086	A	oh no .	.
+20	60	354	204.656	206.112	B	i think we are doing terrible .	i
+20	60	355	204.656	206.112	B	i think we are doing terrible .	think
+20	60	356	204.656	206.112	B	i think we are doing terrible .	we
+20	60	357	204.656	206.112	B	i think we are doing terrible .	are
+20	60	358	204.656	206.112	B	i think we are doing terrible .	doing
+20	60	359	204.656	206.112	B	i think we are doing terrible .	terrible
+20	60	360	204.656	206.112	B	i think we are doing terrible .	.
+20	61	361	214.069	215.484	B	you are making me hesitate .	you
+20	61	362	214.069	215.484	B	you are making me hesitate .	are
+20	61	363	214.069	215.484	B	you are making me hesitate .	making
+20	61	364	214.069	215.484	B	you are making me hesitate .	me
+20	61	365	214.069	215.484	B	you are making me hesitate .	hesitate
+20	61	366	214.069	215.484	B	you are making me hesitate .	.
+20	62	367	217.958	218.659	A	okay .	okay
+20	62	368	217.958	218.659	A	okay .	.
+20	63	369	218.673	219.535	B	okay .	okay
+20	63	370	218.673	219.535	B	okay .	.
+20	64	371	220.348	221.993	B	thanks , robot .	thanks
+20	64	372	220.348	221.993	B	thanks , robot .	,
+20	64	373	220.348	221.993	B	thanks , robot .	robot
+20	64	374	220.348	221.993	B	thanks , robot .	.
+20	65	375	221.386	222.249	A	i guess .	i
+20	65	376	221.386	222.249	A	i guess .	guess
+20	65	377	221.386	222.249	A	i guess .	.
+20	66	378	224.277	225.679	B	we 've been doing this right ?	we
+20	66	379	224.277	225.679	B	we 've been doing this right ?	've
+20	66	380	224.277	225.679	B	we 've been doing this right ?	been
+20	66	381	224.277	225.679	B	we 've been doing this right ?	doing
+20	66	382	224.277	225.679	B	we 've been doing this right ?	this
+20	66	383	224.277	225.679	B	we 've been doing this right ?	right
+20	66	384	224.277	225.679	B	we 've been doing this right ?	?
+20	67	385	226.649	230.653	B	i do n't even think , oh , wait i 'm gon na check something .	i
+20	67	386	226.649	230.653	B	i do n't even think , oh , wait i 'm gon na check something .	do
+20	67	387	226.649	230.653	B	i do n't even think , oh , wait i 'm gon na check something .	n't
+20	67	388	226.649	230.653	B	i do n't even think , oh , wait i 'm gon na check something .	even
+20	67	389	226.649	230.653	B	i do n't even think , oh , wait i 'm gon na check something .	think
+20	67	390	226.649	230.653	B	i do n't even think , oh , wait i 'm gon na check something .	,
+20	67	391	226.649	230.653	B	i do n't even think , oh , wait i 'm gon na check something .	oh
+20	67	392	226.649	230.653	B	i do n't even think , oh , wait i 'm gon na check something .	,
+20	67	393	226.649	230.653	B	i do n't even think , oh , wait i 'm gon na check something .	wait
+20	67	394	226.649	230.653	B	i do n't even think , oh , wait i 'm gon na check something .	i
+20	67	395	226.649	230.653	B	i do n't even think , oh , wait i 'm gon na check something .	'm
+20	67	396	226.649	230.653	B	i do n't even think , oh , wait i 'm gon na check something .	gon
+20	67	397	226.649	230.653	B	i do n't even think , oh , wait i 'm gon na check something .	na
+20	67	398	226.649	230.653	B	i do n't even think , oh , wait i 'm gon na check something .	check
+20	67	399	226.649	230.653	B	i do n't even think , oh , wait i 'm gon na check something .	something
+20	67	400	226.649	230.653	B	i do n't even think , oh , wait i 'm gon na check something .	.
+20	68	401	231.185	234.986	A	wait , oh wait , i think the check is green .	wait
+20	68	402	231.185	234.986	A	wait , oh wait , i think the check is green .	,
+20	68	403	231.185	234.986	A	wait , oh wait , i think the check is green .	oh
+20	68	404	231.185	234.986	A	wait , oh wait , i think the check is green .	wait
+20	68	405	231.185	234.986	A	wait , oh wait , i think the check is green .	,
+20	68	406	231.185	234.986	A	wait , oh wait , i think the check is green .	i
+20	68	407	231.185	234.986	A	wait , oh wait , i think the check is green .	think
+20	68	408	231.185	234.986	A	wait , oh wait , i think the check is green .	the
+20	68	409	231.185	234.986	A	wait , oh wait , i think the check is green .	check
+20	68	410	231.185	234.986	A	wait , oh wait , i think the check is green .	is
+20	68	411	231.185	234.986	A	wait , oh wait , i think the check is green .	green
+20	68	412	231.185	234.986	A	wait , oh wait , i think the check is green .	.
+20	69	413	235.613	237.015	B	let me see something .	let
+20	69	414	235.613	237.015	B	let me see something .	me
+20	69	415	235.613	237.015	B	let me see something .	see
+20	69	416	235.613	237.015	B	let me see something .	something
+20	69	417	235.613	237.015	B	let me see something .	.
+20	70	418	239.785	240.891	B	oh wait oh no .	oh
+20	70	419	239.785	240.891	B	oh wait oh no .	wait
+20	70	420	239.785	240.891	B	oh wait oh no .	oh
+20	70	421	239.785	240.891	B	oh wait oh no .	no
+20	70	422	239.785	240.891	B	oh wait oh no .	.
+20	71	423	241.052	241.457	A	what ?	what
+20	71	424	241.052	241.457	A	what ?	?
+20	72	425	241.767	243.506	B	i know what we have to do .	i
+20	72	426	241.767	243.506	B	i know what we have to do .	know
+20	72	427	241.767	243.506	B	i know what we have to do .	what
+20	72	428	241.767	243.506	B	i know what we have to do .	we
+20	72	429	241.767	243.506	B	i know what we have to do .	have
+20	72	430	241.767	243.506	B	i know what we have to do .	to
+20	72	431	241.767	243.506	B	i know what we have to do .	do
+20	72	432	241.767	243.506	B	i know what we have to do .	.
+20	73	433	243.412	243.843	A	what ?	what
+20	73	434	243.412	243.843	A	what ?	?
+20	74	435	243.955	245.815	B	we have to do like seven .	we
+20	74	436	243.955	245.815	B	we have to do like seven .	have
+20	74	437	243.955	245.815	B	we have to do like seven .	to
+20	74	438	243.955	245.815	B	we have to do like seven .	do
+20	74	439	243.955	245.815	B	we have to do like seven .	like
+20	74	440	243.955	245.815	B	we have to do like seven .	seven
+20	74	441	243.955	245.815	B	we have to do like seven .	.
+20	75	442	246.624	248.259	A	oh wait ca n't do fourteen .	oh
+20	75	443	246.624	248.259	A	oh wait ca n't do fourteen .	wait
+20	75	444	246.624	248.259	A	oh wait ca n't do fourteen .	ca
+20	75	445	246.624	248.259	A	oh wait ca n't do fourteen .	n't
+20	75	446	246.624	248.259	A	oh wait ca n't do fourteen .	do
+20	75	447	246.624	248.259	A	oh wait ca n't do fourteen .	fourteen
+20	75	448	246.624	248.259	A	oh wait ca n't do fourteen .	.
+20	76	449	250.395	252.390	B	oh okay , then .	oh
+20	76	450	250.395	252.390	B	oh okay , then .	okay
+20	76	451	250.395	252.390	B	oh okay , then .	,
+20	76	452	250.395	252.390	B	oh okay , then .	then
+20	76	453	250.395	252.390	B	oh okay , then .	.
+20	77	454	250.988	251.460	A	oh .	oh
+20	77	455	250.988	251.460	A	oh .	.
+20	78	456	255.525	256.550	B	how you doing ?	how
+20	78	457	255.525	256.550	B	how you doing ?	you
+20	78	458	255.525	256.550	B	how you doing ?	doing
+20	78	459	255.525	256.550	B	how you doing ?	?
+20	79	460	257.306	258.452	A	i 'm thinking .	i
+20	79	461	257.306	258.452	A	i 'm thinking .	'm
+20	79	462	257.306	258.452	A	i 'm thinking .	thinking
+20	79	463	257.306	258.452	A	i 'm thinking .	.
+20	80	464	259.321	259.968	B	okay .	okay
+20	80	465	259.321	259.968	B	okay .	.
+20	81	466	259.523	261.289	A	wait uh this one is not connected .	wait
+20	81	467	259.523	261.289	A	wait uh this one is not connected .	uh
+20	81	468	259.523	261.289	A	wait uh this one is not connected .	this
+20	81	469	259.523	261.289	A	wait uh this one is not connected .	one
+20	81	470	259.523	261.289	A	wait uh this one is not connected .	is
+20	81	471	259.523	261.289	A	wait uh this one is not connected .	not
+20	81	472	259.523	261.289	A	wait uh this one is not connected .	connected
+20	81	473	259.523	261.289	A	wait uh this one is not connected .	.
+20	82	474	262.017	263.608	A	and this one is not connected .	and
+20	82	475	262.017	263.608	A	and this one is not connected .	this
+20	82	476	262.017	263.608	A	and this one is not connected .	one
+20	82	477	262.017	263.608	A	and this one is not connected .	is
+20	82	478	262.017	263.608	A	and this one is not connected .	not
+20	82	479	262.017	263.608	A	and this one is not connected .	connected
+20	82	480	262.017	263.608	A	and this one is not connected .	.
+20	83	481	264.531	265.777	B	oh my turn yey .	oh
+20	83	482	264.531	265.777	B	oh my turn yey .	my
+20	83	483	264.531	265.777	B	oh my turn yey .	turn
+20	83	484	264.531	265.777	B	oh my turn yey .	yey
+20	83	485	264.531	265.777	B	oh my turn yey .	.
+20	84	486	269.134	270.644	B	what can we connect next ?	what
+20	84	487	269.134	270.644	B	what can we connect next ?	can
+20	84	488	269.134	270.644	B	what can we connect next ?	we
+20	84	489	269.134	270.644	B	what can we connect next ?	connect
+20	84	490	269.134	270.644	B	what can we connect next ?	next
+20	84	491	269.134	270.644	B	what can we connect next ?	?
+20	85	492	271.214	273.371	B	can i connect it , can i connect it .	can
+20	85	493	271.214	273.371	B	can i connect it , can i connect it .	i
+20	85	494	271.214	273.371	B	can i connect it , can i connect it .	connect
+20	85	495	271.214	273.371	B	can i connect it , can i connect it .	it
+20	85	496	271.214	273.371	B	can i connect it , can i connect it .	,
+20	85	497	271.214	273.371	B	can i connect it , can i connect it .	can
+20	85	498	271.214	273.371	B	can i connect it , can i connect it .	i
+20	85	499	271.214	273.371	B	can i connect it , can i connect it .	connect
+20	85	500	271.214	273.371	B	can i connect it , can i connect it .	it
+20	85	501	271.214	273.371	B	can i connect it , can i connect it .	.
+20	86	502	272.508	272.872	A	oh .	oh
+20	86	503	272.508	272.872	A	oh .	.
+20	87	504	278.140	279.070	B	did we do it ?	did
+20	87	505	278.140	279.070	B	did we do it ?	we
+20	87	506	278.140	279.070	B	did we do it ?	do
+20	87	507	278.140	279.070	B	did we do it ?	it
+20	87	508	278.140	279.070	B	did we do it ?	?
+20	88	509	280.719	281.447	A	i do n't know .	i
+20	88	510	280.719	281.447	A	i do n't know .	do
+20	88	511	280.719	281.447	A	i do n't know .	n't
+20	88	512	280.719	281.447	A	i do n't know .	know
+20	88	513	280.719	281.447	A	i do n't know .	.
+20	89	514	281.716	284.062	B	i 'm so confused , let me see .	i
+20	89	515	281.716	284.062	B	i 'm so confused , let me see .	'm
+20	89	516	281.716	284.062	B	i 'm so confused , let me see .	so
+20	89	517	281.716	284.062	B	i 'm so confused , let me see .	confused
+20	89	518	281.716	284.062	B	i 'm so confused , let me see .	,
+20	89	519	281.716	284.062	B	i 'm so confused , let me see .	let
+20	89	520	281.716	284.062	B	i 'm so confused , let me see .	me
+20	89	521	281.716	284.062	B	i 'm so confused , let me see .	see
+20	89	522	281.716	284.062	B	i 'm so confused , let me see .	.
+20	90	523	285.712	287.438	B	what , what can i do .	what
+20	90	524	285.712	287.438	B	what , what can i do .	,
+20	90	525	285.712	287.438	B	what , what can i do .	what
+20	90	526	285.712	287.438	B	what , what can i do .	can
+20	90	527	285.712	287.438	B	what , what can i do .	i
+20	90	528	285.712	287.438	B	what , what can i do .	do
+20	90	529	285.712	287.438	B	what , what can i do .	.
+20	91	530	288.233	289.244	A	uh i do n't know .	uh
+20	91	531	288.233	289.244	A	uh i do n't know .	i
+20	91	532	288.233	289.244	A	uh i do n't know .	do
+20	91	533	288.233	289.244	A	uh i do n't know .	n't
+20	91	534	288.233	289.244	A	uh i do n't know .	know
+20	91	535	288.233	289.244	A	uh i do n't know .	.
+20	92	536	290.369	291.906	B	oh you think we are done ?	oh
+20	92	537	290.369	291.906	B	oh you think we are done ?	you
+20	92	538	290.369	291.906	B	oh you think we are done ?	think
+20	92	539	290.369	291.906	B	oh you think we are done ?	we
+20	92	540	290.369	291.906	B	oh you think we are done ?	are
+20	92	541	290.369	291.906	B	oh you think we are done ?	done
+20	92	542	290.369	291.906	B	oh you think we are done ?	?
+20	93	543	292.795	295.208	A	uh i do n't know , i do n't think so .	uh
+20	93	544	292.795	295.208	A	uh i do n't know , i do n't think so .	i
+20	93	545	292.795	295.208	A	uh i do n't know , i do n't think so .	do
+20	93	546	292.795	295.208	A	uh i do n't know , i do n't think so .	n't
+20	93	547	292.795	295.208	A	uh i do n't know , i do n't think so .	know
+20	93	548	292.795	295.208	A	uh i do n't know , i do n't think so .	,
+20	93	549	292.795	295.208	A	uh i do n't know , i do n't think so .	i
+20	93	550	292.795	295.208	A	uh i do n't know , i do n't think so .	do
+20	93	551	292.795	295.208	A	uh i do n't know , i do n't think so .	n't
+20	93	552	292.795	295.208	A	uh i do n't know , i do n't think so .	think
+20	93	553	292.795	295.208	A	uh i do n't know , i do n't think so .	so
+20	93	554	292.795	295.208	A	uh i do n't know , i do n't think so .	.
+20	94	555	296.333	297.546	A	or maybe yes , i do n't know .	or
+20	94	556	296.333	297.546	A	or maybe yes , i do n't know .	maybe
+20	94	557	296.333	297.546	A	or maybe yes , i do n't know .	yes
+20	94	558	296.333	297.546	A	or maybe yes , i do n't know .	,
+20	94	559	296.333	297.546	A	or maybe yes , i do n't know .	i
+20	94	560	296.333	297.546	A	or maybe yes , i do n't know .	do
+20	94	561	296.333	297.546	A	or maybe yes , i do n't know .	n't
+20	94	562	296.333	297.546	A	or maybe yes , i do n't know .	know
+20	94	563	296.333	297.546	A	or maybe yes , i do n't know .	.
+20	95	564	298.076	299.707	B	i think probably yes .	i
+20	95	565	298.076	299.707	B	i think probably yes .	think
+20	95	566	298.076	299.707	B	i think probably yes .	probably
+20	95	567	298.076	299.707	B	i think probably yes .	yes
+20	95	568	298.076	299.707	B	i think probably yes .	.
+20	96	569	299.928	301.680	A	so should we click the check ?	so
+20	96	570	299.928	301.680	A	so should we click the check ?	should
+20	96	571	299.928	301.680	A	so should we click the check ?	we
+20	96	572	299.928	301.680	A	so should we click the check ?	click
+20	96	573	299.928	301.680	A	so should we click the check ?	the
+20	96	574	299.928	301.680	A	so should we click the check ?	check
+20	96	575	299.928	301.680	A	so should we click the check ?	?
+20	97	576	302.435	304.309	B	oh yes , click the check .	oh
+20	97	577	302.435	304.309	B	oh yes , click the check .	yes
+20	97	578	302.435	304.309	B	oh yes , click the check .	,
+20	97	579	302.435	304.309	B	oh yes , click the check .	click
+20	97	580	302.435	304.309	B	oh yes , click the check .	the
+20	97	581	302.435	304.309	B	oh yes , click the check .	check
+20	97	582	302.435	304.309	B	oh yes , click the check .	.
+20	98	583	303.904	304.471	A	okay .	okay
+20	98	584	303.904	304.471	A	okay .	.
+20	99	585	312.736	313.248	B	what ?	what
+20	99	586	312.736	313.248	B	what ?	?
+20	100	587	320.287	320.813	B	what	what
+20	101	588	327.921	330.361	B	oh now we start again , basically .	oh
+20	101	589	327.921	330.361	B	oh now we start again , basically .	now
+20	101	590	327.921	330.361	B	oh now we start again , basically .	we
+20	101	591	327.921	330.361	B	oh now we start again , basically .	start
+20	101	592	327.921	330.361	B	oh now we start again , basically .	again
+20	101	593	327.921	330.361	B	oh now we start again , basically .	,
+20	101	594	327.921	330.361	B	oh now we start again , basically .	basically
+20	101	595	327.921	330.361	B	oh now we start again , basically .	.
+20	102	596	328.932	331.884	A	oh , oh i see , compare solutions .	oh
+20	102	597	328.932	331.884	A	oh , oh i see , compare solutions .	,
+20	102	598	328.932	331.884	A	oh , oh i see , compare solutions .	oh
+20	102	599	328.932	331.884	A	oh , oh i see , compare solutions .	i
+20	102	600	328.932	331.884	A	oh , oh i see , compare solutions .	see
+20	102	601	328.932	331.884	A	oh , oh i see , compare solutions .	,
+20	102	602	328.932	331.884	A	oh , oh i see , compare solutions .	compare
+20	102	603	328.932	331.884	A	oh , oh i see , compare solutions .	solutions
+20	102	604	328.932	331.884	A	oh , oh i see , compare solutions .	.
+20	103	605	332.900	333.992	B	what can we do ?	what
+20	103	606	332.900	333.992	B	what can we do ?	can
+20	103	607	332.900	333.992	B	what can we do ?	we
+20	103	608	332.900	333.992	B	what can we do ?	do
+20	103	609	332.900	333.992	B	what can we do ?	?
+20	104	610	334.262	335.434	A	oh okay um .	oh
+20	104	611	334.262	335.434	A	oh okay um .	okay
+20	104	612	334.262	335.434	A	oh okay um .	um
+20	104	613	334.262	335.434	A	oh okay um .	.
+20	105	614	337.408	341.281	A	oh this is our previous solution price 64 .	oh
+20	105	615	337.408	341.281	A	oh this is our previous solution price 64 .	this
+20	105	616	337.408	341.281	A	oh this is our previous solution price 64 .	is
+20	105	617	337.408	341.281	A	oh this is our previous solution price 64 .	our
+20	105	618	337.408	341.281	A	oh this is our previous solution price 64 .	previous
+20	105	619	337.408	341.281	A	oh this is our previous solution price 64 .	solution
+20	105	620	337.408	341.281	A	oh this is our previous solution price 64 .	price
+20	105	621	337.408	341.281	A	oh this is our previous solution price 64 .	64
+20	105	622	337.408	341.281	A	oh this is our previous solution price 64 .	.
+20	106	623	342.187	342.781	B	so .	so
+20	106	624	342.187	342.781	B	so .	.
+20	107	625	342.888	346.937	A	oh i get it we have to get the most price , but .	oh
+20	107	626	342.888	346.937	A	oh i get it we have to get the most price , but .	i
+20	107	627	342.888	346.937	A	oh i get it we have to get the most price , but .	get
+20	107	628	342.888	346.937	A	oh i get it we have to get the most price , but .	it
+20	107	629	342.888	346.937	A	oh i get it we have to get the most price , but .	we
+20	107	630	342.888	346.937	A	oh i get it we have to get the most price , but .	have
+20	107	631	342.888	346.937	A	oh i get it we have to get the most price , but .	to
+20	107	632	342.888	346.937	A	oh i get it we have to get the most price , but .	get
+20	107	633	342.888	346.937	A	oh i get it we have to get the most price , but .	the
+20	107	634	342.888	346.937	A	oh i get it we have to get the most price , but .	most
+20	107	635	342.888	346.937	A	oh i get it we have to get the most price , but .	price
+20	107	636	342.888	346.937	A	oh i get it we have to get the most price , but .	,
+20	107	637	342.888	346.937	A	oh i get it we have to get the most price , but .	but
+20	107	638	342.888	346.937	A	oh i get it we have to get the most price , but .	.
+20	108	639	353.681	357.206	A	oh by by 40 francs so	oh
+20	108	640	353.681	357.206	A	oh by by 40 francs so	by
+20	108	641	353.681	357.206	A	oh by by 40 francs so	by
+20	108	642	353.681	357.206	A	oh by by 40 francs so	40
+20	108	643	353.681	357.206	A	oh by by 40 francs so	francs
+20	108	644	353.681	357.206	A	oh by by 40 francs so	so
+20	109	645	358.718	360.686	A	oh so we need to get 24 .	oh
+20	109	646	358.718	360.686	A	oh so we need to get 24 .	so
+20	109	647	358.718	360.686	A	oh so we need to get 24 .	we
+20	109	648	358.718	360.686	A	oh so we need to get 24 .	need
+20	109	649	358.718	360.686	A	oh so we need to get 24 .	to
+20	109	650	358.718	360.686	A	oh so we need to get 24 .	get
+20	109	651	358.718	360.686	A	oh so we need to get 24 .	24
+20	109	652	358.718	360.686	A	oh so we need to get 24 .	.
+20	110	653	362.322	363.401	B	okay .	okay
+20	110	654	362.322	363.401	B	okay .	.
+20	111	655	365.278	366.289	B	i 'm just gon na	i
+20	111	656	365.278	366.289	B	i 'm just gon na	'm
+20	111	657	365.278	366.289	B	i 'm just gon na	just
+20	111	658	365.278	366.289	B	i 'm just gon na	gon
+20	111	659	365.278	366.289	B	i 'm just gon na	na
+20	112	660	365.494	366.977	A	by 40 okay .	by
+20	112	661	365.494	366.977	A	by 40 okay .	40
+20	112	662	365.494	366.977	A	by 40 okay .	okay
+20	112	663	365.494	366.977	A	by 40 okay .	.
+20	113	664	367.004	369.269	B	okay , tell me if this works .	okay
+20	113	665	367.004	369.269	B	okay , tell me if this works .	,
+20	113	666	367.004	369.269	B	okay , tell me if this works .	tell
+20	113	667	367.004	369.269	B	okay , tell me if this works .	me
+20	113	668	367.004	369.269	B	okay , tell me if this works .	if
+20	113	669	367.004	369.269	B	okay , tell me if this works .	this
+20	113	670	367.004	369.269	B	okay , tell me if this works .	works
+20	113	671	367.004	369.269	B	okay , tell me if this works .	.
+20	114	672	372.908	373.407	A	oh wait .	oh
+20	114	673	372.908	373.407	A	oh wait .	wait
+20	114	674	372.908	373.407	A	oh wait .	.
+20	115	675	373.771	374.594	A	that 's 2 .	that
+20	115	676	373.771	374.594	A	that 's 2 .	's
+20	115	677	373.771	374.594	A	that 's 2 .	2
+20	115	678	373.771	374.594	A	that 's 2 .	.
+20	116	679	375.160	375.726	B	that 's uh	that
+20	116	680	375.160	375.726	B	that 's uh	's
+20	116	681	375.160	375.726	B	that 's uh	uh
+20	117	682	375.861	377.128	A	that 's 2 francs .	that
+20	117	683	375.861	377.128	A	that 's 2 francs .	's
+20	117	684	375.861	377.128	A	that 's 2 francs .	2
+20	117	685	375.861	377.128	A	that 's 2 francs .	francs
+20	117	686	375.861	377.128	A	that 's 2 francs .	.
+20	118	687	378.385	379.343	B	i 'll try this one .	i
+20	118	688	378.385	379.343	B	i 'll try this one .	'll
+20	118	689	378.385	379.343	B	i 'll try this one .	try
+20	118	690	378.385	379.343	B	i 'll try this one .	this
+20	118	691	378.385	379.343	B	i 'll try this one .	one
+20	118	692	378.385	379.343	B	i 'll try this one .	.
+20	119	693	380.924	382.892	A	wait wait wait , wait , wait , wait , wait .	wait
+20	119	694	380.924	382.892	A	wait wait wait , wait , wait , wait , wait .	wait
+20	119	695	380.924	382.892	A	wait wait wait , wait , wait , wait , wait .	wait
+20	119	696	380.924	382.892	A	wait wait wait , wait , wait , wait , wait .	,
+20	119	697	380.924	382.892	A	wait wait wait , wait , wait , wait , wait .	wait
+20	119	698	380.924	382.892	A	wait wait wait , wait , wait , wait , wait .	,
+20	119	699	380.924	382.892	A	wait wait wait , wait , wait , wait , wait .	wait
+20	119	700	380.924	382.892	A	wait wait wait , wait , wait , wait , wait .	,
+20	119	701	380.924	382.892	A	wait wait wait , wait , wait , wait , wait .	wait
+20	119	702	380.924	382.892	A	wait wait wait , wait , wait , wait , wait .	,
+20	119	703	380.924	382.892	A	wait wait wait , wait , wait , wait , wait .	wait
+20	119	704	380.924	382.892	A	wait wait wait , wait , wait , wait , wait .	.
+20	120	705	383.275	388.223	A	try from neuchatel to mount bern that 's 5 .	try
+20	120	706	383.275	388.223	A	try from neuchatel to mount bern that 's 5 .	from
+20	120	707	383.275	388.223	A	try from neuchatel to mount bern that 's 5 .	neuchatel
+20	120	708	383.275	388.223	A	try from neuchatel to mount bern that 's 5 .	to
+20	120	709	383.275	388.223	A	try from neuchatel to mount bern that 's 5 .	mount
+20	120	710	383.275	388.223	A	try from neuchatel to mount bern that 's 5 .	bern
+20	120	711	383.275	388.223	A	try from neuchatel to mount bern that 's 5 .	that
+20	120	712	383.275	388.223	A	try from neuchatel to mount bern that 's 5 .	's
+20	120	713	383.275	388.223	A	try from neuchatel to mount bern that 's 5 .	5
+20	120	714	383.275	388.223	A	try from neuchatel to mount bern that 's 5 .	.
+20	121	715	392.015	393.268	A	neuchatel to	neuchatel
+20	121	716	392.015	393.268	A	neuchatel to	to
+20	122	717	393.524	394.846	B	neuchatel ?	neuchatel
+20	122	718	393.524	394.846	B	neuchatel ?	?
+20	123	719	395.385	398.512	A	neuchatel whatever to mount bern .	neuchatel
+20	123	720	395.385	398.512	A	neuchatel whatever to mount bern .	whatever
+20	123	721	395.385	398.512	A	neuchatel whatever to mount bern .	to
+20	123	722	395.385	398.512	A	neuchatel whatever to mount bern .	mount
+20	123	723	395.385	398.512	A	neuchatel whatever to mount bern .	bern
+20	123	724	395.385	398.512	A	neuchatel whatever to mount bern .	.
+20	124	725	398.193	400.821	B	i 'm trying to	i
+20	124	726	398.193	400.821	B	i 'm trying to	'm
+20	124	727	398.193	400.821	B	i 'm trying to	trying
+20	124	728	398.193	400.821	B	i 'm trying to	to
+20	125	729	402.592	404.735	B	oh that 's to	oh
+20	125	730	402.592	404.735	B	oh that 's to	that
+20	125	731	402.592	404.735	B	oh that 's to	's
+20	125	732	402.592	404.735	B	oh that 's to	to
+20	126	733	404.911	405.760	A	mount bern .	mount
+20	126	734	404.911	405.760	A	mount bern .	bern
+20	126	735	404.911	405.760	A	mount bern .	.
+20	127	736	407.951	409.056	B	how much do we have now ?	how
+20	127	737	407.951	409.056	B	how much do we have now ?	much
+20	127	738	407.951	409.056	B	how much do we have now ?	do
+20	127	739	407.951	409.056	B	how much do we have now ?	we
+20	127	740	407.951	409.056	B	how much do we have now ?	have
+20	127	741	407.951	409.056	B	how much do we have now ?	now
+20	127	742	407.951	409.056	B	how much do we have now ?	?
+20	128	743	409.043	410.957	A	now we have um seven .	now
+20	128	744	409.043	410.957	A	now we have um seven .	we
+20	128	745	409.043	410.957	A	now we have um seven .	have
+20	128	746	409.043	410.957	A	now we have um seven .	um
+20	128	747	409.043	410.957	A	now we have um seven .	seven
+20	128	748	409.043	410.957	A	now we have um seven .	.
+20	129	749	411.097	411.811	B	5 .	5
+20	129	750	411.097	411.811	B	5 .	.
+20	130	751	412.027	412.849	A	i do .	i
+20	130	752	412.027	412.849	A	i do .	do
+20	130	753	412.027	412.849	A	i do .	.
+20	131	754	412.310	412.862	B	2 .	2
+20	131	755	412.310	412.862	B	2 .	.
+20	132	756	413.267	415.060	A	look at our previous solution .	look
+20	132	757	413.267	415.060	A	look at our previous solution .	at
+20	132	758	413.267	415.060	A	look at our previous solution .	our
+20	132	759	413.267	415.060	A	look at our previous solution .	previous
+20	132	760	413.267	415.060	A	look at our previous solution .	solution
+20	132	761	413.267	415.060	A	look at our previous solution .	.
+20	133	762	415.983	417.776	A	top right i mean bottom right .	top
+20	133	763	415.983	417.776	A	top right i mean bottom right .	right
+20	133	764	415.983	417.776	A	top right i mean bottom right .	i
+20	133	765	415.983	417.776	A	top right i mean bottom right .	mean
+20	133	766	415.983	417.776	A	top right i mean bottom right .	bottom
+20	133	767	415.983	417.776	A	top right i mean bottom right .	right
+20	133	768	415.983	417.776	A	top right i mean bottom right .	.
+20	134	769	421.532	422.219	A	bottom right .	bottom
+20	134	770	421.532	422.219	A	bottom right .	right
+20	134	771	421.532	422.219	A	bottom right .	.
+20	135	772	423.247	424.259	B	i did it .	i
+20	135	773	423.247	424.259	B	i did it .	did
+20	135	774	423.247	424.259	B	i did it .	it
+20	135	775	423.247	424.259	B	i did it .	.
+20	136	776	424.690	425.795	B	i did	i
+20	136	777	424.690	425.795	B	i did	did
+20	137	778	425.081	426.645	A	that 's i think that 's bottom left .	that
+20	137	779	425.081	426.645	A	that 's i think that 's bottom left .	's
+20	137	780	425.081	426.645	A	that 's i think that 's bottom left .	i
+20	137	781	425.081	426.645	A	that 's i think that 's bottom left .	think
+20	137	782	425.081	426.645	A	that 's i think that 's bottom left .	that
+20	137	783	425.081	426.645	A	that 's i think that 's bottom left .	's
+20	137	784	425.081	426.645	A	that 's i think that 's bottom left .	bottom
+20	137	785	425.081	426.645	A	that 's i think that 's bottom left .	left
+20	137	786	425.081	426.645	A	that 's i think that 's bottom left .	.
+20	138	787	427.566	428.240	A	you clicked .	you
+20	138	788	427.566	428.240	A	you clicked .	clicked
+20	138	789	427.566	428.240	A	you clicked .	.
+20	139	790	429.374	431.437	B	okay , here we go .	okay
+20	139	791	429.374	431.437	B	okay , here we go .	,
+20	139	792	429.374	431.437	B	okay , here we go .	here
+20	139	793	429.374	431.437	B	okay , here we go .	we
+20	139	794	429.374	431.437	B	okay , here we go .	go
+20	139	795	429.374	431.437	B	okay , here we go .	.
+20	140	796	432.494	433.195	B	um	um
+20	141	797	433.573	435.810	B	try um neuchatel .	try
+20	141	798	433.573	435.810	B	try um neuchatel .	um
+20	141	799	433.573	435.810	B	try um neuchatel .	neuchatel
+20	141	800	433.573	435.810	B	try um neuchatel .	.
+20	142	801	436.217	436.760	A	okay .	okay
+20	142	802	436.217	436.760	A	okay .	.
+20	143	803	436.351	438.600	B	the one i just did to basel .	the
+20	143	804	436.351	438.600	B	the one i just did to basel .	one
+20	143	805	436.351	438.600	B	the one i just did to basel .	i
+20	143	806	436.351	438.600	B	the one i just did to basel .	just
+20	143	807	436.351	438.600	B	the one i just did to basel .	did
+20	143	808	436.351	438.600	B	the one i just did to basel .	to
+20	143	809	436.351	438.600	B	the one i just did to basel .	basel
+20	143	810	436.351	438.600	B	the one i just did to basel .	.
+20	144	811	438.805	439.642	A	how much is that ?	how
+20	144	812	438.805	439.642	A	how much is that ?	much
+20	144	813	438.805	439.642	A	how much is that ?	is
+20	144	814	438.805	439.642	A	how much is that ?	that
+20	144	815	438.805	439.642	A	how much is that ?	?
+20	145	816	439.667	440.939	B	um it 's 4 francs .	um
+20	145	817	439.667	440.939	B	um it 's 4 francs .	it
+20	145	818	439.667	440.939	B	um it 's 4 francs .	's
+20	145	819	439.667	440.939	B	um it 's 4 francs .	4
+20	145	820	439.667	440.939	B	um it 's 4 francs .	francs
+20	145	821	439.667	440.939	B	um it 's 4 francs .	.
+20	146	822	442.394	443.583	B	now this makes sense .	now
+20	146	823	442.394	443.583	B	now this makes sense .	this
+20	146	824	442.394	443.583	B	now this makes sense .	makes
+20	146	825	442.394	443.583	B	now this makes sense .	sense
+20	146	826	442.394	443.583	B	now this makes sense .	.
+20	147	827	443.673	444.254	A	there we go .	there
+20	147	828	443.673	444.254	A	there we go .	we
+20	147	829	443.673	444.254	A	there we go .	go
+20	147	830	443.673	444.254	A	there we go .	.
+20	148	831	443.967	444.714	B	perfect .	perfect
+20	148	832	443.967	444.714	B	perfect .	.
+20	149	833	445.687	446.454	A	now what else ?	now
+20	149	834	445.687	446.454	A	now what else ?	what
+20	149	835	445.687	446.454	A	now what else ?	else
+20	149	836	445.687	446.454	A	now what else ?	?
+20	150	837	446.562	447.010	B	um	um
+20	151	838	451.180	451.966	A	how much is that ?	how
+20	151	839	451.180	451.966	A	how much is that ?	much
+20	151	840	451.180	451.966	A	how much is that ?	is
+20	151	841	451.180	451.966	A	how much is that ?	that
+20	151	842	451.180	451.966	A	how much is that ?	?
+20	152	843	452.240	453.001	B	5 francs .	5
+20	152	844	452.240	453.001	B	5 francs .	francs
+20	152	845	452.240	453.001	B	5 francs .	.
+20	153	846	454.265	456.623	A	okay we have to get to um .	okay
+20	153	847	454.265	456.623	A	okay we have to get to um .	we
+20	153	848	454.265	456.623	A	okay we have to get to um .	have
+20	153	849	454.265	456.623	A	okay we have to get to um .	to
+20	153	850	454.265	456.623	A	okay we have to get to um .	get
+20	153	851	454.265	456.623	A	okay we have to get to um .	to
+20	153	852	454.265	456.623	A	okay we have to get to um .	um
+20	153	853	454.265	456.623	A	okay we have to get to um .	.
+20	154	854	457.092	460.786	A	we , wait wait wait wait wait , do n't to anything else , we have 5 2 7 .	we
+20	154	855	457.092	460.786	A	we , wait wait wait wait wait , do n't to anything else , we have 5 2 7 .	,
+20	154	856	457.092	460.786	A	we , wait wait wait wait wait , do n't to anything else , we have 5 2 7 .	wait
+20	154	857	457.092	460.786	A	we , wait wait wait wait wait , do n't to anything else , we have 5 2 7 .	wait
+20	154	858	457.092	460.786	A	we , wait wait wait wait wait , do n't to anything else , we have 5 2 7 .	wait
+20	154	859	457.092	460.786	A	we , wait wait wait wait wait , do n't to anything else , we have 5 2 7 .	wait
+20	154	860	457.092	460.786	A	we , wait wait wait wait wait , do n't to anything else , we have 5 2 7 .	wait
+20	154	861	457.092	460.786	A	we , wait wait wait wait wait , do n't to anything else , we have 5 2 7 .	,
+20	154	862	457.092	460.786	A	we , wait wait wait wait wait , do n't to anything else , we have 5 2 7 .	do
+20	154	863	457.092	460.786	A	we , wait wait wait wait wait , do n't to anything else , we have 5 2 7 .	n't
+20	154	864	457.092	460.786	A	we , wait wait wait wait wait , do n't to anything else , we have 5 2 7 .	to
+20	154	865	457.092	460.786	A	we , wait wait wait wait wait , do n't to anything else , we have 5 2 7 .	anything
+20	154	866	457.092	460.786	A	we , wait wait wait wait wait , do n't to anything else , we have 5 2 7 .	else
+20	154	867	457.092	460.786	A	we , wait wait wait wait wait , do n't to anything else , we have 5 2 7 .	,
+20	154	868	457.092	460.786	A	we , wait wait wait wait wait , do n't to anything else , we have 5 2 7 .	we
+20	154	869	457.092	460.786	A	we , wait wait wait wait wait , do n't to anything else , we have 5 2 7 .	have
+20	154	870	457.092	460.786	A	we , wait wait wait wait wait , do n't to anything else , we have 5 2 7 .	5
+20	154	871	457.092	460.786	A	we , wait wait wait wait wait , do n't to anything else , we have 5 2 7 .	2
+20	154	872	457.092	460.786	A	we , wait wait wait wait wait , do n't to anything else , we have 5 2 7 .	7
+20	154	873	457.092	460.786	A	we , wait wait wait wait wait , do n't to anything else , we have 5 2 7 .	.
+20	155	874	461.947	463.295	A	7 11 .	7
+20	155	875	461.947	463.295	A	7 11 .	11
+20	155	876	461.947	463.295	A	7 11 .	.
+20	156	877	464.583	465.458	A	14 .	14
+20	156	878	464.583	465.458	A	14 .	.
+20	157	879	466.123	468.347	A	4 , we have 19 .	4
+20	157	880	466.123	468.347	A	4 , we have 19 .	,
+20	157	881	466.123	468.347	A	4 , we have 19 .	we
+20	157	882	466.123	468.347	A	4 , we have 19 .	have
+20	157	883	466.123	468.347	A	4 , we have 19 .	19
+20	157	884	466.123	468.347	A	4 , we have 19 .	.
+20	158	885	468.533	470.054	B	19 okay .	19
+20	158	886	468.533	470.054	B	19 okay .	okay
+20	158	887	468.533	470.054	B	19 okay .	.
+20	159	888	469.332	470.054	A	okay wait wait wait wait .	okay
+20	159	889	469.332	470.054	A	okay wait wait wait wait .	wait
+20	159	890	469.332	470.054	A	okay wait wait wait wait .	wait
+20	159	891	469.332	470.054	A	okay wait wait wait wait .	wait
+20	159	892	469.332	470.054	A	okay wait wait wait wait .	wait
+20	159	893	469.332	470.054	A	okay wait wait wait wait .	.
+20	160	894	470.354	474.435	A	let me get um you 're in zurich okay zurich	let
+20	160	895	470.354	474.435	A	let me get um you 're in zurich okay zurich	me
+20	160	896	470.354	474.435	A	let me get um you 're in zurich okay zurich	get
+20	160	897	470.354	474.435	A	let me get um you 're in zurich okay zurich	um
+20	160	898	470.354	474.435	A	let me get um you 're in zurich okay zurich	you
+20	160	899	470.354	474.435	A	let me get um you 're in zurich okay zurich	're
+20	160	900	470.354	474.435	A	let me get um you 're in zurich okay zurich	in
+20	160	901	470.354	474.435	A	let me get um you 're in zurich okay zurich	zurich
+20	160	902	470.354	474.435	A	let me get um you 're in zurich okay zurich	okay
+20	160	903	470.354	474.435	A	let me get um you 're in zurich okay zurich	zurich
+20	161	904	474.403	475.949	B	mount luzern ?	mount
+20	161	905	474.403	475.949	B	mount luzern ?	luzern
+20	161	906	474.403	475.949	B	mount luzern ?	?
+20	162	907	475.048	477.406	A	okay go from zurich go to davos .	okay
+20	162	908	475.048	477.406	A	okay go from zurich go to davos .	go
+20	162	909	475.048	477.406	A	okay go from zurich go to davos .	from
+20	162	910	475.048	477.406	A	okay go from zurich go to davos .	zurich
+20	162	911	475.048	477.406	A	okay go from zurich go to davos .	go
+20	162	912	475.048	477.406	A	okay go from zurich go to davos .	to
+20	162	913	475.048	477.406	A	okay go from zurich go to davos .	davos
+20	162	914	475.048	477.406	A	okay go from zurich go to davos .	.
+20	163	915	477.863	479.045	B	what is davos ?	what
+20	163	916	477.863	479.045	B	what is davos ?	is
+20	163	917	477.863	479.045	B	what is davos ?	davos
+20	163	918	477.863	479.045	B	what is davos ?	?
+20	164	919	478.502	480.215	A	davos i do n't know .	davos
+20	164	920	478.502	480.215	A	davos i do n't know .	i
+20	164	921	478.502	480.215	A	davos i do n't know .	do
+20	164	922	478.502	480.215	A	davos i do n't know .	n't
+20	164	923	478.502	480.215	A	davos i do n't know .	know
+20	164	924	478.502	480.215	A	davos i do n't know .	.
+20	165	925	479.985	480.822	B	davos .	davos
+20	165	926	479.985	480.822	B	davos .	.
+20	166	927	481.161	482.842	A	yeah all the way down , there , yeah .	yeah
+20	166	928	481.161	482.842	A	yeah all the way down , there , yeah .	all
+20	166	929	481.161	482.842	A	yeah all the way down , there , yeah .	the
+20	166	930	481.161	482.842	A	yeah all the way down , there , yeah .	way
+20	166	931	481.161	482.842	A	yeah all the way down , there , yeah .	down
+20	166	932	481.161	482.842	A	yeah all the way down , there , yeah .	,
+20	166	933	481.161	482.842	A	yeah all the way down , there , yeah .	there
+20	166	934	481.161	482.842	A	yeah all the way down , there , yeah .	,
+20	166	935	481.161	482.842	A	yeah all the way down , there , yeah .	yeah
+20	166	936	481.161	482.842	A	yeah all the way down , there , yeah .	.
+20	167	937	482.474	483.222	B	how much is it ?	how
+20	167	938	482.474	483.222	B	how much is it ?	much
+20	167	939	482.474	483.222	B	how much is it ?	is
+20	167	940	482.474	483.222	B	how much is it ?	it
+20	167	941	482.474	483.222	B	how much is it ?	?
+20	168	942	483.516	484.487	B	4 francs .	4
+20	168	943	483.516	484.487	B	4 francs .	francs
+20	168	944	483.516	484.487	B	4 francs .	.
+20	169	945	483.861	484.602	A	that was 4 .	that
+20	169	946	483.861	484.602	A	that was 4 .	was
+20	169	947	483.861	484.602	A	that was 4 .	4
+20	169	948	483.861	484.602	A	that was 4 .	.
+20	170	949	485.177	488.098	B	um so we have , 4	um
+20	170	950	485.177	488.098	B	um so we have , 4	so
+20	170	951	485.177	488.098	B	um so we have , 4	we
+20	170	952	485.177	488.098	B	um so we have , 4	have
+20	170	953	485.177	488.098	B	um so we have , 4	,
+20	170	954	485.177	488.098	B	um so we have , 4	4
+20	171	955	487.112	488.397	A	what we have 23 .	what
+20	171	956	487.112	488.397	A	what we have 23 .	we
+20	171	957	487.112	488.397	A	what we have 23 .	have
+20	171	958	487.112	488.397	A	what we have 23 .	23
+20	171	959	487.112	488.397	A	what we have 23 .	.
+20	172	960	489.797	491.497	B	then how can we make 24 ?	then
+20	172	961	489.797	491.497	B	then how can we make 24 ?	how
+20	172	962	489.797	491.497	B	then how can we make 24 ?	can
+20	172	963	489.797	491.497	B	then how can we make 24 ?	we
+20	172	964	489.797	491.497	B	then how can we make 24 ?	make
+20	172	965	489.797	491.497	B	then how can we make 24 ?	24
+20	172	966	489.797	491.497	B	then how can we make 24 ?	?
+20	173	967	492.220	494.782	A	oh we need only one .	oh
+20	173	968	492.220	494.782	A	oh we need only one .	we
+20	173	969	492.220	494.782	A	oh we need only one .	need
+20	173	970	492.220	494.782	A	oh we need only one .	only
+20	173	971	492.220	494.782	A	oh we need only one .	one
+20	173	972	492.220	494.782	A	oh we need only one .	.
+20	174	973	494.958	495.815	B	no no .	no
+20	174	974	494.958	495.815	B	no no .	no
+20	174	975	494.958	495.815	B	no no .	.
+20	175	976	496.159	497.757	B	what now we just messed up .	what
+20	175	977	496.159	497.757	B	what now we just messed up .	now
+20	175	978	496.159	497.757	B	what now we just messed up .	we
+20	175	979	496.159	497.757	B	what now we just messed up .	just
+20	175	980	496.159	497.757	B	what now we just messed up .	messed
+20	175	981	496.159	497.757	B	what now we just messed up .	up
+20	175	982	496.159	497.757	B	what now we just messed up .	.
+20	176	983	498.710	499.579	B	um	um
+20	177	984	499.943	502.877	A	what is the nearest number to 1 , 2 right ?	what
+20	177	985	499.943	502.877	A	what is the nearest number to 1 , 2 right ?	is
+20	177	986	499.943	502.877	A	what is the nearest number to 1 , 2 right ?	the
+20	177	987	499.943	502.877	A	what is the nearest number to 1 , 2 right ?	nearest
+20	177	988	499.943	502.877	A	what is the nearest number to 1 , 2 right ?	number
+20	177	989	499.943	502.877	A	what is the nearest number to 1 , 2 right ?	to
+20	177	990	499.943	502.877	A	what is the nearest number to 1 , 2 right ?	1
+20	177	991	499.943	502.877	A	what is the nearest number to 1 , 2 right ?	,
+20	177	992	499.943	502.877	A	what is the nearest number to 1 , 2 right ?	2
+20	177	993	499.943	502.877	A	what is the nearest number to 1 , 2 right ?	right
+20	177	994	499.943	502.877	A	what is the nearest number to 1 , 2 right ?	?
+20	178	995	499.994	500.512	B	then	then
+20	179	996	502.648	504.514	B	2 yeah let me see .	2
+20	179	997	502.648	504.514	B	2 yeah let me see .	yeah
+20	179	998	502.648	504.514	B	2 yeah let me see .	let
+20	179	999	502.648	504.514	B	2 yeah let me see .	me
+20	179	1000	502.648	504.514	B	2 yeah let me see .	see
+20	179	1001	502.648	504.514	B	2 yeah let me see .	.
+20	180	1002	503.434	506.418	A	and where , and where is that from davos , is there a	and
+20	180	1003	503.434	506.418	A	and where , and where is that from davos , is there a	where
+20	180	1004	503.434	506.418	A	and where , and where is that from davos , is there a	,
+20	180	1005	503.434	506.418	A	and where , and where is that from davos , is there a	and
+20	180	1006	503.434	506.418	A	and where , and where is that from davos , is there a	where
+20	180	1007	503.434	506.418	A	and where , and where is that from davos , is there a	is
+20	180	1008	503.434	506.418	A	and where , and where is that from davos , is there a	that
+20	180	1009	503.434	506.418	A	and where , and where is that from davos , is there a	from
+20	180	1010	503.434	506.418	A	and where , and where is that from davos , is there a	davos
+20	180	1011	503.434	506.418	A	and where , and where is that from davos , is there a	,
+20	180	1012	503.434	506.418	A	and where , and where is that from davos , is there a	is
+20	180	1013	503.434	506.418	A	and where , and where is that from davos , is there a	there
+20	180	1014	503.434	506.418	A	and where , and where is that from davos , is there a	a
+20	181	1015	505.767	506.981	B	we will need a 2 .	we
+20	181	1016	505.767	506.981	B	we will need a 2 .	will
+20	181	1017	505.767	506.981	B	we will need a 2 .	need
+20	181	1018	505.767	506.981	B	we will need a 2 .	a
+20	181	1019	505.767	506.981	B	we will need a 2 .	2
+20	181	1020	505.767	506.981	B	we will need a 2 .	.
+20	182	1021	506.981	513.826	B	um mount , mountain mount mountreux to mount zermatt .	um
+20	182	1022	506.981	513.826	B	um mount , mountain mount mountreux to mount zermatt .	mount
+20	182	1023	506.981	513.826	B	um mount , mountain mount mountreux to mount zermatt .	,
+20	182	1024	506.981	513.826	B	um mount , mountain mount mountreux to mount zermatt .	mountain
+20	182	1025	506.981	513.826	B	um mount , mountain mount mountreux to mount zermatt .	mount
+20	182	1026	506.981	513.826	B	um mount , mountain mount mountreux to mount zermatt .	mountreux
+20	182	1027	506.981	513.826	B	um mount , mountain mount mountreux to mount zermatt .	to
+20	182	1028	506.981	513.826	B	um mount , mountain mount mountreux to mount zermatt .	mount
+20	182	1029	506.981	513.826	B	um mount , mountain mount mountreux to mount zermatt .	zermatt
+20	182	1030	506.981	513.826	B	um mount , mountain mount mountreux to mount zermatt .	.
+20	183	1031	515.105	515.412	A	what ?	what
+20	183	1032	515.105	515.412	A	what ?	?
+20	184	1033	515.540	519.036	B	mount montreux to mount zermatt .	mount
+20	184	1034	515.540	519.036	B	mount montreux to mount zermatt .	montreux
+20	184	1035	515.540	519.036	B	mount montreux to mount zermatt .	to
+20	184	1036	515.540	519.036	B	mount montreux to mount zermatt .	mount
+20	184	1037	515.540	519.036	B	mount montreux to mount zermatt .	zermatt
+20	184	1038	515.540	519.036	B	mount montreux to mount zermatt .	.
+20	185	1039	519.940	520.553	A	oh .	oh
+20	185	1040	519.940	520.553	A	oh .	.
+20	186	1041	523.042	525.650	B	perfect , no that 's 2 , now we have 25 .	perfect
+20	186	1042	523.042	525.650	B	perfect , no that 's 2 , now we have 25 .	,
+20	186	1043	523.042	525.650	B	perfect , no that 's 2 , now we have 25 .	no
+20	186	1044	523.042	525.650	B	perfect , no that 's 2 , now we have 25 .	that
+20	186	1045	523.042	525.650	B	perfect , no that 's 2 , now we have 25 .	's
+20	186	1046	523.042	525.650	B	perfect , no that 's 2 , now we have 25 .	2
+20	186	1047	523.042	525.650	B	perfect , no that 's 2 , now we have 25 .	,
+20	186	1048	523.042	525.650	B	perfect , no that 's 2 , now we have 25 .	now
+20	186	1049	523.042	525.650	B	perfect , no that 's 2 , now we have 25 .	we
+20	186	1050	523.042	525.650	B	perfect , no that 's 2 , now we have 25 .	have
+20	186	1051	523.042	525.650	B	perfect , no that 's 2 , now we have 25 .	25
+20	186	1052	523.042	525.650	B	perfect , no that 's 2 , now we have 25 .	.
+20	187	1053	526.072	527.178	A	damn .	damn
+20	187	1054	526.072	527.178	A	damn .	.
+20	188	1055	527.913	528.680	B	we mess .	we
+20	188	1056	527.913	528.680	B	we mess .	mess
+20	188	1057	527.913	528.680	B	we mess .	.
+20	189	1058	528.041	528.597	A	okay .	okay
+20	189	1059	528.041	528.597	A	okay .	.
+20	190	1060	528.705	530.475	A	um give me the lowest number .	um
+20	190	1061	528.705	530.475	A	um give me the lowest number .	give
+20	190	1062	528.705	530.475	A	um give me the lowest number .	me
+20	190	1063	528.705	530.475	A	um give me the lowest number .	the
+20	190	1064	528.705	530.475	A	um give me the lowest number .	lowest
+20	190	1065	528.705	530.475	A	um give me the lowest number .	number
+20	190	1066	528.705	530.475	A	um give me the lowest number .	.
+20	191	1067	529.868	531.517	B	64 price !	64
+20	191	1068	529.868	531.517	B	64 price !	price
+20	191	1069	529.868	531.517	B	64 price !	!
+20	192	1070	531.801	533.488	A	no that was our previous price .	no
+20	192	1071	531.801	533.488	A	no that was our previous price .	that
+20	192	1072	531.801	533.488	A	no that was our previous price .	was
+20	192	1073	531.801	533.488	A	no that was our previous price .	our
+20	192	1074	531.801	533.488	A	no that was our previous price .	previous
+20	192	1075	531.801	533.488	A	no that was our previous price .	price
+20	192	1076	531.801	533.488	A	no that was our previous price .	.
+20	193	1077	534.095	534.568	B	oh .	oh
+20	193	1078	534.095	534.568	B	oh .	.
+20	194	1079	538.600	540.230	B	um	um
+20	195	1080	539.213	540.287	A	from zermatt	from
+20	195	1081	539.213	540.287	A	from zermatt	zermatt
+20	196	1082	540.712	541.172	A	or	or
+20	197	1083	543.283	545.693	B	um mount basel to mount bern .	um
+20	197	1084	543.283	545.693	B	um mount basel to mount bern .	mount
+20	197	1085	543.283	545.693	B	um mount basel to mount bern .	basel
+20	197	1086	543.283	545.693	B	um mount basel to mount bern .	to
+20	197	1087	543.283	545.693	B	um mount basel to mount bern .	mount
+20	197	1088	543.283	545.693	B	um mount basel to mount bern .	bern
+20	197	1089	543.283	545.693	B	um mount basel to mount bern .	.
+20	198	1090	546.243	548.173	A	mount basel to mount bern .	mount
+20	198	1091	546.243	548.173	A	mount basel to mount bern .	basel
+20	198	1092	546.243	548.173	A	mount basel to mount bern .	to
+20	198	1093	546.243	548.173	A	mount basel to mount bern .	mount
+20	198	1094	546.243	548.173	A	mount basel to mount bern .	bern
+20	198	1095	546.243	548.173	A	mount basel to mount bern .	.
+20	199	1096	549.578	550.543	A	there you go .	there
+20	199	1097	549.578	550.543	A	there you go .	you
+20	199	1098	549.578	550.543	A	there you go .	go
+20	199	1099	549.578	550.543	A	there you go .	.
+20	200	1100	551.425	552.613	A	that 's right .	that
+20	200	1101	551.425	552.613	A	that 's right .	's
+20	200	1102	551.425	552.613	A	that 's right .	right
+20	200	1103	551.425	552.613	A	that 's right .	.
+20	201	1104	551.738	552.671	B	oh it 's my turn .	oh
+20	201	1105	551.738	552.671	B	oh it 's my turn .	it
+20	201	1106	551.738	552.671	B	oh it 's my turn .	's
+20	201	1107	551.738	552.671	B	oh it 's my turn .	my
+20	201	1108	551.738	552.671	B	oh it 's my turn .	turn
+20	201	1109	551.738	552.671	B	oh it 's my turn .	.
+20	202	1110	553.157	554.077	A	yeah it 's your turn .	yeah
+20	202	1111	553.157	554.077	A	yeah it 's your turn .	it
+20	202	1112	553.157	554.077	A	yeah it 's your turn .	's
+20	202	1113	553.157	554.077	A	yeah it 's your turn .	your
+20	202	1114	553.157	554.077	A	yeah it 's your turn .	turn
+20	202	1115	553.157	554.077	A	yeah it 's your turn .	.
+20	203	1116	553.866	555.278	B	so mount	so
+20	203	1117	553.866	555.278	B	so mount	mount
+20	204	1118	554.478	555.264	A	um	um
+20	205	1119	555.498	558.221	A	do gallen to davos .	do
+20	205	1120	555.498	558.221	A	do gallen to davos .	gallen
+20	205	1121	555.498	558.221	A	do gallen to davos .	to
+20	205	1122	555.498	558.221	A	do gallen to davos .	davos
+20	205	1123	555.498	558.221	A	do gallen to davos .	.
+20	206	1124	558.411	559.044	B	gallen .	gallen
+20	206	1125	558.411	559.044	B	gallen .	.
+20	207	1126	559.344	561.996	A	yeah saint gallen .	yeah
+20	207	1127	559.344	561.996	A	yeah saint gallen .	saint
+20	207	1128	559.344	561.996	A	yeah saint gallen .	gallen
+20	207	1129	559.344	561.996	A	yeah saint gallen .	.
+20	208	1130	562.153	564.262	B	saint gallen yes to	saint
+20	208	1131	562.153	564.262	B	saint gallen yes to	gallen
+20	208	1132	562.153	564.262	B	saint gallen yes to	yes
+20	208	1133	562.153	564.262	B	saint gallen yes to	to
+20	209	1134	565.061	566.422	A	to davos .	to
+20	209	1135	565.061	566.422	A	to davos .	davos
+20	209	1136	565.061	566.422	A	to davos .	.
+20	210	1137	566.404	567.426	B	we ca n't do that .	we
+20	210	1138	566.404	567.426	B	we ca n't do that .	ca
+20	210	1139	566.404	567.426	B	we ca n't do that .	n't
+20	210	1140	566.404	567.426	B	we ca n't do that .	do
+20	210	1141	566.404	567.426	B	we ca n't do that .	that
+20	210	1142	566.404	567.426	B	we ca n't do that .	.
+20	211	1143	567.548	568.238	A	yeah we can .	yeah
+20	211	1144	567.548	568.238	A	yeah we can .	we
+20	211	1145	567.548	568.238	A	yeah we can .	can
+20	211	1146	567.548	568.238	A	yeah we can .	.
+20	212	1147	568.004	570.810	B	we can do davos to saint gallen .	we
+20	212	1148	568.004	570.810	B	we can do davos to saint gallen .	can
+20	212	1149	568.004	570.810	B	we can do davos to saint gallen .	do
+20	212	1150	568.004	570.810	B	we can do davos to saint gallen .	davos
+20	212	1151	568.004	570.810	B	we can do davos to saint gallen .	to
+20	212	1152	568.004	570.810	B	we can do davos to saint gallen .	saint
+20	212	1153	568.004	570.810	B	we can do davos to saint gallen .	gallen
+20	212	1154	568.004	570.810	B	we can do davos to saint gallen .	.
+20	213	1155	570.778	571.851	A	yeah that 's what i mean .	yeah
+20	213	1156	570.778	571.851	A	yeah that 's what i mean .	that
+20	213	1157	570.778	571.851	A	yeah that 's what i mean .	's
+20	213	1158	570.778	571.851	A	yeah that 's what i mean .	what
+20	213	1159	570.778	571.851	A	yeah that 's what i mean .	i
+20	213	1160	570.778	571.851	A	yeah that 's what i mean .	mean
+20	213	1161	570.778	571.851	A	yeah that 's what i mean .	.
+20	214	1162	571.717	574.472	B	oh okay , then what should we do next ?	oh
+20	214	1163	571.717	574.472	B	oh okay , then what should we do next ?	okay
+20	214	1164	571.717	574.472	B	oh okay , then what should we do next ?	,
+20	214	1165	571.717	574.472	B	oh okay , then what should we do next ?	then
+20	214	1166	571.717	574.472	B	oh okay , then what should we do next ?	what
+20	214	1167	571.717	574.472	B	oh okay , then what should we do next ?	should
+20	214	1168	571.717	574.472	B	oh okay , then what should we do next ?	we
+20	214	1169	571.717	574.472	B	oh okay , then what should we do next ?	do
+20	214	1170	571.717	574.472	B	oh okay , then what should we do next ?	next
+20	214	1171	571.717	574.472	B	oh okay , then what should we do next ?	?
+20	215	1172	572.893	574.529	A	and then	and
+20	215	1173	572.893	574.529	A	and then	then
+20	216	1174	575.220	576.645	B	i have a feeling that	i
+20	216	1175	575.220	576.645	B	i have a feeling that	have
+20	216	1176	575.220	576.645	B	i have a feeling that	a
+20	216	1177	575.220	576.645	B	i have a feeling that	feeling
+20	216	1178	575.220	576.645	B	i have a feeling that	that
+20	217	1179	575.911	579.719	A	go go zermatt to interlaken .	go
+20	217	1180	575.911	579.719	A	go go zermatt to interlaken .	go
+20	217	1181	575.911	579.719	A	go go zermatt to interlaken .	zermatt
+20	217	1182	575.911	579.719	A	go go zermatt to interlaken .	to
+20	217	1183	575.911	579.719	A	go go zermatt to interlaken .	interlaken
+20	217	1184	575.911	579.719	A	go go zermatt to interlaken .	.
+20	218	1185	583.788	584.452	A	okay .	okay
+20	218	1186	583.788	584.452	A	okay .	.
+20	219	1187	585.529	586.973	B	yeah what do you see .	yeah
+20	219	1188	585.529	586.973	B	yeah what do you see .	what
+20	219	1189	585.529	586.973	B	yeah what do you see .	do
+20	219	1190	585.529	586.973	B	yeah what do you see .	you
+20	219	1191	585.529	586.973	B	yeah what do you see .	see
+20	219	1192	585.529	586.973	B	yeah what do you see .	.
+20	220	1193	586.283	588.303	A	okay give a cheapest one , the cheapest one .	okay
+20	220	1194	586.283	588.303	A	okay give a cheapest one , the cheapest one .	give
+20	220	1195	586.283	588.303	A	okay give a cheapest one , the cheapest one .	a
+20	220	1196	586.283	588.303	A	okay give a cheapest one , the cheapest one .	cheapest
+20	220	1197	586.283	588.303	A	okay give a cheapest one , the cheapest one .	one
+20	220	1198	586.283	588.303	A	okay give a cheapest one , the cheapest one .	,
+20	220	1199	586.283	588.303	A	okay give a cheapest one , the cheapest one .	the
+20	220	1200	586.283	588.303	A	okay give a cheapest one , the cheapest one .	cheapest
+20	220	1201	586.283	588.303	A	okay give a cheapest one , the cheapest one .	one
+20	220	1202	586.283	588.303	A	okay give a cheapest one , the cheapest one .	.
+20	221	1203	588.494	589.811	B	2 plus 1 , 2 plus 1 .	2
+20	221	1204	588.494	589.811	B	2 plus 1 , 2 plus 1 .	plus
+20	221	1205	588.494	589.811	B	2 plus 1 , 2 plus 1 .	1
+20	221	1206	588.494	589.811	B	2 plus 1 , 2 plus 1 .	,
+20	221	1207	588.494	589.811	B	2 plus 1 , 2 plus 1 .	2
+20	221	1208	588.494	589.811	B	2 plus 1 , 2 plus 1 .	plus
+20	221	1209	588.494	589.811	B	2 plus 1 , 2 plus 1 .	1
+20	221	1210	588.494	589.811	B	2 plus 1 , 2 plus 1 .	.
+20	222	1211	590.552	591.703	B	you want to know 2 ?	you
+20	222	1212	590.552	591.703	B	you want to know 2 ?	want
+20	222	1213	590.552	591.703	B	you want to know 2 ?	to
+20	222	1214	590.552	591.703	B	you want to know 2 ?	know
+20	222	1215	590.552	591.703	B	you want to know 2 ?	2
+20	222	1216	590.552	591.703	B	you want to know 2 ?	?
+20	223	1217	591.199	594.662	A	no just just just the most cheapest , the cheapest .	no
+20	223	1218	591.199	594.662	A	no just just just the most cheapest , the cheapest .	just
+20	223	1219	591.199	594.662	A	no just just just the most cheapest , the cheapest .	just
+20	223	1220	591.199	594.662	A	no just just just the most cheapest , the cheapest .	just
+20	223	1221	591.199	594.662	A	no just just just the most cheapest , the cheapest .	the
+20	223	1222	591.199	594.662	A	no just just just the most cheapest , the cheapest .	most
+20	223	1223	591.199	594.662	A	no just just just the most cheapest , the cheapest .	cheapest
+20	223	1224	591.199	594.662	A	no just just just the most cheapest , the cheapest .	,
+20	223	1225	591.199	594.662	A	no just just just the most cheapest , the cheapest .	the
+20	223	1226	591.199	594.662	A	no just just just the most cheapest , the cheapest .	cheapest
+20	223	1227	591.199	594.662	A	no just just just the most cheapest , the cheapest .	.
+20	224	1228	594.906	597.686	B	the less , zurich to luzern .	the
+20	224	1229	594.906	597.686	B	the less , zurich to luzern .	less
+20	224	1230	594.906	597.686	B	the less , zurich to luzern .	,
+20	224	1231	594.906	597.686	B	the less , zurich to luzern .	zurich
+20	224	1232	594.906	597.686	B	the less , zurich to luzern .	to
+20	224	1233	594.906	597.686	B	the less , zurich to luzern .	luzern
+20	224	1234	594.906	597.686	B	the less , zurich to luzern .	.
+20	225	1235	597.986	599.418	A	zurich	zurich
+20	226	1236	599.934	601.129	B	to luzern .	to
+20	226	1237	599.934	601.129	B	to luzern .	luzern
+20	226	1238	599.934	601.129	B	to luzern .	.
+20	227	1239	602.534	603.326	A	how much is that ?	how
+20	227	1240	602.534	603.326	A	how much is that ?	much
+20	227	1241	602.534	603.326	A	how much is that ?	is
+20	227	1242	602.534	603.326	A	how much is that ?	that
+20	227	1243	602.534	603.326	A	how much is that ?	?
+20	228	1244	603.352	604.822	B	um that 's 2 francs .	um
+20	228	1245	603.352	604.822	B	um that 's 2 francs .	that
+20	228	1246	603.352	604.822	B	um that 's 2 francs .	's
+20	228	1247	603.352	604.822	B	um that 's 2 francs .	2
+20	228	1248	603.352	604.822	B	um that 's 2 francs .	francs
+20	228	1249	603.352	604.822	B	um that 's 2 francs .	.
+20	229	1250	604.809	605.167	A	2 ?	2
+20	229	1251	604.809	605.167	A	2 ?	?
+20	230	1252	605.416	605.761	A	okay .	okay
+20	230	1253	605.416	605.761	A	okay .	.
+20	231	1254	606.257	607.707	A	and then give me another one .	and
+20	231	1255	606.257	607.707	A	and then give me another one .	then
+20	231	1256	606.257	607.707	A	and then give me another one .	give
+20	231	1257	606.257	607.707	A	and then give me another one .	me
+20	231	1258	606.257	607.707	A	and then give me another one .	another
+20	231	1259	606.257	607.707	A	and then give me another one .	one
+20	231	1260	606.257	607.707	A	and then give me another one .	.
+20	232	1261	610.850	613.042	B	luzern to zermatt .	luzern
+20	232	1262	610.850	613.042	B	luzern to zermatt .	to
+20	232	1263	610.850	613.042	B	luzern to zermatt .	zermatt
+20	232	1264	610.850	613.042	B	luzern to zermatt .	.
+20	233	1265	613.463	615.144	A	luzern to zermatt .	luzern
+20	233	1266	613.463	615.144	A	luzern to zermatt .	to
+20	233	1267	613.463	615.144	A	luzern to zermatt .	zermatt
+20	233	1268	613.463	615.144	A	luzern to zermatt .	.
+20	234	1269	618.274	619.642	B	are you gon na say anything ?	are
+20	234	1270	618.274	619.642	B	are you gon na say anything ?	you
+20	234	1271	618.274	619.642	B	are you gon na say anything ?	gon
+20	234	1272	618.274	619.642	B	are you gon na say anything ?	na
+20	234	1273	618.274	619.642	B	are you gon na say anything ?	say
+20	234	1274	618.274	619.642	B	are you gon na say anything ?	anything
+20	234	1275	618.274	619.642	B	are you gon na say anything ?	?
+20	235	1276	620.313	621.853	A	okay um .	okay
+20	235	1277	620.313	621.853	A	okay um .	um
+20	235	1278	620.313	621.853	A	okay um .	.
+20	236	1279	620.364	622.230	B	what 's next , what can we connect .	what
+20	236	1280	620.364	622.230	B	what 's next , what can we connect .	's
+20	236	1281	620.364	622.230	B	what 's next , what can we connect .	next
+20	236	1282	620.364	622.230	B	what 's next , what can we connect .	,
+20	236	1283	620.364	622.230	B	what 's next , what can we connect .	what
+20	236	1284	620.364	622.230	B	what 's next , what can we connect .	can
+20	236	1285	620.364	622.230	B	what 's next , what can we connect .	we
+20	236	1286	620.364	622.230	B	what 's next , what can we connect .	connect
+20	236	1287	620.364	622.230	B	what 's next , what can we connect .	.
+20	237	1288	622.889	624.442	A	wait um .	wait
+20	237	1289	622.889	624.442	A	wait um .	um
+20	237	1290	622.889	624.442	A	wait um .	.
+20	238	1291	624.896	627.397	A	interlaken to neuchatel .	interlaken
+20	238	1292	624.896	627.397	A	interlaken to neuchatel .	to
+20	238	1293	624.896	627.397	A	interlaken to neuchatel .	neuchatel
+20	238	1294	624.896	627.397	A	interlaken to neuchatel .	.
+20	239	1295	627.679	628.880	B	interlaken to	interlaken
+20	239	1296	627.679	628.880	B	interlaken to	to
+20	240	1297	628.970	629.724	A	neuchatel .	neuchatel
+20	240	1298	628.970	629.724	A	neuchatel .	.
+20	241	1299	630.764	631.844	B	it 's luzern .	it
+20	241	1300	630.764	631.844	B	it 's luzern .	's
+20	241	1301	630.764	631.844	B	it 's luzern .	luzern
+20	241	1302	630.764	631.844	B	it 's luzern .	.
+20	242	1303	635.418	636.261	A	that 's 3 .	that
+20	242	1304	635.418	636.261	A	that 's 3 .	's
+20	242	1305	635.418	636.261	A	that 's 3 .	3
+20	242	1306	635.418	636.261	A	that 's 3 .	.
+20	243	1307	636.281	637.341	B	wait , what ?	wait
+20	243	1308	636.281	637.341	B	wait , what ?	,
+20	243	1309	636.281	637.341	B	wait , what ?	what
+20	243	1310	636.281	637.341	B	wait , what ?	?
+20	244	1311	637.457	639.451	A	neuchatel mount neuchatel there .	neuchatel
+20	244	1312	637.457	639.451	A	neuchatel mount neuchatel there .	mount
+20	244	1313	637.457	639.451	A	neuchatel mount neuchatel there .	neuchatel
+20	244	1314	637.457	639.451	A	neuchatel mount neuchatel there .	there
+20	244	1315	637.457	639.451	A	neuchatel mount neuchatel there .	.
+20	245	1316	638.096	640.199	B	neuchatel , okay , where next ?	neuchatel
+20	245	1317	638.096	640.199	B	neuchatel , okay , where next ?	,
+20	245	1318	638.096	640.199	B	neuchatel , okay , where next ?	okay
+20	245	1319	638.096	640.199	B	neuchatel , okay , where next ?	,
+20	245	1320	638.096	640.199	B	neuchatel , okay , where next ?	where
+20	245	1321	638.096	640.199	B	neuchatel , okay , where next ?	next
+20	245	1322	638.096	640.199	B	neuchatel , okay , where next ?	?
+20	246	1323	641.037	642.800	A	and then uh	and
+20	246	1324	641.037	642.800	A	and then uh	then
+20	246	1325	641.037	642.800	A	and then uh	uh
+20	247	1326	646.131	646.604	B	yeah .	yeah
+20	247	1327	646.131	646.604	B	yeah .	.
+20	248	1328	646.860	649.499	A	zurich to um zurich	zurich
+20	248	1329	646.860	649.499	A	zurich to um zurich	to
+20	248	1330	646.860	649.499	A	zurich to um zurich	um
+20	248	1331	646.860	649.499	A	zurich to um zurich	zurich
+20	249	1332	649.979	652.970	A	to saint gallen saint gallen .	to
+20	249	1333	649.979	652.970	A	to saint gallen saint gallen .	saint
+20	249	1334	649.979	652.970	A	to saint gallen saint gallen .	gallen
+20	249	1335	649.979	652.970	A	to saint gallen saint gallen .	saint
+20	249	1336	649.979	652.970	A	to saint gallen saint gallen .	gallen
+20	249	1337	649.979	652.970	A	to saint gallen saint gallen .	.
+20	250	1338	651.493	653.743	B	no wait me try luzern or zurich .	no
+20	250	1339	651.493	653.743	B	no wait me try luzern or zurich .	wait
+20	250	1340	651.493	653.743	B	no wait me try luzern or zurich .	me
+20	250	1341	651.493	653.743	B	no wait me try luzern or zurich .	try
+20	250	1342	651.493	653.743	B	no wait me try luzern or zurich .	luzern
+20	250	1343	651.493	653.743	B	no wait me try luzern or zurich .	or
+20	250	1344	651.493	653.743	B	no wait me try luzern or zurich .	zurich
+20	250	1345	651.493	653.743	B	no wait me try luzern or zurich .	.
+20	251	1346	654.140	656.837	A	zurich is mount zurich all the way to the top .	zurich
+20	251	1347	654.140	656.837	A	zurich is mount zurich all the way to the top .	is
+20	251	1348	654.140	656.837	A	zurich is mount zurich all the way to the top .	mount
+20	251	1349	654.140	656.837	A	zurich is mount zurich all the way to the top .	zurich
+20	251	1350	654.140	656.837	A	zurich is mount zurich all the way to the top .	all
+20	251	1351	654.140	656.837	A	zurich is mount zurich all the way to the top .	the
+20	251	1352	654.140	656.837	A	zurich is mount zurich all the way to the top .	way
+20	251	1353	654.140	656.837	A	zurich is mount zurich all the way to the top .	to
+20	251	1354	654.140	656.837	A	zurich is mount zurich all the way to the top .	the
+20	251	1355	654.140	656.837	A	zurich is mount zurich all the way to the top .	top
+20	251	1356	654.140	656.837	A	zurich is mount zurich all the way to the top .	.
+20	252	1357	658.075	661.060	B	yeah i can barely see , is this mount zurich to	yeah
+20	252	1358	658.075	661.060	B	yeah i can barely see , is this mount zurich to	i
+20	252	1359	658.075	661.060	B	yeah i can barely see , is this mount zurich to	can
+20	252	1360	658.075	661.060	B	yeah i can barely see , is this mount zurich to	barely
+20	252	1361	658.075	661.060	B	yeah i can barely see , is this mount zurich to	see
+20	252	1362	658.075	661.060	B	yeah i can barely see , is this mount zurich to	,
+20	252	1363	658.075	661.060	B	yeah i can barely see , is this mount zurich to	is
+20	252	1364	658.075	661.060	B	yeah i can barely see , is this mount zurich to	this
+20	252	1365	658.075	661.060	B	yeah i can barely see , is this mount zurich to	mount
+20	252	1366	658.075	661.060	B	yeah i can barely see , is this mount zurich to	zurich
+20	252	1367	658.075	661.060	B	yeah i can barely see , is this mount zurich to	to
+20	253	1368	661.158	662.494	A	to saint gallen .	to
+20	253	1369	661.158	662.494	A	to saint gallen .	saint
+20	253	1370	661.158	662.494	A	to saint gallen .	gallen
+20	253	1371	661.158	662.494	A	to saint gallen .	.
+20	254	1372	662.679	663.926	B	okay there you see .	okay
+20	254	1373	662.679	663.926	B	okay there you see .	there
+20	254	1374	662.679	663.926	B	okay there you see .	you
+20	254	1375	662.679	663.926	B	okay there you see .	see
+20	254	1376	662.679	663.926	B	okay there you see .	.
+20	255	1377	664.484	665.206	A	uh	uh
+20	256	1378	664.580	666.830	B	okay um we	okay
+20	256	1379	664.580	666.830	B	okay um we	um
+20	256	1380	664.580	666.830	B	okay um we	we
+20	257	1381	666.402	669.489	A	how much is how much is zermatt to davos ?	how
+20	257	1382	666.402	669.489	A	how much is how much is zermatt to davos ?	much
+20	257	1383	666.402	669.489	A	how much is how much is zermatt to davos ?	is
+20	257	1384	666.402	669.489	A	how much is how much is zermatt to davos ?	how
+20	257	1385	666.402	669.489	A	how much is how much is zermatt to davos ?	much
+20	257	1386	666.402	669.489	A	how much is how much is zermatt to davos ?	is
+20	257	1387	666.402	669.489	A	how much is how much is zermatt to davos ?	zermatt
+20	257	1388	666.402	669.489	A	how much is how much is zermatt to davos ?	to
+20	257	1389	666.402	669.489	A	how much is how much is zermatt to davos ?	davos
+20	257	1390	666.402	669.489	A	how much is how much is zermatt to davos ?	?
+20	258	1391	670.109	670.985	B	zermatt	zermatt
+20	259	1392	670.946	673.524	A	wait oh you got to check , let 's click it .	wait
+20	259	1393	670.946	673.524	A	wait oh you got to check , let 's click it .	oh
+20	259	1394	670.946	673.524	A	wait oh you got to check , let 's click it .	you
+20	259	1395	670.946	673.524	A	wait oh you got to check , let 's click it .	got
+20	259	1396	670.946	673.524	A	wait oh you got to check , let 's click it .	to
+20	259	1397	670.946	673.524	A	wait oh you got to check , let 's click it .	check
+20	259	1398	670.946	673.524	A	wait oh you got to check , let 's click it .	,
+20	259	1399	670.946	673.524	A	wait oh you got to check , let 's click it .	let
+20	259	1400	670.946	673.524	A	wait oh you got to check , let 's click it .	's
+20	259	1401	670.946	673.524	A	wait oh you got to check , let 's click it .	click
+20	259	1402	670.946	673.524	A	wait oh you got to check , let 's click it .	it
+20	259	1403	670.946	673.524	A	wait oh you got to check , let 's click it .	.
+20	260	1404	675.172	677.722	B	um zermatt to davos it 's 3 .	um
+20	260	1405	675.172	677.722	B	um zermatt to davos it 's 3 .	zermatt
+20	260	1406	675.172	677.722	B	um zermatt to davos it 's 3 .	to
+20	260	1407	675.172	677.722	B	um zermatt to davos it 's 3 .	davos
+20	260	1408	675.172	677.722	B	um zermatt to davos it 's 3 .	it
+20	260	1409	675.172	677.722	B	um zermatt to davos it 's 3 .	's
+20	260	1410	675.172	677.722	B	um zermatt to davos it 's 3 .	3
+20	260	1411	675.172	677.722	B	um zermatt to davos it 's 3 .	.
+20	261	1412	676.718	677.345	A	no .	no
+20	261	1413	676.718	677.345	A	no .	.
+20	262	1414	678.029	678.783	A	3 okay .	3
+20	262	1415	678.029	678.783	A	3 okay .	okay
+20	262	1416	678.029	678.783	A	3 okay .	.
+20	263	1417	680.039	681.790	A	so we click the check or no ?	so
+20	263	1418	680.039	681.790	A	so we click the check or no ?	we
+20	263	1419	680.039	681.790	A	so we click the check or no ?	click
+20	263	1420	680.039	681.790	A	so we click the check or no ?	the
+20	263	1421	680.039	681.790	A	so we click the check or no ?	check
+20	263	1422	680.039	681.790	A	so we click the check or no ?	or
+20	263	1423	680.039	681.790	A	so we click the check or no ?	no
+20	263	1424	680.039	681.790	A	so we click the check or no ?	?
+20	264	1425	681.873	683.227	B	mount luzern .	mount
+20	264	1426	681.873	683.227	B	mount luzern .	luzern
+20	264	1427	681.873	683.227	B	mount luzern .	.
+20	265	1428	683.635	684.331	A	okay .	okay
+20	265	1429	683.635	684.331	A	okay .	.
+20	266	1430	684.087	686.886	B	i think we were supposed to check a long time ago .	i
+20	266	1431	684.087	686.886	B	i think we were supposed to check a long time ago .	think
+20	266	1432	684.087	686.886	B	i think we were supposed to check a long time ago .	we
+20	266	1433	684.087	686.886	B	i think we were supposed to check a long time ago .	were
+20	266	1434	684.087	686.886	B	i think we were supposed to check a long time ago .	supposed
+20	266	1435	684.087	686.886	B	i think we were supposed to check a long time ago .	to
+20	266	1436	684.087	686.886	B	i think we were supposed to check a long time ago .	check
+20	266	1437	684.087	686.886	B	i think we were supposed to check a long time ago .	a
+20	266	1438	684.087	686.886	B	i think we were supposed to check a long time ago .	long
+20	266	1439	684.087	686.886	B	i think we were supposed to check a long time ago .	time
+20	266	1440	684.087	686.886	B	i think we were supposed to check a long time ago .	ago
+20	266	1441	684.087	686.886	B	i think we were supposed to check a long time ago .	.
+20	267	1442	687.140	688.124	A	shall we check it though ?	shall
+20	267	1443	687.140	688.124	A	shall we check it though ?	we
+20	267	1444	687.140	688.124	A	shall we check it though ?	check
+20	267	1445	687.140	688.124	A	shall we check it though ?	it
+20	267	1446	687.140	688.124	A	shall we check it though ?	though
+20	267	1447	687.140	688.124	A	shall we check it though ?	?
+20	268	1448	688.118	689.025	B	yeah .	yeah
+20	268	1449	688.118	689.025	B	yeah .	.
+20	269	1450	699.859	702.217	B	we would have to start again .	we
+20	269	1451	699.859	702.217	B	we would have to start again .	would
+20	269	1452	699.859	702.217	B	we would have to start again .	have
+20	269	1453	699.859	702.217	B	we would have to start again .	to
+20	269	1454	699.859	702.217	B	we would have to start again .	start
+20	269	1455	699.859	702.217	B	we would have to start again .	again
+20	269	1456	699.859	702.217	B	we would have to start again .	.
+20	270	1457	702.364	704.121	A	the difference between	the
+20	270	1458	702.364	704.121	A	the difference between	difference
+20	270	1459	702.364	704.121	A	the difference between	between
+20	271	1460	705.232	708.031	A	our previous score is 24 .	our
+20	271	1461	705.232	708.031	A	our previous score is 24 .	previous
+20	271	1462	705.232	708.031	A	our previous score is 24 .	score
+20	271	1463	705.232	708.031	A	our previous score is 24 .	is
+20	271	1464	705.232	708.031	A	our previous score is 24 .	24
+20	271	1465	705.232	708.031	A	our previous score is 24 .	.
+20	272	1466	707.925	709.925	B	46 how much do we need ?	46
+20	272	1467	707.925	709.925	B	46 how much do we need ?	how
+20	272	1468	707.925	709.925	B	46 how much do we need ?	much
+20	272	1469	707.925	709.925	B	46 how much do we need ?	do
+20	272	1470	707.925	709.925	B	46 how much do we need ?	we
+20	272	1471	707.925	709.925	B	46 how much do we need ?	need
+20	272	1472	707.925	709.925	B	46 how much do we need ?	?
+20	273	1473	715.517	717.403	B	oh we have to get to 24 .	oh
+20	273	1474	715.517	717.403	B	oh we have to get to 24 .	we
+20	273	1475	715.517	717.403	B	oh we have to get to 24 .	have
+20	273	1476	715.517	717.403	B	oh we have to get to 24 .	to
+20	273	1477	715.517	717.403	B	oh we have to get to 24 .	get
+20	273	1478	715.517	717.403	B	oh we have to get to 24 .	to
+20	273	1479	715.517	717.403	B	oh we have to get to 24 .	24
+20	273	1480	715.517	717.403	B	oh we have to get to 24 .	.
+20	274	1481	715.588	716.188	A	oh okay .	oh
+20	274	1482	715.588	716.188	A	oh okay .	okay
+20	274	1483	715.588	716.188	A	oh okay .	.
+20	275	1484	716.348	719.307	A	so so how much was the last price ?	so
+20	275	1485	716.348	719.307	A	so so how much was the last price ?	so
+20	275	1486	716.348	719.307	A	so so how much was the last price ?	how
+20	275	1487	716.348	719.307	A	so so how much was the last price ?	much
+20	275	1488	716.348	719.307	A	so so how much was the last price ?	was
+20	275	1489	716.348	719.307	A	so so how much was the last price ?	the
+20	275	1490	716.348	719.307	A	so so how much was the last price ?	last
+20	275	1491	716.348	719.307	A	so so how much was the last price ?	price
+20	275	1492	716.348	719.307	A	so so how much was the last price ?	?
+20	276	1493	720.852	722.143	B	it is 46 .	it
+20	276	1494	720.852	722.143	B	it is 46 .	is
+20	276	1495	720.852	722.143	B	it is 46 .	46
+20	276	1496	720.852	722.143	B	it is 46 .	.
+20	277	1497	722.353	723.513	A	46 ?	46
+20	277	1498	722.353	723.513	A	46 ?	?
+20	278	1499	722.938	724.184	B	how much we have passed it ?	how
+20	278	1500	722.938	724.184	B	how much we have passed it ?	much
+20	278	1501	722.938	724.184	B	how much we have passed it ?	we
+20	278	1502	722.938	724.184	B	how much we have passed it ?	have
+20	278	1503	722.938	724.184	B	how much we have passed it ?	passed
+20	278	1504	722.938	724.184	B	how much we have passed it ?	it
+20	278	1505	722.938	724.184	B	how much we have passed it ?	?
+20	279	1506	724.273	726.945	A	oh so we need oh okay .	oh
+20	279	1507	724.273	726.945	A	oh so we need oh okay .	so
+20	279	1508	724.273	726.945	A	oh so we need oh okay .	we
+20	279	1509	724.273	726.945	A	oh so we need oh okay .	need
+20	279	1510	724.273	726.945	A	oh so we need oh okay .	oh
+20	279	1511	724.273	726.945	A	oh so we need oh okay .	okay
+20	279	1512	724.273	726.945	A	oh so we need oh okay .	.
+20	280	1513	726.066	728.277	B	okay let me try something , go .	okay
+20	280	1514	726.066	728.277	B	okay let me try something , go .	let
+20	280	1515	726.066	728.277	B	okay let me try something , go .	me
+20	280	1516	726.066	728.277	B	okay let me try something , go .	try
+20	280	1517	726.066	728.277	B	okay let me try something , go .	something
+20	280	1518	726.066	728.277	B	okay let me try something , go .	,
+20	280	1519	726.066	728.277	B	okay let me try something , go .	go
+20	280	1520	726.066	728.277	B	okay let me try something , go .	.
+20	281	1521	727.631	728.705	A	what have i done , oh wait .	what
+20	281	1522	727.631	728.705	A	what have i done , oh wait .	have
+20	281	1523	727.631	728.705	A	what have i done , oh wait .	i
+20	281	1524	727.631	728.705	A	what have i done , oh wait .	done
+20	281	1525	727.631	728.705	A	what have i done , oh wait .	,
+20	281	1526	727.631	728.705	A	what have i done , oh wait .	oh
+20	281	1527	727.631	728.705	A	what have i done , oh wait .	wait
+20	281	1528	727.631	728.705	A	what have i done , oh wait .	.
+20	282	1529	728.946	730.167	B	i 've got an idea .	i
+20	282	1530	728.946	730.167	B	i 've got an idea .	've
+20	282	1531	728.946	730.167	B	i 've got an idea .	got
+20	282	1532	728.946	730.167	B	i 've got an idea .	an
+20	282	1533	728.946	730.167	B	i 've got an idea .	idea
+20	282	1534	728.946	730.167	B	i 've got an idea .	.
+20	283	1535	729.004	729.905	A	we are already 2	we
+20	283	1536	729.004	729.905	A	we are already 2	are
+20	283	1537	729.004	729.905	A	we are already 2	already
+20	283	1538	729.004	729.905	A	we are already 2	2
+20	284	1539	730.435	731.144	A	okay wait wait wait	okay
+20	284	1540	730.435	731.144	A	okay wait wait wait	wait
+20	284	1541	730.435	731.144	A	okay wait wait wait	wait
+20	284	1542	730.435	731.144	A	okay wait wait wait	wait
+20	285	1543	730.480	731.106	B	go to	go
+20	285	1544	730.480	731.106	B	go to	to
+20	286	1545	731.281	731.908	B	trust me .	trust
+20	286	1546	731.281	731.908	B	trust me .	me
+20	286	1547	731.281	731.908	B	trust me .	.
+20	287	1548	731.876	733.416	A	okay we have okay .	okay
+20	287	1549	731.876	733.416	A	okay we have okay .	we
+20	287	1550	731.876	733.416	A	okay we have okay .	have
+20	287	1551	731.876	733.416	A	okay we have okay .	okay
+20	287	1552	731.876	733.416	A	okay we have okay .	.
+20	288	1553	732.713	734.272	B	basel to zurich .	basel
+20	288	1554	732.713	734.272	B	basel to zurich .	to
+20	288	1555	732.713	734.272	B	basel to zurich .	zurich
+20	288	1556	732.713	734.272	B	basel to zurich .	.
+20	289	1557	735.879	736.697	A	how much is that ?	how
+20	289	1558	735.879	736.697	A	how much is that ?	much
+20	289	1559	735.879	736.697	A	how much is that ?	is
+20	289	1560	735.879	736.697	A	how much is that ?	that
+20	289	1561	735.879	736.697	A	how much is that ?	?
+20	290	1562	736.850	737.349	B	5 .	5
+20	290	1563	736.850	737.349	B	5 .	.
+20	291	1564	737.804	738.813	A	oh there .	oh
+20	291	1565	737.804	738.813	A	oh there .	there
+20	291	1566	737.804	738.813	A	oh there .	.
+20	292	1567	740.047	740.705	A	done .	done
+20	292	1568	740.047	740.705	A	done .	.
+20	293	1569	740.588	741.949	B	and now to um	and
+20	293	1570	740.588	741.949	B	and now to um	now
+20	293	1571	740.588	741.949	B	and now to um	to
+20	293	1572	740.588	741.949	B	and now to um	um
+20	294	1573	742.243	742.780	B	bern	bern
+20	295	1574	743.151	744.282	B	basel to bern .	basel
+20	295	1575	743.151	744.282	B	basel to bern .	to
+20	295	1576	743.151	744.282	B	basel to bern .	bern
+20	295	1577	743.151	744.282	B	basel to bern .	.
+20	296	1578	744.734	745.373	A	how much ?	how
+20	296	1579	744.734	745.373	A	how much ?	much
+20	296	1580	744.734	745.373	A	how much ?	?
+20	297	1581	745.467	746.228	B	um 3 .	um
+20	297	1582	745.467	746.228	B	um 3 .	3
+20	297	1583	745.467	746.228	B	um 3 .	.
+20	298	1584	746.899	747.711	A	wait okay there .	wait
+20	298	1585	746.899	747.711	A	wait okay there .	okay
+20	298	1586	746.899	747.711	A	wait okay there .	there
+20	298	1587	746.899	747.711	A	wait okay there .	.
+20	299	1588	748.388	749.967	B	we are 5 6 7 .	we
+20	299	1589	748.388	749.967	B	we are 5 6 7 .	are
+20	299	1590	748.388	749.967	B	we are 5 6 7 .	5
+20	299	1591	748.388	749.967	B	we are 5 6 7 .	6
+20	299	1592	748.388	749.967	B	we are 5 6 7 .	7
+20	299	1593	748.388	749.967	B	we are 5 6 7 .	.
+20	300	1594	750.679	751.427	B	where next ?	where
+20	300	1595	750.679	751.427	B	where next ?	next
+20	300	1596	750.679	751.427	B	where next ?	?
+20	301	1597	751.714	752.839	A	yeah yeah .	yeah
+20	301	1598	751.714	752.839	A	yeah yeah .	yeah
+20	301	1599	751.714	752.839	A	yeah yeah .	.
+20	302	1600	753.361	756.141	A	um neuchatel , to montreux .	um
+20	302	1601	753.361	756.141	A	um neuchatel , to montreux .	neuchatel
+20	302	1602	753.361	756.141	A	um neuchatel , to montreux .	,
+20	302	1603	753.361	756.141	A	um neuchatel , to montreux .	to
+20	302	1604	753.361	756.141	A	um neuchatel , to montreux .	montreux
+20	302	1605	753.361	756.141	A	um neuchatel , to montreux .	.
+20	303	1606	756.781	758.155	B	neuchatel to ?	neuchatel
+20	303	1607	756.781	758.155	B	neuchatel to ?	to
+20	303	1608	756.781	758.155	B	neuchatel to ?	?
+20	304	1609	758.283	759.338	A	montreux .	montreux
+20	304	1610	758.283	759.338	A	montreux .	.
+20	305	1611	759.916	761.366	A	montreux , i do n't know .	montreux
+20	305	1612	759.916	761.366	A	montreux , i do n't know .	,
+20	305	1613	759.916	761.366	A	montreux , i do n't know .	i
+20	305	1614	759.916	761.366	A	montreux , i do n't know .	do
+20	305	1615	759.916	761.366	A	montreux , i do n't know .	n't
+20	305	1616	759.916	761.366	A	montreux , i do n't know .	know
+20	305	1617	759.916	761.366	A	montreux , i do n't know .	.
+20	306	1618	760.740	761.520	B	we ca n't do that .	we
+20	306	1619	760.740	761.520	B	we ca n't do that .	ca
+20	306	1620	760.740	761.520	B	we ca n't do that .	n't
+20	306	1621	760.740	761.520	B	we ca n't do that .	do
+20	306	1622	760.740	761.520	B	we ca n't do that .	that
+20	306	1623	760.740	761.520	B	we ca n't do that .	.
+20	307	1624	761.756	762.280	A	yeah we can .	yeah
+20	307	1625	761.756	762.280	A	yeah we can .	we
+20	307	1626	761.756	762.280	A	yeah we can .	can
+20	307	1627	761.756	762.280	A	yeah we can .	.
+20	308	1628	762.737	763.510	B	no we ca n't .	no
+20	308	1629	762.737	763.510	B	no we ca n't .	we
+20	308	1630	762.737	763.510	B	no we ca n't .	ca
+20	308	1631	762.737	763.510	B	no we ca n't .	n't
+20	308	1632	762.737	763.510	B	no we ca n't .	.
+20	309	1633	763.459	766.239	A	yeah , mount neuchatel to montreux .	yeah
+20	309	1634	763.459	766.239	A	yeah , mount neuchatel to montreux .	,
+20	309	1635	763.459	766.239	A	yeah , mount neuchatel to montreux .	mount
+20	309	1636	763.459	766.239	A	yeah , mount neuchatel to montreux .	neuchatel
+20	309	1637	763.459	766.239	A	yeah , mount neuchatel to montreux .	to
+20	309	1638	763.459	766.239	A	yeah , mount neuchatel to montreux .	montreux
+20	309	1639	763.459	766.239	A	yeah , mount neuchatel to montreux .	.
+20	310	1640	766.144	768.036	B	mount neuchatel	mount
+20	310	1641	766.144	768.036	B	mount neuchatel	neuchatel
+20	311	1642	767.448	768.361	A	to the left of you .	to
+20	311	1643	767.448	768.361	A	to the left of you .	the
+20	311	1644	767.448	768.361	A	to the left of you .	left
+20	311	1645	767.448	768.361	A	to the left of you .	of
+20	311	1646	767.448	768.361	A	to the left of you .	you
+20	311	1647	767.448	768.361	A	to the left of you .	.
+20	312	1648	771.532	773.474	A	uh yeah neuchatel to montreux .	uh
+20	312	1649	771.532	773.474	A	uh yeah neuchatel to montreux .	yeah
+20	312	1650	771.532	773.474	A	uh yeah neuchatel to montreux .	neuchatel
+20	312	1651	771.532	773.474	A	uh yeah neuchatel to montreux .	to
+20	312	1652	771.532	773.474	A	uh yeah neuchatel to montreux .	montreux
+20	312	1653	771.532	773.474	A	uh yeah neuchatel to montreux .	.
+20	313	1654	774.511	775.476	B	i 'm doing it !	i
+20	313	1655	774.511	775.476	B	i 'm doing it !	'm
+20	313	1656	774.511	775.476	B	i 'm doing it !	doing
+20	313	1657	774.511	775.476	B	i 'm doing it !	it
+20	313	1658	774.511	775.476	B	i 'm doing it !	!
+20	314	1659	777.042	780.366	B	um how abou mount basel to neuchatel ?	um
+20	314	1660	777.042	780.366	B	um how abou mount basel to neuchatel ?	how
+20	314	1661	777.042	780.366	B	um how abou mount basel to neuchatel ?	abou
+20	314	1662	777.042	780.366	B	um how abou mount basel to neuchatel ?	mount
+20	314	1663	777.042	780.366	B	um how abou mount basel to neuchatel ?	basel
+20	314	1664	777.042	780.366	B	um how abou mount basel to neuchatel ?	to
+20	314	1665	777.042	780.366	B	um how abou mount basel to neuchatel ?	neuchatel
+20	314	1666	777.042	780.366	B	um how abou mount basel to neuchatel ?	?
+20	315	1667	780.500	780.985	A	huh ?	huh
+20	315	1668	780.500	780.985	A	huh ?	?
+20	316	1669	782.710	783.425	A	oh no !	oh
+20	316	1670	782.710	783.425	A	oh no !	no
+20	316	1671	782.710	783.425	A	oh no !	!
+20	317	1672	783.476	785.176	B	no and then we have to do it look .	no
+20	317	1673	783.476	785.176	B	no and then we have to do it look .	and
+20	317	1674	783.476	785.176	B	no and then we have to do it look .	then
+20	317	1675	783.476	785.176	B	no and then we have to do it look .	we
+20	317	1676	783.476	785.176	B	no and then we have to do it look .	have
+20	317	1677	783.476	785.176	B	no and then we have to do it look .	to
+20	317	1678	783.476	785.176	B	no and then we have to do it look .	do
+20	317	1679	783.476	785.176	B	no and then we have to do it look .	it
+20	317	1680	783.476	785.176	B	no and then we have to do it look .	look
+20	317	1681	783.476	785.176	B	no and then we have to do it look .	.
+20	318	1682	786.507	787.184	A	alright .	alright
+20	318	1683	786.507	787.184	A	alright .	.
+20	319	1684	787.621	788.791	B	how much do we have now ?	how
+20	319	1685	787.621	788.791	B	how much do we have now ?	much
+20	319	1686	787.621	788.791	B	how much do we have now ?	do
+20	319	1687	787.621	788.791	B	how much do we have now ?	we
+20	319	1688	787.621	788.791	B	how much do we have now ?	have
+20	319	1689	787.621	788.791	B	how much do we have now ?	now
+20	319	1690	787.621	788.791	B	how much do we have now ?	?
+20	320	1691	789.142	790.031	A	you you check .	you
+20	320	1692	789.142	790.031	A	you you check .	you
+20	320	1693	789.142	790.031	A	you you check .	check
+20	320	1694	789.142	790.031	A	you you check .	.
+20	321	1695	789.564	790.721	B	4 , 5 .	4
+20	321	1696	789.564	790.721	B	4 , 5 .	,
+20	321	1697	789.564	790.721	B	4 , 5 .	5
+20	321	1698	789.564	790.721	B	4 , 5 .	.
+20	322	1699	791.137	794.920	B	6 7 8 9 10 11 12 , 14 .	6
+20	322	1700	791.137	794.920	B	6 7 8 9 10 11 12 , 14 .	7
+20	322	1701	791.137	794.920	B	6 7 8 9 10 11 12 , 14 .	8
+20	322	1702	791.137	794.920	B	6 7 8 9 10 11 12 , 14 .	9
+20	322	1703	791.137	794.920	B	6 7 8 9 10 11 12 , 14 .	10
+20	322	1704	791.137	794.920	B	6 7 8 9 10 11 12 , 14 .	11
+20	322	1705	791.137	794.920	B	6 7 8 9 10 11 12 , 14 .	12
+20	322	1706	791.137	794.920	B	6 7 8 9 10 11 12 , 14 .	,
+20	322	1707	791.137	794.920	B	6 7 8 9 10 11 12 , 14 .	14
+20	322	1708	791.137	794.920	B	6 7 8 9 10 11 12 , 14 .	.
+20	323	1709	795.315	798.561	A	we have 14 and we get , we need to get to 22 .	we
+20	323	1710	795.315	798.561	A	we have 14 and we get , we need to get to 22 .	have
+20	323	1711	795.315	798.561	A	we have 14 and we get , we need to get to 22 .	14
+20	323	1712	795.315	798.561	A	we have 14 and we get , we need to get to 22 .	and
+20	323	1713	795.315	798.561	A	we have 14 and we get , we need to get to 22 .	we
+20	323	1714	795.315	798.561	A	we have 14 and we get , we need to get to 22 .	get
+20	323	1715	795.315	798.561	A	we have 14 and we get , we need to get to 22 .	,
+20	323	1716	795.315	798.561	A	we have 14 and we get , we need to get to 22 .	we
+20	323	1717	795.315	798.561	A	we have 14 and we get , we need to get to 22 .	need
+20	323	1718	795.315	798.561	A	we have 14 and we get , we need to get to 22 .	to
+20	323	1719	795.315	798.561	A	we have 14 and we get , we need to get to 22 .	get
+20	323	1720	795.315	798.561	A	we have 14 and we get , we need to get to 22 .	to
+20	323	1721	795.315	798.561	A	we have 14 and we get , we need to get to 22 .	22
+20	323	1722	795.315	798.561	A	we have 14 and we get , we need to get to 22 .	.
+20	324	1723	796.759	799.989	B	18 16 17 18 19 20 21 .	18
+20	324	1724	796.759	799.989	B	18 16 17 18 19 20 21 .	16
+20	324	1725	796.759	799.989	B	18 16 17 18 19 20 21 .	17
+20	324	1726	796.759	799.989	B	18 16 17 18 19 20 21 .	18
+20	324	1727	796.759	799.989	B	18 16 17 18 19 20 21 .	19
+20	324	1728	796.759	799.989	B	18 16 17 18 19 20 21 .	20
+20	324	1729	796.759	799.989	B	18 16 17 18 19 20 21 .	21
+20	324	1730	796.759	799.989	B	18 16 17 18 19 20 21 .	.
+20	325	1731	799.101	800.916	A	14 to 22 .	14
+20	325	1732	799.101	800.916	A	14 to 22 .	to
+20	325	1733	799.101	800.916	A	14 to 22 .	22
+20	325	1734	799.101	800.916	A	14 to 22 .	.
+20	326	1735	801.310	803.081	A	how much is montreux ?	how
+20	326	1736	801.310	803.081	A	how much is montreux ?	much
+20	326	1737	801.310	803.081	A	how much is montreux ?	is
+20	326	1738	801.310	803.081	A	how much is montreux ?	montreux
+20	326	1739	801.310	803.081	A	how much is montreux ?	?
+20	327	1740	802.344	803.008	B	we need	we
+20	327	1741	802.344	803.008	B	we need	need
+20	328	1742	803.539	804.836	B	5 and a 4 .	5
+20	328	1743	803.539	804.836	B	5 and a 4 .	and
+20	328	1744	803.539	804.836	B	5 and a 4 .	a
+20	328	1745	803.539	804.836	B	5 and a 4 .	4
+20	328	1746	803.539	804.836	B	5 and a 4 .	.
+20	329	1747	805.936	807.949	A	oh 5 and a 4 , okay .	oh
+20	329	1748	805.936	807.949	A	oh 5 and a 4 , okay .	5
+20	329	1749	805.936	807.949	A	oh 5 and a 4 , okay .	and
+20	329	1750	805.936	807.949	A	oh 5 and a 4 , okay .	a
+20	329	1751	805.936	807.949	A	oh 5 and a 4 , okay .	4
+20	329	1752	805.936	807.949	A	oh 5 and a 4 , okay .	,
+20	329	1753	805.936	807.949	A	oh 5 and a 4 , okay .	okay
+20	329	1754	805.936	807.949	A	oh 5 and a 4 , okay .	.
+20	330	1755	807.387	808.710	B	i 4 right now .	i
+20	330	1756	807.387	808.710	B	i 4 right now .	4
+20	330	1757	807.387	808.710	B	i 4 right now .	right
+20	330	1758	807.387	808.710	B	i 4 right now .	now
+20	330	1759	807.387	808.710	B	i 4 right now .	.
+20	331	1760	809.607	810.854	B	so , what can we do ?	so
+20	331	1761	809.607	810.854	B	so , what can we do ?	,
+20	331	1762	809.607	810.854	B	so , what can we do ?	what
+20	331	1763	809.607	810.854	B	so , what can we do ?	can
+20	331	1764	809.607	810.854	B	so , what can we do ?	we
+20	331	1765	809.607	810.854	B	so , what can we do ?	do
+20	331	1766	809.607	810.854	B	so , what can we do ?	?
+20	332	1767	811.983	813.402	A	where is a 4 and where is a 5 ?	where
+20	332	1768	811.983	813.402	A	where is a 4 and where is a 5 ?	is
+20	332	1769	811.983	813.402	A	where is a 4 and where is a 5 ?	a
+20	332	1770	811.983	813.402	A	where is a 4 and where is a 5 ?	4
+20	332	1771	811.983	813.402	A	where is a 4 and where is a 5 ?	and
+20	332	1772	811.983	813.402	A	where is a 4 and where is a 5 ?	where
+20	332	1773	811.983	813.402	A	where is a 4 and where is a 5 ?	is
+20	332	1774	811.983	813.402	A	where is a 4 and where is a 5 ?	a
+20	332	1775	811.983	813.402	A	where is a 4 and where is a 5 ?	5
+20	332	1776	811.983	813.402	A	where is a 4 and where is a 5 ?	?
+20	333	1777	816.895	818.390	B	okay found one zurich	okay
+20	333	1778	816.895	818.390	B	okay found one zurich	found
+20	333	1779	816.895	818.390	B	okay found one zurich	one
+20	333	1780	816.895	818.390	B	okay found one zurich	zurich
+20	334	1781	818.780	819.470	A	zurich	zurich
+20	335	1782	818.984	819.802	B	to davos .	to
+20	335	1783	818.984	819.802	B	to davos .	davos
+20	335	1784	818.984	819.802	B	to davos .	.
+20	336	1785	820.205	821.413	B	zurich to davos .	zurich
+20	336	1786	820.205	821.413	B	zurich to davos .	to
+20	336	1787	820.205	821.413	B	zurich to davos .	davos
+20	336	1788	820.205	821.413	B	zurich to davos .	.
+20	337	1789	822.309	823.242	A	how much was that ?	how
+20	337	1790	822.309	823.242	A	how much was that ?	much
+20	337	1791	822.309	823.242	A	how much was that ?	was
+20	337	1792	822.309	823.242	A	how much was that ?	that
+20	337	1793	822.309	823.242	A	how much was that ?	?
+20	338	1794	823.203	823.542	B	4 .	4
+20	338	1795	823.203	823.542	B	4 .	.
+20	339	1796	824.328	826.060	B	so that 's 4 gone now we need 5 .	so
+20	339	1797	824.328	826.060	B	so that 's 4 gone now we need 5 .	that
+20	339	1798	824.328	826.060	B	so that 's 4 gone now we need 5 .	's
+20	339	1799	824.328	826.060	B	so that 's 4 gone now we need 5 .	4
+20	339	1800	824.328	826.060	B	so that 's 4 gone now we need 5 .	gone
+20	339	1801	824.328	826.060	B	so that 's 4 gone now we need 5 .	now
+20	339	1802	824.328	826.060	B	so that 's 4 gone now we need 5 .	we
+20	339	1803	824.328	826.060	B	so that 's 4 gone now we need 5 .	need
+20	339	1804	824.328	826.060	B	so that 's 4 gone now we need 5 .	5
+20	339	1805	824.328	826.060	B	so that 's 4 gone now we need 5 .	.
+20	340	1806	827.614	828.815	A	oh i know how to get to 5 .	oh
+20	340	1807	827.614	828.815	A	oh i know how to get to 5 .	i
+20	340	1808	827.614	828.815	A	oh i know how to get to 5 .	know
+20	340	1809	827.614	828.815	A	oh i know how to get to 5 .	how
+20	340	1810	827.614	828.815	A	oh i know how to get to 5 .	to
+20	340	1811	827.614	828.815	A	oh i know how to get to 5 .	get
+20	340	1812	827.614	828.815	A	oh i know how to get to 5 .	to
+20	340	1813	827.614	828.815	A	oh i know how to get to 5 .	5
+20	340	1814	827.614	828.815	A	oh i know how to get to 5 .	.
+20	341	1815	829.127	830.424	A	we just need a 2 .	we
+20	341	1816	829.127	830.424	A	we just need a 2 .	just
+20	341	1817	829.127	830.424	A	we just need a 2 .	need
+20	341	1818	829.127	830.424	A	we just need a 2 .	a
+20	341	1819	829.127	830.424	A	we just need a 2 .	2
+20	341	1820	829.127	830.424	A	we just need a 2 .	.
+20	342	1821	829.600	830.827	B	i 've got an idea .	i
+20	342	1822	829.600	830.827	B	i 've got an idea .	've
+20	342	1823	829.600	830.827	B	i 've got an idea .	got
+20	342	1824	829.600	830.827	B	i 've got an idea .	an
+20	342	1825	829.600	830.827	B	i 've got an idea .	idea
+20	342	1826	829.600	830.827	B	i 've got an idea .	.
+20	343	1827	830.424	831.594	A	what , we need	what
+20	343	1828	830.424	831.594	A	what , we need	,
+20	343	1829	830.424	831.594	A	what , we need	we
+20	343	1830	830.424	831.594	A	what , we need	need
+20	344	1831	830.827	831.715	B	to zurich	to
+20	344	1832	830.827	831.715	B	to zurich	zurich
+20	345	1833	832.412	833.345	A	zurich	zurich
+20	346	1834	833.025	834.003	B	to luzern .	to
+20	346	1835	833.025	834.003	B	to luzern .	luzern
+20	346	1836	833.025	834.003	B	to luzern .	.
+20	347	1837	834.545	834.948	A	why ?	why
+20	347	1838	834.545	834.948	A	why ?	?
+20	348	1839	834.948	836.577	A	how much , how much is that ?	how
+20	348	1840	834.948	836.577	A	how much , how much is that ?	much
+20	348	1841	834.948	836.577	A	how much , how much is that ?	,
+20	348	1842	834.948	836.577	A	how much , how much is that ?	how
+20	348	1843	834.948	836.577	A	how much , how much is that ?	much
+20	348	1844	834.948	836.577	A	how much , how much is that ?	is
+20	348	1845	834.948	836.577	A	how much , how much is that ?	that
+20	348	1846	834.948	836.577	A	how much , how much is that ?	?
+20	349	1847	835.146	835.957	B	to luzern .	to
+20	349	1848	835.146	835.957	B	to luzern .	luzern
+20	349	1849	835.146	835.957	B	to luzern .	.
+20	350	1850	836.761	837.745	B	um 3 , 2 .	um
+20	350	1851	836.761	837.745	B	um 3 , 2 .	3
+20	350	1852	836.761	837.745	B	um 3 , 2 .	,
+20	350	1853	836.761	837.745	B	um 3 , 2 .	2
+20	350	1854	836.761	837.745	B	um 3 , 2 .	.
+20	351	1855	838.810	840.025	A	and then we need a 3 .	and
+20	351	1856	838.810	840.025	A	and then we need a 3 .	then
+20	351	1857	838.810	840.025	A	and then we need a 3 .	we
+20	351	1858	838.810	840.025	A	and then we need a 3 .	need
+20	351	1859	838.810	840.025	A	and then we need a 3 .	a
+20	351	1860	838.810	840.025	A	and then we need a 3 .	3
+20	351	1861	838.810	840.025	A	and then we need a 3 .	.
+20	352	1862	840.466	841.571	A	okay uh	okay
+20	352	1863	840.466	841.571	A	okay uh	uh
+20	353	1864	841.694	842.026	B	go .	go
+20	353	1865	841.694	842.026	B	go .	.
+20	354	1866	843.726	844.730	B	done , press check .	done
+20	354	1867	843.726	844.730	B	done , press check .	,
+20	354	1868	843.726	844.730	B	done , press check .	press
+20	354	1869	843.726	844.730	B	done , press check .	check
+20	354	1870	843.726	844.730	B	done , press check .	.
+20	355	1871	844.845	845.618	A	oh no .	oh
+20	355	1872	844.845	845.618	A	oh no .	no
+20	355	1873	844.845	845.618	A	oh no .	.
+20	356	1874	846.014	846.615	B	press check .	press
+20	356	1875	846.014	846.615	B	press check .	check
+20	356	1876	846.014	846.615	B	press check .	.
+20	357	1877	847.318	849.370	A	no , my check is still gray .	no
+20	357	1878	847.318	849.370	A	no , my check is still gray .	,
+20	357	1879	847.318	849.370	A	no , my check is still gray .	my
+20	357	1880	847.318	849.370	A	no , my check is still gray .	check
+20	357	1881	847.318	849.370	A	no , my check is still gray .	is
+20	357	1882	847.318	849.370	A	no , my check is still gray .	still
+20	357	1883	847.318	849.370	A	no , my check is still gray .	gray
+20	357	1884	847.318	849.370	A	no , my check is still gray .	.
+20	358	1885	849.721	850.137	B	what ?	what
+20	358	1886	849.721	850.137	B	what ?	?
+20	359	1887	850.874	851.871	B	but we did it .	but
+20	359	1888	850.874	851.871	B	but we did it .	we
+20	359	1889	850.874	851.871	B	but we did it .	did
+20	359	1890	850.874	851.871	B	but we did it .	it
+20	359	1891	850.874	851.871	B	but we did it .	.
+20	360	1892	853.065	856.043	A	your check is i think we need to connect them all .	your
+20	360	1893	853.065	856.043	A	your check is i think we need to connect them all .	check
+20	360	1894	853.065	856.043	A	your check is i think we need to connect them all .	is
+20	360	1895	853.065	856.043	A	your check is i think we need to connect them all .	i
+20	360	1896	853.065	856.043	A	your check is i think we need to connect them all .	think
+20	360	1897	853.065	856.043	A	your check is i think we need to connect them all .	we
+20	360	1898	853.065	856.043	A	your check is i think we need to connect them all .	need
+20	360	1899	853.065	856.043	A	your check is i think we need to connect them all .	to
+20	360	1900	853.065	856.043	A	your check is i think we need to connect them all .	connect
+20	360	1901	853.065	856.043	A	your check is i think we need to connect them all .	them
+20	360	1902	853.065	856.043	A	your check is i think we need to connect them all .	all
+20	360	1903	853.065	856.043	A	your check is i think we need to connect them all .	.
+20	361	1904	856.126	857.481	B	we had to do them all ?	we
+20	361	1905	856.126	857.481	B	we had to do them all ?	had
+20	361	1906	856.126	857.481	B	we had to do them all ?	to
+20	361	1907	856.126	857.481	B	we had to do them all ?	do
+20	361	1908	856.126	857.481	B	we had to do them all ?	them
+20	361	1909	856.126	857.481	B	we had to do them all ?	all
+20	361	1910	856.126	857.481	B	we had to do them all ?	?
+20	362	1911	858.673	859.332	A	yeah .	yeah
+20	362	1912	858.673	859.332	A	yeah .	.
+20	363	1913	859.300	860.853	B	we are terrible at this .	we
+20	363	1914	859.300	860.853	B	we are terrible at this .	are
+20	363	1915	859.300	860.853	B	we are terrible at this .	terrible
+20	363	1916	859.300	860.853	B	we are terrible at this .	at
+20	363	1917	859.300	860.853	B	we are terrible at this .	this
+20	363	1918	859.300	860.853	B	we are terrible at this .	.
+20	364	1919	861.325	862.207	A	uh	uh
+20	365	1920	862.987	864.112	B	robot help us .	robot
+20	365	1921	862.987	864.112	B	robot help us .	help
+20	365	1922	862.987	864.112	B	robot help us .	us
+20	365	1923	862.987	864.112	B	robot help us .	.
+20	366	1924	865.112	866.170	A	you both will	you
+20	366	1925	865.112	866.170	A	you both will	both
+20	366	1926	865.112	866.170	A	you both will	will
+20	367	1927	870.159	871.194	A	oh that 's why .	oh
+20	367	1928	870.159	871.194	A	oh that 's why .	that
+20	367	1929	870.159	871.194	A	oh that 's why .	's
+20	367	1930	870.159	871.194	A	oh that 's why .	why
+20	367	1931	870.159	871.194	A	oh that 's why .	.
+20	368	1932	871.194	876.614	A	we need to spend the uh we need to spend as less swiss francs as possible .	we
+20	368	1933	871.194	876.614	A	we need to spend the uh we need to spend as less swiss francs as possible .	need
+20	368	1934	871.194	876.614	A	we need to spend the uh we need to spend as less swiss francs as possible .	to
+20	368	1935	871.194	876.614	A	we need to spend the uh we need to spend as less swiss francs as possible .	spend
+20	368	1936	871.194	876.614	A	we need to spend the uh we need to spend as less swiss francs as possible .	the
+20	368	1937	871.194	876.614	A	we need to spend the uh we need to spend as less swiss francs as possible .	uh
+20	368	1938	871.194	876.614	A	we need to spend the uh we need to spend as less swiss francs as possible .	we
+20	368	1939	871.194	876.614	A	we need to spend the uh we need to spend as less swiss francs as possible .	need
+20	368	1940	871.194	876.614	A	we need to spend the uh we need to spend as less swiss francs as possible .	to
+20	368	1941	871.194	876.614	A	we need to spend the uh we need to spend as less swiss francs as possible .	spend
+20	368	1942	871.194	876.614	A	we need to spend the uh we need to spend as less swiss francs as possible .	as
+20	368	1943	871.194	876.614	A	we need to spend the uh we need to spend as less swiss francs as possible .	less
+20	368	1944	871.194	876.614	A	we need to spend the uh we need to spend as less swiss francs as possible .	swiss
+20	368	1945	871.194	876.614	A	we need to spend the uh we need to spend as less swiss francs as possible .	francs
+20	368	1946	871.194	876.614	A	we need to spend the uh we need to spend as less swiss francs as possible .	as
+20	368	1947	871.194	876.614	A	we need to spend the uh we need to spend as less swiss francs as possible .	possible
+20	368	1948	871.194	876.614	A	we need to spend the uh we need to spend as less swiss francs as possible .	.
+20	369	1949	877.812	878.515	B	what !	what
+20	369	1950	877.812	878.515	B	what !	!
+20	370	1951	880.119	882.363	A	we just noticed that now .	we
+20	370	1952	880.119	882.363	A	we just noticed that now .	just
+20	370	1953	880.119	882.363	A	we just noticed that now .	noticed
+20	370	1954	880.119	882.363	A	we just noticed that now .	that
+20	370	1955	880.119	882.363	A	we just noticed that now .	now
+20	370	1956	880.119	882.363	A	we just noticed that now .	.
+20	371	1957	884.460	885.981	B	we are so dumb .	we
+20	371	1958	884.460	885.981	B	we are so dumb .	are
+20	371	1959	884.460	885.981	B	we are so dumb .	so
+20	371	1960	884.460	885.981	B	we are so dumb .	dumb
+20	371	1961	884.460	885.981	B	we are so dumb .	.
+20	372	1962	884.587	886.345	A	oh damn it okay .	oh
+20	372	1963	884.587	886.345	A	oh damn it okay .	damn
+20	372	1964	884.587	886.345	A	oh damn it okay .	it
+20	372	1965	884.587	886.345	A	oh damn it okay .	okay
+20	372	1966	884.587	886.345	A	oh damn it okay .	.
+20	373	1967	886.345	890.934	A	just connect them all and then we go to the next one and we know what to do .	just
+20	373	1968	886.345	890.934	A	just connect them all and then we go to the next one and we know what to do .	connect
+20	373	1969	886.345	890.934	A	just connect them all and then we go to the next one and we know what to do .	them
+20	373	1970	886.345	890.934	A	just connect them all and then we go to the next one and we know what to do .	all
+20	373	1971	886.345	890.934	A	just connect them all and then we go to the next one and we know what to do .	and
+20	373	1972	886.345	890.934	A	just connect them all and then we go to the next one and we know what to do .	then
+20	373	1973	886.345	890.934	A	just connect them all and then we go to the next one and we know what to do .	we
+20	373	1974	886.345	890.934	A	just connect them all and then we go to the next one and we know what to do .	go
+20	373	1975	886.345	890.934	A	just connect them all and then we go to the next one and we know what to do .	to
+20	373	1976	886.345	890.934	A	just connect them all and then we go to the next one and we know what to do .	the
+20	373	1977	886.345	890.934	A	just connect them all and then we go to the next one and we know what to do .	next
+20	373	1978	886.345	890.934	A	just connect them all and then we go to the next one and we know what to do .	one
+20	373	1979	886.345	890.934	A	just connect them all and then we go to the next one and we know what to do .	and
+20	373	1980	886.345	890.934	A	just connect them all and then we go to the next one and we know what to do .	we
+20	373	1981	886.345	890.934	A	just connect them all and then we go to the next one and we know what to do .	know
+20	373	1982	886.345	890.934	A	just connect them all and then we go to the next one and we know what to do .	what
+20	373	1983	886.345	890.934	A	just connect them all and then we go to the next one and we know what to do .	to
+20	373	1984	886.345	890.934	A	just connect them all and then we go to the next one and we know what to do .	do
+20	373	1985	886.345	890.934	A	just connect them all and then we go to the next one and we know what to do .	.
+20	374	1986	891.316	892.377	B	okay .	okay
+20	374	1987	891.316	892.377	B	okay .	.
+20	375	1988	895.292	896.813	A	okay uh how	okay
+20	375	1989	895.292	896.813	A	okay uh how	uh
+20	375	1990	895.292	896.813	A	okay uh how	how
+20	376	1991	897.382	898.034	A	um	um
+20	377	1992	898.307	898.997	A	oh what	oh
+20	377	1993	898.307	898.997	A	oh what	what
+20	378	1994	899.965	900.942	A	what did you just do ?	what
+20	378	1995	899.965	900.942	A	what did you just do ?	did
+20	378	1996	899.965	900.942	A	what did you just do ?	you
+20	378	1997	899.965	900.942	A	what did you just do ?	just
+20	378	1998	899.965	900.942	A	what did you just do ?	do
+20	378	1999	899.965	900.942	A	what did you just do ?	?
+20	379	2000	903.060	904.166	B	i just did something .	i
+20	379	2001	903.060	904.166	B	i just did something .	just
+20	379	2002	903.060	904.166	B	i just did something .	did
+20	379	2003	903.060	904.166	B	i just did something .	something
+20	379	2004	903.060	904.166	B	i just did something .	.
+20	380	2005	905.078	905.608	A	wow .	wow
+20	380	2006	905.078	905.608	A	wow .	.
+20	381	2007	905.947	906.388	B	what ?	what
+20	381	2008	905.947	906.388	B	what ?	?
+20	382	2009	906.717	908.621	A	wow it 's changing tracks .	wow
+20	382	2010	906.717	908.621	A	wow it 's changing tracks .	it
+20	382	2011	906.717	908.621	A	wow it 's changing tracks .	's
+20	382	2012	906.717	908.621	A	wow it 's changing tracks .	changing
+20	382	2013	906.717	908.621	A	wow it 's changing tracks .	tracks
+20	382	2014	906.717	908.621	A	wow it 's changing tracks .	.
+20	383	2015	910.062	910.771	B	right so ?	right
+20	383	2016	910.062	910.771	B	right so ?	so
+20	383	2017	910.062	910.771	B	right so ?	?
+20	384	2018	910.976	911.947	A	yeah by itself .	yeah
+20	384	2019	910.976	911.947	A	yeah by itself .	by
+20	384	2020	910.976	911.947	A	yeah by itself .	itself
+20	384	2021	910.976	911.947	A	yeah by itself .	.
+20	385	2022	914.900	915.596	A	oh .	oh
+20	385	2023	914.900	915.596	A	oh .	.
+20	386	2024	914.963	915.999	B	no oh no no .	no
+20	386	2025	914.963	915.999	B	no oh no no .	oh
+20	386	2026	914.963	915.999	B	no oh no no .	no
+20	386	2027	914.963	915.999	B	no oh no no .	no
+20	386	2028	914.963	915.999	B	no oh no no .	.
+20	387	2029	922.712	923.779	B	i think	i
+20	387	2030	922.712	923.779	B	i think	think
+20	388	2031	922.744	924.054	A	oh .	oh
+20	388	2032	922.744	924.054	A	oh .	.
+20	389	2033	924.399	925.460	B	so we submit it ?	so
+20	389	2034	924.399	925.460	B	so we submit it ?	we
+20	389	2035	924.399	925.460	B	so we submit it ?	submit
+20	389	2036	924.399	925.460	B	so we submit it ?	it
+20	389	2037	924.399	925.460	B	so we submit it ?	?
+20	390	2038	926.113	927.947	A	yeah let 's start over .	yeah
+20	390	2039	926.113	927.947	A	yeah let 's start over .	let
+20	390	2040	926.113	927.947	A	yeah let 's start over .	's
+20	390	2041	926.113	927.947	A	yeah let 's start over .	start
+20	390	2042	926.113	927.947	A	yeah let 's start over .	over
+20	390	2043	926.113	927.947	A	yeah let 's start over .	.
+20	391	2044	928.231	929.886	B	robot say something to us .	robot
+20	391	2045	928.231	929.886	B	robot say something to us .	say
+20	391	2046	928.231	929.886	B	robot say something to us .	something
+20	391	2047	928.231	929.886	B	robot say something to us .	to
+20	391	2048	928.231	929.886	B	robot say something to us .	us
+20	391	2049	928.231	929.886	B	robot say something to us .	.
+20	392	2050	936.401	936.801	B	yeah .	yeah
+20	392	2051	936.401	936.801	B	yeah .	.
+20	393	2052	938.251	939.101	B	should we	should
+20	393	2053	938.251	939.101	B	should we	we
+20	394	2054	941.461	941.774	A	oh .	oh
+20	394	2055	941.461	941.774	A	oh .	.
+20	395	2056	943.493	944.631	A	where is 2 ?	where
+20	395	2057	943.493	944.631	A	where is 2 ?	is
+20	395	2058	943.493	944.631	A	where is 2 ?	2
+20	395	2059	943.493	944.631	A	where is 2 ?	?
+20	396	2060	945.078	945.985	A	give me a 2 .	give
+20	396	2061	945.078	945.985	A	give me a 2 .	me
+20	396	2062	945.078	945.985	A	give me a 2 .	a
+20	396	2063	945.078	945.985	A	give me a 2 .	2
+20	396	2064	945.078	945.985	A	give me a 2 .	.
+20	397	2065	947.264	948.062	A	2 francs one .	2
+20	397	2066	947.264	948.062	A	2 francs one .	francs
+20	397	2067	947.264	948.062	A	2 francs one .	one
+20	397	2068	947.264	948.062	A	2 francs one .	.
+20	398	2069	950.273	951.449	B	2 francs um .	2
+20	398	2070	950.273	951.449	B	2 francs um .	francs
+20	398	2071	950.273	951.449	B	2 francs um .	um
+20	398	2072	950.273	951.449	B	2 francs um .	.
+20	399	2073	953.207	955.648	B	interlaken to zermatt .	interlaken
+20	399	2074	953.207	955.648	B	interlaken to zermatt .	to
+20	399	2075	953.207	955.648	B	interlaken to zermatt .	zermatt
+20	399	2076	953.207	955.648	B	interlaken to zermatt .	.
+20	400	2077	956.051	957.796	A	interlaken to zermatt .	interlaken
+20	400	2078	956.051	957.796	A	interlaken to zermatt .	to
+20	400	2079	956.051	957.796	A	interlaken to zermatt .	zermatt
+20	400	2080	956.051	957.796	A	interlaken to zermatt .	.
+20	401	2081	958.429	960.435	A	zermatt oh interlaken .	zermatt
+20	401	2082	958.429	960.435	A	zermatt oh interlaken .	oh
+20	401	2083	958.429	960.435	A	zermatt oh interlaken .	interlaken
+20	401	2084	958.429	960.435	A	zermatt oh interlaken .	.
+20	402	2085	960.986	961.785	A	that 's 2 ?	that
+20	402	2086	960.986	961.785	A	that 's 2 ?	's
+20	402	2087	960.986	961.785	A	that 's 2 ?	2
+20	402	2088	960.986	961.785	A	that 's 2 ?	?
+20	403	2089	962.072	963.900	B	interlaken to zermatt .	interlaken
+20	403	2090	962.072	963.900	B	interlaken to zermatt .	to
+20	403	2091	962.072	963.900	B	interlaken to zermatt .	zermatt
+20	403	2092	962.072	963.900	B	interlaken to zermatt .	.
+20	404	2093	964.066	964.820	A	that 's 2 ?	that
+20	404	2094	964.066	964.820	A	that 's 2 ?	's
+20	404	2095	964.066	964.820	A	that 's 2 ?	2
+20	404	2096	964.066	964.820	A	that 's 2 ?	?
+20	405	2097	964.705	965.140	B	yes .	yes
+20	405	2098	964.705	965.140	B	yes .	.
+20	406	2099	965.501	965.788	A	oh .	oh
+20	406	2100	965.501	965.788	A	oh .	.
+20	407	2101	966.622	967.989	B	and you want another 2 ?	and
+20	407	2102	966.622	967.989	B	and you want another 2 ?	you
+20	407	2103	966.622	967.989	B	and you want another 2 ?	want
+20	407	2104	966.622	967.989	B	and you want another 2 ?	another
+20	407	2105	966.622	967.989	B	and you want another 2 ?	2
+20	407	2106	966.622	967.989	B	and you want another 2 ?	?
+20	408	2107	968.111	968.469	A	yeah .	yeah
+20	408	2108	968.111	968.469	A	yeah .	.
+20	409	2109	968.207	969.044	B	or 3 ?	or
+20	409	2110	968.207	969.044	B	or 3 ?	3
+20	409	2111	968.207	969.044	B	or 3 ?	?
+20	410	2112	968.954	972.970	A	yeah uh as much 2s and then as much 3s .	yeah
+20	410	2113	968.954	972.970	A	yeah uh as much 2s and then as much 3s .	uh
+20	410	2114	968.954	972.970	A	yeah uh as much 2s and then as much 3s .	as
+20	410	2115	968.954	972.970	A	yeah uh as much 2s and then as much 3s .	much
+20	410	2116	968.954	972.970	A	yeah uh as much 2s and then as much 3s .	2s
+20	410	2117	968.954	972.970	A	yeah uh as much 2s and then as much 3s .	and
+20	410	2118	968.954	972.970	A	yeah uh as much 2s and then as much 3s .	then
+20	410	2119	968.954	972.970	A	yeah uh as much 2s and then as much 3s .	as
+20	410	2120	968.954	972.970	A	yeah uh as much 2s and then as much 3s .	much
+20	410	2121	968.954	972.970	A	yeah uh as much 2s and then as much 3s .	3s
+20	410	2122	968.954	972.970	A	yeah uh as much 2s and then as much 3s .	.
+20	411	2123	972.051	974.626	B	zermatt to montreux .	zermatt
+20	411	2124	972.051	974.626	B	zermatt to montreux .	to
+20	411	2125	972.051	974.626	B	zermatt to montreux .	montreux
+20	411	2126	972.051	974.626	B	zermatt to montreux .	.
+20	412	2127	976.476	977.115	B	montreux .	montreux
+20	412	2128	976.476	977.115	B	montreux .	.
+20	413	2129	977.198	978.105	A	oh montreux .	oh
+20	413	2130	977.198	978.105	A	oh montreux .	montreux
+20	413	2131	977.198	978.105	A	oh montreux .	.
+20	414	2132	978.808	979.147	A	uh	uh
+20	415	2133	980.302	980.961	B	okay my turn .	okay
+20	415	2134	980.302	980.961	B	okay my turn .	my
+20	415	2135	980.302	980.961	B	okay my turn .	turn
+20	415	2136	980.302	980.961	B	okay my turn .	.
+20	416	2137	980.411	981.683	A	okay give me oh okay .	okay
+20	416	2138	980.411	981.683	A	okay give me oh okay .	give
+20	416	2139	980.411	981.683	A	okay give me oh okay .	me
+20	416	2140	980.411	981.683	A	okay give me oh okay .	oh
+20	416	2141	980.411	981.683	A	okay give me oh okay .	okay
+20	416	2142	980.411	981.683	A	okay give me oh okay .	.
+20	417	2143	981.728	982.392	B	give me a 2 .	give
+20	417	2144	981.728	982.392	B	give me a 2 .	me
+20	417	2145	981.728	982.392	B	give me a 2 .	a
+20	417	2146	981.728	982.392	B	give me a 2 .	2
+20	417	2147	981.728	982.392	B	give me a 2 .	.
+20	418	2148	982.862	985.085	A	um neuchatel to montreux .	um
+20	418	2149	982.862	985.085	A	um neuchatel to montreux .	neuchatel
+20	418	2150	982.862	985.085	A	um neuchatel to montreux .	to
+20	418	2151	982.862	985.085	A	um neuchatel to montreux .	montreux
+20	418	2152	982.862	985.085	A	um neuchatel to montreux .	.
+20	419	2153	985.264	987.191	B	neuchatel to montreux .	neuchatel
+20	419	2154	985.264	987.191	B	neuchatel to montreux .	to
+20	419	2155	985.264	987.191	B	neuchatel to montreux .	montreux
+20	419	2156	985.264	987.191	B	neuchatel to montreux .	.
+20	420	2157	989.643	991.062	B	i do n't really care actually .	i
+20	420	2158	989.643	991.062	B	i do n't really care actually .	do
+20	420	2159	989.643	991.062	B	i do n't really care actually .	n't
+20	420	2160	989.643	991.062	B	i do n't really care actually .	really
+20	420	2161	989.643	991.062	B	i do n't really care actually .	care
+20	420	2162	989.643	991.062	B	i do n't really care actually .	actually
+20	420	2163	989.643	991.062	B	i do n't really care actually .	.
+20	421	2164	990.618	994.177	A	um yeah me to i do n't like this , zurich to luzern .	um
+20	421	2165	990.618	994.177	A	um yeah me to i do n't like this , zurich to luzern .	yeah
+20	421	2166	990.618	994.177	A	um yeah me to i do n't like this , zurich to luzern .	me
+20	421	2167	990.618	994.177	A	um yeah me to i do n't like this , zurich to luzern .	to
+20	421	2168	990.618	994.177	A	um yeah me to i do n't like this , zurich to luzern .	i
+20	421	2169	990.618	994.177	A	um yeah me to i do n't like this , zurich to luzern .	do
+20	421	2170	990.618	994.177	A	um yeah me to i do n't like this , zurich to luzern .	n't
+20	421	2171	990.618	994.177	A	um yeah me to i do n't like this , zurich to luzern .	like
+20	421	2172	990.618	994.177	A	um yeah me to i do n't like this , zurich to luzern .	this
+20	421	2173	990.618	994.177	A	um yeah me to i do n't like this , zurich to luzern .	,
+20	421	2174	990.618	994.177	A	um yeah me to i do n't like this , zurich to luzern .	zurich
+20	421	2175	990.618	994.177	A	um yeah me to i do n't like this , zurich to luzern .	to
+20	421	2176	990.618	994.177	A	um yeah me to i do n't like this , zurich to luzern .	luzern
+20	421	2177	990.618	994.177	A	um yeah me to i do n't like this , zurich to luzern .	.
+20	422	2178	994.765	995.666	B	wait zurich ?	wait
+20	422	2179	994.765	995.666	B	wait zurich ?	zurich
+20	422	2180	994.765	995.666	B	wait zurich ?	?
+20	423	2181	995.922	997.009	A	to luzern .	to
+20	423	2182	995.922	997.009	A	to luzern .	luzern
+20	423	2183	995.922	997.009	A	to luzern .	.
+20	424	2184	999.549	1000.271	B	where is zurich ?	where
+20	424	2185	999.549	1000.271	B	where is zurich ?	is
+20	424	2186	999.549	1000.271	B	where is zurich ?	zurich
+20	424	2187	999.549	1000.271	B	where is zurich ?	?
+20	425	2188	1001.767	1003.070	A	zurich is at the top .	zurich
+20	425	2189	1001.767	1003.070	A	zurich is at the top .	is
+20	425	2190	1001.767	1003.070	A	zurich is at the top .	at
+20	425	2191	1001.767	1003.070	A	zurich is at the top .	the
+20	425	2192	1001.767	1003.070	A	zurich is at the top .	top
+20	425	2193	1001.767	1003.070	A	zurich is at the top .	.
+20	426	2194	1005.317	1006.742	B	i ca n't do luzern .	i
+20	426	2195	1005.317	1006.742	B	i ca n't do luzern .	ca
+20	426	2196	1005.317	1006.742	B	i ca n't do luzern .	n't
+20	426	2197	1005.317	1006.742	B	i ca n't do luzern .	do
+20	426	2198	1005.317	1006.742	B	i ca n't do luzern .	luzern
+20	426	2199	1005.317	1006.742	B	i ca n't do luzern .	.
+20	427	2200	1006.863	1007.643	A	yeah you can .	yeah
+20	427	2201	1006.863	1007.643	A	yeah you can .	you
+20	427	2202	1006.863	1007.643	A	yeah you can .	can
+20	427	2203	1006.863	1007.643	A	yeah you can .	.
+20	428	2204	1008.598	1010.407	A	zurich to luzern .	zurich
+20	428	2205	1008.598	1010.407	A	zurich to luzern .	to
+20	428	2206	1008.598	1010.407	A	zurich to luzern .	luzern
+20	428	2207	1008.598	1010.407	A	zurich to luzern .	.
+20	429	2208	1010.292	1011.365	B	where is luzern ?	where
+20	429	2209	1010.292	1011.365	B	where is luzern ?	is
+20	429	2210	1010.292	1011.365	B	where is luzern ?	luzern
+20	429	2211	1010.292	1011.365	B	where is luzern ?	?
+20	430	2212	1011.507	1013.232	A	luzern is under zurich .	luzern
+20	430	2213	1011.507	1013.232	A	luzern is under zurich .	is
+20	430	2214	1011.507	1013.232	A	luzern is under zurich .	under
+20	430	2215	1011.507	1013.232	A	luzern is under zurich .	zurich
+20	430	2216	1011.507	1013.232	A	luzern is under zurich .	.
+20	431	2217	1014.185	1015.354	B	i ca n't do it .	i
+20	431	2218	1014.185	1015.354	B	i ca n't do it .	ca
+20	431	2219	1014.185	1015.354	B	i ca n't do it .	n't
+20	431	2220	1014.185	1015.354	B	i ca n't do it .	do
+20	431	2221	1014.185	1015.354	B	i ca n't do it .	it
+20	431	2222	1014.185	1015.354	B	i ca n't do it .	.
+20	432	2223	1015.342	1016.230	A	yes you can .	yes
+20	432	2224	1015.342	1016.230	A	yes you can .	you
+20	432	2225	1015.342	1016.230	A	yes you can .	can
+20	432	2226	1015.342	1016.230	A	yes you can .	.
+20	433	2227	1016.166	1017.278	B	no i ca n't .	no
+20	433	2228	1016.166	1017.278	B	no i ca n't .	i
+20	433	2229	1016.166	1017.278	B	no i ca n't .	ca
+20	433	2230	1016.166	1017.278	B	no i ca n't .	n't
+20	433	2231	1016.166	1017.278	B	no i ca n't .	.
+20	434	2232	1017.345	1018.706	A	yes you can it 's	yes
+20	434	2233	1017.345	1018.706	A	yes you can it 's	you
+20	434	2234	1017.345	1018.706	A	yes you can it 's	can
+20	434	2235	1017.345	1018.706	A	yes you can it 's	it
+20	434	2236	1017.345	1018.706	A	yes you can it 's	's
+20	435	2237	1018.102	1021.080	B	how about mount zermatt to mount	how
+20	435	2238	1018.102	1021.080	B	how about mount zermatt to mount	about
+20	435	2239	1018.102	1021.080	B	how about mount zermatt to mount	mount
+20	435	2240	1018.102	1021.080	B	how about mount zermatt to mount	zermatt
+20	435	2241	1018.102	1021.080	B	how about mount zermatt to mount	to
+20	435	2242	1018.102	1021.080	B	how about mount zermatt to mount	mount
+20	436	2243	1020.465	1023.157	A	no yes you can zurich to luzern .	no
+20	436	2244	1020.465	1023.157	A	no yes you can zurich to luzern .	yes
+20	436	2245	1020.465	1023.157	A	no yes you can zurich to luzern .	you
+20	436	2246	1020.465	1023.157	A	no yes you can zurich to luzern .	can
+20	436	2247	1020.465	1023.157	A	no yes you can zurich to luzern .	zurich
+20	436	2248	1020.465	1023.157	A	no yes you can zurich to luzern .	to
+20	436	2249	1020.465	1023.157	A	no yes you can zurich to luzern .	luzern
+20	436	2250	1020.465	1023.157	A	no yes you can zurich to luzern .	.
+20	437	2251	1025.569	1026.151	A	2 .	2
+20	437	2252	1025.569	1026.151	A	2 .	.
+20	438	2253	1027.065	1027.467	A	oh .	oh
+20	438	2254	1027.065	1027.467	A	oh .	.
+20	439	2255	1027.288	1027.729	B	3 .	3
+20	439	2256	1027.288	1027.729	B	3 .	.
+20	440	2257	1030.431	1031.057	B	what ?	what
+20	440	2258	1030.431	1031.057	B	what ?	?
+20	441	2259	1031.371	1031.920	A	let me	let
+20	441	2260	1031.371	1031.920	A	let me	me
+20	442	2261	1032.284	1032.943	A	there you go .	there
+20	442	2262	1032.284	1032.943	A	there you go .	you
+20	442	2263	1032.284	1032.943	A	there you go .	go
+20	442	2264	1032.284	1032.943	A	there you go .	.
+20	443	2265	1033.930	1034.511	A	what no	what
+20	443	2266	1033.930	1034.511	A	what no	no
+20	444	2267	1037.273	1038.960	B	you are erasing my mistake .	you
+20	444	2268	1037.273	1038.960	B	you are erasing my mistake .	are
+20	444	2269	1037.273	1038.960	B	you are erasing my mistake .	erasing
+20	444	2270	1037.273	1038.960	B	you are erasing my mistake .	my
+20	444	2271	1037.273	1038.960	B	you are erasing my mistake .	mistake
+20	444	2272	1037.273	1038.960	B	you are erasing my mistake .	.
+20	445	2273	1039.375	1040.085	B	how dare you .	how
+20	445	2274	1039.375	1040.085	B	how dare you .	dare
+20	445	2275	1039.375	1040.085	B	how dare you .	you
+20	445	2276	1039.375	1040.085	B	how dare you .	.
+20	446	2277	1039.401	1039.989	A	i know .	i
+20	446	2278	1039.401	1039.989	A	i know .	know
+20	446	2279	1039.401	1039.989	A	i know .	.
+20	447	2280	1040.690	1041.725	A	wait , what ?	wait
+20	447	2281	1040.690	1041.725	A	wait , what ?	,
+20	447	2282	1040.690	1041.725	A	wait , what ?	what
+20	447	2283	1040.690	1041.725	A	wait , what ?	?
+20	448	2284	1044.283	1046.430	A	can i get pencil again ?	can
+20	448	2285	1044.283	1046.430	A	can i get pencil again ?	i
+20	448	2286	1044.283	1046.430	A	can i get pencil again ?	get
+20	448	2287	1044.283	1046.430	A	can i get pencil again ?	pencil
+20	448	2288	1044.283	1046.430	A	can i get pencil again ?	again
+20	448	2289	1044.283	1046.430	A	can i get pencil again ?	?
+20	449	2290	1050.561	1051.891	A	oh oh .	oh
+20	449	2291	1050.561	1051.891	A	oh oh .	oh
+20	449	2292	1050.561	1051.891	A	oh oh .	.
+20	450	2293	1052.633	1054.077	A	oh .	oh
+20	450	2294	1052.633	1054.077	A	oh .	.
+20	451	2295	1055.426	1056.021	A	okay .	okay
+20	451	2296	1055.426	1056.021	A	okay .	.
+20	452	2297	1056.155	1057.976	B	we messed up again did n't we ?	we
+20	452	2298	1056.155	1057.976	B	we messed up again did n't we ?	messed
+20	452	2299	1056.155	1057.976	B	we messed up again did n't we ?	up
+20	452	2300	1056.155	1057.976	B	we messed up again did n't we ?	again
+20	452	2301	1056.155	1057.976	B	we messed up again did n't we ?	did
+20	452	2302	1056.155	1057.976	B	we messed up again did n't we ?	n't
+20	452	2303	1056.155	1057.976	B	we messed up again did n't we ?	we
+20	452	2304	1056.155	1057.976	B	we messed up again did n't we ?	?
+20	453	2305	1057.719	1059.713	A	okay number 2 , now another 2 .	okay
+20	453	2306	1057.719	1059.713	A	okay number 2 , now another 2 .	number
+20	453	2307	1057.719	1059.713	A	okay number 2 , now another 2 .	2
+20	453	2308	1057.719	1059.713	A	okay number 2 , now another 2 .	,
+20	453	2309	1057.719	1059.713	A	okay number 2 , now another 2 .	now
+20	453	2310	1057.719	1059.713	A	okay number 2 , now another 2 .	another
+20	453	2311	1057.719	1059.713	A	okay number 2 , now another 2 .	2
+20	453	2312	1057.719	1059.713	A	okay number 2 , now another 2 .	.
+20	454	2313	1059.664	1060.687	B	another 2 .	another
+20	454	2314	1059.664	1060.687	B	another 2 .	2
+20	454	2315	1059.664	1060.687	B	another 2 .	.
+20	455	2316	1061.038	1062.061	B	um let 's see .	um
+20	455	2317	1061.038	1062.061	B	um let 's see .	let
+20	455	2318	1061.038	1062.061	B	um let 's see .	's
+20	455	2319	1061.038	1062.061	B	um let 's see .	see
+20	455	2320	1061.038	1062.061	B	um let 's see .	.
+20	456	2321	1062.425	1063.882	B	luzern to zurich .	luzern
+20	456	2322	1062.425	1063.882	B	luzern to zurich .	to
+20	456	2323	1062.425	1063.882	B	luzern to zurich .	zurich
+20	456	2324	1062.425	1063.882	B	luzern to zurich .	.
+20	457	2325	1066.359	1068.809	A	i i told you to do that and then you did it .	i
+20	457	2326	1066.359	1068.809	A	i i told you to do that and then you did it .	i
+20	457	2327	1066.359	1068.809	A	i i told you to do that and then you did it .	told
+20	457	2328	1066.359	1068.809	A	i i told you to do that and then you did it .	you
+20	457	2329	1066.359	1068.809	A	i i told you to do that and then you did it .	to
+20	457	2330	1066.359	1068.809	A	i i told you to do that and then you did it .	do
+20	457	2331	1066.359	1068.809	A	i i told you to do that and then you did it .	that
+20	457	2332	1066.359	1068.809	A	i i told you to do that and then you did it .	and
+20	457	2333	1066.359	1068.809	A	i i told you to do that and then you did it .	then
+20	457	2334	1066.359	1068.809	A	i i told you to do that and then you did it .	you
+20	457	2335	1066.359	1068.809	A	i i told you to do that and then you did it .	did
+20	457	2336	1066.359	1068.809	A	i i told you to do that and then you did it .	it
+20	457	2337	1066.359	1068.809	A	i i told you to do that and then you did it .	.
+20	458	2338	1067.913	1069.263	B	just do it .	just
+20	458	2339	1067.913	1069.263	B	just do it .	do
+20	458	2340	1067.913	1069.263	B	just do it .	it
+20	458	2341	1067.913	1069.263	B	just do it .	.
+20	459	2342	1069.320	1072.081	A	no now we ca n't because it is an eraser now .	no
+20	459	2343	1069.320	1072.081	A	no now we ca n't because it is an eraser now .	now
+20	459	2344	1069.320	1072.081	A	no now we ca n't because it is an eraser now .	we
+20	459	2345	1069.320	1072.081	A	no now we ca n't because it is an eraser now .	ca
+20	459	2346	1069.320	1072.081	A	no now we ca n't because it is an eraser now .	n't
+20	459	2347	1069.320	1072.081	A	no now we ca n't because it is an eraser now .	because
+20	459	2348	1069.320	1072.081	A	no now we ca n't because it is an eraser now .	it
+20	459	2349	1069.320	1072.081	A	no now we ca n't because it is an eraser now .	is
+20	459	2350	1069.320	1072.081	A	no now we ca n't because it is an eraser now .	an
+20	459	2351	1069.320	1072.081	A	no now we ca n't because it is an eraser now .	eraser
+20	459	2352	1069.320	1072.081	A	no now we ca n't because it is an eraser now .	now
+20	459	2353	1069.320	1072.081	A	no now we ca n't because it is an eraser now .	.
+20	460	2354	1074.628	1077.197	B	why , zurich to luzern .	why
+20	460	2355	1074.628	1077.197	B	why , zurich to luzern .	,
+20	460	2356	1074.628	1077.197	B	why , zurich to luzern .	zurich
+20	460	2357	1074.628	1077.197	B	why , zurich to luzern .	to
+20	460	2358	1074.628	1077.197	B	why , zurich to luzern .	luzern
+20	460	2359	1074.628	1077.197	B	why , zurich to luzern .	.
+20	461	2360	1078.762	1079.273	A	i	i
+20	462	2361	1088.807	1089.625	B	okay .	okay
+20	462	2362	1088.807	1089.625	B	okay .	.
+20	463	2363	1089.031	1089.740	A	oh okay .	oh
+20	463	2364	1089.031	1089.740	A	oh okay .	okay
+20	463	2365	1089.031	1089.740	A	oh okay .	.
+20	464	2366	1090.060	1091.128	B	then um	then
+20	464	2367	1090.060	1091.128	B	then um	um
+20	465	2368	1091.588	1092.783	B	let 's see what we have .	let
+20	465	2369	1091.588	1092.783	B	let 's see what we have .	's
+20	465	2370	1091.588	1092.783	B	let 's see what we have .	see
+20	465	2371	1091.588	1092.783	B	let 's see what we have .	what
+20	465	2372	1091.588	1092.783	B	let 's see what we have .	we
+20	465	2373	1091.588	1092.783	B	let 's see what we have .	have
+20	465	2374	1091.588	1092.783	B	let 's see what we have .	.
+20	466	2375	1092.374	1094.486	A	there is no more 2s then 3s now .	there
+20	466	2376	1092.374	1094.486	A	there is no more 2s then 3s now .	is
+20	466	2377	1092.374	1094.486	A	there is no more 2s then 3s now .	no
+20	466	2378	1092.374	1094.486	A	there is no more 2s then 3s now .	more
+20	466	2379	1092.374	1094.486	A	there is no more 2s then 3s now .	2s
+20	466	2380	1092.374	1094.486	A	there is no more 2s then 3s now .	then
+20	466	2381	1092.374	1094.486	A	there is no more 2s then 3s now .	3s
+20	466	2382	1092.374	1094.486	A	there is no more 2s then 3s now .	now
+20	466	2383	1092.374	1094.486	A	there is no more 2s then 3s now .	.
+20	467	2384	1095.651	1099.026	B	yeah no we do n't have any 2s zermatt to davos .	yeah
+20	467	2385	1095.651	1099.026	B	yeah no we do n't have any 2s zermatt to davos .	no
+20	467	2386	1095.651	1099.026	B	yeah no we do n't have any 2s zermatt to davos .	we
+20	467	2387	1095.651	1099.026	B	yeah no we do n't have any 2s zermatt to davos .	do
+20	467	2388	1095.651	1099.026	B	yeah no we do n't have any 2s zermatt to davos .	n't
+20	467	2389	1095.651	1099.026	B	yeah no we do n't have any 2s zermatt to davos .	have
+20	467	2390	1095.651	1099.026	B	yeah no we do n't have any 2s zermatt to davos .	any
+20	467	2391	1095.651	1099.026	B	yeah no we do n't have any 2s zermatt to davos .	2s
+20	467	2392	1095.651	1099.026	B	yeah no we do n't have any 2s zermatt to davos .	zermatt
+20	467	2393	1095.651	1099.026	B	yeah no we do n't have any 2s zermatt to davos .	to
+20	467	2394	1095.651	1099.026	B	yeah no we do n't have any 2s zermatt to davos .	davos
+20	467	2395	1095.651	1099.026	B	yeah no we do n't have any 2s zermatt to davos .	.
+20	468	2396	1097.185	1097.754	A	okay .	okay
+20	468	2397	1097.185	1097.754	A	okay .	.
+20	469	2398	1099.174	1101.934	A	uh zermatt to davos there we go .	uh
+20	469	2399	1099.174	1101.934	A	uh zermatt to davos there we go .	zermatt
+20	469	2400	1099.174	1101.934	A	uh zermatt to davos there we go .	to
+20	469	2401	1099.174	1101.934	A	uh zermatt to davos there we go .	davos
+20	469	2402	1099.174	1101.934	A	uh zermatt to davos there we go .	there
+20	469	2403	1099.174	1101.934	A	uh zermatt to davos there we go .	we
+20	469	2404	1099.174	1101.934	A	uh zermatt to davos there we go .	go
+20	469	2405	1099.174	1101.934	A	uh zermatt to davos there we go .	.
+20	470	2406	1102.190	1103.960	B	and then we 've got another 2 .	and
+20	470	2407	1102.190	1103.960	B	and then we 've got another 2 .	then
+20	470	2408	1102.190	1103.960	B	and then we 've got another 2 .	we
+20	470	2409	1102.190	1103.960	B	and then we 've got another 2 .	've
+20	470	2410	1102.190	1103.960	B	and then we 've got another 2 .	got
+20	470	2411	1102.190	1103.960	B	and then we 've got another 2 .	another
+20	470	2412	1102.190	1103.960	B	and then we 've got another 2 .	2
+20	470	2413	1102.190	1103.960	B	and then we 've got another 2 .	.
+20	471	2414	1103.533	1104.389	A	okay .	okay
+20	471	2415	1103.533	1104.389	A	okay .	.
+20	472	2416	1105.029	1106.530	A	okay you 've done another 2 nice .	okay
+20	472	2417	1105.029	1106.530	A	okay you 've done another 2 nice .	you
+20	472	2418	1105.029	1106.530	A	okay you 've done another 2 nice .	've
+20	472	2419	1105.029	1106.530	A	okay you 've done another 2 nice .	done
+20	472	2420	1105.029	1106.530	A	okay you 've done another 2 nice .	another
+20	472	2421	1105.029	1106.530	A	okay you 've done another 2 nice .	2
+20	472	2422	1105.029	1106.530	A	okay you 've done another 2 nice .	nice
+20	472	2423	1105.029	1106.530	A	okay you 've done another 2 nice .	.
+20	473	2424	1106.741	1108.115	A	zurich to gallen .	zurich
+20	473	2425	1106.741	1108.115	A	zurich to gallen .	to
+20	473	2426	1106.741	1108.115	A	zurich to gallen .	gallen
+20	473	2427	1106.741	1108.115	A	zurich to gallen .	.
+20	474	2428	1108.604	1110.214	B	zurich to berlin ?	zurich
+20	474	2429	1108.604	1110.214	B	zurich to berlin ?	to
+20	474	2430	1108.604	1110.214	B	zurich to berlin ?	berlin
+20	474	2431	1108.604	1110.214	B	zurich to berlin ?	?
+20	475	2432	1109.946	1112.112	A	saint gallen saint gallen .	saint
+20	475	2433	1109.946	1112.112	A	saint gallen saint gallen .	gallen
+20	475	2434	1109.946	1112.112	A	saint gallen saint gallen .	saint
+20	475	2435	1109.946	1112.112	A	saint gallen saint gallen .	gallen
+20	475	2436	1109.946	1112.112	A	saint gallen saint gallen .	.
+20	476	2437	1116.777	1117.615	A	um	um
+20	477	2438	1116.995	1119.423	B	i have a feeling we have not been doing this right .	i
+20	477	2439	1116.995	1119.423	B	i have a feeling we have not been doing this right .	have
+20	477	2440	1116.995	1119.423	B	i have a feeling we have not been doing this right .	a
+20	477	2441	1116.995	1119.423	B	i have a feeling we have not been doing this right .	feeling
+20	477	2442	1116.995	1119.423	B	i have a feeling we have not been doing this right .	we
+20	477	2443	1116.995	1119.423	B	i have a feeling we have not been doing this right .	have
+20	477	2444	1116.995	1119.423	B	i have a feeling we have not been doing this right .	not
+20	477	2445	1116.995	1119.423	B	i have a feeling we have not been doing this right .	been
+20	477	2446	1116.995	1119.423	B	i have a feeling we have not been doing this right .	doing
+20	477	2447	1116.995	1119.423	B	i have a feeling we have not been doing this right .	this
+20	477	2448	1116.995	1119.423	B	i have a feeling we have not been doing this right .	right
+20	477	2449	1116.995	1119.423	B	i have a feeling we have not been doing this right .	.
+20	478	2450	1119.577	1121.469	A	um give me another 3 .	um
+20	478	2451	1119.577	1121.469	A	um give me another 3 .	give
+20	478	2452	1119.577	1121.469	A	um give me another 3 .	me
+20	478	2453	1119.577	1121.469	A	um give me another 3 .	another
+20	478	2454	1119.577	1121.469	A	um give me another 3 .	3
+20	478	2455	1119.577	1121.469	A	um give me another 3 .	.
+20	479	2456	1122.017	1123.123	B	another 3 .	another
+20	479	2457	1122.017	1123.123	B	another 3 .	3
+20	479	2458	1122.017	1123.123	B	another 3 .	.
+20	480	2459	1123.672	1124.886	B	zurich to bern .	zurich
+20	480	2460	1123.672	1124.886	B	zurich to bern .	to
+20	480	2461	1123.672	1124.886	B	zurich to bern .	bern
+20	480	2462	1123.672	1124.886	B	zurich to bern .	.
+20	481	2463	1125.359	1127.513	A	zurich to bern .	zurich
+20	481	2464	1125.359	1127.513	A	zurich to bern .	to
+20	481	2465	1125.359	1127.513	A	zurich to bern .	bern
+20	481	2466	1125.359	1127.513	A	zurich to bern .	.
+20	482	2467	1127.684	1128.291	B	and then	and
+20	482	2468	1127.684	1128.291	B	and then	then
+20	483	2469	1127.817	1128.521	A	oh no oops .	oh
+20	483	2470	1127.817	1128.521	A	oh no oops .	no
+20	483	2471	1127.817	1128.521	A	oh no oops .	oops
+20	483	2472	1127.817	1128.521	A	oh no oops .	.
+20	484	2473	1131.316	1132.019	A	there you go .	there
+20	484	2474	1131.316	1132.019	A	there you go .	you
+20	484	2475	1131.316	1132.019	A	there you go .	go
+20	484	2476	1131.316	1132.019	A	there you go .	.
+20	485	2477	1135.973	1137.276	B	now we 've got double 3s .	now
+20	485	2478	1135.973	1137.276	B	now we 've got double 3s .	we
+20	485	2479	1135.973	1137.276	B	now we 've got double 3s .	've
+20	485	2480	1135.973	1137.276	B	now we 've got double 3s .	got
+20	485	2481	1135.973	1137.276	B	now we 've got double 3s .	double
+20	485	2482	1135.973	1137.276	B	now we 've got double 3s .	3s
+20	485	2483	1135.973	1137.276	B	now we 've got double 3s .	.
+20	486	2484	1137.564	1138.197	A	okay .	okay
+20	486	2485	1137.564	1138.197	A	okay .	.
+20	487	2486	1145.833	1146.894	B	what can we do next ?	what
+20	487	2487	1145.833	1146.894	B	what can we do next ?	can
+20	487	2488	1145.833	1146.894	B	what can we do next ?	we
+20	487	2489	1145.833	1146.894	B	what can we do next ?	do
+20	487	2490	1145.833	1146.894	B	what can we do next ?	next
+20	487	2491	1145.833	1146.894	B	what can we do next ?	?
+20	488	2492	1146.479	1148.166	A	give me another 3 or 4 ?	give
+20	488	2493	1146.479	1148.166	A	give me another 3 or 4 ?	me
+20	488	2494	1146.479	1148.166	A	give me another 3 or 4 ?	another
+20	488	2495	1146.479	1148.166	A	give me another 3 or 4 ?	3
+20	488	2496	1146.479	1148.166	A	give me another 3 or 4 ?	or
+20	488	2497	1146.479	1148.166	A	give me another 3 or 4 ?	4
+20	488	2498	1146.479	1148.166	A	give me another 3 or 4 ?	?
+20	489	2499	1148.415	1151.157	A	3 , is there another 3 , if there is not then 4 .	3
+20	489	2500	1148.415	1151.157	A	3 , is there another 3 , if there is not then 4 .	,
+20	489	2501	1148.415	1151.157	A	3 , is there another 3 , if there is not then 4 .	is
+20	489	2502	1148.415	1151.157	A	3 , is there another 3 , if there is not then 4 .	there
+20	489	2503	1148.415	1151.157	A	3 , is there another 3 , if there is not then 4 .	another
+20	489	2504	1148.415	1151.157	A	3 , is there another 3 , if there is not then 4 .	3
+20	489	2505	1148.415	1151.157	A	3 , is there another 3 , if there is not then 4 .	,
+20	489	2506	1148.415	1151.157	A	3 , is there another 3 , if there is not then 4 .	if
+20	489	2507	1148.415	1151.157	A	3 , is there another 3 , if there is not then 4 .	there
+20	489	2508	1148.415	1151.157	A	3 , is there another 3 , if there is not then 4 .	is
+20	489	2509	1148.415	1151.157	A	3 , is there another 3 , if there is not then 4 .	not
+20	489	2510	1148.415	1151.157	A	3 , is there another 3 , if there is not then 4 .	then
+20	489	2511	1148.415	1151.157	A	3 , is there another 3 , if there is not then 4 .	4
+20	489	2512	1148.415	1151.157	A	3 , is there another 3 , if there is not then 4 .	.
+20	490	2513	1152.230	1153.195	B	how much	how
+20	490	2514	1152.230	1153.195	B	how much	much
+20	491	2515	1152.306	1153.342	A	oh we 've got a check .	oh
+20	491	2516	1152.306	1153.342	A	oh we 've got a check .	we
+20	491	2517	1152.306	1153.342	A	oh we 've got a check .	've
+20	491	2518	1152.306	1153.342	A	oh we 've got a check .	got
+20	491	2519	1152.306	1153.342	A	oh we 've got a check .	a
+20	491	2520	1152.306	1153.342	A	oh we 've got a check .	check
+20	491	2521	1152.306	1153.342	A	oh we 've got a check .	.
+20	492	2522	1153.700	1154.358	B	we 've got a check ?	we
+20	492	2523	1153.700	1154.358	B	we 've got a check ?	've
+20	492	2524	1153.700	1154.358	B	we 've got a check ?	got
+20	492	2525	1153.700	1154.358	B	we 've got a check ?	a
+20	492	2526	1153.700	1154.358	B	we 've got a check ?	check
+20	492	2527	1153.700	1154.358	B	we 've got a check ?	?
+20	493	2528	1154.524	1155.259	A	should we submit it ?	should
+20	493	2529	1154.524	1155.259	A	should we submit it ?	we
+20	493	2530	1154.524	1155.259	A	should we submit it ?	submit
+20	493	2531	1154.524	1155.259	A	should we submit it ?	it
+20	493	2532	1154.524	1155.259	A	should we submit it ?	?

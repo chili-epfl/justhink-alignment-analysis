@@ -1,0 +1,2332 @@
+team_no	utterance_no	token_no	start	end	interlocutor	utterance	token
+47	0	0	40.321	42.448	B	um okay so .	um
+47	0	1	40.321	42.448	B	um okay so .	okay
+47	0	2	40.321	42.448	B	um okay so .	so
+47	0	3	40.321	42.448	B	um okay so .	.
+47	1	4	41.430	42.628	A	okay so .	okay
+47	1	5	41.430	42.628	A	okay so .	so
+47	1	6	41.430	42.628	A	okay so .	.
+47	2	7	43.736	48.140	B	i 'm going from mount montreux to mount interlaken .	i
+47	2	8	43.736	48.140	B	i 'm going from mount montreux to mount interlaken .	'm
+47	2	9	43.736	48.140	B	i 'm going from mount montreux to mount interlaken .	going
+47	2	10	43.736	48.140	B	i 'm going from mount montreux to mount interlaken .	from
+47	2	11	43.736	48.140	B	i 'm going from mount montreux to mount interlaken .	mount
+47	2	12	43.736	48.140	B	i 'm going from mount montreux to mount interlaken .	montreux
+47	2	13	43.736	48.140	B	i 'm going from mount montreux to mount interlaken .	to
+47	2	14	43.736	48.140	B	i 'm going from mount montreux to mount interlaken .	mount
+47	2	15	43.736	48.140	B	i 'm going from mount montreux to mount interlaken .	interlaken
+47	2	16	43.736	48.140	B	i 'm going from mount montreux to mount interlaken .	.
+47	3	17	48.709	50.836	A	to mount what , what wait mount ?	to
+47	3	18	48.709	50.836	A	to mount what , what wait mount ?	mount
+47	3	19	48.709	50.836	A	to mount what , what wait mount ?	what
+47	3	20	48.709	50.836	A	to mount what , what wait mount ?	,
+47	3	21	48.709	50.836	A	to mount what , what wait mount ?	what
+47	3	22	48.709	50.836	A	to mount what , what wait mount ?	wait
+47	3	23	48.709	50.836	A	to mount what , what wait mount ?	mount
+47	3	24	48.709	50.836	A	to mount what , what wait mount ?	?
+47	4	25	57.071	58.090	A	um	um
+47	5	26	64.419	65.648	B	oh that 's cool .	oh
+47	5	27	64.419	65.648	B	oh that 's cool .	that
+47	5	28	64.419	65.648	B	oh that 's cool .	's
+47	5	29	64.419	65.648	B	oh that 's cool .	cool
+47	5	30	64.419	65.648	B	oh that 's cool .	.
+47	6	31	77.378	78.546	A	uh	uh
+47	7	32	82.725	83.804	A	okay .	okay
+47	7	33	82.725	83.804	A	okay .	.
+47	8	34	85.062	87.638	A	i kind of get it if i have question can i ask you ?	i
+47	8	35	85.062	87.638	A	i kind of get it if i have question can i ask you ?	kind
+47	8	36	85.062	87.638	A	i kind of get it if i have question can i ask you ?	of
+47	8	37	85.062	87.638	A	i kind of get it if i have question can i ask you ?	get
+47	8	38	85.062	87.638	A	i kind of get it if i have question can i ask you ?	it
+47	8	39	85.062	87.638	A	i kind of get it if i have question can i ask you ?	if
+47	8	40	85.062	87.638	A	i kind of get it if i have question can i ask you ?	i
+47	8	41	85.062	87.638	A	i kind of get it if i have question can i ask you ?	have
+47	8	42	85.062	87.638	A	i kind of get it if i have question can i ask you ?	question
+47	8	43	85.062	87.638	A	i kind of get it if i have question can i ask you ?	can
+47	8	44	85.062	87.638	A	i kind of get it if i have question can i ask you ?	i
+47	8	45	85.062	87.638	A	i kind of get it if i have question can i ask you ?	ask
+47	8	46	85.062	87.638	A	i kind of get it if i have question can i ask you ?	you
+47	8	47	85.062	87.638	A	i kind of get it if i have question can i ask you ?	?
+47	9	48	94.867	95.556	A	okay .	okay
+47	9	49	94.867	95.556	A	okay .	.
+47	10	50	97.344	98.123	A	okay .	okay
+47	10	51	97.344	98.123	A	okay .	.
+47	11	52	106.359	108.217	A	so where are you building ?	so
+47	11	53	106.359	108.217	A	so where are you building ?	where
+47	11	54	106.359	108.217	A	so where are you building ?	are
+47	11	55	106.359	108.217	A	so where are you building ?	you
+47	11	56	106.359	108.217	A	so where are you building ?	building
+47	11	57	106.359	108.217	A	so where are you building ?	?
+47	12	58	113.288	113.857	A	um	um
+47	13	59	119.526	123.001	A	i go from mount zermatt to mount davos .	i
+47	13	60	119.526	123.001	A	i go from mount zermatt to mount davos .	go
+47	13	61	119.526	123.001	A	i go from mount zermatt to mount davos .	from
+47	13	62	119.526	123.001	A	i go from mount zermatt to mount davos .	mount
+47	13	63	119.526	123.001	A	i go from mount zermatt to mount davos .	zermatt
+47	13	64	119.526	123.001	A	i go from mount zermatt to mount davos .	to
+47	13	65	119.526	123.001	A	i go from mount zermatt to mount davos .	mount
+47	13	66	119.526	123.001	A	i go from mount zermatt to mount davos .	davos
+47	13	67	119.526	123.001	A	i go from mount zermatt to mount davos .	.
+47	14	68	120.724	123.600	B	oh okay it 's your turn then .	oh
+47	14	69	120.724	123.600	B	oh okay it 's your turn then .	okay
+47	14	70	120.724	123.600	B	oh okay it 's your turn then .	it
+47	14	71	120.724	123.600	B	oh okay it 's your turn then .	's
+47	14	72	120.724	123.600	B	oh okay it 's your turn then .	your
+47	14	73	120.724	123.600	B	oh okay it 's your turn then .	turn
+47	14	74	120.724	123.600	B	oh okay it 's your turn then .	then
+47	14	75	120.724	123.600	B	oh okay it 's your turn then .	.
+47	15	76	123.600	126.416	A	and now your turn you can .	and
+47	15	77	123.600	126.416	A	and now your turn you can .	now
+47	15	78	123.600	126.416	A	and now your turn you can .	your
+47	15	79	123.600	126.416	A	and now your turn you can .	turn
+47	15	80	123.600	126.416	A	and now your turn you can .	you
+47	15	81	123.600	126.416	A	and now your turn you can .	can
+47	15	82	123.600	126.416	A	and now your turn you can .	.
+47	16	83	128.526	130.653	A	oh , um	oh
+47	16	84	128.526	130.653	A	oh , um	,
+47	16	85	128.526	130.653	A	oh , um	um
+47	17	86	133.139	135.625	A	um just	um
+47	17	87	133.139	135.625	A	um just	just
+47	18	88	136.374	141.095	A	so we need to collect connect all of them together using the less the least money ?	so
+47	18	89	136.374	141.095	A	so we need to collect connect all of them together using the less the least money ?	we
+47	18	90	136.374	141.095	A	so we need to collect connect all of them together using the less the least money ?	need
+47	18	91	136.374	141.095	A	so we need to collect connect all of them together using the less the least money ?	to
+47	18	92	136.374	141.095	A	so we need to collect connect all of them together using the less the least money ?	collect
+47	18	93	136.374	141.095	A	so we need to collect connect all of them together using the less the least money ?	connect
+47	18	94	136.374	141.095	A	so we need to collect connect all of them together using the less the least money ?	all
+47	18	95	136.374	141.095	A	so we need to collect connect all of them together using the less the least money ?	of
+47	18	96	136.374	141.095	A	so we need to collect connect all of them together using the less the least money ?	them
+47	18	97	136.374	141.095	A	so we need to collect connect all of them together using the less the least money ?	together
+47	18	98	136.374	141.095	A	so we need to collect connect all of them together using the less the least money ?	using
+47	18	99	136.374	141.095	A	so we need to collect connect all of them together using the less the least money ?	the
+47	18	100	136.374	141.095	A	so we need to collect connect all of them together using the less the least money ?	less
+47	18	101	136.374	141.095	A	so we need to collect connect all of them together using the less the least money ?	the
+47	18	102	136.374	141.095	A	so we need to collect connect all of them together using the less the least money ?	least
+47	18	103	136.374	141.095	A	so we need to collect connect all of them together using the less the least money ?	money
+47	18	104	136.374	141.095	A	so we need to collect connect all of them together using the less the least money ?	?
+47	19	105	142.113	142.862	A	okay .	okay
+47	19	106	142.113	142.862	A	okay .	.
+47	20	107	150.529	151.518	A	okay .	okay
+47	20	108	150.529	151.518	A	okay .	.
+47	21	109	186.563	187.285	B	three	three
+47	22	110	187.799	188.255	B	two	two
+47	23	111	188.750	189.263	A	one .	one
+47	23	112	188.750	189.263	A	one .	.
+47	24	113	188.750	189.206	B	one .	one
+47	24	114	188.750	189.206	B	one .	.
+47	25	115	191.429	194.016	A	oh green , green check oh wait .	oh
+47	25	116	191.429	194.016	A	oh green , green check oh wait .	green
+47	25	117	191.429	194.016	A	oh green , green check oh wait .	,
+47	25	118	191.429	194.016	A	oh green , green check oh wait .	green
+47	25	119	191.429	194.016	A	oh green , green check oh wait .	check
+47	25	120	191.429	194.016	A	oh green , green check oh wait .	oh
+47	25	121	191.429	194.016	A	oh green , green check oh wait .	wait
+47	25	122	191.429	194.016	A	oh green , green check oh wait .	.
+47	26	123	216.135	216.990	A	okay .	okay
+47	26	124	216.135	216.990	A	okay .	.
+47	27	125	220.357	221.289	B	oh okay .	oh
+47	27	126	220.357	221.289	B	oh okay .	okay
+47	27	127	220.357	221.289	B	oh okay .	.
+47	28	128	221.479	222.164	A	okay .	okay
+47	28	129	221.479	222.164	A	okay .	.
+47	29	130	223.628	225.188	A	i 'll build first .	i
+47	29	131	223.628	225.188	A	i 'll build first .	'll
+47	29	132	223.628	225.188	A	i 'll build first .	build
+47	29	133	223.628	225.188	A	i 'll build first .	first
+47	29	134	223.628	225.188	A	i 'll build first .	.
+47	30	135	228.708	230.591	A	why are we 5 francs away ?	why
+47	30	136	228.708	230.591	A	why are we 5 francs away ?	are
+47	30	137	228.708	230.591	A	why are we 5 francs away ?	we
+47	30	138	228.708	230.591	A	why are we 5 francs away ?	5
+47	30	139	228.708	230.591	A	why are we 5 francs away ?	francs
+47	30	140	228.708	230.591	A	why are we 5 francs away ?	away
+47	30	141	228.708	230.591	A	why are we 5 francs away ?	?
+47	31	142	233.216	234.167	A	um	um
+47	32	143	237.020	239.606	A	i think short distances will make less money .	i
+47	32	144	237.020	239.606	A	i think short distances will make less money .	think
+47	32	145	237.020	239.606	A	i think short distances will make less money .	short
+47	32	146	237.020	239.606	A	i think short distances will make less money .	distances
+47	32	147	237.020	239.606	A	i think short distances will make less money .	will
+47	32	148	237.020	239.606	A	i think short distances will make less money .	make
+47	32	149	237.020	239.606	A	i think short distances will make less money .	less
+47	32	150	237.020	239.606	A	i think short distances will make less money .	money
+47	32	151	237.020	239.606	A	i think short distances will make less money .	.
+47	33	152	281.203	283.257	A	okay , let 's click it .	okay
+47	33	153	281.203	283.257	A	okay , let 's click it .	,
+47	33	154	281.203	283.257	A	okay , let 's click it .	let
+47	33	155	281.203	283.257	A	okay , let 's click it .	's
+47	33	156	281.203	283.257	A	okay , let 's click it .	click
+47	33	157	281.203	283.257	A	okay , let 's click it .	it
+47	33	158	281.203	283.257	A	okay , let 's click it .	.
+47	34	159	284.094	286.718	A	go , oh oh gosh , waiting for .	go
+47	34	160	284.094	286.718	A	go , oh oh gosh , waiting for .	,
+47	34	161	284.094	286.718	A	go , oh oh gosh , waiting for .	oh
+47	34	162	284.094	286.718	A	go , oh oh gosh , waiting for .	oh
+47	34	163	284.094	286.718	A	go , oh oh gosh , waiting for .	gosh
+47	34	164	284.094	286.718	A	go , oh oh gosh , waiting for .	,
+47	34	165	284.094	286.718	A	go , oh oh gosh , waiting for .	waiting
+47	34	166	284.094	286.718	A	go , oh oh gosh , waiting for .	for
+47	34	167	284.094	286.718	A	go , oh oh gosh , waiting for .	.
+47	35	168	293.818	295.986	A	hello robot .	hello
+47	35	169	293.818	295.986	A	hello robot .	robot
+47	35	170	293.818	295.986	A	hello robot .	.
+47	36	171	306.670	308.458	A	okay come on let 's press it together .	okay
+47	36	172	306.670	308.458	A	okay come on let 's press it together .	come
+47	36	173	306.670	308.458	A	okay come on let 's press it together .	on
+47	36	174	306.670	308.458	A	okay come on let 's press it together .	let
+47	36	175	306.670	308.458	A	okay come on let 's press it together .	's
+47	36	176	306.670	308.458	A	okay come on let 's press it together .	press
+47	36	177	306.670	308.458	A	okay come on let 's press it together .	it
+47	36	178	306.670	308.458	A	okay come on let 's press it together .	together
+47	36	179	306.670	308.458	A	okay come on let 's press it together .	.
+47	37	180	308.192	309.447	B	i do that i already pressed it .	i
+47	37	181	308.192	309.447	B	i do that i already pressed it .	do
+47	37	182	308.192	309.447	B	i do that i already pressed it .	that
+47	37	183	308.192	309.447	B	i do that i already pressed it .	i
+47	37	184	308.192	309.447	B	i do that i already pressed it .	already
+47	37	185	308.192	309.447	B	i do that i already pressed it .	pressed
+47	37	186	308.192	309.447	B	i do that i already pressed it .	it
+47	37	187	308.192	309.447	B	i do that i already pressed it .	.
+47	38	188	309.599	310.094	A	three .	three
+47	38	189	309.599	310.094	A	three .	.
+47	39	190	310.094	310.855	B	two .	two
+47	39	191	310.094	310.855	B	two .	.
+47	40	192	310.969	311.539	A	one .	one
+47	40	193	310.969	311.539	A	one .	.
+47	41	194	311.692	312.300	A	go .	go
+47	41	195	311.692	312.300	A	go .	.
+47	42	196	317.397	320.821	A	16 oh gosh let 's let 's just start .	16
+47	42	197	317.397	320.821	A	16 oh gosh let 's let 's just start .	oh
+47	42	198	317.397	320.821	A	16 oh gosh let 's let 's just start .	gosh
+47	42	199	317.397	320.821	A	16 oh gosh let 's let 's just start .	let
+47	42	200	317.397	320.821	A	16 oh gosh let 's let 's just start .	's
+47	42	201	317.397	320.821	A	16 oh gosh let 's let 's just start .	let
+47	42	202	317.397	320.821	A	16 oh gosh let 's let 's just start .	's
+47	42	203	317.397	320.821	A	16 oh gosh let 's let 's just start .	just
+47	42	204	317.397	320.821	A	16 oh gosh let 's let 's just start .	start
+47	42	205	317.397	320.821	A	16 oh gosh let 's let 's just start .	.
+47	43	206	321.277	322.825	A	let 's just do our you know .	let
+47	43	207	321.277	322.825	A	let 's just do our you know .	's
+47	43	208	321.277	322.825	A	let 's just do our you know .	just
+47	43	209	321.277	322.825	A	let 's just do our you know .	do
+47	43	210	321.277	322.825	A	let 's just do our you know .	our
+47	43	211	321.277	322.825	A	let 's just do our you know .	you
+47	43	212	321.277	322.825	A	let 's just do our you know .	know
+47	43	213	321.277	322.825	A	let 's just do our you know .	.
+47	44	214	321.836	324.384	B	i know how we should start , let 's so	i
+47	44	215	321.836	324.384	B	i know how we should start , let 's so	know
+47	44	216	321.836	324.384	B	i know how we should start , let 's so	how
+47	44	217	321.836	324.384	B	i know how we should start , let 's so	we
+47	44	218	321.836	324.384	B	i know how we should start , let 's so	should
+47	44	219	321.836	324.384	B	i know how we should start , let 's so	start
+47	44	220	321.836	324.384	B	i know how we should start , let 's so	,
+47	44	221	321.836	324.384	B	i know how we should start , let 's so	let
+47	44	222	321.836	324.384	B	i know how we should start , let 's so	's
+47	44	223	321.836	324.384	B	i know how we should start , let 's so	so
+47	45	224	323.833	326.838	A	let 's start from mount zermatt to mount davos .	let
+47	45	225	323.833	326.838	A	let 's start from mount zermatt to mount davos .	's
+47	45	226	323.833	326.838	A	let 's start from mount zermatt to mount davos .	start
+47	45	227	323.833	326.838	A	let 's start from mount zermatt to mount davos .	from
+47	45	228	323.833	326.838	A	let 's start from mount zermatt to mount davos .	mount
+47	45	229	323.833	326.838	A	let 's start from mount zermatt to mount davos .	zermatt
+47	45	230	323.833	326.838	A	let 's start from mount zermatt to mount davos .	to
+47	45	231	323.833	326.838	A	let 's start from mount zermatt to mount davos .	mount
+47	45	232	323.833	326.838	A	let 's start from mount zermatt to mount davos .	davos
+47	45	233	323.833	326.838	A	let 's start from mount zermatt to mount davos .	.
+47	46	234	331.927	333.639	A	wait mount what ?	wait
+47	46	235	331.927	333.639	A	wait mount what ?	mount
+47	46	236	331.927	333.639	A	wait mount what ?	what
+47	46	237	331.927	333.639	A	wait mount what ?	?
+47	47	238	333.430	334.704	B	mount montreux .	mount
+47	47	239	333.430	334.704	B	mount montreux .	montreux
+47	47	240	333.430	334.704	B	mount montreux .	.
+47	48	241	335.207	338.231	A	oh mount mount montreux , to	oh
+47	48	242	335.207	338.231	A	oh mount mount montreux , to	mount
+47	48	243	335.207	338.231	A	oh mount mount montreux , to	mount
+47	48	244	335.207	338.231	A	oh mount mount montreux , to	montreux
+47	48	245	335.207	338.231	A	oh mount mount montreux , to	,
+47	48	246	335.207	338.231	A	oh mount mount montreux , to	to
+47	49	247	337.717	339.790	B	to mount neuchatel .	to
+47	49	248	337.717	339.790	B	to mount neuchatel .	mount
+47	49	249	337.717	339.790	B	to mount neuchatel .	neuchatel
+47	49	250	337.717	339.790	B	to mount neuchatel .	.
+47	50	251	339.600	340.152	A	okay .	okay
+47	50	252	339.600	340.152	A	okay .	.
+47	51	253	342.377	344.470	B	and then go to mount interlaken .	and
+47	51	254	342.377	344.470	B	and then go to mount interlaken .	then
+47	51	255	342.377	344.470	B	and then go to mount interlaken .	go
+47	51	256	342.377	344.470	B	and then go to mount interlaken .	to
+47	51	257	342.377	344.470	B	and then go to mount interlaken .	mount
+47	51	258	342.377	344.470	B	and then go to mount interlaken .	interlaken
+47	51	259	342.377	344.470	B	and then go to mount interlaken .	.
+47	52	260	342.511	342.986	A	and	and
+47	53	261	345.268	346.257	A	you sure because	you
+47	53	262	345.268	346.257	A	you sure because	sure
+47	53	263	345.268	346.257	A	you sure because	because
+47	54	264	345.953	346.543	B	yeah .	yeah
+47	54	265	345.953	346.543	B	yeah .	.
+47	55	266	346.257	346.809	A	okay .	okay
+47	55	267	346.257	346.809	A	okay .	.
+47	56	268	347.551	350.309	A	i see oh 3 and 2 , we 've got 5 francs .	i
+47	56	269	347.551	350.309	A	i see oh 3 and 2 , we 've got 5 francs .	see
+47	56	270	347.551	350.309	A	i see oh 3 and 2 , we 've got 5 francs .	oh
+47	56	271	347.551	350.309	A	i see oh 3 and 2 , we 've got 5 francs .	3
+47	56	272	347.551	350.309	A	i see oh 3 and 2 , we 've got 5 francs .	and
+47	56	273	347.551	350.309	A	i see oh 3 and 2 , we 've got 5 francs .	2
+47	56	274	347.551	350.309	A	i see oh 3 and 2 , we 've got 5 francs .	,
+47	56	275	347.551	350.309	A	i see oh 3 and 2 , we 've got 5 francs .	we
+47	56	276	347.551	350.309	A	i see oh 3 and 2 , we 've got 5 francs .	've
+47	56	277	347.551	350.309	A	i see oh 3 and 2 , we 've got 5 francs .	got
+47	56	278	347.551	350.309	A	i see oh 3 and 2 , we 've got 5 francs .	5
+47	56	279	347.551	350.309	A	i see oh 3 and 2 , we 've got 5 francs .	francs
+47	56	280	347.551	350.309	A	i see oh 3 and 2 , we 've got 5 francs .	.
+47	57	281	351.944	353.371	A	um i 'll go from	um
+47	57	282	351.944	353.371	A	um i 'll go from	i
+47	57	283	351.944	353.371	A	um i 'll go from	'll
+47	57	284	351.944	353.371	A	um i 'll go from	go
+47	57	285	351.944	353.371	A	um i 'll go from	from
+47	58	286	352.325	354.816	B	go to mount zurich .	go
+47	58	287	352.325	354.816	B	go to mount zurich .	to
+47	58	288	352.325	354.816	B	go to mount zurich .	mount
+47	58	289	352.325	354.816	B	go to mount zurich .	zurich
+47	58	290	352.325	354.816	B	go to mount zurich .	.
+47	59	291	354.784	357.582	A	go to mount zurich , and then from mount zurich	go
+47	59	292	354.784	357.582	A	go to mount zurich , and then from mount zurich	to
+47	59	293	354.784	357.582	A	go to mount zurich , and then from mount zurich	mount
+47	59	294	354.784	357.582	A	go to mount zurich , and then from mount zurich	zurich
+47	59	295	354.784	357.582	A	go to mount zurich , and then from mount zurich	,
+47	59	296	354.784	357.582	A	go to mount zurich , and then from mount zurich	and
+47	59	297	354.784	357.582	A	go to mount zurich , and then from mount zurich	then
+47	59	298	354.784	357.582	A	go to mount zurich , and then from mount zurich	from
+47	59	299	354.784	357.582	A	go to mount zurich , and then from mount zurich	mount
+47	59	300	354.784	357.582	A	go to mount zurich , and then from mount zurich	zurich
+47	60	301	358.058	359.123	B	to mount luzern .	to
+47	60	302	358.058	359.123	B	to mount luzern .	mount
+47	60	303	358.058	359.123	B	to mount luzern .	luzern
+47	60	304	358.058	359.123	B	to mount luzern .	.
+47	61	305	359.503	361.082	A	luzern , you go .	luzern
+47	61	306	359.503	361.082	A	luzern , you go .	,
+47	61	307	359.503	361.082	A	luzern , you go .	you
+47	61	308	359.503	361.082	A	luzern , you go .	go
+47	61	309	359.503	361.082	A	luzern , you go .	.
+47	62	310	362.144	362.924	A	okay .	okay
+47	62	311	362.144	362.924	A	okay .	.
+47	63	312	366.462	368.421	A	mount s t gallen .	mount
+47	63	313	366.462	368.421	A	mount s t gallen .	s
+47	63	314	366.462	368.421	A	mount s t gallen .	t
+47	63	315	366.462	368.421	A	mount s t gallen .	gallen
+47	63	316	366.462	368.421	A	mount s t gallen .	.
+47	64	317	370.025	371.128	A	which mountain ?	which
+47	64	318	370.025	371.128	A	which mountain ?	mountain
+47	64	319	370.025	371.128	A	which mountain ?	?
+47	65	320	371.147	371.566	B	mount	mount
+47	66	321	371.870	373.126	B	mount zurich .	mount
+47	66	322	371.870	373.126	B	mount zurich .	zurich
+47	66	323	371.870	373.126	B	mount zurich .	.
+47	67	324	371.927	372.517	A	okay .	okay
+47	67	325	371.927	372.517	A	okay .	.
+47	68	326	373.594	376.999	A	now we already collected , okay we 're ready two one go .	now
+47	68	327	373.594	376.999	A	now we already collected , okay we 're ready two one go .	we
+47	68	328	373.594	376.999	A	now we already collected , okay we 're ready two one go .	already
+47	68	329	373.594	376.999	A	now we already collected , okay we 're ready two one go .	collected
+47	68	330	373.594	376.999	A	now we already collected , okay we 're ready two one go .	,
+47	68	331	373.594	376.999	A	now we already collected , okay we 're ready two one go .	okay
+47	68	332	373.594	376.999	A	now we already collected , okay we 're ready two one go .	we
+47	68	333	373.594	376.999	A	now we already collected , okay we 're ready two one go .	're
+47	68	334	373.594	376.999	A	now we already collected , okay we 're ready two one go .	ready
+47	68	335	373.594	376.999	A	now we already collected , okay we 're ready two one go .	two
+47	68	336	373.594	376.999	A	now we already collected , okay we 're ready two one go .	one
+47	68	337	373.594	376.999	A	now we already collected , okay we 're ready two one go .	go
+47	68	338	373.594	376.999	A	now we already collected , okay we 're ready two one go .	.
+47	69	339	374.793	376.771	B	okay three two one .	okay
+47	69	340	374.793	376.771	B	okay three two one .	three
+47	69	341	374.793	376.771	B	okay three two one .	two
+47	69	342	374.793	376.771	B	okay three two one .	one
+47	69	343	374.793	376.771	B	okay three two one .	.
+47	70	344	382.557	384.763	A	3 francs okay how can we	3
+47	70	345	382.557	384.763	A	3 francs okay how can we	francs
+47	70	346	382.557	384.763	A	3 francs okay how can we	okay
+47	70	347	382.557	384.763	A	3 francs okay how can we	how
+47	70	348	382.557	384.763	A	3 francs okay how can we	can
+47	70	349	382.557	384.763	A	3 francs okay how can we	we
+47	71	350	383.032	384.953	B	oh okay we 're close .	oh
+47	71	351	383.032	384.953	B	oh okay we 're close .	okay
+47	71	352	383.032	384.953	B	oh okay we 're close .	we
+47	71	353	383.032	384.953	B	oh okay we 're close .	're
+47	71	354	383.032	384.953	B	oh okay we 're close .	close
+47	71	355	383.032	384.953	B	oh okay we 're close .	.
+47	72	356	386.006	387.604	A	okay um	okay
+47	72	357	386.006	387.604	A	okay um	um
+47	73	358	387.337	388.821	B	okay you should take the lead now .	okay
+47	73	359	387.337	388.821	B	okay you should take the lead now .	you
+47	73	360	387.337	388.821	B	okay you should take the lead now .	should
+47	73	361	387.337	388.821	B	okay you should take the lead now .	take
+47	73	362	387.337	388.821	B	okay you should take the lead now .	the
+47	73	363	387.337	388.821	B	okay you should take the lead now .	lead
+47	73	364	387.337	388.821	B	okay you should take the lead now .	now
+47	73	365	387.337	388.821	B	okay you should take the lead now .	.
+47	74	366	388.745	389.392	A	okay .	okay
+47	74	367	388.745	389.392	A	okay .	.
+47	75	368	390.533	391.997	A	let 's go from mount	let
+47	75	369	390.533	391.997	A	let 's go from mount	's
+47	75	370	390.533	391.997	A	let 's go from mount	go
+47	75	371	390.533	391.997	A	let 's go from mount	from
+47	75	372	390.533	391.997	A	let 's go from mount	mount
+47	76	373	393.376	395.960	A	davos to mount s t gallen .	davos
+47	76	374	393.376	395.960	A	davos to mount s t gallen .	to
+47	76	375	393.376	395.960	A	davos to mount s t gallen .	mount
+47	76	376	393.376	395.960	A	davos to mount s t gallen .	s
+47	76	377	393.376	395.960	A	davos to mount s t gallen .	t
+47	76	378	393.376	395.960	A	davos to mount s t gallen .	gallen
+47	76	379	393.376	395.960	A	davos to mount s t gallen .	.
+47	77	380	396.762	399.063	A	and from mount s t gallen to mount zurich .	and
+47	77	381	396.762	399.063	A	and from mount s t gallen to mount zurich .	from
+47	77	382	396.762	399.063	A	and from mount s t gallen to mount zurich .	mount
+47	77	383	396.762	399.063	A	and from mount s t gallen to mount zurich .	s
+47	77	384	396.762	399.063	A	and from mount s t gallen to mount zurich .	t
+47	77	385	396.762	399.063	A	and from mount s t gallen to mount zurich .	gallen
+47	77	386	396.762	399.063	A	and from mount s t gallen to mount zurich .	to
+47	77	387	396.762	399.063	A	and from mount s t gallen to mount zurich .	mount
+47	77	388	396.762	399.063	A	and from mount s t gallen to mount zurich .	zurich
+47	77	389	396.762	399.063	A	and from mount s t gallen to mount zurich .	.
+47	78	390	400.433	404.370	B	uh then where should i go , from mount mount luzern to mount zermatt .	uh
+47	78	391	400.433	404.370	B	uh then where should i go , from mount mount luzern to mount zermatt .	then
+47	78	392	400.433	404.370	B	uh then where should i go , from mount mount luzern to mount zermatt .	where
+47	78	393	400.433	404.370	B	uh then where should i go , from mount mount luzern to mount zermatt .	should
+47	78	394	400.433	404.370	B	uh then where should i go , from mount mount luzern to mount zermatt .	i
+47	78	395	400.433	404.370	B	uh then where should i go , from mount mount luzern to mount zermatt .	go
+47	78	396	400.433	404.370	B	uh then where should i go , from mount mount luzern to mount zermatt .	,
+47	78	397	400.433	404.370	B	uh then where should i go , from mount mount luzern to mount zermatt .	from
+47	78	398	400.433	404.370	B	uh then where should i go , from mount mount luzern to mount zermatt .	mount
+47	78	399	400.433	404.370	B	uh then where should i go , from mount mount luzern to mount zermatt .	mount
+47	78	400	400.433	404.370	B	uh then where should i go , from mount mount luzern to mount zermatt .	luzern
+47	78	401	400.433	404.370	B	uh then where should i go , from mount mount luzern to mount zermatt .	to
+47	78	402	400.433	404.370	B	uh then where should i go , from mount mount luzern to mount zermatt .	mount
+47	78	403	400.433	404.370	B	uh then where should i go , from mount mount luzern to mount zermatt .	zermatt
+47	78	404	400.433	404.370	B	uh then where should i go , from mount mount luzern to mount zermatt .	.
+47	79	405	404.712	408.642	A	yeah , no go from mount zurich to mount um bern .	yeah
+47	79	406	404.712	408.642	A	yeah , no go from mount zurich to mount um bern .	,
+47	79	407	404.712	408.642	A	yeah , no go from mount zurich to mount um bern .	no
+47	79	408	404.712	408.642	A	yeah , no go from mount zurich to mount um bern .	go
+47	79	409	404.712	408.642	A	yeah , no go from mount zurich to mount um bern .	from
+47	79	410	404.712	408.642	A	yeah , no go from mount zurich to mount um bern .	mount
+47	79	411	404.712	408.642	A	yeah , no go from mount zurich to mount um bern .	zurich
+47	79	412	404.712	408.642	A	yeah , no go from mount zurich to mount um bern .	to
+47	79	413	404.712	408.642	A	yeah , no go from mount zurich to mount um bern .	mount
+47	79	414	404.712	408.642	A	yeah , no go from mount zurich to mount um bern .	um
+47	79	415	404.712	408.642	A	yeah , no go from mount zurich to mount um bern .	bern
+47	79	416	404.712	408.642	A	yeah , no go from mount zurich to mount um bern .	.
+47	80	417	409.073	413.296	A	because uh like , and now go from mount bern go to mount basel .	because
+47	80	418	409.073	413.296	A	because uh like , and now go from mount bern go to mount basel .	uh
+47	80	419	409.073	413.296	A	because uh like , and now go from mount bern go to mount basel .	like
+47	80	420	409.073	413.296	A	because uh like , and now go from mount bern go to mount basel .	,
+47	80	421	409.073	413.296	A	because uh like , and now go from mount bern go to mount basel .	and
+47	80	422	409.073	413.296	A	because uh like , and now go from mount bern go to mount basel .	now
+47	80	423	409.073	413.296	A	because uh like , and now go from mount bern go to mount basel .	go
+47	80	424	409.073	413.296	A	because uh like , and now go from mount bern go to mount basel .	from
+47	80	425	409.073	413.296	A	because uh like , and now go from mount bern go to mount basel .	mount
+47	80	426	409.073	413.296	A	because uh like , and now go from mount bern go to mount basel .	bern
+47	80	427	409.073	413.296	A	because uh like , and now go from mount bern go to mount basel .	go
+47	80	428	409.073	413.296	A	because uh like , and now go from mount bern go to mount basel .	to
+47	80	429	409.073	413.296	A	because uh like , and now go from mount bern go to mount basel .	mount
+47	80	430	409.073	413.296	A	because uh like , and now go from mount bern go to mount basel .	basel
+47	80	431	409.073	413.296	A	because uh like , and now go from mount bern go to mount basel .	.
+47	81	432	417.385	417.879	A	okay .	okay
+47	81	433	417.385	417.879	A	okay .	.
+47	82	434	420.929	425.038	A	i 'll go from mount , this to that mountain , and that to that mountain .	i
+47	82	435	420.929	425.038	A	i 'll go from mount , this to that mountain , and that to that mountain .	'll
+47	82	436	420.929	425.038	A	i 'll go from mount , this to that mountain , and that to that mountain .	go
+47	82	437	420.929	425.038	A	i 'll go from mount , this to that mountain , and that to that mountain .	from
+47	82	438	420.929	425.038	A	i 'll go from mount , this to that mountain , and that to that mountain .	mount
+47	82	439	420.929	425.038	A	i 'll go from mount , this to that mountain , and that to that mountain .	,
+47	82	440	420.929	425.038	A	i 'll go from mount , this to that mountain , and that to that mountain .	this
+47	82	441	420.929	425.038	A	i 'll go from mount , this to that mountain , and that to that mountain .	to
+47	82	442	420.929	425.038	A	i 'll go from mount , this to that mountain , and that to that mountain .	that
+47	82	443	420.929	425.038	A	i 'll go from mount , this to that mountain , and that to that mountain .	mountain
+47	82	444	420.929	425.038	A	i 'll go from mount , this to that mountain , and that to that mountain .	,
+47	82	445	420.929	425.038	A	i 'll go from mount , this to that mountain , and that to that mountain .	and
+47	82	446	420.929	425.038	A	i 'll go from mount , this to that mountain , and that to that mountain .	that
+47	82	447	420.929	425.038	A	i 'll go from mount , this to that mountain , and that to that mountain .	to
+47	82	448	420.929	425.038	A	i 'll go from mount , this to that mountain , and that to that mountain .	that
+47	82	449	420.929	425.038	A	i 'll go from mount , this to that mountain , and that to that mountain .	mountain
+47	82	450	420.929	425.038	A	i 'll go from mount , this to that mountain , and that to that mountain .	.
+47	83	451	428.871	435.543	A	go from um go from mount you would never neuchatel to mount interlaken because we need to collect interlaken .	go
+47	83	452	428.871	435.543	A	go from um go from mount you would never neuchatel to mount interlaken because we need to collect interlaken .	from
+47	83	453	428.871	435.543	A	go from um go from mount you would never neuchatel to mount interlaken because we need to collect interlaken .	um
+47	83	454	428.871	435.543	A	go from um go from mount you would never neuchatel to mount interlaken because we need to collect interlaken .	go
+47	83	455	428.871	435.543	A	go from um go from mount you would never neuchatel to mount interlaken because we need to collect interlaken .	from
+47	83	456	428.871	435.543	A	go from um go from mount you would never neuchatel to mount interlaken because we need to collect interlaken .	mount
+47	83	457	428.871	435.543	A	go from um go from mount you would never neuchatel to mount interlaken because we need to collect interlaken .	you
+47	83	458	428.871	435.543	A	go from um go from mount you would never neuchatel to mount interlaken because we need to collect interlaken .	would
+47	83	459	428.871	435.543	A	go from um go from mount you would never neuchatel to mount interlaken because we need to collect interlaken .	never
+47	83	460	428.871	435.543	A	go from um go from mount you would never neuchatel to mount interlaken because we need to collect interlaken .	neuchatel
+47	83	461	428.871	435.543	A	go from um go from mount you would never neuchatel to mount interlaken because we need to collect interlaken .	to
+47	83	462	428.871	435.543	A	go from um go from mount you would never neuchatel to mount interlaken because we need to collect interlaken .	mount
+47	83	463	428.871	435.543	A	go from um go from mount you would never neuchatel to mount interlaken because we need to collect interlaken .	interlaken
+47	83	464	428.871	435.543	A	go from um go from mount you would never neuchatel to mount interlaken because we need to collect interlaken .	because
+47	83	465	428.871	435.543	A	go from um go from mount you would never neuchatel to mount interlaken because we need to collect interlaken .	we
+47	83	466	428.871	435.543	A	go from um go from mount you would never neuchatel to mount interlaken because we need to collect interlaken .	need
+47	83	467	428.871	435.543	A	go from um go from mount you would never neuchatel to mount interlaken because we need to collect interlaken .	to
+47	83	468	428.871	435.543	A	go from um go from mount you would never neuchatel to mount interlaken because we need to collect interlaken .	collect
+47	83	469	428.871	435.543	A	go from um go from mount you would never neuchatel to mount interlaken because we need to collect interlaken .	interlaken
+47	83	470	428.871	435.543	A	go from um go from mount you would never neuchatel to mount interlaken because we need to collect interlaken .	.
+47	84	471	437.655	438.377	A	okay .	okay
+47	84	472	437.655	438.377	A	okay .	.
+47	85	473	438.377	439.671	B	then to mount zermatt .	then
+47	85	474	438.377	439.671	B	then to mount zermatt .	to
+47	85	475	438.377	439.671	B	then to mount zermatt .	mount
+47	85	476	438.377	439.671	B	then to mount zermatt .	zermatt
+47	85	477	438.377	439.671	B	then to mount zermatt .	.
+47	86	478	439.842	441.363	A	yeah , then to mount zermatt .	yeah
+47	86	479	439.842	441.363	A	yeah , then to mount zermatt .	,
+47	86	480	439.842	441.363	A	yeah , then to mount zermatt .	then
+47	86	481	439.842	441.363	A	yeah , then to mount zermatt .	to
+47	86	482	439.842	441.363	A	yeah , then to mount zermatt .	mount
+47	86	483	439.842	441.363	A	yeah , then to mount zermatt .	zermatt
+47	86	484	439.842	441.363	A	yeah , then to mount zermatt .	.
+47	87	485	442.665	444.091	A	connect to mount zermatt	connect
+47	87	486	442.665	444.091	A	connect to mount zermatt	to
+47	87	487	442.665	444.091	A	connect to mount zermatt	mount
+47	87	488	442.665	444.091	A	connect to mount zermatt	zermatt
+47	88	489	444.513	445.121	A	and now	and
+47	88	490	444.513	445.121	A	and now	now
+47	89	491	445.502	446.167	A	uh connect	uh
+47	89	492	445.502	446.167	A	uh connect	connect
+47	90	493	446.643	449.572	A	okay are you ready three two one press .	okay
+47	90	494	446.643	449.572	A	okay are you ready three two one press .	are
+47	90	495	446.643	449.572	A	okay are you ready three two one press .	you
+47	90	496	446.643	449.572	A	okay are you ready three two one press .	ready
+47	90	497	446.643	449.572	A	okay are you ready three two one press .	three
+47	90	498	446.643	449.572	A	okay are you ready three two one press .	two
+47	90	499	446.643	449.572	A	okay are you ready three two one press .	one
+47	90	500	446.643	449.572	A	okay are you ready three two one press .	press
+47	90	501	446.643	449.572	A	okay are you ready three two one press .	.
+47	91	502	446.643	449.172	B	two one .	two
+47	91	503	446.643	449.172	B	two one .	one
+47	91	504	446.643	449.172	B	two one .	.
+47	92	505	457.294	458.777	B	oh that 's just	oh
+47	92	506	457.294	458.777	B	oh that 's just	that
+47	92	507	457.294	458.777	B	oh that 's just	's
+47	92	508	457.294	458.777	B	oh that 's just	just
+47	93	509	460.736	463.361	A	okay , you 're gon na make it even cheaper .	okay
+47	93	510	460.736	463.361	A	okay , you 're gon na make it even cheaper .	,
+47	93	511	460.736	463.361	A	okay , you 're gon na make it even cheaper .	you
+47	93	512	460.736	463.361	A	okay , you 're gon na make it even cheaper .	're
+47	93	513	460.736	463.361	A	okay , you 're gon na make it even cheaper .	gon
+47	93	514	460.736	463.361	A	okay , you 're gon na make it even cheaper .	na
+47	93	515	460.736	463.361	A	okay , you 're gon na make it even cheaper .	make
+47	93	516	460.736	463.361	A	okay , you 're gon na make it even cheaper .	it
+47	93	517	460.736	463.361	A	okay , you 're gon na make it even cheaper .	even
+47	93	518	460.736	463.361	A	okay , you 're gon na make it even cheaper .	cheaper
+47	93	519	460.736	463.361	A	okay , you 're gon na make it even cheaper .	.
+47	94	520	463.399	463.989	B	uh	uh
+47	95	521	464.187	465.975	A	because i know that um	because
+47	95	522	464.187	465.975	A	because i know that um	i
+47	95	523	464.187	465.975	A	because i know that um	know
+47	95	524	464.187	465.975	A	because i know that um	that
+47	95	525	464.187	465.975	A	because i know that um	um
+47	96	526	465.481	467.782	B	let 's start from mount davos .	let
+47	96	527	465.481	467.782	B	let 's start from mount davos .	's
+47	96	528	465.481	467.782	B	let 's start from mount davos .	start
+47	96	529	465.481	467.782	B	let 's start from mount davos .	from
+47	96	530	465.481	467.782	B	let 's start from mount davos .	mount
+47	96	531	465.481	467.782	B	let 's start from mount davos .	davos
+47	96	532	465.481	467.782	B	let 's start from mount davos .	.
+47	97	533	466.413	473.652	A	no let 's now connect mount montreux to um let 's now connect mount interlaken to mount	no
+47	97	534	466.413	473.652	A	no let 's now connect mount montreux to um let 's now connect mount interlaken to mount	let
+47	97	535	466.413	473.652	A	no let 's now connect mount montreux to um let 's now connect mount interlaken to mount	's
+47	97	536	466.413	473.652	A	no let 's now connect mount montreux to um let 's now connect mount interlaken to mount	now
+47	97	537	466.413	473.652	A	no let 's now connect mount montreux to um let 's now connect mount interlaken to mount	connect
+47	97	538	466.413	473.652	A	no let 's now connect mount montreux to um let 's now connect mount interlaken to mount	mount
+47	97	539	466.413	473.652	A	no let 's now connect mount montreux to um let 's now connect mount interlaken to mount	montreux
+47	97	540	466.413	473.652	A	no let 's now connect mount montreux to um let 's now connect mount interlaken to mount	to
+47	97	541	466.413	473.652	A	no let 's now connect mount montreux to um let 's now connect mount interlaken to mount	um
+47	97	542	466.413	473.652	A	no let 's now connect mount montreux to um let 's now connect mount interlaken to mount	let
+47	97	543	466.413	473.652	A	no let 's now connect mount montreux to um let 's now connect mount interlaken to mount	's
+47	97	544	466.413	473.652	A	no let 's now connect mount montreux to um let 's now connect mount interlaken to mount	now
+47	97	545	466.413	473.652	A	no let 's now connect mount montreux to um let 's now connect mount interlaken to mount	connect
+47	97	546	466.413	473.652	A	no let 's now connect mount montreux to um let 's now connect mount interlaken to mount	mount
+47	97	547	466.413	473.652	A	no let 's now connect mount montreux to um let 's now connect mount interlaken to mount	interlaken
+47	97	548	466.413	473.652	A	no let 's now connect mount montreux to um let 's now connect mount interlaken to mount	to
+47	97	549	466.413	473.652	A	no let 's now connect mount montreux to um let 's now connect mount interlaken to mount	mount
+47	98	550	473.995	476.315	B	mount davos to mount zermatt .	mount
+47	98	551	473.995	476.315	B	mount davos to mount zermatt .	davos
+47	98	552	473.995	476.315	B	mount davos to mount zermatt .	to
+47	98	553	473.995	476.315	B	mount davos to mount zermatt .	mount
+47	98	554	473.995	476.315	B	mount davos to mount zermatt .	zermatt
+47	98	555	473.995	476.315	B	mount davos to mount zermatt .	.
+47	99	556	476.932	478.853	B	mount davos to mount zermatt .	mount
+47	99	557	476.932	478.853	B	mount davos to mount zermatt .	davos
+47	99	558	476.932	478.853	B	mount davos to mount zermatt .	to
+47	99	559	476.932	478.853	B	mount davos to mount zermatt .	mount
+47	99	560	476.932	478.853	B	mount davos to mount zermatt .	zermatt
+47	99	561	476.932	478.853	B	mount davos to mount zermatt .	.
+47	100	562	476.932	477.407	A	okay .	okay
+47	100	563	476.932	477.407	A	okay .	.
+47	101	564	478.568	480.622	A	mount davos to mount zermatt ?	mount
+47	101	565	478.568	480.622	A	mount davos to mount zermatt ?	davos
+47	101	566	478.568	480.622	A	mount davos to mount zermatt ?	to
+47	101	567	478.568	480.622	A	mount davos to mount zermatt ?	mount
+47	101	568	478.568	480.622	A	mount davos to mount zermatt ?	zermatt
+47	101	569	478.568	480.622	A	mount davos to mount zermatt ?	?
+47	102	570	481.116	482.391	A	where 's mount davos ?	where
+47	102	571	481.116	482.391	A	where 's mount davos ?	's
+47	102	572	481.116	482.391	A	where 's mount davos ?	mount
+47	102	573	481.116	482.391	A	where 's mount davos ?	davos
+47	102	574	481.116	482.391	A	where 's mount davos ?	?
+47	103	575	483.052	483.585	A	mount	mount
+47	104	576	484.574	486.704	A	mount davos to mount zermatt right ?	mount
+47	104	577	484.574	486.704	A	mount davos to mount zermatt right ?	davos
+47	104	578	484.574	486.704	A	mount davos to mount zermatt right ?	to
+47	104	579	484.574	486.704	A	mount davos to mount zermatt right ?	mount
+47	104	580	484.574	486.704	A	mount davos to mount zermatt right ?	zermatt
+47	104	581	484.574	486.704	A	mount davos to mount zermatt right ?	right
+47	104	582	484.574	486.704	A	mount davos to mount zermatt right ?	?
+47	105	583	487.427	487.883	A	okay .	okay
+47	105	584	487.427	487.883	A	okay .	.
+47	106	585	488.359	489.519	B	and then to mount luzern	and
+47	106	586	488.359	489.519	B	and then to mount luzern	then
+47	106	587	488.359	489.519	B	and then to mount luzern	to
+47	106	588	488.359	489.519	B	and then to mount luzern	mount
+47	106	589	488.359	489.519	B	and then to mount luzern	luzern
+47	107	590	489.766	491.801	A	okay , because i 've pretty sure this is	okay
+47	107	591	489.766	491.801	A	okay , because i 've pretty sure this is	,
+47	107	592	489.766	491.801	A	okay , because i 've pretty sure this is	because
+47	107	593	489.766	491.801	A	okay , because i 've pretty sure this is	i
+47	107	594	489.766	491.801	A	okay , because i 've pretty sure this is	've
+47	107	595	489.766	491.801	A	okay , because i 've pretty sure this is	pretty
+47	107	596	489.766	491.801	A	okay , because i 've pretty sure this is	sure
+47	107	597	489.766	491.801	A	okay , because i 've pretty sure this is	this
+47	107	598	489.766	491.801	A	okay , because i 've pretty sure this is	is
+47	108	599	492.638	493.494	A	3 and 3 .	3
+47	108	600	492.638	493.494	A	3 and 3 .	and
+47	108	601	492.638	493.494	A	3 and 3 .	3
+47	108	602	492.638	493.494	A	3 and 3 .	.
+47	109	603	494.084	494.997	A	6 .	6
+47	109	604	494.084	494.997	A	6 .	.
+47	110	605	497.200	497.771	A	okay .	okay
+47	110	606	497.200	497.771	A	okay .	.
+47	111	607	498.227	498.779	A	now	now
+47	112	608	500.605	501.613	B	to mount bern ?	to
+47	112	609	500.605	501.613	B	to mount bern ?	mount
+47	112	610	500.605	501.613	B	to mount bern ?	bern
+47	112	611	500.605	501.613	B	to mount bern ?	?
+47	113	612	507.427	511.022	A	uh go from mount zurich to s t mount s t gallen .	uh
+47	113	613	507.427	511.022	A	uh go from mount zurich to s t mount s t gallen .	go
+47	113	614	507.427	511.022	A	uh go from mount zurich to s t mount s t gallen .	from
+47	113	615	507.427	511.022	A	uh go from mount zurich to s t mount s t gallen .	mount
+47	113	616	507.427	511.022	A	uh go from mount zurich to s t mount s t gallen .	zurich
+47	113	617	507.427	511.022	A	uh go from mount zurich to s t mount s t gallen .	to
+47	113	618	507.427	511.022	A	uh go from mount zurich to s t mount s t gallen .	s
+47	113	619	507.427	511.022	A	uh go from mount zurich to s t mount s t gallen .	t
+47	113	620	507.427	511.022	A	uh go from mount zurich to s t mount s t gallen .	mount
+47	113	621	507.427	511.022	A	uh go from mount zurich to s t mount s t gallen .	s
+47	113	622	507.427	511.022	A	uh go from mount zurich to s t mount s t gallen .	t
+47	113	623	507.427	511.022	A	uh go from mount zurich to s t mount s t gallen .	gallen
+47	113	624	507.427	511.022	A	uh go from mount zurich to s t mount s t gallen .	.
+47	114	625	512.828	513.856	A	okay and now	okay
+47	114	626	512.828	513.856	A	okay and now	and
+47	114	627	512.828	513.856	A	okay and now	now
+47	115	628	514.217	516.271	A	i 'll go from mount luzern to mount bern	i
+47	115	629	514.217	516.271	A	i 'll go from mount luzern to mount bern	'll
+47	115	630	514.217	516.271	A	i 'll go from mount luzern to mount bern	go
+47	115	631	514.217	516.271	A	i 'll go from mount luzern to mount bern	from
+47	115	632	514.217	516.271	A	i 'll go from mount luzern to mount bern	mount
+47	115	633	514.217	516.271	A	i 'll go from mount luzern to mount bern	luzern
+47	115	634	514.217	516.271	A	i 'll go from mount luzern to mount bern	to
+47	115	635	514.217	516.271	A	i 'll go from mount luzern to mount bern	mount
+47	115	636	514.217	516.271	A	i 'll go from mount luzern to mount bern	bern
+47	116	637	516.518	517.108	A	and go from	and
+47	116	638	516.518	517.108	A	and go from	go
+47	116	639	516.518	517.108	A	and go from	from
+47	117	640	517.393	518.877	A	mount bern to mount basel .	mount
+47	117	641	517.393	518.877	A	mount bern to mount basel .	bern
+47	117	642	517.393	518.877	A	mount bern to mount basel .	to
+47	117	643	517.393	518.877	A	mount bern to mount basel .	mount
+47	117	644	517.393	518.877	A	mount bern to mount basel .	basel
+47	117	645	517.393	518.877	A	mount bern to mount basel .	.
+47	118	646	520.326	522.970	B	then mount basel to mount neuchatel ?	then
+47	118	647	520.326	522.970	B	then mount basel to mount neuchatel ?	mount
+47	118	648	520.326	522.970	B	then mount basel to mount neuchatel ?	basel
+47	118	649	520.326	522.970	B	then mount basel to mount neuchatel ?	to
+47	118	650	520.326	522.970	B	then mount basel to mount neuchatel ?	mount
+47	118	651	520.326	522.970	B	then mount basel to mount neuchatel ?	neuchatel
+47	118	652	520.326	522.970	B	then mount basel to mount neuchatel ?	?
+47	119	653	522.507	522.963	A	yeah .	yeah
+47	119	654	522.507	522.963	A	yeah .	.
+47	120	655	523.268	523.800	A	do that .	do
+47	120	656	523.268	523.800	A	do that .	that
+47	120	657	523.268	523.800	A	do that .	.
+47	121	658	523.895	525.303	B	and then to mount interlaken ?	and
+47	121	659	523.895	525.303	B	and then to mount interlaken ?	then
+47	121	660	523.895	525.303	B	and then to mount interlaken ?	to
+47	121	661	523.895	525.303	B	and then to mount interlaken ?	mount
+47	121	662	523.895	525.303	B	and then to mount interlaken ?	interlaken
+47	121	663	523.895	525.303	B	and then to mount interlaken ?	?
+47	122	664	525.303	526.881	A	yeah , and then to mount montreux .	yeah
+47	122	665	525.303	526.881	A	yeah , and then to mount montreux .	,
+47	122	666	525.303	526.881	A	yeah , and then to mount montreux .	and
+47	122	667	525.303	526.881	A	yeah , and then to mount montreux .	then
+47	122	668	525.303	526.881	A	yeah , and then to mount montreux .	to
+47	122	669	525.303	526.881	A	yeah , and then to mount montreux .	mount
+47	122	670	525.303	526.881	A	yeah , and then to mount montreux .	montreux
+47	122	671	525.303	526.881	A	yeah , and then to mount montreux .	.
+47	123	672	527.528	527.870	A	and then	and
+47	123	673	527.528	527.870	A	and then	then
+47	124	674	528.441	530.020	A	to mount montreux .	to
+47	124	675	528.441	530.020	A	to mount montreux .	mount
+47	124	676	528.441	530.020	A	to mount montreux .	montreux
+47	124	677	528.441	530.020	A	to mount montreux .	.
+47	125	678	530.305	532.321	A	okay three two one .	okay
+47	125	679	530.305	532.321	A	okay three two one .	three
+47	125	680	530.305	532.321	A	okay three two one .	two
+47	125	681	530.305	532.321	A	okay three two one .	one
+47	125	682	530.305	532.321	A	okay three two one .	.
+47	126	683	530.818	532.245	B	three two one .	three
+47	126	684	530.818	532.245	B	three two one .	two
+47	126	685	530.818	532.245	B	three two one .	one
+47	126	686	530.818	532.245	B	three two one .	.
+47	127	687	534.656	536.007	A	oh this is hard .	oh
+47	127	688	534.656	536.007	A	oh this is hard .	this
+47	127	689	534.656	536.007	A	oh this is hard .	is
+47	127	690	534.656	536.007	A	oh this is hard .	hard
+47	127	691	534.656	536.007	A	oh this is hard .	.
+47	128	692	538.137	538.822	B	6 .	6
+47	128	693	538.137	538.822	B	6 .	.
+47	129	694	538.422	539.564	A	6 um .	6
+47	129	695	538.422	539.564	A	6 um .	um
+47	129	696	538.422	539.564	A	6 um .	.
+47	130	697	541.484	542.813	A	uh okay .	uh
+47	130	698	541.484	542.813	A	uh okay .	okay
+47	130	699	541.484	542.813	A	uh okay .	.
+47	131	700	551.410	552.285	B	oh yeah .	oh
+47	131	701	551.410	552.285	B	oh yeah .	yeah
+47	131	702	551.410	552.285	B	oh yeah .	.
+47	132	703	552.418	553.084	A	okay .	okay
+47	132	704	552.418	553.084	A	okay .	.
+47	133	705	553.616	554.548	B	previous solution .	previous
+47	133	706	553.616	554.548	B	previous solution .	solution
+47	133	707	553.616	554.548	B	previous solution .	.
+47	134	708	555.493	556.406	A	wait .	wait
+47	134	709	555.493	556.406	A	wait .	.
+47	135	710	556.843	559.240	A	where do we look at our previous solutions again ?	where
+47	135	711	556.843	559.240	A	where do we look at our previous solutions again ?	do
+47	135	712	556.843	559.240	A	where do we look at our previous solutions again ?	we
+47	135	713	556.843	559.240	A	where do we look at our previous solutions again ?	look
+47	135	714	556.843	559.240	A	where do we look at our previous solutions again ?	at
+47	135	715	556.843	559.240	A	where do we look at our previous solutions again ?	our
+47	135	716	556.843	559.240	A	where do we look at our previous solutions again ?	previous
+47	135	717	556.843	559.240	A	where do we look at our previous solutions again ?	solutions
+47	135	718	556.843	559.240	A	where do we look at our previous solutions again ?	again
+47	135	719	556.843	559.240	A	where do we look at our previous solutions again ?	?
+47	136	720	558.954	560.716	B	um so there is this	um
+47	136	721	558.954	560.716	B	um so there is this	so
+47	136	722	558.954	560.716	B	um so there is this	there
+47	136	723	558.954	560.716	B	um so there is this	is
+47	136	724	558.954	560.716	B	um so there is this	this
+47	137	725	564.825	566.376	B	uh okay	uh
+47	137	726	564.825	566.376	B	uh okay	okay
+47	138	727	565.449	566.002	A	oh .	oh
+47	138	728	565.449	566.002	A	oh .	.
+47	139	729	567.446	568.177	A	okay .	okay
+47	139	730	567.446	568.177	A	okay .	.
+47	140	731	568.605	571.707	A	bob , which one should i connect first , you charge now .	bob
+47	140	732	568.605	571.707	A	bob , which one should i connect first , you charge now .	,
+47	140	733	568.605	571.707	A	bob , which one should i connect first , you charge now .	which
+47	140	734	568.605	571.707	A	bob , which one should i connect first , you charge now .	one
+47	140	735	568.605	571.707	A	bob , which one should i connect first , you charge now .	should
+47	140	736	568.605	571.707	A	bob , which one should i connect first , you charge now .	i
+47	140	737	568.605	571.707	A	bob , which one should i connect first , you charge now .	connect
+47	140	738	568.605	571.707	A	bob , which one should i connect first , you charge now .	first
+47	140	739	568.605	571.707	A	bob , which one should i connect first , you charge now .	,
+47	140	740	568.605	571.707	A	bob , which one should i connect first , you charge now .	you
+47	140	741	568.605	571.707	A	bob , which one should i connect first , you charge now .	charge
+47	140	742	568.605	571.707	A	bob , which one should i connect first , you charge now .	now
+47	140	743	568.605	571.707	A	bob , which one should i connect first , you charge now .	.
+47	141	744	572.224	575.879	A	let 's go from mount zermatt , to mount zermatt to mount luzern .	let
+47	141	745	572.224	575.879	A	let 's go from mount zermatt , to mount zermatt to mount luzern .	's
+47	141	746	572.224	575.879	A	let 's go from mount zermatt , to mount zermatt to mount luzern .	go
+47	141	747	572.224	575.879	A	let 's go from mount zermatt , to mount zermatt to mount luzern .	from
+47	141	748	572.224	575.879	A	let 's go from mount zermatt , to mount zermatt to mount luzern .	mount
+47	141	749	572.224	575.879	A	let 's go from mount zermatt , to mount zermatt to mount luzern .	zermatt
+47	141	750	572.224	575.879	A	let 's go from mount zermatt , to mount zermatt to mount luzern .	,
+47	141	751	572.224	575.879	A	let 's go from mount zermatt , to mount zermatt to mount luzern .	to
+47	141	752	572.224	575.879	A	let 's go from mount zermatt , to mount zermatt to mount luzern .	mount
+47	141	753	572.224	575.879	A	let 's go from mount zermatt , to mount zermatt to mount luzern .	zermatt
+47	141	754	572.224	575.879	A	let 's go from mount zermatt , to mount zermatt to mount luzern .	to
+47	141	755	572.224	575.879	A	let 's go from mount zermatt , to mount zermatt to mount luzern .	mount
+47	141	756	572.224	575.879	A	let 's go from mount zermatt , to mount zermatt to mount luzern .	luzern
+47	141	757	572.224	575.879	A	let 's go from mount zermatt , to mount zermatt to mount luzern .	.
+47	142	758	576.271	576.717	B	yeah .	yeah
+47	142	759	576.271	576.717	B	yeah .	.
+47	143	760	577.608	579.676	A	wait can we delete our tracks if we 've	wait
+47	143	761	577.608	579.676	A	wait can we delete our tracks if we 've	can
+47	143	762	577.608	579.676	A	wait can we delete our tracks if we 've	we
+47	143	763	577.608	579.676	A	wait can we delete our tracks if we 've	delete
+47	143	764	577.608	579.676	A	wait can we delete our tracks if we 've	our
+47	143	765	577.608	579.676	A	wait can we delete our tracks if we 've	tracks
+47	143	766	577.608	579.676	A	wait can we delete our tracks if we 've	if
+47	143	767	577.608	579.676	A	wait can we delete our tracks if we 've	we
+47	143	768	577.608	579.676	A	wait can we delete our tracks if we 've	've
+47	144	769	579.373	580.104	B	yeah	yeah
+47	145	770	581.820	582.230	A	um	um
+47	146	771	582.784	584.619	A	and now mount luzern to mount bern .	and
+47	146	772	582.784	584.619	A	and now mount luzern to mount bern .	now
+47	146	773	582.784	584.619	A	and now mount luzern to mount bern .	mount
+47	146	774	582.784	584.619	A	and now mount luzern to mount bern .	luzern
+47	146	775	582.784	584.619	A	and now mount luzern to mount bern .	to
+47	146	776	582.784	584.619	A	and now mount luzern to mount bern .	mount
+47	146	777	582.784	584.619	A	and now mount luzern to mount bern .	bern
+47	146	778	582.784	584.619	A	and now mount luzern to mount bern .	.
+47	147	779	584.744	585.564	B	okay .	okay
+47	147	780	584.744	585.564	B	okay .	.
+47	148	781	586.438	588.970	A	it 's 3 francs wait can we delete our tracks ?	it
+47	148	782	586.438	588.970	A	it 's 3 francs wait can we delete our tracks ?	's
+47	148	783	586.438	588.970	A	it 's 3 francs wait can we delete our tracks ?	3
+47	148	784	586.438	588.970	A	it 's 3 francs wait can we delete our tracks ?	francs
+47	148	785	586.438	588.970	A	it 's 3 francs wait can we delete our tracks ?	wait
+47	148	786	586.438	588.970	A	it 's 3 francs wait can we delete our tracks ?	can
+47	148	787	586.438	588.970	A	it 's 3 francs wait can we delete our tracks ?	we
+47	148	788	586.438	588.970	A	it 's 3 francs wait can we delete our tracks ?	delete
+47	148	789	586.438	588.970	A	it 's 3 francs wait can we delete our tracks ?	our
+47	148	790	586.438	588.970	A	it 's 3 francs wait can we delete our tracks ?	tracks
+47	148	791	586.438	588.970	A	it 's 3 francs wait can we delete our tracks ?	?
+47	149	792	588.773	589.326	B	yeah .	yeah
+47	149	793	588.773	589.326	B	yeah .	.
+47	150	794	590.467	595.513	A	then delete the one from mount zermatt and change it to mount davos let 's see if it is any cheaper .	then
+47	150	795	590.467	595.513	A	then delete the one from mount zermatt and change it to mount davos let 's see if it is any cheaper .	delete
+47	150	796	590.467	595.513	A	then delete the one from mount zermatt and change it to mount davos let 's see if it is any cheaper .	the
+47	150	797	590.467	595.513	A	then delete the one from mount zermatt and change it to mount davos let 's see if it is any cheaper .	one
+47	150	798	590.467	595.513	A	then delete the one from mount zermatt and change it to mount davos let 's see if it is any cheaper .	from
+47	150	799	590.467	595.513	A	then delete the one from mount zermatt and change it to mount davos let 's see if it is any cheaper .	mount
+47	150	800	590.467	595.513	A	then delete the one from mount zermatt and change it to mount davos let 's see if it is any cheaper .	zermatt
+47	150	801	590.467	595.513	A	then delete the one from mount zermatt and change it to mount davos let 's see if it is any cheaper .	and
+47	150	802	590.467	595.513	A	then delete the one from mount zermatt and change it to mount davos let 's see if it is any cheaper .	change
+47	150	803	590.467	595.513	A	then delete the one from mount zermatt and change it to mount davos let 's see if it is any cheaper .	it
+47	150	804	590.467	595.513	A	then delete the one from mount zermatt and change it to mount davos let 's see if it is any cheaper .	to
+47	150	805	590.467	595.513	A	then delete the one from mount zermatt and change it to mount davos let 's see if it is any cheaper .	mount
+47	150	806	590.467	595.513	A	then delete the one from mount zermatt and change it to mount davos let 's see if it is any cheaper .	davos
+47	150	807	590.467	595.513	A	then delete the one from mount zermatt and change it to mount davos let 's see if it is any cheaper .	let
+47	150	808	590.467	595.513	A	then delete the one from mount zermatt and change it to mount davos let 's see if it is any cheaper .	's
+47	150	809	590.467	595.513	A	then delete the one from mount zermatt and change it to mount davos let 's see if it is any cheaper .	see
+47	150	810	590.467	595.513	A	then delete the one from mount zermatt and change it to mount davos let 's see if it is any cheaper .	if
+47	150	811	590.467	595.513	A	then delete the one from mount zermatt and change it to mount davos let 's see if it is any cheaper .	it
+47	150	812	590.467	595.513	A	then delete the one from mount zermatt and change it to mount davos let 's see if it is any cheaper .	is
+47	150	813	590.467	595.513	A	then delete the one from mount zermatt and change it to mount davos let 's see if it is any cheaper .	any
+47	150	814	590.467	595.513	A	then delete the one from mount zermatt and change it to mount davos let 's see if it is any cheaper .	cheaper
+47	150	815	590.467	595.513	A	then delete the one from mount zermatt and change it to mount davos let 's see if it is any cheaper .	.
+47	151	816	599.708	602.525	A	okay let 's check , mount zermatt to mount davos	okay
+47	151	817	599.708	602.525	A	okay let 's check , mount zermatt to mount davos	let
+47	151	818	599.708	602.525	A	okay let 's check , mount zermatt to mount davos	's
+47	151	819	599.708	602.525	A	okay let 's check , mount zermatt to mount davos	check
+47	151	820	599.708	602.525	A	okay let 's check , mount zermatt to mount davos	,
+47	151	821	599.708	602.525	A	okay let 's check , mount zermatt to mount davos	mount
+47	151	822	599.708	602.525	A	okay let 's check , mount zermatt to mount davos	zermatt
+47	151	823	599.708	602.525	A	okay let 's check , mount zermatt to mount davos	to
+47	151	824	599.708	602.525	A	okay let 's check , mount zermatt to mount davos	mount
+47	151	825	599.708	602.525	A	okay let 's check , mount zermatt to mount davos	davos
+47	152	826	602.900	606.555	A	davos and mount davos to mount s t gallen .	davos
+47	152	827	602.900	606.555	A	davos and mount davos to mount s t gallen .	and
+47	152	828	602.900	606.555	A	davos and mount davos to mount s t gallen .	mount
+47	152	829	602.900	606.555	A	davos and mount davos to mount s t gallen .	davos
+47	152	830	602.900	606.555	A	davos and mount davos to mount s t gallen .	to
+47	152	831	602.900	606.555	A	davos and mount davos to mount s t gallen .	mount
+47	152	832	602.900	606.555	A	davos and mount davos to mount s t gallen .	s
+47	152	833	602.900	606.555	A	davos and mount davos to mount s t gallen .	t
+47	152	834	602.900	606.555	A	davos and mount davos to mount s t gallen .	gallen
+47	152	835	602.900	606.555	A	davos and mount davos to mount s t gallen .	.
+47	153	836	607.549	608.921	A	it cost a little bit lesser .	it
+47	153	837	607.549	608.921	A	it cost a little bit lesser .	cost
+47	153	838	607.549	608.921	A	it cost a little bit lesser .	a
+47	153	839	607.549	608.921	A	it cost a little bit lesser .	little
+47	153	840	607.549	608.921	A	it cost a little bit lesser .	bit
+47	153	841	607.549	608.921	A	it cost a little bit lesser .	lesser
+47	153	842	607.549	608.921	A	it cost a little bit lesser .	.
+47	154	843	608.939	610.152	B	then to mount luzern ?	then
+47	154	844	608.939	610.152	B	then to mount luzern ?	to
+47	154	845	608.939	610.152	B	then to mount luzern ?	mount
+47	154	846	608.939	610.152	B	then to mount luzern ?	luzern
+47	154	847	608.939	610.152	B	then to mount luzern ?	?
+47	155	848	610.597	611.631	A	okay you turn .	okay
+47	155	849	610.597	611.631	A	okay you turn .	you
+47	155	850	610.597	611.631	A	okay you turn .	turn
+47	155	851	610.597	611.631	A	okay you turn .	.
+47	156	852	611.364	614.805	B	how about mount luzern , how about mount zurich ?	how
+47	156	853	611.364	614.805	B	how about mount luzern , how about mount zurich ?	about
+47	156	854	611.364	614.805	B	how about mount luzern , how about mount zurich ?	mount
+47	156	855	611.364	614.805	B	how about mount luzern , how about mount zurich ?	luzern
+47	156	856	611.364	614.805	B	how about mount luzern , how about mount zurich ?	,
+47	156	857	611.364	614.805	B	how about mount luzern , how about mount zurich ?	how
+47	156	858	611.364	614.805	B	how about mount luzern , how about mount zurich ?	about
+47	156	859	611.364	614.805	B	how about mount luzern , how about mount zurich ?	mount
+47	156	860	611.364	614.805	B	how about mount luzern , how about mount zurich ?	zurich
+47	156	861	611.364	614.805	B	how about mount luzern , how about mount zurich ?	?
+47	157	862	615.331	615.777	A	yeah .	yeah
+47	157	863	615.331	615.777	A	yeah .	.
+47	158	864	616.311	617.845	A	and from mount zurich to mount	and
+47	158	865	616.311	617.845	A	and from mount zurich to mount	from
+47	158	866	616.311	617.845	A	and from mount zurich to mount	mount
+47	158	867	616.311	617.845	A	and from mount zurich to mount	zurich
+47	158	868	616.311	617.845	A	and from mount zurich to mount	to
+47	158	869	616.311	617.845	A	and from mount zurich to mount	mount
+47	159	870	618.283	618.782	A	bern .	bern
+47	159	871	618.283	618.782	A	bern .	.
+47	160	872	621.939	625.808	A	and then , from mount bern to mount basel and from mount basel to mount	and
+47	160	873	621.939	625.808	A	and then , from mount bern to mount basel and from mount basel to mount	then
+47	160	874	621.939	625.808	A	and then , from mount bern to mount basel and from mount basel to mount	,
+47	160	875	621.939	625.808	A	and then , from mount bern to mount basel and from mount basel to mount	from
+47	160	876	621.939	625.808	A	and then , from mount bern to mount basel and from mount basel to mount	mount
+47	160	877	621.939	625.808	A	and then , from mount bern to mount basel and from mount basel to mount	bern
+47	160	878	621.939	625.808	A	and then , from mount bern to mount basel and from mount basel to mount	to
+47	160	879	621.939	625.808	A	and then , from mount bern to mount basel and from mount basel to mount	mount
+47	160	880	621.939	625.808	A	and then , from mount bern to mount basel and from mount basel to mount	basel
+47	160	881	621.939	625.808	A	and then , from mount bern to mount basel and from mount basel to mount	and
+47	160	882	621.939	625.808	A	and then , from mount bern to mount basel and from mount basel to mount	from
+47	160	883	621.939	625.808	A	and then , from mount bern to mount basel and from mount basel to mount	mount
+47	160	884	621.939	625.808	A	and then , from mount bern to mount basel and from mount basel to mount	basel
+47	160	885	621.939	625.808	A	and then , from mount bern to mount basel and from mount basel to mount	to
+47	160	886	621.939	625.808	A	and then , from mount bern to mount basel and from mount basel to mount	mount
+47	161	887	626.941	628.296	A	to mount interlaken	to
+47	161	888	626.941	628.296	A	to mount interlaken	mount
+47	161	889	626.941	628.296	A	to mount interlaken	interlaken
+47	162	890	628.439	629.295	A	oh we ca n't go .	oh
+47	162	891	628.439	629.295	A	oh we ca n't go .	we
+47	162	892	628.439	629.295	A	oh we ca n't go .	ca
+47	162	893	628.439	629.295	A	oh we ca n't go .	n't
+47	162	894	628.439	629.295	A	oh we ca n't go .	go
+47	162	895	628.439	629.295	A	oh we ca n't go .	.
+47	163	896	629.598	631.880	A	then from mount basel to neuchatel .	then
+47	163	897	629.598	631.880	A	then from mount basel to neuchatel .	from
+47	163	898	629.598	631.880	A	then from mount basel to neuchatel .	mount
+47	163	899	629.598	631.880	A	then from mount basel to neuchatel .	basel
+47	163	900	629.598	631.880	A	then from mount basel to neuchatel .	to
+47	163	901	629.598	631.880	A	then from mount basel to neuchatel .	neuchatel
+47	163	902	629.598	631.880	A	then from mount basel to neuchatel .	.
+47	164	903	633.846	636.056	B	then to mount interlaken ?	then
+47	164	904	633.846	636.056	B	then to mount interlaken ?	to
+47	164	905	633.846	636.056	B	then to mount interlaken ?	mount
+47	164	906	633.846	636.056	B	then to mount interlaken ?	interlaken
+47	164	907	633.846	636.056	B	then to mount interlaken ?	?
+47	165	908	635.450	637.269	A	i 'm pretty sure this one will cost a lot .	i
+47	165	909	635.450	637.269	A	i 'm pretty sure this one will cost a lot .	'm
+47	165	910	635.450	637.269	A	i 'm pretty sure this one will cost a lot .	pretty
+47	165	911	635.450	637.269	A	i 'm pretty sure this one will cost a lot .	sure
+47	165	912	635.450	637.269	A	i 'm pretty sure this one will cost a lot .	this
+47	165	913	635.450	637.269	A	i 'm pretty sure this one will cost a lot .	one
+47	165	914	635.450	637.269	A	i 'm pretty sure this one will cost a lot .	will
+47	165	915	635.450	637.269	A	i 'm pretty sure this one will cost a lot .	cost
+47	165	916	635.450	637.269	A	i 'm pretty sure this one will cost a lot .	a
+47	165	917	635.450	637.269	A	i 'm pretty sure this one will cost a lot .	lot
+47	165	918	635.450	637.269	A	i 'm pretty sure this one will cost a lot .	.
+47	166	919	637.518	638.873	A	okay to mount interlaken	okay
+47	166	920	637.518	638.873	A	okay to mount interlaken	to
+47	166	921	637.518	638.873	A	okay to mount interlaken	mount
+47	166	922	637.518	638.873	A	okay to mount interlaken	interlaken
+47	167	923	639.604	641.138	A	and after to mount montreux	and
+47	167	924	639.604	641.138	A	and after to mount montreux	after
+47	167	925	639.604	641.138	A	and after to mount montreux	to
+47	167	926	639.604	641.138	A	and after to mount montreux	mount
+47	167	927	639.604	641.138	A	and after to mount montreux	montreux
+47	168	928	642.131	642.773	B	okay three ?	okay
+47	168	929	642.131	642.773	B	okay three ?	three
+47	168	930	642.131	642.773	B	okay three ?	?
+47	169	931	642.702	643.647	A	uh two .	uh
+47	169	932	642.702	643.647	A	uh two .	two
+47	169	933	642.702	643.647	A	uh two .	.
+47	170	934	643.914	644.699	B	one .	one
+47	170	935	643.914	644.699	B	one .	.
+47	171	936	644.039	646.125	A	no we have one more mountain that is n't connected	no
+47	171	937	644.039	646.125	A	no we have one more mountain that is n't connected	we
+47	171	938	644.039	646.125	A	no we have one more mountain that is n't connected	have
+47	171	939	644.039	646.125	A	no we have one more mountain that is n't connected	one
+47	171	940	644.039	646.125	A	no we have one more mountain that is n't connected	more
+47	171	941	644.039	646.125	A	no we have one more mountain that is n't connected	mountain
+47	171	942	644.039	646.125	A	no we have one more mountain that is n't connected	that
+47	171	943	644.039	646.125	A	no we have one more mountain that is n't connected	is
+47	171	944	644.039	646.125	A	no we have one more mountain that is n't connected	n't
+47	171	945	644.039	646.125	A	no we have one more mountain that is n't connected	connected
+47	172	946	646.125	648.496	A	oh to mount um mount luzern	oh
+47	172	947	646.125	648.496	A	oh to mount um mount luzern	to
+47	172	948	646.125	648.496	A	oh to mount um mount luzern	mount
+47	172	949	646.125	648.496	A	oh to mount um mount luzern	um
+47	172	950	646.125	648.496	A	oh to mount um mount luzern	mount
+47	172	951	646.125	648.496	A	oh to mount um mount luzern	luzern
+47	173	952	648.906	652.080	A	gosh this one will cost a lot i know , three two one go .	gosh
+47	173	953	648.906	652.080	A	gosh this one will cost a lot i know , three two one go .	this
+47	173	954	648.906	652.080	A	gosh this one will cost a lot i know , three two one go .	one
+47	173	955	648.906	652.080	A	gosh this one will cost a lot i know , three two one go .	will
+47	173	956	648.906	652.080	A	gosh this one will cost a lot i know , three two one go .	cost
+47	173	957	648.906	652.080	A	gosh this one will cost a lot i know , three two one go .	a
+47	173	958	648.906	652.080	A	gosh this one will cost a lot i know , three two one go .	lot
+47	173	959	648.906	652.080	A	gosh this one will cost a lot i know , three two one go .	i
+47	173	960	648.906	652.080	A	gosh this one will cost a lot i know , three two one go .	know
+47	173	961	648.906	652.080	A	gosh this one will cost a lot i know , three two one go .	,
+47	173	962	648.906	652.080	A	gosh this one will cost a lot i know , three two one go .	three
+47	173	963	648.906	652.080	A	gosh this one will cost a lot i know , three two one go .	two
+47	173	964	648.906	652.080	A	gosh this one will cost a lot i know , three two one go .	one
+47	173	965	648.906	652.080	A	gosh this one will cost a lot i know , three two one go .	go
+47	173	966	648.906	652.080	A	gosh this one will cost a lot i know , three two one go .	.
+47	174	967	661.648	668.594	A	the one we did was 3 francs what did , what you , what , okay , let 's go try a new because we already start from mount zermatt .	the
+47	174	968	661.648	668.594	A	the one we did was 3 francs what did , what you , what , okay , let 's go try a new because we already start from mount zermatt .	one
+47	174	969	661.648	668.594	A	the one we did was 3 francs what did , what you , what , okay , let 's go try a new because we already start from mount zermatt .	we
+47	174	970	661.648	668.594	A	the one we did was 3 francs what did , what you , what , okay , let 's go try a new because we already start from mount zermatt .	did
+47	174	971	661.648	668.594	A	the one we did was 3 francs what did , what you , what , okay , let 's go try a new because we already start from mount zermatt .	was
+47	174	972	661.648	668.594	A	the one we did was 3 francs what did , what you , what , okay , let 's go try a new because we already start from mount zermatt .	3
+47	174	973	661.648	668.594	A	the one we did was 3 francs what did , what you , what , okay , let 's go try a new because we already start from mount zermatt .	francs
+47	174	974	661.648	668.594	A	the one we did was 3 francs what did , what you , what , okay , let 's go try a new because we already start from mount zermatt .	what
+47	174	975	661.648	668.594	A	the one we did was 3 francs what did , what you , what , okay , let 's go try a new because we already start from mount zermatt .	did
+47	174	976	661.648	668.594	A	the one we did was 3 francs what did , what you , what , okay , let 's go try a new because we already start from mount zermatt .	,
+47	174	977	661.648	668.594	A	the one we did was 3 francs what did , what you , what , okay , let 's go try a new because we already start from mount zermatt .	what
+47	174	978	661.648	668.594	A	the one we did was 3 francs what did , what you , what , okay , let 's go try a new because we already start from mount zermatt .	you
+47	174	979	661.648	668.594	A	the one we did was 3 francs what did , what you , what , okay , let 's go try a new because we already start from mount zermatt .	,
+47	174	980	661.648	668.594	A	the one we did was 3 francs what did , what you , what , okay , let 's go try a new because we already start from mount zermatt .	what
+47	174	981	661.648	668.594	A	the one we did was 3 francs what did , what you , what , okay , let 's go try a new because we already start from mount zermatt .	,
+47	174	982	661.648	668.594	A	the one we did was 3 francs what did , what you , what , okay , let 's go try a new because we already start from mount zermatt .	okay
+47	174	983	661.648	668.594	A	the one we did was 3 francs what did , what you , what , okay , let 's go try a new because we already start from mount zermatt .	,
+47	174	984	661.648	668.594	A	the one we did was 3 francs what did , what you , what , okay , let 's go try a new because we already start from mount zermatt .	let
+47	174	985	661.648	668.594	A	the one we did was 3 francs what did , what you , what , okay , let 's go try a new because we already start from mount zermatt .	's
+47	174	986	661.648	668.594	A	the one we did was 3 francs what did , what you , what , okay , let 's go try a new because we already start from mount zermatt .	go
+47	174	987	661.648	668.594	A	the one we did was 3 francs what did , what you , what , okay , let 's go try a new because we already start from mount zermatt .	try
+47	174	988	661.648	668.594	A	the one we did was 3 francs what did , what you , what , okay , let 's go try a new because we already start from mount zermatt .	a
+47	174	989	661.648	668.594	A	the one we did was 3 francs what did , what you , what , okay , let 's go try a new because we already start from mount zermatt .	new
+47	174	990	661.648	668.594	A	the one we did was 3 francs what did , what you , what , okay , let 's go try a new because we already start from mount zermatt .	because
+47	174	991	661.648	668.594	A	the one we did was 3 francs what did , what you , what , okay , let 's go try a new because we already start from mount zermatt .	we
+47	174	992	661.648	668.594	A	the one we did was 3 francs what did , what you , what , okay , let 's go try a new because we already start from mount zermatt .	already
+47	174	993	661.648	668.594	A	the one we did was 3 francs what did , what you , what , okay , let 's go try a new because we already start from mount zermatt .	start
+47	174	994	661.648	668.594	A	the one we did was 3 francs what did , what you , what , okay , let 's go try a new because we already start from mount zermatt .	from
+47	174	995	661.648	668.594	A	the one we did was 3 francs what did , what you , what , okay , let 's go try a new because we already start from mount zermatt .	mount
+47	174	996	661.648	668.594	A	the one we did was 3 francs what did , what you , what , okay , let 's go try a new because we already start from mount zermatt .	zermatt
+47	174	997	661.648	668.594	A	the one we did was 3 francs what did , what you , what , okay , let 's go try a new because we already start from mount zermatt .	.
+47	175	998	669.004	673.657	A	let 's now start from mount luzern and go to mount bern because at least it is really sure i 'm	let
+47	175	999	669.004	673.657	A	let 's now start from mount luzern and go to mount bern because at least it is really sure i 'm	's
+47	175	1000	669.004	673.657	A	let 's now start from mount luzern and go to mount bern because at least it is really sure i 'm	now
+47	175	1001	669.004	673.657	A	let 's now start from mount luzern and go to mount bern because at least it is really sure i 'm	start
+47	175	1002	669.004	673.657	A	let 's now start from mount luzern and go to mount bern because at least it is really sure i 'm	from
+47	175	1003	669.004	673.657	A	let 's now start from mount luzern and go to mount bern because at least it is really sure i 'm	mount
+47	175	1004	669.004	673.657	A	let 's now start from mount luzern and go to mount bern because at least it is really sure i 'm	luzern
+47	175	1005	669.004	673.657	A	let 's now start from mount luzern and go to mount bern because at least it is really sure i 'm	and
+47	175	1006	669.004	673.657	A	let 's now start from mount luzern and go to mount bern because at least it is really sure i 'm	go
+47	175	1007	669.004	673.657	A	let 's now start from mount luzern and go to mount bern because at least it is really sure i 'm	to
+47	175	1008	669.004	673.657	A	let 's now start from mount luzern and go to mount bern because at least it is really sure i 'm	mount
+47	175	1009	669.004	673.657	A	let 's now start from mount luzern and go to mount bern because at least it is really sure i 'm	bern
+47	175	1010	669.004	673.657	A	let 's now start from mount luzern and go to mount bern because at least it is really sure i 'm	because
+47	175	1011	669.004	673.657	A	let 's now start from mount luzern and go to mount bern because at least it is really sure i 'm	at
+47	175	1012	669.004	673.657	A	let 's now start from mount luzern and go to mount bern because at least it is really sure i 'm	least
+47	175	1013	669.004	673.657	A	let 's now start from mount luzern and go to mount bern because at least it is really sure i 'm	it
+47	175	1014	669.004	673.657	A	let 's now start from mount luzern and go to mount bern because at least it is really sure i 'm	is
+47	175	1015	669.004	673.657	A	let 's now start from mount luzern and go to mount bern because at least it is really sure i 'm	really
+47	175	1016	669.004	673.657	A	let 's now start from mount luzern and go to mount bern because at least it is really sure i 'm	sure
+47	175	1017	669.004	673.657	A	let 's now start from mount luzern and go to mount bern because at least it is really sure i 'm	i
+47	175	1018	669.004	673.657	A	let 's now start from mount luzern and go to mount bern because at least it is really sure i 'm	'm
+47	176	1019	674.238	676.092	A	and then let 's go from mount bern	and
+47	176	1020	674.238	676.092	A	and then let 's go from mount bern	then
+47	176	1021	674.238	676.092	A	and then let 's go from mount bern	let
+47	176	1022	674.238	676.092	A	and then let 's go from mount bern	's
+47	176	1023	674.238	676.092	A	and then let 's go from mount bern	go
+47	176	1024	674.238	676.092	A	and then let 's go from mount bern	from
+47	176	1025	674.238	676.092	A	and then let 's go from mount bern	mount
+47	176	1026	674.238	676.092	A	and then let 's go from mount bern	bern
+47	177	1027	674.274	675.682	B	oh yeah .	oh
+47	177	1028	674.274	675.682	B	oh yeah .	yeah
+47	177	1029	674.274	675.682	B	oh yeah .	.
+47	178	1030	676.377	679.729	A	to mount s t gallen , oh we ca n't go , so mount zurich .	to
+47	178	1031	676.377	679.729	A	to mount s t gallen , oh we ca n't go , so mount zurich .	mount
+47	178	1032	676.377	679.729	A	to mount s t gallen , oh we ca n't go , so mount zurich .	s
+47	178	1033	676.377	679.729	A	to mount s t gallen , oh we ca n't go , so mount zurich .	t
+47	178	1034	676.377	679.729	A	to mount s t gallen , oh we ca n't go , so mount zurich .	gallen
+47	178	1035	676.377	679.729	A	to mount s t gallen , oh we ca n't go , so mount zurich .	,
+47	178	1036	676.377	679.729	A	to mount s t gallen , oh we ca n't go , so mount zurich .	oh
+47	178	1037	676.377	679.729	A	to mount s t gallen , oh we ca n't go , so mount zurich .	we
+47	178	1038	676.377	679.729	A	to mount s t gallen , oh we ca n't go , so mount zurich .	ca
+47	178	1039	676.377	679.729	A	to mount s t gallen , oh we ca n't go , so mount zurich .	n't
+47	178	1040	676.377	679.729	A	to mount s t gallen , oh we ca n't go , so mount zurich .	go
+47	178	1041	676.377	679.729	A	to mount s t gallen , oh we ca n't go , so mount zurich .	,
+47	178	1042	676.377	679.729	A	to mount s t gallen , oh we ca n't go , so mount zurich .	so
+47	178	1043	676.377	679.729	A	to mount s t gallen , oh we ca n't go , so mount zurich .	mount
+47	178	1044	676.377	679.729	A	to mount s t gallen , oh we ca n't go , so mount zurich .	zurich
+47	178	1045	676.377	679.729	A	to mount s t gallen , oh we ca n't go , so mount zurich .	.
+47	179	1046	680.212	680.961	A	let 's see .	let
+47	179	1047	680.212	680.961	A	let 's see .	's
+47	179	1048	680.212	680.961	A	let 's see .	see
+47	179	1049	680.212	680.961	A	let 's see .	.
+47	180	1050	680.925	682.280	B	then	then
+47	181	1051	681.442	682.387	A	oh it 's 3 francs .	oh
+47	181	1052	681.442	682.387	A	oh it 's 3 francs .	it
+47	181	1053	681.442	682.387	A	oh it 's 3 francs .	's
+47	181	1054	681.442	682.387	A	oh it 's 3 francs .	3
+47	181	1055	681.442	682.387	A	oh it 's 3 francs .	francs
+47	181	1056	681.442	682.387	A	oh it 's 3 francs .	.
+47	182	1057	682.672	689.198	A	um then go from mount luzern to mount s t gallen oh no we ca n't go from we can only go from okay just do this and	um
+47	182	1058	682.672	689.198	A	um then go from mount luzern to mount s t gallen oh no we ca n't go from we can only go from okay just do this and	then
+47	182	1059	682.672	689.198	A	um then go from mount luzern to mount s t gallen oh no we ca n't go from we can only go from okay just do this and	go
+47	182	1060	682.672	689.198	A	um then go from mount luzern to mount s t gallen oh no we ca n't go from we can only go from okay just do this and	from
+47	182	1061	682.672	689.198	A	um then go from mount luzern to mount s t gallen oh no we ca n't go from we can only go from okay just do this and	mount
+47	182	1062	682.672	689.198	A	um then go from mount luzern to mount s t gallen oh no we ca n't go from we can only go from okay just do this and	luzern
+47	182	1063	682.672	689.198	A	um then go from mount luzern to mount s t gallen oh no we ca n't go from we can only go from okay just do this and	to
+47	182	1064	682.672	689.198	A	um then go from mount luzern to mount s t gallen oh no we ca n't go from we can only go from okay just do this and	mount
+47	182	1065	682.672	689.198	A	um then go from mount luzern to mount s t gallen oh no we ca n't go from we can only go from okay just do this and	s
+47	182	1066	682.672	689.198	A	um then go from mount luzern to mount s t gallen oh no we ca n't go from we can only go from okay just do this and	t
+47	182	1067	682.672	689.198	A	um then go from mount luzern to mount s t gallen oh no we ca n't go from we can only go from okay just do this and	gallen
+47	182	1068	682.672	689.198	A	um then go from mount luzern to mount s t gallen oh no we ca n't go from we can only go from okay just do this and	oh
+47	182	1069	682.672	689.198	A	um then go from mount luzern to mount s t gallen oh no we ca n't go from we can only go from okay just do this and	no
+47	182	1070	682.672	689.198	A	um then go from mount luzern to mount s t gallen oh no we ca n't go from we can only go from okay just do this and	we
+47	182	1071	682.672	689.198	A	um then go from mount luzern to mount s t gallen oh no we ca n't go from we can only go from okay just do this and	ca
+47	182	1072	682.672	689.198	A	um then go from mount luzern to mount s t gallen oh no we ca n't go from we can only go from okay just do this and	n't
+47	182	1073	682.672	689.198	A	um then go from mount luzern to mount s t gallen oh no we ca n't go from we can only go from okay just do this and	go
+47	182	1074	682.672	689.198	A	um then go from mount luzern to mount s t gallen oh no we ca n't go from we can only go from okay just do this and	from
+47	182	1075	682.672	689.198	A	um then go from mount luzern to mount s t gallen oh no we ca n't go from we can only go from okay just do this and	we
+47	182	1076	682.672	689.198	A	um then go from mount luzern to mount s t gallen oh no we ca n't go from we can only go from okay just do this and	can
+47	182	1077	682.672	689.198	A	um then go from mount luzern to mount s t gallen oh no we ca n't go from we can only go from okay just do this and	only
+47	182	1078	682.672	689.198	A	um then go from mount luzern to mount s t gallen oh no we ca n't go from we can only go from okay just do this and	go
+47	182	1079	682.672	689.198	A	um then go from mount luzern to mount s t gallen oh no we ca n't go from we can only go from okay just do this and	from
+47	182	1080	682.672	689.198	A	um then go from mount luzern to mount s t gallen oh no we ca n't go from we can only go from okay just do this and	okay
+47	182	1081	682.672	689.198	A	um then go from mount luzern to mount s t gallen oh no we ca n't go from we can only go from okay just do this and	just
+47	182	1082	682.672	689.198	A	um then go from mount luzern to mount s t gallen oh no we ca n't go from we can only go from okay just do this and	do
+47	182	1083	682.672	689.198	A	um then go from mount luzern to mount s t gallen oh no we ca n't go from we can only go from okay just do this and	this
+47	182	1084	682.672	689.198	A	um then go from mount luzern to mount s t gallen oh no we ca n't go from we can only go from okay just do this and	and
+47	183	1085	689.483	692.407	B	mount mount luzern to mount	mount
+47	183	1086	689.483	692.407	B	mount mount luzern to mount	mount
+47	183	1087	689.483	692.407	B	mount mount luzern to mount	luzern
+47	183	1088	689.483	692.407	B	mount mount luzern to mount	to
+47	183	1089	689.483	692.407	B	mount mount luzern to mount	mount
+47	184	1090	691.694	694.778	A	no no no just do mount zurich to mount basel and	no
+47	184	1091	691.694	694.778	A	no no no just do mount zurich to mount basel and	no
+47	184	1092	691.694	694.778	A	no no no just do mount zurich to mount basel and	no
+47	184	1093	691.694	694.778	A	no no no just do mount zurich to mount basel and	just
+47	184	1094	691.694	694.778	A	no no no just do mount zurich to mount basel and	do
+47	184	1095	691.694	694.778	A	no no no just do mount zurich to mount basel and	mount
+47	184	1096	691.694	694.778	A	no no no just do mount zurich to mount basel and	zurich
+47	184	1097	691.694	694.778	A	no no no just do mount zurich to mount basel and	to
+47	184	1098	691.694	694.778	A	no no no just do mount zurich to mount basel and	mount
+47	184	1099	691.694	694.778	A	no no no just do mount zurich to mount basel and	basel
+47	184	1100	691.694	694.778	A	no no no just do mount zurich to mount basel and	and
+47	185	1101	695.616	696.222	A	mount	mount
+47	186	1102	696.490	698.255	A	the problem is with mount basel .	the
+47	186	1103	696.490	698.255	A	the problem is with mount basel .	problem
+47	186	1104	696.490	698.255	A	the problem is with mount basel .	is
+47	186	1105	696.490	698.255	A	the problem is with mount basel .	with
+47	186	1106	696.490	698.255	A	the problem is with mount basel .	mount
+47	186	1107	696.490	698.255	A	the problem is with mount basel .	basel
+47	186	1108	696.490	698.255	A	the problem is with mount basel .	.
+47	187	1109	698.611	701.803	A	no at wait , can we delete our tracks , delete .	no
+47	187	1110	698.611	701.803	A	no at wait , can we delete our tracks , delete .	at
+47	187	1111	698.611	701.803	A	no at wait , can we delete our tracks , delete .	wait
+47	187	1112	698.611	701.803	A	no at wait , can we delete our tracks , delete .	,
+47	187	1113	698.611	701.803	A	no at wait , can we delete our tracks , delete .	can
+47	187	1114	698.611	701.803	A	no at wait , can we delete our tracks , delete .	we
+47	187	1115	698.611	701.803	A	no at wait , can we delete our tracks , delete .	delete
+47	187	1116	698.611	701.803	A	no at wait , can we delete our tracks , delete .	our
+47	187	1117	698.611	701.803	A	no at wait , can we delete our tracks , delete .	tracks
+47	187	1118	698.611	701.803	A	no at wait , can we delete our tracks , delete .	,
+47	187	1119	698.611	701.803	A	no at wait , can we delete our tracks , delete .	delete
+47	187	1120	698.611	701.803	A	no at wait , can we delete our tracks , delete .	.
+47	188	1121	702.174	703.547	A	yeah , because um	yeah
+47	188	1122	702.174	703.547	A	yeah , because um	,
+47	188	1123	702.174	703.547	A	yeah , because um	because
+47	188	1124	702.174	703.547	A	yeah , because um	um
+47	189	1125	704.440	705.793	B	oh my god that was expensive .	oh
+47	189	1126	704.440	705.793	B	oh my god that was expensive .	my
+47	189	1127	704.440	705.793	B	oh my god that was expensive .	god
+47	189	1128	704.440	705.793	B	oh my god that was expensive .	that
+47	189	1129	704.440	705.793	B	oh my god that was expensive .	was
+47	189	1130	704.440	705.793	B	oh my god that was expensive .	expensive
+47	189	1131	704.440	705.793	B	oh my god that was expensive .	.
+47	190	1132	704.634	708.450	A	i i realize that mount basel is the only one that can connect to	i
+47	190	1133	704.634	708.450	A	i i realize that mount basel is the only one that can connect to	i
+47	190	1134	704.634	708.450	A	i i realize that mount basel is the only one that can connect to	realize
+47	190	1135	704.634	708.450	A	i i realize that mount basel is the only one that can connect to	that
+47	190	1136	704.634	708.450	A	i i realize that mount basel is the only one that can connect to	mount
+47	190	1137	704.634	708.450	A	i i realize that mount basel is the only one that can connect to	basel
+47	190	1138	704.634	708.450	A	i i realize that mount basel is the only one that can connect to	is
+47	190	1139	704.634	708.450	A	i i realize that mount basel is the only one that can connect to	the
+47	190	1140	704.634	708.450	A	i i realize that mount basel is the only one that can connect to	only
+47	190	1141	704.634	708.450	A	i i realize that mount basel is the only one that can connect to	one
+47	190	1142	704.634	708.450	A	i i realize that mount basel is the only one that can connect to	that
+47	190	1143	704.634	708.450	A	i i realize that mount basel is the only one that can connect to	can
+47	190	1144	704.634	708.450	A	i i realize that mount basel is the only one that can connect to	connect
+47	190	1145	704.634	708.450	A	i i realize that mount basel is the only one that can connect to	to
+47	191	1146	708.682	715.510	A	uh except mount interlaken but , we have to go , okay let 's try a new track this time , let 's go from mount bern to interlaken .	uh
+47	191	1147	708.682	715.510	A	uh except mount interlaken but , we have to go , okay let 's try a new track this time , let 's go from mount bern to interlaken .	except
+47	191	1148	708.682	715.510	A	uh except mount interlaken but , we have to go , okay let 's try a new track this time , let 's go from mount bern to interlaken .	mount
+47	191	1149	708.682	715.510	A	uh except mount interlaken but , we have to go , okay let 's try a new track this time , let 's go from mount bern to interlaken .	interlaken
+47	191	1150	708.682	715.510	A	uh except mount interlaken but , we have to go , okay let 's try a new track this time , let 's go from mount bern to interlaken .	but
+47	191	1151	708.682	715.510	A	uh except mount interlaken but , we have to go , okay let 's try a new track this time , let 's go from mount bern to interlaken .	,
+47	191	1152	708.682	715.510	A	uh except mount interlaken but , we have to go , okay let 's try a new track this time , let 's go from mount bern to interlaken .	we
+47	191	1153	708.682	715.510	A	uh except mount interlaken but , we have to go , okay let 's try a new track this time , let 's go from mount bern to interlaken .	have
+47	191	1154	708.682	715.510	A	uh except mount interlaken but , we have to go , okay let 's try a new track this time , let 's go from mount bern to interlaken .	to
+47	191	1155	708.682	715.510	A	uh except mount interlaken but , we have to go , okay let 's try a new track this time , let 's go from mount bern to interlaken .	go
+47	191	1156	708.682	715.510	A	uh except mount interlaken but , we have to go , okay let 's try a new track this time , let 's go from mount bern to interlaken .	,
+47	191	1157	708.682	715.510	A	uh except mount interlaken but , we have to go , okay let 's try a new track this time , let 's go from mount bern to interlaken .	okay
+47	191	1158	708.682	715.510	A	uh except mount interlaken but , we have to go , okay let 's try a new track this time , let 's go from mount bern to interlaken .	let
+47	191	1159	708.682	715.510	A	uh except mount interlaken but , we have to go , okay let 's try a new track this time , let 's go from mount bern to interlaken .	's
+47	191	1160	708.682	715.510	A	uh except mount interlaken but , we have to go , okay let 's try a new track this time , let 's go from mount bern to interlaken .	try
+47	191	1161	708.682	715.510	A	uh except mount interlaken but , we have to go , okay let 's try a new track this time , let 's go from mount bern to interlaken .	a
+47	191	1162	708.682	715.510	A	uh except mount interlaken but , we have to go , okay let 's try a new track this time , let 's go from mount bern to interlaken .	new
+47	191	1163	708.682	715.510	A	uh except mount interlaken but , we have to go , okay let 's try a new track this time , let 's go from mount bern to interlaken .	track
+47	191	1164	708.682	715.510	A	uh except mount interlaken but , we have to go , okay let 's try a new track this time , let 's go from mount bern to interlaken .	this
+47	191	1165	708.682	715.510	A	uh except mount interlaken but , we have to go , okay let 's try a new track this time , let 's go from mount bern to interlaken .	time
+47	191	1166	708.682	715.510	A	uh except mount interlaken but , we have to go , okay let 's try a new track this time , let 's go from mount bern to interlaken .	,
+47	191	1167	708.682	715.510	A	uh except mount interlaken but , we have to go , okay let 's try a new track this time , let 's go from mount bern to interlaken .	let
+47	191	1168	708.682	715.510	A	uh except mount interlaken but , we have to go , okay let 's try a new track this time , let 's go from mount bern to interlaken .	's
+47	191	1169	708.682	715.510	A	uh except mount interlaken but , we have to go , okay let 's try a new track this time , let 's go from mount bern to interlaken .	go
+47	191	1170	708.682	715.510	A	uh except mount interlaken but , we have to go , okay let 's try a new track this time , let 's go from mount bern to interlaken .	from
+47	191	1171	708.682	715.510	A	uh except mount interlaken but , we have to go , okay let 's try a new track this time , let 's go from mount bern to interlaken .	mount
+47	191	1172	708.682	715.510	A	uh except mount interlaken but , we have to go , okay let 's try a new track this time , let 's go from mount bern to interlaken .	bern
+47	191	1173	708.682	715.510	A	uh except mount interlaken but , we have to go , okay let 's try a new track this time , let 's go from mount bern to interlaken .	to
+47	191	1174	708.682	715.510	A	uh except mount interlaken but , we have to go , okay let 's try a new track this time , let 's go from mount bern to interlaken .	interlaken
+47	191	1175	708.682	715.510	A	uh except mount interlaken but , we have to go , okay let 's try a new track this time , let 's go from mount bern to interlaken .	.
+47	192	1176	716.260	719.220	A	and then mount interlaken to mount neuchatel	and
+47	192	1177	716.260	719.220	A	and then mount interlaken to mount neuchatel	then
+47	192	1178	716.260	719.220	A	and then mount interlaken to mount neuchatel	mount
+47	192	1179	716.260	719.220	A	and then mount interlaken to mount neuchatel	interlaken
+47	192	1180	716.260	719.220	A	and then mount interlaken to mount neuchatel	to
+47	192	1181	716.260	719.220	A	and then mount interlaken to mount neuchatel	mount
+47	192	1182	716.260	719.220	A	and then mount interlaken to mount neuchatel	neuchatel
+47	193	1183	724.158	725.085	A	yeah it 's from	yeah
+47	193	1184	724.158	725.085	A	yeah it 's from	it
+47	193	1185	724.158	725.085	A	yeah it 's from	's
+47	193	1186	724.158	725.085	A	yeah it 's from	from
+47	194	1187	727.047	730.666	A	okay , oh wait mount zurich to mount uh	okay
+47	194	1188	727.047	730.666	A	okay , oh wait mount zurich to mount uh	,
+47	194	1189	727.047	730.666	A	okay , oh wait mount zurich to mount uh	oh
+47	194	1190	727.047	730.666	A	okay , oh wait mount zurich to mount uh	wait
+47	194	1191	727.047	730.666	A	okay , oh wait mount zurich to mount uh	mount
+47	194	1192	727.047	730.666	A	okay , oh wait mount zurich to mount uh	zurich
+47	194	1193	727.047	730.666	A	okay , oh wait mount zurich to mount uh	to
+47	194	1194	727.047	730.666	A	okay , oh wait mount zurich to mount uh	mount
+47	194	1195	727.047	730.666	A	okay , oh wait mount zurich to mount uh	uh
+47	195	1196	730.042	732.021	B	mount neuchatel to mount montreux .	mount
+47	195	1197	730.042	732.021	B	mount neuchatel to mount montreux .	neuchatel
+47	195	1198	730.042	732.021	B	mount neuchatel to mount montreux .	to
+47	195	1199	730.042	732.021	B	mount neuchatel to mount montreux .	mount
+47	195	1200	730.042	732.021	B	mount neuchatel to mount montreux .	montreux
+47	195	1201	730.042	732.021	B	mount neuchatel to mount montreux .	.
+47	196	1202	732.587	733.068	A	yeah .	yeah
+47	196	1203	732.587	733.068	A	yeah .	.
+47	197	1204	733.781	735.101	A	and then mount zurich	and
+47	197	1205	733.781	735.101	A	and then mount zurich	then
+47	197	1206	733.781	735.101	A	and then mount zurich	mount
+47	197	1207	733.781	735.101	A	and then mount zurich	zurich
+47	198	1208	735.707	738.060	A	to um mount s t gallen .	to
+47	198	1209	735.707	738.060	A	to um mount s t gallen .	um
+47	198	1210	735.707	738.060	A	to um mount s t gallen .	mount
+47	198	1211	735.707	738.060	A	to um mount s t gallen .	s
+47	198	1212	735.707	738.060	A	to um mount s t gallen .	t
+47	198	1213	735.707	738.060	A	to um mount s t gallen .	gallen
+47	198	1214	735.707	738.060	A	to um mount s t gallen .	.
+47	199	1215	740.481	740.926	A	okay .	okay
+47	199	1216	740.481	740.926	A	okay .	.
+47	200	1217	741.622	742.780	A	come on let 's do this .	come
+47	200	1218	741.622	742.780	A	come on let 's do this .	on
+47	200	1219	741.622	742.780	A	come on let 's do this .	let
+47	200	1220	741.622	742.780	A	come on let 's do this .	's
+47	200	1221	741.622	742.780	A	come on let 's do this .	do
+47	200	1222	741.622	742.780	A	come on let 's do this .	this
+47	200	1223	741.622	742.780	A	come on let 's do this .	.
+47	201	1224	744.332	745.580	A	mount davos and	mount
+47	201	1225	744.332	745.580	A	mount davos and	davos
+47	201	1226	744.332	745.580	A	mount davos and	and
+47	202	1227	745.704	748.076	B	mount bern to mount basel ?	mount
+47	202	1228	745.704	748.076	B	mount bern to mount basel ?	bern
+47	202	1229	745.704	748.076	B	mount bern to mount basel ?	to
+47	202	1230	745.704	748.076	B	mount bern to mount basel ?	mount
+47	202	1231	745.704	748.076	B	mount bern to mount basel ?	basel
+47	202	1232	745.704	748.076	B	mount bern to mount basel ?	?
+47	203	1233	746.917	749.381	A	no wait , yeah mount bern to mount basel	no
+47	203	1234	746.917	749.381	A	no wait , yeah mount bern to mount basel	wait
+47	203	1235	746.917	749.381	A	no wait , yeah mount bern to mount basel	,
+47	203	1236	746.917	749.381	A	no wait , yeah mount bern to mount basel	yeah
+47	203	1237	746.917	749.381	A	no wait , yeah mount bern to mount basel	mount
+47	203	1238	746.917	749.381	A	no wait , yeah mount bern to mount basel	bern
+47	203	1239	746.917	749.381	A	no wait , yeah mount bern to mount basel	to
+47	203	1240	746.917	749.381	A	no wait , yeah mount bern to mount basel	mount
+47	203	1241	746.917	749.381	A	no wait , yeah mount bern to mount basel	basel
+47	204	1242	752.109	753.999	A	wait wait wait wait , mount okay good .	wait
+47	204	1243	752.109	753.999	A	wait wait wait wait , mount okay good .	wait
+47	204	1244	752.109	753.999	A	wait wait wait wait , mount okay good .	wait
+47	204	1245	752.109	753.999	A	wait wait wait wait , mount okay good .	wait
+47	204	1246	752.109	753.999	A	wait wait wait wait , mount okay good .	,
+47	204	1247	752.109	753.999	A	wait wait wait wait , mount okay good .	mount
+47	204	1248	752.109	753.999	A	wait wait wait wait , mount okay good .	okay
+47	204	1249	752.109	753.999	A	wait wait wait wait , mount okay good .	good
+47	204	1250	752.109	753.999	A	wait wait wait wait , mount okay good .	.
+47	205	1251	754.980	755.693	A	and now	and
+47	205	1252	754.980	755.693	A	and now	now
+47	206	1253	755.622	756.299	B	is that good ?	is
+47	206	1254	755.622	756.299	B	is that good ?	that
+47	206	1255	755.622	756.299	B	is that good ?	good
+47	206	1256	755.622	756.299	B	is that good ?	?
+47	207	1257	757.101	758.724	A	let 's see which one is um	let
+47	207	1258	757.101	758.724	A	let 's see which one is um	's
+47	207	1259	757.101	758.724	A	let 's see which one is um	see
+47	207	1260	757.101	758.724	A	let 's see which one is um	which
+47	207	1261	757.101	758.724	A	let 's see which one is um	one
+47	207	1262	757.101	758.724	A	let 's see which one is um	is
+47	207	1263	757.101	758.724	A	let 's see which one is um	um
+47	208	1264	758.314	758.866	B	three .	three
+47	208	1265	758.314	758.866	B	three .	.
+47	209	1266	759.348	760.810	B	two , one .	two
+47	209	1267	759.348	760.810	B	two , one .	,
+47	209	1268	759.348	760.810	B	two , one .	one
+47	209	1269	759.348	760.810	B	two , one .	.
+47	210	1270	759.437	760.578	A	two , one .	two
+47	210	1271	759.437	760.578	A	two , one .	,
+47	210	1272	759.437	760.578	A	two , one .	one
+47	210	1273	759.437	760.578	A	two , one .	.
+47	211	1274	760.935	761.345	A	go .	go
+47	211	1275	760.935	761.345	A	go .	.
+47	212	1276	769.798	771.189	A	this hard kinda .	this
+47	212	1277	769.798	771.189	A	this hard kinda .	hard
+47	212	1278	769.798	771.189	A	this hard kinda .	kinda
+47	212	1279	769.798	771.189	A	this hard kinda .	.
+47	213	1280	771.599	772.187	A	okay .	okay
+47	213	1281	771.599	772.187	A	okay .	.
+47	214	1282	772.936	774.933	B	oh i 'm starting first .	oh
+47	214	1283	772.936	774.933	B	oh i 'm starting first .	i
+47	214	1284	772.936	774.933	B	oh i 'm starting first .	'm
+47	214	1285	772.936	774.933	B	oh i 'm starting first .	starting
+47	214	1286	772.936	774.933	B	oh i 'm starting first .	first
+47	214	1287	772.936	774.933	B	oh i 'm starting first .	.
+47	215	1288	773.721	775.290	A	yeah you 're starting this time .	yeah
+47	215	1289	773.721	775.290	A	yeah you 're starting this time .	you
+47	215	1290	773.721	775.290	A	yeah you 're starting this time .	're
+47	215	1291	773.721	775.290	A	yeah you 're starting this time .	starting
+47	215	1292	773.721	775.290	A	yeah you 're starting this time .	this
+47	215	1293	773.721	775.290	A	yeah you 're starting this time .	time
+47	215	1294	773.721	775.290	A	yeah you 're starting this time .	.
+47	216	1295	776.395	778.766	A	go from mount luzern to mount s	go
+47	216	1296	776.395	778.766	A	go from mount luzern to mount s	from
+47	216	1297	776.395	778.766	A	go from mount luzern to mount s	mount
+47	216	1298	776.395	778.766	A	go from mount luzern to mount s	luzern
+47	216	1299	776.395	778.766	A	go from mount luzern to mount s	to
+47	216	1300	776.395	778.766	A	go from mount luzern to mount s	mount
+47	216	1301	776.395	778.766	A	go from mount luzern to mount s	s
+47	217	1302	778.000	779.497	B	i 'm thinking mount	i
+47	217	1303	778.000	779.497	B	i 'm thinking mount	'm
+47	217	1304	778.000	779.497	B	i 'm thinking mount	thinking
+47	217	1305	778.000	779.497	B	i 'm thinking mount	mount
+47	218	1306	779.123	780.206	A	to mount davos .	to
+47	218	1307	779.123	780.206	A	to mount davos .	mount
+47	218	1308	779.123	780.206	A	to mount davos .	davos
+47	218	1309	779.123	780.206	A	to mount davos .	.
+47	219	1310	780.527	782.738	B	mount luzern to mount davos .	mount
+47	219	1311	780.527	782.738	B	mount luzern to mount davos .	luzern
+47	219	1312	780.527	782.738	B	mount luzern to mount davos .	to
+47	219	1313	780.527	782.738	B	mount luzern to mount davos .	mount
+47	219	1314	780.527	782.738	B	mount luzern to mount davos .	davos
+47	219	1315	780.527	782.738	B	mount luzern to mount davos .	.
+47	220	1316	782.934	783.682	B	then	then
+47	221	1317	783.032	786.036	A	and then go from um mount luzern to mount bern	and
+47	221	1318	783.032	786.036	A	and then go from um mount luzern to mount bern	then
+47	221	1319	783.032	786.036	A	and then go from um mount luzern to mount bern	go
+47	221	1320	783.032	786.036	A	and then go from um mount luzern to mount bern	from
+47	221	1321	783.032	786.036	A	and then go from um mount luzern to mount bern	um
+47	221	1322	783.032	786.036	A	and then go from um mount luzern to mount bern	mount
+47	221	1323	783.032	786.036	A	and then go from um mount luzern to mount bern	luzern
+47	221	1324	783.032	786.036	A	and then go from um mount luzern to mount bern	to
+47	221	1325	783.032	786.036	A	and then go from um mount luzern to mount bern	mount
+47	221	1326	783.032	786.036	A	and then go from um mount luzern to mount bern	bern
+47	222	1327	787.816	789.563	A	or if it is possible , okay .	or
+47	222	1328	787.816	789.563	A	or if it is possible , okay .	if
+47	222	1329	787.816	789.563	A	or if it is possible , okay .	it
+47	222	1330	787.816	789.563	A	or if it is possible , okay .	is
+47	222	1331	787.816	789.563	A	or if it is possible , okay .	possible
+47	222	1332	787.816	789.563	A	or if it is possible , okay .	,
+47	222	1333	787.816	789.563	A	or if it is possible , okay .	okay
+47	222	1334	787.816	789.563	A	or if it is possible , okay .	.
+47	223	1335	790.241	791.399	A	and now i 'll go from	and
+47	223	1336	790.241	791.399	A	and now i 'll go from	now
+47	223	1337	790.241	791.399	A	and now i 'll go from	i
+47	223	1338	790.241	791.399	A	and now i 'll go from	'll
+47	223	1339	790.241	791.399	A	and now i 'll go from	go
+47	223	1340	790.241	791.399	A	and now i 'll go from	from
+47	224	1341	792.707	794.989	A	mount luzern to mount zurich .	mount
+47	224	1342	792.707	794.989	A	mount luzern to mount zurich .	luzern
+47	224	1343	792.707	794.989	A	mount luzern to mount zurich .	to
+47	224	1344	792.707	794.989	A	mount luzern to mount zurich .	mount
+47	224	1345	792.707	794.989	A	mount luzern to mount zurich .	zurich
+47	224	1346	792.707	794.989	A	mount luzern to mount zurich .	.
+47	225	1347	796.076	800.017	A	and i ca n't go from mount zurich to mount basel because that 's really expensive .	and
+47	225	1348	796.076	800.017	A	and i ca n't go from mount zurich to mount basel because that 's really expensive .	i
+47	225	1349	796.076	800.017	A	and i ca n't go from mount zurich to mount basel because that 's really expensive .	ca
+47	225	1350	796.076	800.017	A	and i ca n't go from mount zurich to mount basel because that 's really expensive .	n't
+47	225	1351	796.076	800.017	A	and i ca n't go from mount zurich to mount basel because that 's really expensive .	go
+47	225	1352	796.076	800.017	A	and i ca n't go from mount zurich to mount basel because that 's really expensive .	from
+47	225	1353	796.076	800.017	A	and i ca n't go from mount zurich to mount basel because that 's really expensive .	mount
+47	225	1354	796.076	800.017	A	and i ca n't go from mount zurich to mount basel because that 's really expensive .	zurich
+47	225	1355	796.076	800.017	A	and i ca n't go from mount zurich to mount basel because that 's really expensive .	to
+47	225	1356	796.076	800.017	A	and i ca n't go from mount zurich to mount basel because that 's really expensive .	mount
+47	225	1357	796.076	800.017	A	and i ca n't go from mount zurich to mount basel because that 's really expensive .	basel
+47	225	1358	796.076	800.017	A	and i ca n't go from mount zurich to mount basel because that 's really expensive .	because
+47	225	1359	796.076	800.017	A	and i ca n't go from mount zurich to mount basel because that 's really expensive .	that
+47	225	1360	796.076	800.017	A	and i ca n't go from mount zurich to mount basel because that 's really expensive .	's
+47	225	1361	796.076	800.017	A	and i ca n't go from mount zurich to mount basel because that 's really expensive .	really
+47	225	1362	796.076	800.017	A	and i ca n't go from mount zurich to mount basel because that 's really expensive .	expensive
+47	225	1363	796.076	800.017	A	and i ca n't go from mount zurich to mount basel because that 's really expensive .	.
+47	226	1364	801.124	804.209	A	so i 'm , i 'll connect to s t gallen .	so
+47	226	1365	801.124	804.209	A	so i 'm , i 'll connect to s t gallen .	i
+47	226	1366	801.124	804.209	A	so i 'm , i 'll connect to s t gallen .	'm
+47	226	1367	801.124	804.209	A	so i 'm , i 'll connect to s t gallen .	,
+47	226	1368	801.124	804.209	A	so i 'm , i 'll connect to s t gallen .	i
+47	226	1369	801.124	804.209	A	so i 'm , i 'll connect to s t gallen .	'll
+47	226	1370	801.124	804.209	A	so i 'm , i 'll connect to s t gallen .	connect
+47	226	1371	801.124	804.209	A	so i 'm , i 'll connect to s t gallen .	to
+47	226	1372	801.124	804.209	A	so i 'm , i 'll connect to s t gallen .	s
+47	226	1373	801.124	804.209	A	so i 'm , i 'll connect to s t gallen .	t
+47	226	1374	801.124	804.209	A	so i 'm , i 'll connect to s t gallen .	gallen
+47	226	1375	801.124	804.209	A	so i 'm , i 'll connect to s t gallen .	.
+47	227	1376	805.492	808.648	B	then mount bern to mount zurich , never mind .	then
+47	227	1377	805.492	808.648	B	then mount bern to mount zurich , never mind .	mount
+47	227	1378	805.492	808.648	B	then mount bern to mount zurich , never mind .	bern
+47	227	1379	805.492	808.648	B	then mount bern to mount zurich , never mind .	to
+47	227	1380	805.492	808.648	B	then mount bern to mount zurich , never mind .	mount
+47	227	1381	805.492	808.648	B	then mount bern to mount zurich , never mind .	zurich
+47	227	1382	805.492	808.648	B	then mount bern to mount zurich , never mind .	,
+47	227	1383	805.492	808.648	B	then mount bern to mount zurich , never mind .	never
+47	227	1384	805.492	808.648	B	then mount bern to mount zurich , never mind .	mind
+47	227	1385	805.492	808.648	B	then mount bern to mount zurich , never mind .	.
+47	228	1386	808.916	810.360	A	no let 's go from mount	no
+47	228	1387	808.916	810.360	A	no let 's go from mount	let
+47	228	1388	808.916	810.360	A	no let 's go from mount	's
+47	228	1389	808.916	810.360	A	no let 's go from mount	go
+47	228	1390	808.916	810.360	A	no let 's go from mount	from
+47	228	1391	808.916	810.360	A	no let 's go from mount	mount
+47	229	1392	810.823	811.929	A	to mount um	to
+47	229	1393	810.823	811.929	A	to mount um	mount
+47	229	1394	810.823	811.929	A	to mount um	um
+47	230	1395	812.535	813.979	A	uh mount luzern	uh
+47	230	1396	812.535	813.979	A	uh mount luzern	mount
+47	230	1397	812.535	813.979	A	uh mount luzern	luzern
+47	231	1398	813.294	817.584	B	is can i just see if mount bern is mount saint basel uh expensive ?	is
+47	231	1399	813.294	817.584	B	is can i just see if mount bern is mount saint basel uh expensive ?	can
+47	231	1400	813.294	817.584	B	is can i just see if mount bern is mount saint basel uh expensive ?	i
+47	231	1401	813.294	817.584	B	is can i just see if mount bern is mount saint basel uh expensive ?	just
+47	231	1402	813.294	817.584	B	is can i just see if mount bern is mount saint basel uh expensive ?	see
+47	231	1403	813.294	817.584	B	is can i just see if mount bern is mount saint basel uh expensive ?	if
+47	231	1404	813.294	817.584	B	is can i just see if mount bern is mount saint basel uh expensive ?	mount
+47	231	1405	813.294	817.584	B	is can i just see if mount bern is mount saint basel uh expensive ?	bern
+47	231	1406	813.294	817.584	B	is can i just see if mount bern is mount saint basel uh expensive ?	is
+47	231	1407	813.294	817.584	B	is can i just see if mount bern is mount saint basel uh expensive ?	mount
+47	231	1408	813.294	817.584	B	is can i just see if mount bern is mount saint basel uh expensive ?	saint
+47	231	1409	813.294	817.584	B	is can i just see if mount bern is mount saint basel uh expensive ?	basel
+47	231	1410	813.294	817.584	B	is can i just see if mount bern is mount saint basel uh expensive ?	uh
+47	231	1411	813.294	817.584	B	is can i just see if mount bern is mount saint basel uh expensive ?	expensive
+47	231	1412	813.294	817.584	B	is can i just see if mount bern is mount saint basel uh expensive ?	?
+47	232	1413	816.236	816.717	A	yeah .	yeah
+47	232	1414	816.236	816.717	A	yeah .	.
+47	233	1415	817.408	825.471	A	um it 's 3 it 's 3 francs it 's okay , and now mount basel to mount neuchatel , because except if you connect from interlaken .	um
+47	233	1416	817.408	825.471	A	um it 's 3 it 's 3 francs it 's okay , and now mount basel to mount neuchatel , because except if you connect from interlaken .	it
+47	233	1417	817.408	825.471	A	um it 's 3 it 's 3 francs it 's okay , and now mount basel to mount neuchatel , because except if you connect from interlaken .	's
+47	233	1418	817.408	825.471	A	um it 's 3 it 's 3 francs it 's okay , and now mount basel to mount neuchatel , because except if you connect from interlaken .	3
+47	233	1419	817.408	825.471	A	um it 's 3 it 's 3 francs it 's okay , and now mount basel to mount neuchatel , because except if you connect from interlaken .	it
+47	233	1420	817.408	825.471	A	um it 's 3 it 's 3 francs it 's okay , and now mount basel to mount neuchatel , because except if you connect from interlaken .	's
+47	233	1421	817.408	825.471	A	um it 's 3 it 's 3 francs it 's okay , and now mount basel to mount neuchatel , because except if you connect from interlaken .	3
+47	233	1422	817.408	825.471	A	um it 's 3 it 's 3 francs it 's okay , and now mount basel to mount neuchatel , because except if you connect from interlaken .	francs
+47	233	1423	817.408	825.471	A	um it 's 3 it 's 3 francs it 's okay , and now mount basel to mount neuchatel , because except if you connect from interlaken .	it
+47	233	1424	817.408	825.471	A	um it 's 3 it 's 3 francs it 's okay , and now mount basel to mount neuchatel , because except if you connect from interlaken .	's
+47	233	1425	817.408	825.471	A	um it 's 3 it 's 3 francs it 's okay , and now mount basel to mount neuchatel , because except if you connect from interlaken .	okay
+47	233	1426	817.408	825.471	A	um it 's 3 it 's 3 francs it 's okay , and now mount basel to mount neuchatel , because except if you connect from interlaken .	,
+47	233	1427	817.408	825.471	A	um it 's 3 it 's 3 francs it 's okay , and now mount basel to mount neuchatel , because except if you connect from interlaken .	and
+47	233	1428	817.408	825.471	A	um it 's 3 it 's 3 francs it 's okay , and now mount basel to mount neuchatel , because except if you connect from interlaken .	now
+47	233	1429	817.408	825.471	A	um it 's 3 it 's 3 francs it 's okay , and now mount basel to mount neuchatel , because except if you connect from interlaken .	mount
+47	233	1430	817.408	825.471	A	um it 's 3 it 's 3 francs it 's okay , and now mount basel to mount neuchatel , because except if you connect from interlaken .	basel
+47	233	1431	817.408	825.471	A	um it 's 3 it 's 3 francs it 's okay , and now mount basel to mount neuchatel , because except if you connect from interlaken .	to
+47	233	1432	817.408	825.471	A	um it 's 3 it 's 3 francs it 's okay , and now mount basel to mount neuchatel , because except if you connect from interlaken .	mount
+47	233	1433	817.408	825.471	A	um it 's 3 it 's 3 francs it 's okay , and now mount basel to mount neuchatel , because except if you connect from interlaken .	neuchatel
+47	233	1434	817.408	825.471	A	um it 's 3 it 's 3 francs it 's okay , and now mount basel to mount neuchatel , because except if you connect from interlaken .	,
+47	233	1435	817.408	825.471	A	um it 's 3 it 's 3 francs it 's okay , and now mount basel to mount neuchatel , because except if you connect from interlaken .	because
+47	233	1436	817.408	825.471	A	um it 's 3 it 's 3 francs it 's okay , and now mount basel to mount neuchatel , because except if you connect from interlaken .	except
+47	233	1437	817.408	825.471	A	um it 's 3 it 's 3 francs it 's okay , and now mount basel to mount neuchatel , because except if you connect from interlaken .	if
+47	233	1438	817.408	825.471	A	um it 's 3 it 's 3 francs it 's okay , and now mount basel to mount neuchatel , because except if you connect from interlaken .	you
+47	233	1439	817.408	825.471	A	um it 's 3 it 's 3 francs it 's okay , and now mount basel to mount neuchatel , because except if you connect from interlaken .	connect
+47	233	1440	817.408	825.471	A	um it 's 3 it 's 3 francs it 's okay , and now mount basel to mount neuchatel , because except if you connect from interlaken .	from
+47	233	1441	817.408	825.471	A	um it 's 3 it 's 3 francs it 's okay , and now mount basel to mount neuchatel , because except if you connect from interlaken .	interlaken
+47	233	1442	817.408	825.471	A	um it 's 3 it 's 3 francs it 's okay , and now mount basel to mount neuchatel , because except if you connect from interlaken .	.
+47	234	1443	826.246	828.636	A	then , i do this , and then i do that .	then
+47	234	1444	826.246	828.636	A	then , i do this , and then i do that .	,
+47	234	1445	826.246	828.636	A	then , i do this , and then i do that .	i
+47	234	1446	826.246	828.636	A	then , i do this , and then i do that .	do
+47	234	1447	826.246	828.636	A	then , i do this , and then i do that .	this
+47	234	1448	826.246	828.636	A	then , i do this , and then i do that .	,
+47	234	1449	826.246	828.636	A	then , i do this , and then i do that .	and
+47	234	1450	826.246	828.636	A	then , i do this , and then i do that .	then
+47	234	1451	826.246	828.636	A	then , i do this , and then i do that .	i
+47	234	1452	826.246	828.636	A	then , i do this , and then i do that .	do
+47	234	1453	826.246	828.636	A	then , i do this , and then i do that .	that
+47	234	1454	826.246	828.636	A	then , i do this , and then i do that .	.
+47	235	1455	833.556	834.252	A	yeah and then	yeah
+47	235	1456	833.556	834.252	A	yeah and then	and
+47	235	1457	833.556	834.252	A	yeah and then	then
+47	236	1458	834.448	835.749	B	three .	three
+47	236	1459	834.448	835.749	B	three .	.
+47	237	1460	834.662	837.710	A	no no do n't connect , wait i 'll delete this track .	no
+47	237	1461	834.662	837.710	A	no no do n't connect , wait i 'll delete this track .	no
+47	237	1462	834.662	837.710	A	no no do n't connect , wait i 'll delete this track .	do
+47	237	1463	834.662	837.710	A	no no do n't connect , wait i 'll delete this track .	n't
+47	237	1464	834.662	837.710	A	no no do n't connect , wait i 'll delete this track .	connect
+47	237	1465	834.662	837.710	A	no no do n't connect , wait i 'll delete this track .	,
+47	237	1466	834.662	837.710	A	no no do n't connect , wait i 'll delete this track .	wait
+47	237	1467	834.662	837.710	A	no no do n't connect , wait i 'll delete this track .	i
+47	237	1468	834.662	837.710	A	no no do n't connect , wait i 'll delete this track .	'll
+47	237	1469	834.662	837.710	A	no no do n't connect , wait i 'll delete this track .	delete
+47	237	1470	834.662	837.710	A	no no do n't connect , wait i 'll delete this track .	this
+47	237	1471	834.662	837.710	A	no no do n't connect , wait i 'll delete this track .	track
+47	237	1472	834.662	837.710	A	no no do n't connect , wait i 'll delete this track .	.
+47	238	1473	838.245	838.905	A	how 'd , yeah .	how
+47	238	1474	838.245	838.905	A	how 'd , yeah .	'd
+47	238	1475	838.245	838.905	A	how 'd , yeah .	,
+47	238	1476	838.245	838.905	A	how 'd , yeah .	yeah
+47	238	1477	838.245	838.905	A	how 'd , yeah .	.
+47	239	1478	839.618	843.304	A	so , and and then we go from mount zermatt to mount davos .	so
+47	239	1479	839.618	843.304	A	so , and and then we go from mount zermatt to mount davos .	,
+47	239	1480	839.618	843.304	A	so , and and then we go from mount zermatt to mount davos .	and
+47	239	1481	839.618	843.304	A	so , and and then we go from mount zermatt to mount davos .	and
+47	239	1482	839.618	843.304	A	so , and and then we go from mount zermatt to mount davos .	then
+47	239	1483	839.618	843.304	A	so , and and then we go from mount zermatt to mount davos .	we
+47	239	1484	839.618	843.304	A	so , and and then we go from mount zermatt to mount davos .	go
+47	239	1485	839.618	843.304	A	so , and and then we go from mount zermatt to mount davos .	from
+47	239	1486	839.618	843.304	A	so , and and then we go from mount zermatt to mount davos .	mount
+47	239	1487	839.618	843.304	A	so , and and then we go from mount zermatt to mount davos .	zermatt
+47	239	1488	839.618	843.304	A	so , and and then we go from mount zermatt to mount davos .	to
+47	239	1489	839.618	843.304	A	so , and and then we go from mount zermatt to mount davos .	mount
+47	239	1490	839.618	843.304	A	so , and and then we go from mount zermatt to mount davos .	davos
+47	239	1491	839.618	843.304	A	so , and and then we go from mount zermatt to mount davos .	.
+47	240	1492	845.194	849.812	A	no wait wait wait , i 'm gon na , okay , delete the track from mount zermatt to mount yeah .	no
+47	240	1493	845.194	849.812	A	no wait wait wait , i 'm gon na , okay , delete the track from mount zermatt to mount yeah .	wait
+47	240	1494	845.194	849.812	A	no wait wait wait , i 'm gon na , okay , delete the track from mount zermatt to mount yeah .	wait
+47	240	1495	845.194	849.812	A	no wait wait wait , i 'm gon na , okay , delete the track from mount zermatt to mount yeah .	wait
+47	240	1496	845.194	849.812	A	no wait wait wait , i 'm gon na , okay , delete the track from mount zermatt to mount yeah .	,
+47	240	1497	845.194	849.812	A	no wait wait wait , i 'm gon na , okay , delete the track from mount zermatt to mount yeah .	i
+47	240	1498	845.194	849.812	A	no wait wait wait , i 'm gon na , okay , delete the track from mount zermatt to mount yeah .	'm
+47	240	1499	845.194	849.812	A	no wait wait wait , i 'm gon na , okay , delete the track from mount zermatt to mount yeah .	gon
+47	240	1500	845.194	849.812	A	no wait wait wait , i 'm gon na , okay , delete the track from mount zermatt to mount yeah .	na
+47	240	1501	845.194	849.812	A	no wait wait wait , i 'm gon na , okay , delete the track from mount zermatt to mount yeah .	,
+47	240	1502	845.194	849.812	A	no wait wait wait , i 'm gon na , okay , delete the track from mount zermatt to mount yeah .	okay
+47	240	1503	845.194	849.812	A	no wait wait wait , i 'm gon na , okay , delete the track from mount zermatt to mount yeah .	,
+47	240	1504	845.194	849.812	A	no wait wait wait , i 'm gon na , okay , delete the track from mount zermatt to mount yeah .	delete
+47	240	1505	845.194	849.812	A	no wait wait wait , i 'm gon na , okay , delete the track from mount zermatt to mount yeah .	the
+47	240	1506	845.194	849.812	A	no wait wait wait , i 'm gon na , okay , delete the track from mount zermatt to mount yeah .	track
+47	240	1507	845.194	849.812	A	no wait wait wait , i 'm gon na , okay , delete the track from mount zermatt to mount yeah .	from
+47	240	1508	845.194	849.812	A	no wait wait wait , i 'm gon na , okay , delete the track from mount zermatt to mount yeah .	mount
+47	240	1509	845.194	849.812	A	no wait wait wait , i 'm gon na , okay , delete the track from mount zermatt to mount yeah .	zermatt
+47	240	1510	845.194	849.812	A	no wait wait wait , i 'm gon na , okay , delete the track from mount zermatt to mount yeah .	to
+47	240	1511	845.194	849.812	A	no wait wait wait , i 'm gon na , okay , delete the track from mount zermatt to mount yeah .	mount
+47	240	1512	845.194	849.812	A	no wait wait wait , i 'm gon na , okay , delete the track from mount zermatt to mount yeah .	yeah
+47	240	1513	845.194	849.812	A	no wait wait wait , i 'm gon na , okay , delete the track from mount zermatt to mount yeah .	.
+47	241	1514	850.049	851.547	A	okay are you good are you ready ?	okay
+47	241	1515	850.049	851.547	A	okay are you good are you ready ?	are
+47	241	1516	850.049	851.547	A	okay are you good are you ready ?	you
+47	241	1517	850.049	851.547	A	okay are you good are you ready ?	good
+47	241	1518	850.049	851.547	A	okay are you good are you ready ?	are
+47	241	1519	850.049	851.547	A	okay are you good are you ready ?	you
+47	241	1520	850.049	851.547	A	okay are you good are you ready ?	ready
+47	241	1521	850.049	851.547	A	okay are you good are you ready ?	?
+47	242	1522	851.814	852.260	A	three .	three
+47	242	1523	851.814	852.260	A	three .	.
+47	243	1524	852.332	853.633	B	two , one .	two
+47	243	1525	852.332	853.633	B	two , one .	,
+47	243	1526	852.332	853.633	B	two , one .	one
+47	243	1527	852.332	853.633	B	two , one .	.
+47	244	1528	852.635	853.597	A	two , one .	two
+47	244	1529	852.635	853.597	A	two , one .	,
+47	244	1530	852.635	853.597	A	two , one .	one
+47	244	1531	852.635	853.597	A	two , one .	.
+47	245	1532	860.637	863.418	A	you are away from the minimum so what do you mean by that ?	you
+47	245	1533	860.637	863.418	A	you are away from the minimum so what do you mean by that ?	are
+47	245	1534	860.637	863.418	A	you are away from the minimum so what do you mean by that ?	away
+47	245	1535	860.637	863.418	A	you are away from the minimum so what do you mean by that ?	from
+47	245	1536	860.637	863.418	A	you are away from the minimum so what do you mean by that ?	the
+47	245	1537	860.637	863.418	A	you are away from the minimum so what do you mean by that ?	minimum
+47	245	1538	860.637	863.418	A	you are away from the minimum so what do you mean by that ?	so
+47	245	1539	860.637	863.418	A	you are away from the minimum so what do you mean by that ?	what
+47	245	1540	860.637	863.418	A	you are away from the minimum so what do you mean by that ?	do
+47	245	1541	860.637	863.418	A	you are away from the minimum so what do you mean by that ?	you
+47	245	1542	860.637	863.418	A	you are away from the minimum so what do you mean by that ?	mean
+47	245	1543	860.637	863.418	A	you are away from the minimum so what do you mean by that ?	by
+47	245	1544	860.637	863.418	A	you are away from the minimum so what do you mean by that ?	that
+47	245	1545	860.637	863.418	A	you are away from the minimum so what do you mean by that ?	?
+47	246	1546	867.002	867.679	A	what ?	what
+47	246	1547	867.002	867.679	A	what ?	?
+47	247	1548	868.125	869.569	A	thi is so hard , okay .	thi
+47	247	1549	868.125	869.569	A	thi is so hard , okay .	is
+47	247	1550	868.125	869.569	A	thi is so hard , okay .	so
+47	247	1551	868.125	869.569	A	thi is so hard , okay .	hard
+47	247	1552	868.125	869.569	A	thi is so hard , okay .	,
+47	247	1553	868.125	869.569	A	thi is so hard , okay .	okay
+47	247	1554	868.125	869.569	A	thi is so hard , okay .	.
+47	248	1555	870.127	870.894	B	uh	uh
+47	249	1556	870.229	872.855	A	come on we can do this our closest	come
+47	249	1557	870.229	872.855	A	come on we can do this our closest	on
+47	249	1558	870.229	872.855	A	come on we can do this our closest	we
+47	249	1559	870.229	872.855	A	come on we can do this our closest	can
+47	249	1560	870.229	872.855	A	come on we can do this our closest	do
+47	249	1561	870.229	872.855	A	come on we can do this our closest	this
+47	249	1562	870.229	872.855	A	come on we can do this our closest	our
+47	249	1563	870.229	872.855	A	come on we can do this our closest	closest
+47	250	1564	871.839	873.551	B	okay i 'm gon na take the lead uh	okay
+47	250	1565	871.839	873.551	B	okay i 'm gon na take the lead uh	i
+47	250	1566	871.839	873.551	B	okay i 'm gon na take the lead uh	'm
+47	250	1567	871.839	873.551	B	okay i 'm gon na take the lead uh	gon
+47	250	1568	871.839	873.551	B	okay i 'm gon na take the lead uh	na
+47	250	1569	871.839	873.551	B	okay i 'm gon na take the lead uh	take
+47	250	1570	871.839	873.551	B	okay i 'm gon na take the lead uh	the
+47	250	1571	871.839	873.551	B	okay i 'm gon na take the lead uh	lead
+47	250	1572	871.839	873.551	B	okay i 'm gon na take the lead uh	uh
+47	251	1573	873.782	876.225	A	our record is um 3 francs let 's see .	our
+47	251	1574	873.782	876.225	A	our record is um 3 francs let 's see .	record
+47	251	1575	873.782	876.225	A	our record is um 3 francs let 's see .	is
+47	251	1576	873.782	876.225	A	our record is um 3 francs let 's see .	um
+47	251	1577	873.782	876.225	A	our record is um 3 francs let 's see .	3
+47	251	1578	873.782	876.225	A	our record is um 3 francs let 's see .	francs
+47	251	1579	873.782	876.225	A	our record is um 3 francs let 's see .	let
+47	251	1580	873.782	876.225	A	our record is um 3 francs let 's see .	's
+47	251	1581	873.782	876.225	A	our record is um 3 francs let 's see .	see
+47	251	1582	873.782	876.225	A	our record is um 3 francs let 's see .	.
+47	252	1583	879.176	880.477	B	uh that 's expensive .	uh
+47	252	1584	879.176	880.477	B	uh that 's expensive .	that
+47	252	1585	879.176	880.477	B	uh that 's expensive .	's
+47	252	1586	879.176	880.477	B	uh that 's expensive .	expensive
+47	252	1587	879.176	880.477	B	uh that 's expensive .	.
+47	253	1588	880.991	881.704	A	um	um
+47	254	1589	882.899	883.541	A	okay .	okay
+47	254	1590	882.899	883.541	A	okay .	.
+47	255	1591	884.399	889.659	A	whatever you do do n't connect mount basel to mount zurich because that costs a lot .	whatever
+47	255	1592	884.399	889.659	A	whatever you do do n't connect mount basel to mount zurich because that costs a lot .	you
+47	255	1593	884.399	889.659	A	whatever you do do n't connect mount basel to mount zurich because that costs a lot .	do
+47	255	1594	884.399	889.659	A	whatever you do do n't connect mount basel to mount zurich because that costs a lot .	do
+47	255	1595	884.399	889.659	A	whatever you do do n't connect mount basel to mount zurich because that costs a lot .	n't
+47	255	1596	884.399	889.659	A	whatever you do do n't connect mount basel to mount zurich because that costs a lot .	connect
+47	255	1597	884.399	889.659	A	whatever you do do n't connect mount basel to mount zurich because that costs a lot .	mount
+47	255	1598	884.399	889.659	A	whatever you do do n't connect mount basel to mount zurich because that costs a lot .	basel
+47	255	1599	884.399	889.659	A	whatever you do do n't connect mount basel to mount zurich because that costs a lot .	to
+47	255	1600	884.399	889.659	A	whatever you do do n't connect mount basel to mount zurich because that costs a lot .	mount
+47	255	1601	884.399	889.659	A	whatever you do do n't connect mount basel to mount zurich because that costs a lot .	zurich
+47	255	1602	884.399	889.659	A	whatever you do do n't connect mount basel to mount zurich because that costs a lot .	because
+47	255	1603	884.399	889.659	A	whatever you do do n't connect mount basel to mount zurich because that costs a lot .	that
+47	255	1604	884.399	889.659	A	whatever you do do n't connect mount basel to mount zurich because that costs a lot .	costs
+47	255	1605	884.399	889.659	A	whatever you do do n't connect mount basel to mount zurich because that costs a lot .	a
+47	255	1606	884.399	889.659	A	whatever you do do n't connect mount basel to mount zurich because that costs a lot .	lot
+47	255	1607	884.399	889.659	A	whatever you do do n't connect mount basel to mount zurich because that costs a lot .	.
+47	256	1608	890.818	892.244	A	we just need uh um	we
+47	256	1609	890.818	892.244	A	we just need uh um	just
+47	256	1610	890.818	892.244	A	we just need uh um	need
+47	256	1611	890.818	892.244	A	we just need uh um	uh
+47	256	1612	890.818	892.244	A	we just need uh um	um
+47	257	1613	891.763	894.325	B	how about you go from mount neuchatel to mount basel ?	how
+47	257	1614	891.763	894.325	B	how about you go from mount neuchatel to mount basel ?	about
+47	257	1615	891.763	894.325	B	how about you go from mount neuchatel to mount basel ?	you
+47	257	1616	891.763	894.325	B	how about you go from mount neuchatel to mount basel ?	go
+47	257	1617	891.763	894.325	B	how about you go from mount neuchatel to mount basel ?	from
+47	257	1618	891.763	894.325	B	how about you go from mount neuchatel to mount basel ?	mount
+47	257	1619	891.763	894.325	B	how about you go from mount neuchatel to mount basel ?	neuchatel
+47	257	1620	891.763	894.325	B	how about you go from mount neuchatel to mount basel ?	to
+47	257	1621	891.763	894.325	B	how about you go from mount neuchatel to mount basel ?	mount
+47	257	1622	891.763	894.325	B	how about you go from mount neuchatel to mount basel ?	basel
+47	257	1623	891.763	894.325	B	how about you go from mount neuchatel to mount basel ?	?
+47	258	1624	894.200	896.625	A	wait i 'm just gon na delete your tracks for now .	wait
+47	258	1625	894.200	896.625	A	wait i 'm just gon na delete your tracks for now .	i
+47	258	1626	894.200	896.625	A	wait i 'm just gon na delete your tracks for now .	'm
+47	258	1627	894.200	896.625	A	wait i 'm just gon na delete your tracks for now .	just
+47	258	1628	894.200	896.625	A	wait i 'm just gon na delete your tracks for now .	gon
+47	258	1629	894.200	896.625	A	wait i 'm just gon na delete your tracks for now .	na
+47	258	1630	894.200	896.625	A	wait i 'm just gon na delete your tracks for now .	delete
+47	258	1631	894.200	896.625	A	wait i 'm just gon na delete your tracks for now .	your
+47	258	1632	894.200	896.625	A	wait i 'm just gon na delete your tracks for now .	tracks
+47	258	1633	894.200	896.625	A	wait i 'm just gon na delete your tracks for now .	for
+47	258	1634	894.200	896.625	A	wait i 'm just gon na delete your tracks for now .	now
+47	258	1635	894.200	896.625	A	wait i 'm just gon na delete your tracks for now .	.
+47	259	1636	897.338	898.212	A	and and	and
+47	259	1637	897.338	898.212	A	and and	and
+47	260	1638	900.061	902.201	A	come on come on bob you can do this .	come
+47	260	1639	900.061	902.201	A	come on come on bob you can do this .	on
+47	260	1640	900.061	902.201	A	come on come on bob you can do this .	come
+47	260	1641	900.061	902.201	A	come on come on bob you can do this .	on
+47	260	1642	900.061	902.201	A	come on come on bob you can do this .	bob
+47	260	1643	900.061	902.201	A	come on come on bob you can do this .	you
+47	260	1644	900.061	902.201	A	come on come on bob you can do this .	can
+47	260	1645	900.061	902.201	A	come on come on bob you can do this .	do
+47	260	1646	900.061	902.201	A	come on come on bob you can do this .	this
+47	260	1647	900.061	902.201	A	come on come on bob you can do this .	.
+47	261	1648	901.416	906.070	B	okay uh i 'm gon na go from mount , mount zurich to mount bern .	okay
+47	261	1649	901.416	906.070	B	okay uh i 'm gon na go from mount , mount zurich to mount bern .	uh
+47	261	1650	901.416	906.070	B	okay uh i 'm gon na go from mount , mount zurich to mount bern .	i
+47	261	1651	901.416	906.070	B	okay uh i 'm gon na go from mount , mount zurich to mount bern .	'm
+47	261	1652	901.416	906.070	B	okay uh i 'm gon na go from mount , mount zurich to mount bern .	gon
+47	261	1653	901.416	906.070	B	okay uh i 'm gon na go from mount , mount zurich to mount bern .	na
+47	261	1654	901.416	906.070	B	okay uh i 'm gon na go from mount , mount zurich to mount bern .	go
+47	261	1655	901.416	906.070	B	okay uh i 'm gon na go from mount , mount zurich to mount bern .	from
+47	261	1656	901.416	906.070	B	okay uh i 'm gon na go from mount , mount zurich to mount bern .	mount
+47	261	1657	901.416	906.070	B	okay uh i 'm gon na go from mount , mount zurich to mount bern .	,
+47	261	1658	901.416	906.070	B	okay uh i 'm gon na go from mount , mount zurich to mount bern .	mount
+47	261	1659	901.416	906.070	B	okay uh i 'm gon na go from mount , mount zurich to mount bern .	zurich
+47	261	1660	901.416	906.070	B	okay uh i 'm gon na go from mount , mount zurich to mount bern .	to
+47	261	1661	901.416	906.070	B	okay uh i 'm gon na go from mount , mount zurich to mount bern .	mount
+47	261	1662	901.416	906.070	B	okay uh i 'm gon na go from mount , mount zurich to mount bern .	bern
+47	261	1663	901.416	906.070	B	okay uh i 'm gon na go from mount , mount zurich to mount bern .	.
+47	262	1664	906.734	907.322	A	okay .	okay
+47	262	1665	906.734	907.322	A	okay .	.
+47	263	1666	906.787	909.497	B	then ount bern to mount just	then
+47	263	1667	906.787	909.497	B	then ount bern to mount just	ount
+47	263	1668	906.787	909.497	B	then ount bern to mount just	bern
+47	263	1669	906.787	909.497	B	then ount bern to mount just	to
+47	263	1670	906.787	909.497	B	then ount bern to mount just	mount
+47	263	1671	906.787	909.497	B	then ount bern to mount just	just
+47	264	1672	908.356	909.194	A	yeah , okay .	yeah
+47	264	1673	908.356	909.194	A	yeah , okay .	,
+47	264	1674	908.356	909.194	A	yeah , okay .	okay
+47	264	1675	908.356	909.194	A	yeah , okay .	.
+47	265	1676	912.033	913.228	A	okay and now	okay
+47	265	1677	912.033	913.228	A	okay and now	and
+47	265	1678	912.033	913.228	A	okay and now	now
+47	266	1679	913.656	915.920	A	mount luzern to mount davos and then	mount
+47	266	1680	913.656	915.920	A	mount luzern to mount davos and then	luzern
+47	266	1681	913.656	915.920	A	mount luzern to mount davos and then	to
+47	266	1682	913.656	915.920	A	mount luzern to mount davos and then	mount
+47	266	1683	913.656	915.920	A	mount luzern to mount davos and then	davos
+47	266	1684	913.656	915.920	A	mount luzern to mount davos and then	and
+47	266	1685	913.656	915.920	A	mount luzern to mount davos and then	then
+47	267	1686	916.829	918.006	A	mount luzern to	mount
+47	267	1687	916.829	918.006	A	mount luzern to	luzern
+47	267	1688	916.829	918.006	A	mount luzern to	to
+47	268	1689	918.256	919.807	A	oh gosh i ca n't go to	oh
+47	268	1690	918.256	919.807	A	oh gosh i ca n't go to	gosh
+47	268	1691	918.256	919.807	A	oh gosh i ca n't go to	i
+47	268	1692	918.256	919.807	A	oh gosh i ca n't go to	ca
+47	268	1693	918.256	919.807	A	oh gosh i ca n't go to	n't
+47	268	1694	918.256	919.807	A	oh gosh i ca n't go to	go
+47	268	1695	918.256	919.807	A	oh gosh i ca n't go to	to
+47	269	1696	918.737	920.966	B	oh i 'll delete 3 francs .	oh
+47	269	1697	918.737	920.966	B	oh i 'll delete 3 francs .	i
+47	269	1698	918.737	920.966	B	oh i 'll delete 3 francs .	'll
+47	269	1699	918.737	920.966	B	oh i 'll delete 3 francs .	delete
+47	269	1700	918.737	920.966	B	oh i 'll delete 3 francs .	3
+47	269	1701	918.737	920.966	B	oh i 'll delete 3 francs .	francs
+47	269	1702	918.737	920.966	B	oh i 'll delete 3 francs .	.
+47	270	1703	920.110	920.770	A	then um	then
+47	270	1704	920.110	920.770	A	then um	um
+47	271	1705	922.552	923.800	A	then interlaken	then
+47	271	1706	922.552	923.800	A	then interlaken	interlaken
+47	272	1707	924.050	927.776	A	no i do n't want , i do n't want the eraser , how do i get rid of the eraser ?	no
+47	272	1708	924.050	927.776	A	no i do n't want , i do n't want the eraser , how do i get rid of the eraser ?	i
+47	272	1709	924.050	927.776	A	no i do n't want , i do n't want the eraser , how do i get rid of the eraser ?	do
+47	272	1710	924.050	927.776	A	no i do n't want , i do n't want the eraser , how do i get rid of the eraser ?	n't
+47	272	1711	924.050	927.776	A	no i do n't want , i do n't want the eraser , how do i get rid of the eraser ?	want
+47	272	1712	924.050	927.776	A	no i do n't want , i do n't want the eraser , how do i get rid of the eraser ?	,
+47	272	1713	924.050	927.776	A	no i do n't want , i do n't want the eraser , how do i get rid of the eraser ?	i
+47	272	1714	924.050	927.776	A	no i do n't want , i do n't want the eraser , how do i get rid of the eraser ?	do
+47	272	1715	924.050	927.776	A	no i do n't want , i do n't want the eraser , how do i get rid of the eraser ?	n't
+47	272	1716	924.050	927.776	A	no i do n't want , i do n't want the eraser , how do i get rid of the eraser ?	want
+47	272	1717	924.050	927.776	A	no i do n't want , i do n't want the eraser , how do i get rid of the eraser ?	the
+47	272	1718	924.050	927.776	A	no i do n't want , i do n't want the eraser , how do i get rid of the eraser ?	eraser
+47	272	1719	924.050	927.776	A	no i do n't want , i do n't want the eraser , how do i get rid of the eraser ?	,
+47	272	1720	924.050	927.776	A	no i do n't want , i do n't want the eraser , how do i get rid of the eraser ?	how
+47	272	1721	924.050	927.776	A	no i do n't want , i do n't want the eraser , how do i get rid of the eraser ?	do
+47	272	1722	924.050	927.776	A	no i do n't want , i do n't want the eraser , how do i get rid of the eraser ?	i
+47	272	1723	924.050	927.776	A	no i do n't want , i do n't want the eraser , how do i get rid of the eraser ?	get
+47	272	1724	924.050	927.776	A	no i do n't want , i do n't want the eraser , how do i get rid of the eraser ?	rid
+47	272	1725	924.050	927.776	A	no i do n't want , i do n't want the eraser , how do i get rid of the eraser ?	of
+47	272	1726	924.050	927.776	A	no i do n't want , i do n't want the eraser , how do i get rid of the eraser ?	the
+47	272	1727	924.050	927.776	A	no i do n't want , i do n't want the eraser , how do i get rid of the eraser ?	eraser
+47	272	1728	924.050	927.776	A	no i do n't want , i do n't want the eraser , how do i get rid of the eraser ?	?
+47	273	1729	928.864	929.666	A	miss	miss
+47	274	1730	929.916	931.538	A	i ca n't get rid of the eraser .	i
+47	274	1731	929.916	931.538	A	i ca n't get rid of the eraser .	ca
+47	274	1732	929.916	931.538	A	i ca n't get rid of the eraser .	n't
+47	274	1733	929.916	931.538	A	i ca n't get rid of the eraser .	get
+47	274	1734	929.916	931.538	A	i ca n't get rid of the eraser .	rid
+47	274	1735	929.916	931.538	A	i ca n't get rid of the eraser .	of
+47	274	1736	929.916	931.538	A	i ca n't get rid of the eraser .	the
+47	274	1737	929.916	931.538	A	i ca n't get rid of the eraser .	eraser
+47	274	1738	929.916	931.538	A	i ca n't get rid of the eraser .	.
+47	275	1739	936.031	937.440	A	uh oh i get it now .	uh
+47	275	1740	936.031	937.440	A	uh oh i get it now .	oh
+47	275	1741	936.031	937.440	A	uh oh i get it now .	i
+47	275	1742	936.031	937.440	A	uh oh i get it now .	get
+47	275	1743	936.031	937.440	A	uh oh i get it now .	it
+47	275	1744	936.031	937.440	A	uh oh i get it now .	now
+47	275	1745	936.031	937.440	A	uh oh i get it now .	.
+47	276	1746	937.958	939.990	A	okay then to mount zermatt .	okay
+47	276	1747	937.958	939.990	A	okay then to mount zermatt .	then
+47	276	1748	937.958	939.990	A	okay then to mount zermatt .	to
+47	276	1749	937.958	939.990	A	okay then to mount zermatt .	mount
+47	276	1750	937.958	939.990	A	okay then to mount zermatt .	zermatt
+47	276	1751	937.958	939.990	A	okay then to mount zermatt .	.
+47	277	1752	942.818	944.315	B	is this expensive ?	is
+47	277	1753	942.818	944.315	B	is this expensive ?	this
+47	277	1754	942.818	944.315	B	is this expensive ?	expensive
+47	277	1755	942.818	944.315	B	is this expensive ?	?
+47	278	1756	943.246	944.440	A	i know mount	i
+47	278	1757	943.246	944.440	A	i know mount	know
+47	278	1758	943.246	944.440	A	i know mount	mount
+47	279	1759	944.440	945.100	A	uh	uh
+47	280	1760	945.100	947.311	A	it 's 3 francs rub that out because	it
+47	280	1761	945.100	947.311	A	it 's 3 francs rub that out because	's
+47	280	1762	945.100	947.311	A	it 's 3 francs rub that out because	3
+47	280	1763	945.100	947.311	A	it 's 3 francs rub that out because	francs
+47	280	1764	945.100	947.311	A	it 's 3 francs rub that out because	rub
+47	280	1765	945.100	947.311	A	it 's 3 francs rub that out because	that
+47	280	1766	945.100	947.311	A	it 's 3 francs rub that out because	out
+47	280	1767	945.100	947.311	A	it 's 3 francs rub that out because	because
+47	281	1768	947.970	950.252	A	uh try mount luzern to um	uh
+47	281	1769	947.970	950.252	A	uh try mount luzern to um	try
+47	281	1770	947.970	950.252	A	uh try mount luzern to um	mount
+47	281	1771	947.970	950.252	A	uh try mount luzern to um	luzern
+47	281	1772	947.970	950.252	A	uh try mount luzern to um	to
+47	281	1773	947.970	950.252	A	uh try mount luzern to um	um
+47	282	1774	950.573	950.966	A	wait	wait
+47	283	1775	951.300	952.138	A	no actually	no
+47	283	1776	951.300	952.138	A	no actually	actually
+47	284	1777	952.405	956.452	A	we have to connect because that 's the only way or we connect from mount davos .	we
+47	284	1778	952.405	956.452	A	we have to connect because that 's the only way or we connect from mount davos .	have
+47	284	1779	952.405	956.452	A	we have to connect because that 's the only way or we connect from mount davos .	to
+47	284	1780	952.405	956.452	A	we have to connect because that 's the only way or we connect from mount davos .	connect
+47	284	1781	952.405	956.452	A	we have to connect because that 's the only way or we connect from mount davos .	because
+47	284	1782	952.405	956.452	A	we have to connect because that 's the only way or we connect from mount davos .	that
+47	284	1783	952.405	956.452	A	we have to connect because that 's the only way or we connect from mount davos .	's
+47	284	1784	952.405	956.452	A	we have to connect because that 's the only way or we connect from mount davos .	the
+47	284	1785	952.405	956.452	A	we have to connect because that 's the only way or we connect from mount davos .	only
+47	284	1786	952.405	956.452	A	we have to connect because that 's the only way or we connect from mount davos .	way
+47	284	1787	952.405	956.452	A	we have to connect because that 's the only way or we connect from mount davos .	or
+47	284	1788	952.405	956.452	A	we have to connect because that 's the only way or we connect from mount davos .	we
+47	284	1789	952.405	956.452	A	we have to connect because that 's the only way or we connect from mount davos .	connect
+47	284	1790	952.405	956.452	A	we have to connect because that 's the only way or we connect from mount davos .	from
+47	284	1791	952.405	956.452	A	we have to connect because that 's the only way or we connect from mount davos .	mount
+47	284	1792	952.405	956.452	A	we have to connect because that 's the only way or we connect from mount davos .	davos
+47	284	1793	952.405	956.452	A	we have to connect because that 's the only way or we connect from mount davos .	.
+47	285	1794	956.934	958.984	A	so , we have n't tried that one yet .	so
+47	285	1795	956.934	958.984	A	so , we have n't tried that one yet .	,
+47	285	1796	956.934	958.984	A	so , we have n't tried that one yet .	we
+47	285	1797	956.934	958.984	A	so , we have n't tried that one yet .	have
+47	285	1798	956.934	958.984	A	so , we have n't tried that one yet .	n't
+47	285	1799	956.934	958.984	A	so , we have n't tried that one yet .	tried
+47	285	1800	956.934	958.984	A	so , we have n't tried that one yet .	that
+47	285	1801	956.934	958.984	A	so , we have n't tried that one yet .	one
+47	285	1802	956.934	958.984	A	so , we have n't tried that one yet .	yet
+47	285	1803	956.934	958.984	A	so , we have n't tried that one yet .	.
+47	286	1804	957.896	959.091	B	it 's only 2 .	it
+47	286	1805	957.896	959.091	B	it 's only 2 .	's
+47	286	1806	957.896	959.091	B	it 's only 2 .	only
+47	286	1807	957.896	959.091	B	it 's only 2 .	2
+47	286	1808	957.896	959.091	B	it 's only 2 .	.
+47	287	1809	960.000	960.892	A	and um	and
+47	287	1810	960.000	960.892	A	and um	um
+47	288	1811	962.497	964.744	A	let 's go from mount bern to mount	let
+47	288	1812	962.497	964.744	A	let 's go from mount bern to mount	's
+47	288	1813	962.497	964.744	A	let 's go from mount bern to mount	go
+47	288	1814	962.497	964.744	A	let 's go from mount bern to mount	from
+47	288	1815	962.497	964.744	A	let 's go from mount bern to mount	mount
+47	288	1816	962.497	964.744	A	let 's go from mount bern to mount	bern
+47	288	1817	962.497	964.744	A	let 's go from mount bern to mount	to
+47	288	1818	962.497	964.744	A	let 's go from mount bern to mount	mount
+47	289	1819	965.136	965.742	A	basel .	basel
+47	289	1820	965.136	965.742	A	basel .	.
+47	290	1821	965.885	970.859	A	whatever you do do n't do zurich to basel it 's so expensive .	whatever
+47	290	1822	965.885	970.859	A	whatever you do do n't do zurich to basel it 's so expensive .	you
+47	290	1823	965.885	970.859	A	whatever you do do n't do zurich to basel it 's so expensive .	do
+47	290	1824	965.885	970.859	A	whatever you do do n't do zurich to basel it 's so expensive .	do
+47	290	1825	965.885	970.859	A	whatever you do do n't do zurich to basel it 's so expensive .	n't
+47	290	1826	965.885	970.859	A	whatever you do do n't do zurich to basel it 's so expensive .	do
+47	290	1827	965.885	970.859	A	whatever you do do n't do zurich to basel it 's so expensive .	zurich
+47	290	1828	965.885	970.859	A	whatever you do do n't do zurich to basel it 's so expensive .	to
+47	290	1829	965.885	970.859	A	whatever you do do n't do zurich to basel it 's so expensive .	basel
+47	290	1830	965.885	970.859	A	whatever you do do n't do zurich to basel it 's so expensive .	it
+47	290	1831	965.885	970.859	A	whatever you do do n't do zurich to basel it 's so expensive .	's
+47	290	1832	965.885	970.859	A	whatever you do do n't do zurich to basel it 's so expensive .	so
+47	290	1833	965.885	970.859	A	whatever you do do n't do zurich to basel it 's so expensive .	expensive
+47	290	1834	965.885	970.859	A	whatever you do do n't do zurich to basel it 's so expensive .	.
+47	291	1835	971.863	972.541	A	okay	okay
+47	292	1836	973.682	974.448	A	and now	and
+47	292	1837	973.682	974.448	A	and now	now
+47	293	1838	974.217	976.998	B	wait , no no no hang on erase that erase , erase .	wait
+47	293	1839	974.217	976.998	B	wait , no no no hang on erase that erase , erase .	,
+47	293	1840	974.217	976.998	B	wait , no no no hang on erase that erase , erase .	no
+47	293	1841	974.217	976.998	B	wait , no no no hang on erase that erase , erase .	no
+47	293	1842	974.217	976.998	B	wait , no no no hang on erase that erase , erase .	no
+47	293	1843	974.217	976.998	B	wait , no no no hang on erase that erase , erase .	hang
+47	293	1844	974.217	976.998	B	wait , no no no hang on erase that erase , erase .	on
+47	293	1845	974.217	976.998	B	wait , no no no hang on erase that erase , erase .	erase
+47	293	1846	974.217	976.998	B	wait , no no no hang on erase that erase , erase .	that
+47	293	1847	974.217	976.998	B	wait , no no no hang on erase that erase , erase .	erase
+47	293	1848	974.217	976.998	B	wait , no no no hang on erase that erase , erase .	,
+47	293	1849	974.217	976.998	B	wait , no no no hang on erase that erase , erase .	erase
+47	293	1850	974.217	976.998	B	wait , no no no hang on erase that erase , erase .	.
+47	294	1851	976.249	977.230	A	erase what ?	erase
+47	294	1852	976.249	977.230	A	erase what ?	what
+47	294	1853	976.249	977.230	A	erase what ?	?
+47	295	1854	977.462	979.351	B	uh mount neuchatel to mount interlaken .	uh
+47	295	1855	977.462	979.351	B	uh mount neuchatel to mount interlaken .	mount
+47	295	1856	977.462	979.351	B	uh mount neuchatel to mount interlaken .	neuchatel
+47	295	1857	977.462	979.351	B	uh mount neuchatel to mount interlaken .	to
+47	295	1858	977.462	979.351	B	uh mount neuchatel to mount interlaken .	mount
+47	295	1859	977.462	979.351	B	uh mount neuchatel to mount interlaken .	interlaken
+47	295	1860	977.462	979.351	B	uh mount neuchatel to mount interlaken .	.
+47	296	1861	979.543	980.042	A	okay .	okay
+47	296	1862	979.543	980.042	A	okay .	.
+47	297	1863	983.198	983.947	A	then um	then
+47	297	1864	983.198	983.947	A	then um	um
+47	298	1865	984.143	986.407	A	from let 's do from mount montreux	from
+47	298	1866	984.143	986.407	A	from let 's do from mount montreux	let
+47	298	1867	984.143	986.407	A	from let 's do from mount montreux	's
+47	298	1868	984.143	986.407	A	from let 's do from mount montreux	do
+47	298	1869	984.143	986.407	A	from let 's do from mount montreux	from
+47	298	1870	984.143	986.407	A	from let 's do from mount montreux	mount
+47	298	1871	984.143	986.407	A	from let 's do from mount montreux	montreux
+47	299	1872	987.085	988.279	A	and then after	and
+47	299	1873	987.085	988.279	A	and then after	then
+47	299	1874	987.085	988.279	A	and then after	after
+47	300	1875	988.636	990.918	A	you go from mount neuchatel to mount interlaken .	you
+47	300	1876	988.636	990.918	A	you go from mount neuchatel to mount interlaken .	go
+47	300	1877	988.636	990.918	A	you go from mount neuchatel to mount interlaken .	from
+47	300	1878	988.636	990.918	A	you go from mount neuchatel to mount interlaken .	mount
+47	300	1879	988.636	990.918	A	you go from mount neuchatel to mount interlaken .	neuchatel
+47	300	1880	988.636	990.918	A	you go from mount neuchatel to mount interlaken .	to
+47	300	1881	988.636	990.918	A	you go from mount neuchatel to mount interlaken .	mount
+47	300	1882	988.636	990.918	A	you go from mount neuchatel to mount interlaken .	interlaken
+47	300	1883	988.636	990.918	A	you go from mount neuchatel to mount interlaken .	.
+47	301	1884	994.195	994.552	A	okay .	okay
+47	301	1885	994.195	994.552	A	okay .	.
+47	302	1886	995.176	996.584	B	okay then mount zermatt .	okay
+47	302	1887	995.176	996.584	B	okay then mount zermatt .	then
+47	302	1888	995.176	996.584	B	okay then mount zermatt .	mount
+47	302	1889	995.176	996.584	B	okay then mount zermatt .	zermatt
+47	302	1890	995.176	996.584	B	okay then mount zermatt .	.
+47	303	1891	996.620	997.975	A	we we can go now .	we
+47	303	1892	996.620	997.975	A	we we can go now .	we
+47	303	1893	996.620	997.975	A	we we can go now .	can
+47	303	1894	996.620	997.975	A	we we can go now .	go
+47	303	1895	996.620	997.975	A	we we can go now .	now
+47	303	1896	996.620	997.975	A	we we can go now .	.
+47	304	1897	998.243	999.152	B	three , two	three
+47	304	1898	998.243	999.152	B	three , two	,
+47	304	1899	998.243	999.152	B	three , two	two
+47	305	1900	998.528	999.847	A	three , two one go .	three
+47	305	1901	998.528	999.847	A	three , two one go .	,
+47	305	1902	998.528	999.847	A	three , two one go .	two
+47	305	1903	998.528	999.847	A	three , two one go .	one
+47	305	1904	998.528	999.847	A	three , two one go .	go
+47	305	1905	998.528	999.847	A	three , two one go .	.
+47	306	1906	1005.726	1007.295	A	7 oh this time	7
+47	306	1907	1005.726	1007.295	A	7 oh this time	oh
+47	306	1908	1005.726	1007.295	A	7 oh this time	this
+47	306	1909	1005.726	1007.295	A	7 oh this time	time
+47	307	1910	1008.543	1009.916	A	this is actually quite hard .	this
+47	307	1911	1008.543	1009.916	A	this is actually quite hard .	is
+47	307	1912	1008.543	1009.916	A	this is actually quite hard .	actually
+47	307	1913	1008.543	1009.916	A	this is actually quite hard .	quite
+47	307	1914	1008.543	1009.916	A	this is actually quite hard .	hard
+47	307	1915	1008.543	1009.916	A	this is actually quite hard .	.
+47	308	1916	1011.213	1012.800	A	okay i start first so	okay
+47	308	1917	1011.213	1012.800	A	okay i start first so	i
+47	308	1918	1011.213	1012.800	A	okay i start first so	start
+47	308	1919	1011.213	1012.800	A	okay i start first so	first
+47	308	1920	1011.213	1012.800	A	okay i start first so	so
+47	309	1921	1013.156	1015.100	A	let 's try something different let 's go from mount	let
+47	309	1922	1013.156	1015.100	A	let 's try something different let 's go from mount	's
+47	309	1923	1013.156	1015.100	A	let 's try something different let 's go from mount	try
+47	309	1924	1013.156	1015.100	A	let 's try something different let 's go from mount	something
+47	309	1925	1013.156	1015.100	A	let 's try something different let 's go from mount	different
+47	309	1926	1013.156	1015.100	A	let 's try something different let 's go from mount	let
+47	309	1927	1013.156	1015.100	A	let 's try something different let 's go from mount	's
+47	309	1928	1013.156	1015.100	A	let 's try something different let 's go from mount	go
+47	309	1929	1013.156	1015.100	A	let 's try something different let 's go from mount	from
+47	309	1930	1013.156	1015.100	A	let 's try something different let 's go from mount	mount
+47	310	1931	1015.563	1017.114	A	let 's do a circle this time .	let
+47	310	1932	1015.563	1017.114	A	let 's do a circle this time .	's
+47	310	1933	1015.563	1017.114	A	let 's do a circle this time .	do
+47	310	1934	1015.563	1017.114	A	let 's do a circle this time .	a
+47	310	1935	1015.563	1017.114	A	let 's do a circle this time .	circle
+47	310	1936	1015.563	1017.114	A	let 's do a circle this time .	this
+47	310	1937	1015.563	1017.114	A	let 's do a circle this time .	time
+47	310	1938	1015.563	1017.114	A	let 's do a circle this time .	.
+47	311	1939	1018.820	1023.144	A	and do n't connect mount zurich to mount basel , that 's the only thing you ca n't do .	and
+47	311	1940	1018.820	1023.144	A	and do n't connect mount zurich to mount basel , that 's the only thing you ca n't do .	do
+47	311	1941	1018.820	1023.144	A	and do n't connect mount zurich to mount basel , that 's the only thing you ca n't do .	n't
+47	311	1942	1018.820	1023.144	A	and do n't connect mount zurich to mount basel , that 's the only thing you ca n't do .	connect
+47	311	1943	1018.820	1023.144	A	and do n't connect mount zurich to mount basel , that 's the only thing you ca n't do .	mount
+47	311	1944	1018.820	1023.144	A	and do n't connect mount zurich to mount basel , that 's the only thing you ca n't do .	zurich
+47	311	1945	1018.820	1023.144	A	and do n't connect mount zurich to mount basel , that 's the only thing you ca n't do .	to
+47	311	1946	1018.820	1023.144	A	and do n't connect mount zurich to mount basel , that 's the only thing you ca n't do .	mount
+47	311	1947	1018.820	1023.144	A	and do n't connect mount zurich to mount basel , that 's the only thing you ca n't do .	basel
+47	311	1948	1018.820	1023.144	A	and do n't connect mount zurich to mount basel , that 's the only thing you ca n't do .	,
+47	311	1949	1018.820	1023.144	A	and do n't connect mount zurich to mount basel , that 's the only thing you ca n't do .	that
+47	311	1950	1018.820	1023.144	A	and do n't connect mount zurich to mount basel , that 's the only thing you ca n't do .	's
+47	311	1951	1018.820	1023.144	A	and do n't connect mount zurich to mount basel , that 's the only thing you ca n't do .	the
+47	311	1952	1018.820	1023.144	A	and do n't connect mount zurich to mount basel , that 's the only thing you ca n't do .	only
+47	311	1953	1018.820	1023.144	A	and do n't connect mount zurich to mount basel , that 's the only thing you ca n't do .	thing
+47	311	1954	1018.820	1023.144	A	and do n't connect mount zurich to mount basel , that 's the only thing you ca n't do .	you
+47	311	1955	1018.820	1023.144	A	and do n't connect mount zurich to mount basel , that 's the only thing you ca n't do .	ca
+47	311	1956	1018.820	1023.144	A	and do n't connect mount zurich to mount basel , that 's the only thing you ca n't do .	n't
+47	311	1957	1018.820	1023.144	A	and do n't connect mount zurich to mount basel , that 's the only thing you ca n't do .	do
+47	311	1958	1018.820	1023.144	A	and do n't connect mount zurich to mount basel , that 's the only thing you ca n't do .	.
+47	312	1959	1023.479	1025.012	A	because that 's so expensive .	because
+47	312	1960	1023.479	1025.012	A	because that 's so expensive .	that
+47	312	1961	1023.479	1025.012	A	because that 's so expensive .	's
+47	312	1962	1023.479	1025.012	A	because that 's so expensive .	so
+47	312	1963	1023.479	1025.012	A	because that 's so expensive .	expensive
+47	312	1964	1023.479	1025.012	A	because that 's so expensive .	.
+47	313	1965	1025.993	1026.599	A	okay .	okay
+47	313	1966	1025.993	1026.599	A	okay .	.
+47	314	1967	1027.205	1029.487	A	mount zermatt to mount interlaken .	mount
+47	314	1968	1027.205	1029.487	A	mount zermatt to mount interlaken .	zermatt
+47	314	1969	1027.205	1029.487	A	mount zermatt to mount interlaken .	to
+47	314	1970	1027.205	1029.487	A	mount zermatt to mount interlaken .	mount
+47	314	1971	1027.205	1029.487	A	mount zermatt to mount interlaken .	interlaken
+47	314	1972	1027.205	1029.487	A	mount zermatt to mount interlaken .	.
+47	315	1973	1029.969	1033.331	A	mount interlaken to mount bern because mount bern needs to be connected .	mount
+47	315	1974	1029.969	1033.331	A	mount interlaken to mount bern because mount bern needs to be connected .	interlaken
+47	315	1975	1029.969	1033.331	A	mount interlaken to mount bern because mount bern needs to be connected .	to
+47	315	1976	1029.969	1033.331	A	mount interlaken to mount bern because mount bern needs to be connected .	mount
+47	315	1977	1029.969	1033.331	A	mount interlaken to mount bern because mount bern needs to be connected .	bern
+47	315	1978	1029.969	1033.331	A	mount interlaken to mount bern because mount bern needs to be connected .	because
+47	315	1979	1029.969	1033.331	A	mount interlaken to mount bern because mount bern needs to be connected .	mount
+47	315	1980	1029.969	1033.331	A	mount interlaken to mount bern because mount bern needs to be connected .	bern
+47	315	1981	1029.969	1033.331	A	mount interlaken to mount bern because mount bern needs to be connected .	needs
+47	315	1982	1029.969	1033.331	A	mount interlaken to mount bern because mount bern needs to be connected .	to
+47	315	1983	1029.969	1033.331	A	mount interlaken to mount bern because mount bern needs to be connected .	be
+47	315	1984	1029.969	1033.331	A	mount interlaken to mount bern because mount bern needs to be connected .	connected
+47	315	1985	1029.969	1033.331	A	mount interlaken to mount bern because mount bern needs to be connected .	.
+47	316	1986	1033.367	1037.342	B	bern to mount basel and mount basel to neuchatel .	bern
+47	316	1987	1033.367	1037.342	B	bern to mount basel and mount basel to neuchatel .	to
+47	316	1988	1033.367	1037.342	B	bern to mount basel and mount basel to neuchatel .	mount
+47	316	1989	1033.367	1037.342	B	bern to mount basel and mount basel to neuchatel .	basel
+47	316	1990	1033.367	1037.342	B	bern to mount basel and mount basel to neuchatel .	and
+47	316	1991	1033.367	1037.342	B	bern to mount basel and mount basel to neuchatel .	mount
+47	316	1992	1033.367	1037.342	B	bern to mount basel and mount basel to neuchatel .	basel
+47	316	1993	1033.367	1037.342	B	bern to mount basel and mount basel to neuchatel .	to
+47	316	1994	1033.367	1037.342	B	bern to mount basel and mount basel to neuchatel .	neuchatel
+47	316	1995	1033.367	1037.342	B	bern to mount basel and mount basel to neuchatel .	.
+47	317	1996	1038.029	1038.546	A	okay .	okay
+47	317	1997	1038.029	1038.546	A	okay .	.
+47	318	1998	1038.029	1039.901	B	then mount neuchatel to mount	then
+47	318	1999	1038.029	1039.901	B	then mount neuchatel to mount	mount
+47	318	2000	1038.029	1039.901	B	then mount neuchatel to mount	neuchatel
+47	318	2001	1038.029	1039.901	B	then mount neuchatel to mount	to
+47	318	2002	1038.029	1039.901	B	then mount neuchatel to mount	mount
+47	319	2003	1039.455	1041.523	A	okay we can go now three , two , one .	okay
+47	319	2004	1039.455	1041.523	A	okay we can go now three , two , one .	we
+47	319	2005	1039.455	1041.523	A	okay we can go now three , two , one .	can
+47	319	2006	1039.455	1041.523	A	okay we can go now three , two , one .	go
+47	319	2007	1039.455	1041.523	A	okay we can go now three , two , one .	now
+47	319	2008	1039.455	1041.523	A	okay we can go now three , two , one .	three
+47	319	2009	1039.455	1041.523	A	okay we can go now three , two , one .	,
+47	319	2010	1039.455	1041.523	A	okay we can go now three , two , one .	two
+47	319	2011	1039.455	1041.523	A	okay we can go now three , two , one .	,
+47	319	2012	1039.455	1041.523	A	okay we can go now three , two , one .	one
+47	319	2013	1039.455	1041.523	A	okay we can go now three , two , one .	.
+47	320	2014	1039.901	1041.464	B	three , two , one .	three
+47	320	2015	1039.901	1041.464	B	three , two , one .	,
+47	320	2016	1039.901	1041.464	B	three , two , one .	two
+47	320	2017	1039.901	1041.464	B	three , two , one .	,
+47	320	2018	1039.901	1041.464	B	three , two , one .	one
+47	320	2019	1039.901	1041.464	B	three , two , one .	.
+47	321	2020	1048.456	1050.096	B	uh okay so we 're close .	uh
+47	321	2021	1048.456	1050.096	B	uh okay so we 're close .	okay
+47	321	2022	1048.456	1050.096	B	uh okay so we 're close .	so
+47	321	2023	1048.456	1050.096	B	uh okay so we 're close .	we
+47	321	2024	1048.456	1050.096	B	uh okay so we 're close .	're
+47	321	2025	1048.456	1050.096	B	uh okay so we 're close .	close
+47	321	2026	1048.456	1050.096	B	uh okay so we 're close .	.
+47	322	2027	1048.722	1049.684	A	why are we always	why
+47	322	2028	1048.722	1049.684	A	why are we always	are
+47	322	2029	1048.722	1049.684	A	why are we always	we
+47	322	2030	1048.722	1049.684	A	why are we always	always
+47	323	2031	1051.342	1052.840	A	why are we so	why
+47	323	2032	1051.342	1052.840	A	why are we so	are
+47	323	2033	1051.342	1052.840	A	why are we so	we
+47	323	2034	1051.342	1052.840	A	why are we so	so
+47	324	2035	1059.673	1064.166	B	but we did that , we i 've did that but it did n't work .	but
+47	324	2036	1059.673	1064.166	B	but we did that , we i 've did that but it did n't work .	we
+47	324	2037	1059.673	1064.166	B	but we did that , we i 've did that but it did n't work .	did
+47	324	2038	1059.673	1064.166	B	but we did that , we i 've did that but it did n't work .	that
+47	324	2039	1059.673	1064.166	B	but we did that , we i 've did that but it did n't work .	,
+47	324	2040	1059.673	1064.166	B	but we did that , we i 've did that but it did n't work .	we
+47	324	2041	1059.673	1064.166	B	but we did that , we i 've did that but it did n't work .	i
+47	324	2042	1059.673	1064.166	B	but we did that , we i 've did that but it did n't work .	've
+47	324	2043	1059.673	1064.166	B	but we did that , we i 've did that but it did n't work .	did
+47	324	2044	1059.673	1064.166	B	but we did that , we i 've did that but it did n't work .	that
+47	324	2045	1059.673	1064.166	B	but we did that , we i 've did that but it did n't work .	but
+47	324	2046	1059.673	1064.166	B	but we did that , we i 've did that but it did n't work .	it
+47	324	2047	1059.673	1064.166	B	but we did that , we i 've did that but it did n't work .	did
+47	324	2048	1059.673	1064.166	B	but we did that , we i 've did that but it did n't work .	n't
+47	324	2049	1059.673	1064.166	B	but we did that , we i 've did that but it did n't work .	work
+47	324	2050	1059.673	1064.166	B	but we did that , we i 've did that but it did n't work .	.
+47	325	2051	1061.955	1064.024	A	we did that uh this is really hard .	we
+47	325	2052	1061.955	1064.024	A	we did that uh this is really hard .	did
+47	325	2053	1061.955	1064.024	A	we did that uh this is really hard .	that
+47	325	2054	1061.955	1064.024	A	we did that uh this is really hard .	uh
+47	325	2055	1061.955	1064.024	A	we did that uh this is really hard .	this
+47	325	2056	1061.955	1064.024	A	we did that uh this is really hard .	is
+47	325	2057	1061.955	1064.024	A	we did that uh this is really hard .	really
+47	325	2058	1061.955	1064.024	A	we did that uh this is really hard .	hard
+47	325	2059	1061.955	1064.024	A	we did that uh this is really hard .	.
+47	326	2060	1064.466	1069.529	A	okay perhaps we just because we 're always starting from the mountain on the left side .	okay
+47	326	2061	1064.466	1069.529	A	okay perhaps we just because we 're always starting from the mountain on the left side .	perhaps
+47	326	2062	1064.466	1069.529	A	okay perhaps we just because we 're always starting from the mountain on the left side .	we
+47	326	2063	1064.466	1069.529	A	okay perhaps we just because we 're always starting from the mountain on the left side .	just
+47	326	2064	1064.466	1069.529	A	okay perhaps we just because we 're always starting from the mountain on the left side .	because
+47	326	2065	1064.466	1069.529	A	okay perhaps we just because we 're always starting from the mountain on the left side .	we
+47	326	2066	1064.466	1069.529	A	okay perhaps we just because we 're always starting from the mountain on the left side .	're
+47	326	2067	1064.466	1069.529	A	okay perhaps we just because we 're always starting from the mountain on the left side .	always
+47	326	2068	1064.466	1069.529	A	okay perhaps we just because we 're always starting from the mountain on the left side .	starting
+47	326	2069	1064.466	1069.529	A	okay perhaps we just because we 're always starting from the mountain on the left side .	from
+47	326	2070	1064.466	1069.529	A	okay perhaps we just because we 're always starting from the mountain on the left side .	the
+47	326	2071	1064.466	1069.529	A	okay perhaps we just because we 're always starting from the mountain on the left side .	mountain
+47	326	2072	1064.466	1069.529	A	okay perhaps we just because we 're always starting from the mountain on the left side .	on
+47	326	2073	1064.466	1069.529	A	okay perhaps we just because we 're always starting from the mountain on the left side .	the
+47	326	2074	1064.466	1069.529	A	okay perhaps we just because we 're always starting from the mountain on the left side .	left
+47	326	2075	1064.466	1069.529	A	okay perhaps we just because we 're always starting from the mountain on the left side .	side
+47	326	2076	1064.466	1069.529	A	okay perhaps we just because we 're always starting from the mountain on the left side .	.
+47	327	2077	1071.414	1074.214	A	no just i 'm just trying every single way i can .	no
+47	327	2078	1071.414	1074.214	A	no just i 'm just trying every single way i can .	just
+47	327	2079	1071.414	1074.214	A	no just i 'm just trying every single way i can .	i
+47	327	2080	1071.414	1074.214	A	no just i 'm just trying every single way i can .	'm
+47	327	2081	1071.414	1074.214	A	no just i 'm just trying every single way i can .	just
+47	327	2082	1071.414	1074.214	A	no just i 'm just trying every single way i can .	trying
+47	327	2083	1071.414	1074.214	A	no just i 'm just trying every single way i can .	every
+47	327	2084	1071.414	1074.214	A	no just i 'm just trying every single way i can .	single
+47	327	2085	1071.414	1074.214	A	no just i 'm just trying every single way i can .	way
+47	327	2086	1071.414	1074.214	A	no just i 'm just trying every single way i can .	i
+47	327	2087	1071.414	1074.214	A	no just i 'm just trying every single way i can .	can
+47	327	2088	1071.414	1074.214	A	no just i 'm just trying every single way i can .	.
+47	328	2089	1073.464	1075.992	B	let 's start from mount saint gallen .	let
+47	328	2090	1073.464	1075.992	B	let 's start from mount saint gallen .	's
+47	328	2091	1073.464	1075.992	B	let 's start from mount saint gallen .	start
+47	328	2092	1073.464	1075.992	B	let 's start from mount saint gallen .	from
+47	328	2093	1073.464	1075.992	B	let 's start from mount saint gallen .	mount
+47	328	2094	1073.464	1075.992	B	let 's start from mount saint gallen .	saint
+47	328	2095	1073.464	1075.992	B	let 's start from mount saint gallen .	gallen
+47	328	2096	1073.464	1075.992	B	let 's start from mount saint gallen .	.
+47	329	2097	1076.475	1078.062	A	mount s t gallen ?	mount
+47	329	2098	1076.475	1078.062	A	mount s t gallen ?	s
+47	329	2099	1076.475	1078.062	A	mount s t gallen ?	t
+47	329	2100	1076.475	1078.062	A	mount s t gallen ?	gallen
+47	329	2101	1076.475	1078.062	A	mount s t gallen ?	?
+47	330	2102	1077.768	1080.176	B	yeah to mount zurich ?	yeah
+47	330	2103	1077.768	1080.176	B	yeah to mount zurich ?	to
+47	330	2104	1077.768	1080.176	B	yeah to mount zurich ?	mount
+47	330	2105	1077.768	1080.176	B	yeah to mount zurich ?	zurich
+47	330	2106	1077.768	1080.176	B	yeah to mount zurich ?	?
+47	331	2107	1079.064	1082.448	A	but whatever you do do n't do mount zurich to mount basel .	but
+47	331	2108	1079.064	1082.448	A	but whatever you do do n't do mount zurich to mount basel .	whatever
+47	331	2109	1079.064	1082.448	A	but whatever you do do n't do mount zurich to mount basel .	you
+47	331	2110	1079.064	1082.448	A	but whatever you do do n't do mount zurich to mount basel .	do
+47	331	2111	1079.064	1082.448	A	but whatever you do do n't do mount zurich to mount basel .	do
+47	331	2112	1079.064	1082.448	A	but whatever you do do n't do mount zurich to mount basel .	n't
+47	331	2113	1079.064	1082.448	A	but whatever you do do n't do mount zurich to mount basel .	do
+47	331	2114	1079.064	1082.448	A	but whatever you do do n't do mount zurich to mount basel .	mount
+47	331	2115	1079.064	1082.448	A	but whatever you do do n't do mount zurich to mount basel .	zurich
+47	331	2116	1079.064	1082.448	A	but whatever you do do n't do mount zurich to mount basel .	to
+47	331	2117	1079.064	1082.448	A	but whatever you do do n't do mount zurich to mount basel .	mount
+47	331	2118	1079.064	1082.448	A	but whatever you do do n't do mount zurich to mount basel .	basel
+47	331	2119	1079.064	1082.448	A	but whatever you do do n't do mount zurich to mount basel .	.
+47	332	2120	1082.681	1084.874	B	then mount zurich to mount	then
+47	332	2121	1082.681	1084.874	B	then mount zurich to mount	mount
+47	332	2122	1082.681	1084.874	B	then mount zurich to mount	zurich
+47	332	2123	1082.681	1084.874	B	then mount zurich to mount	to
+47	332	2124	1082.681	1084.874	B	then mount zurich to mount	mount
+47	333	2125	1085.926	1088.065	A	oh gosh it 's actually quite um .	oh
+47	333	2126	1085.926	1088.065	A	oh gosh it 's actually quite um .	gosh
+47	333	2127	1085.926	1088.065	A	oh gosh it 's actually quite um .	it
+47	333	2128	1085.926	1088.065	A	oh gosh it 's actually quite um .	's
+47	333	2129	1085.926	1088.065	A	oh gosh it 's actually quite um .	actually
+47	333	2130	1085.926	1088.065	A	oh gosh it 's actually quite um .	quite
+47	333	2131	1085.926	1088.065	A	oh gosh it 's actually quite um .	um
+47	333	2132	1085.926	1088.065	A	oh gosh it 's actually quite um .	.
+47	334	2133	1089.896	1094.259	A	wait can we just rub out our tracks all of our tracks just rub out all of them for now .	wait
+47	334	2134	1089.896	1094.259	A	wait can we just rub out our tracks all of our tracks just rub out all of them for now .	can
+47	334	2135	1089.896	1094.259	A	wait can we just rub out our tracks all of our tracks just rub out all of them for now .	we
+47	334	2136	1089.896	1094.259	A	wait can we just rub out our tracks all of our tracks just rub out all of them for now .	just
+47	334	2137	1089.896	1094.259	A	wait can we just rub out our tracks all of our tracks just rub out all of them for now .	rub
+47	334	2138	1089.896	1094.259	A	wait can we just rub out our tracks all of our tracks just rub out all of them for now .	out
+47	334	2139	1089.896	1094.259	A	wait can we just rub out our tracks all of our tracks just rub out all of them for now .	our
+47	334	2140	1089.896	1094.259	A	wait can we just rub out our tracks all of our tracks just rub out all of them for now .	tracks
+47	334	2141	1089.896	1094.259	A	wait can we just rub out our tracks all of our tracks just rub out all of them for now .	all
+47	334	2142	1089.896	1094.259	A	wait can we just rub out our tracks all of our tracks just rub out all of them for now .	of
+47	334	2143	1089.896	1094.259	A	wait can we just rub out our tracks all of our tracks just rub out all of them for now .	our
+47	334	2144	1089.896	1094.259	A	wait can we just rub out our tracks all of our tracks just rub out all of them for now .	tracks
+47	334	2145	1089.896	1094.259	A	wait can we just rub out our tracks all of our tracks just rub out all of them for now .	just
+47	334	2146	1089.896	1094.259	A	wait can we just rub out our tracks all of our tracks just rub out all of them for now .	rub
+47	334	2147	1089.896	1094.259	A	wait can we just rub out our tracks all of our tracks just rub out all of them for now .	out
+47	334	2148	1089.896	1094.259	A	wait can we just rub out our tracks all of our tracks just rub out all of them for now .	all
+47	334	2149	1089.896	1094.259	A	wait can we just rub out our tracks all of our tracks just rub out all of them for now .	of
+47	334	2150	1089.896	1094.259	A	wait can we just rub out our tracks all of our tracks just rub out all of them for now .	them
+47	334	2151	1089.896	1094.259	A	wait can we just rub out our tracks all of our tracks just rub out all of them for now .	for
+47	334	2152	1089.896	1094.259	A	wait can we just rub out our tracks all of our tracks just rub out all of them for now .	now
+47	334	2153	1089.896	1094.259	A	wait can we just rub out our tracks all of our tracks just rub out all of them for now .	.
+47	335	2154	1094.687	1095.971	A	i 'll try a new one .	i
+47	335	2155	1094.687	1095.971	A	i 'll try a new one .	'll
+47	335	2156	1094.687	1095.971	A	i 'll try a new one .	try
+47	335	2157	1094.687	1095.971	A	i 'll try a new one .	a
+47	335	2158	1094.687	1095.971	A	i 'll try a new one .	new
+47	335	2159	1094.687	1095.971	A	i 'll try a new one .	one
+47	335	2160	1094.687	1095.971	A	i 'll try a new one .	.
+47	336	2161	1099.389	1102.563	A	try new , so , if we ca n't go from mount zurich to	try
+47	336	2162	1099.389	1102.563	A	try new , so , if we ca n't go from mount zurich to	new
+47	336	2163	1099.389	1102.563	A	try new , so , if we ca n't go from mount zurich to	,
+47	336	2164	1099.389	1102.563	A	try new , so , if we ca n't go from mount zurich to	so
+47	336	2165	1099.389	1102.563	A	try new , so , if we ca n't go from mount zurich to	,
+47	336	2166	1099.389	1102.563	A	try new , so , if we ca n't go from mount zurich to	if
+47	336	2167	1099.389	1102.563	A	try new , so , if we ca n't go from mount zurich to	we
+47	336	2168	1099.389	1102.563	A	try new , so , if we ca n't go from mount zurich to	ca
+47	336	2169	1099.389	1102.563	A	try new , so , if we ca n't go from mount zurich to	n't
+47	336	2170	1099.389	1102.563	A	try new , so , if we ca n't go from mount zurich to	go
+47	336	2171	1099.389	1102.563	A	try new , so , if we ca n't go from mount zurich to	from
+47	336	2172	1099.389	1102.563	A	try new , so , if we ca n't go from mount zurich to	mount
+47	336	2173	1099.389	1102.563	A	try new , so , if we ca n't go from mount zurich to	zurich
+47	336	2174	1099.389	1102.563	A	try new , so , if we ca n't go from mount zurich to	to
+47	337	2175	1103.222	1108.322	A	wait i 'll just erase that track , go from start from mount montreux to mount interlaken .	wait
+47	337	2176	1103.222	1108.322	A	wait i 'll just erase that track , go from start from mount montreux to mount interlaken .	i
+47	337	2177	1103.222	1108.322	A	wait i 'll just erase that track , go from start from mount montreux to mount interlaken .	'll
+47	337	2178	1103.222	1108.322	A	wait i 'll just erase that track , go from start from mount montreux to mount interlaken .	just
+47	337	2179	1103.222	1108.322	A	wait i 'll just erase that track , go from start from mount montreux to mount interlaken .	erase
+47	337	2180	1103.222	1108.322	A	wait i 'll just erase that track , go from start from mount montreux to mount interlaken .	that
+47	337	2181	1103.222	1108.322	A	wait i 'll just erase that track , go from start from mount montreux to mount interlaken .	track
+47	337	2182	1103.222	1108.322	A	wait i 'll just erase that track , go from start from mount montreux to mount interlaken .	,
+47	337	2183	1103.222	1108.322	A	wait i 'll just erase that track , go from start from mount montreux to mount interlaken .	go
+47	337	2184	1103.222	1108.322	A	wait i 'll just erase that track , go from start from mount montreux to mount interlaken .	from
+47	337	2185	1103.222	1108.322	A	wait i 'll just erase that track , go from start from mount montreux to mount interlaken .	start
+47	337	2186	1103.222	1108.322	A	wait i 'll just erase that track , go from start from mount montreux to mount interlaken .	from
+47	337	2187	1103.222	1108.322	A	wait i 'll just erase that track , go from start from mount montreux to mount interlaken .	mount
+47	337	2188	1103.222	1108.322	A	wait i 'll just erase that track , go from start from mount montreux to mount interlaken .	montreux
+47	337	2189	1103.222	1108.322	A	wait i 'll just erase that track , go from start from mount montreux to mount interlaken .	to
+47	337	2190	1103.222	1108.322	A	wait i 'll just erase that track , go from start from mount montreux to mount interlaken .	mount
+47	337	2191	1103.222	1108.322	A	wait i 'll just erase that track , go from start from mount montreux to mount interlaken .	interlaken
+47	337	2192	1103.222	1108.322	A	wait i 'll just erase that track , go from start from mount montreux to mount interlaken .	.
+47	338	2193	1108.564	1111.113	B	mount montreux to mount interlaken .	mount
+47	338	2194	1108.564	1111.113	B	mount montreux to mount interlaken .	montreux
+47	338	2195	1108.564	1111.113	B	mount montreux to mount interlaken .	to
+47	338	2196	1108.564	1111.113	B	mount montreux to mount interlaken .	mount
+47	338	2197	1108.564	1111.113	B	mount montreux to mount interlaken .	interlaken
+47	338	2198	1108.564	1111.113	B	mount montreux to mount interlaken .	.
+47	339	2199	1113.110	1113.966	A	and then um	and
+47	339	2200	1113.110	1113.966	A	and then um	then
+47	339	2201	1113.110	1113.966	A	and then um	um
+47	340	2202	1114.126	1116.569	A	go oh that 's actually quite expensive .	go
+47	340	2203	1114.126	1116.569	A	go oh that 's actually quite expensive .	oh
+47	340	2204	1114.126	1116.569	A	go oh that 's actually quite expensive .	that
+47	340	2205	1114.126	1116.569	A	go oh that 's actually quite expensive .	's
+47	340	2206	1114.126	1116.569	A	go oh that 's actually quite expensive .	actually
+47	340	2207	1114.126	1116.569	A	go oh that 's actually quite expensive .	quite
+47	340	2208	1114.126	1116.569	A	go oh that 's actually quite expensive .	expensive
+47	340	2209	1114.126	1116.569	A	go oh that 's actually quite expensive .	.
+47	341	2210	1117.274	1118.219	A	okay so go from	okay
+47	341	2211	1117.274	1118.219	A	okay so go from	so
+47	341	2212	1117.274	1118.219	A	okay so go from	go
+47	341	2213	1117.274	1118.219	A	okay so go from	from
+47	342	2214	1118.790	1120.359	A	this is actually quite hard	this
+47	342	2215	1118.790	1120.359	A	this is actually quite hard	is
+47	342	2216	1118.790	1120.359	A	this is actually quite hard	actually
+47	342	2217	1118.790	1120.359	A	this is actually quite hard	quite
+47	342	2218	1118.790	1120.359	A	this is actually quite hard	hard
+47	343	2219	1121.179	1122.284	A	move the eraser away .	move
+47	343	2220	1121.179	1122.284	A	move the eraser away .	the
+47	343	2221	1121.179	1122.284	A	move the eraser away .	eraser
+47	343	2222	1121.179	1122.284	A	move the eraser away .	away
+47	343	2223	1121.179	1122.284	A	move the eraser away .	.
+47	344	2224	1124.883	1133.072	A	come on come on , then i start from mount davos , to mount s t gallen , mount s t gallen to mount zurich , and mount zurich to mount luzern	come
+47	344	2225	1124.883	1133.072	A	come on come on , then i start from mount davos , to mount s t gallen , mount s t gallen to mount zurich , and mount zurich to mount luzern	on
+47	344	2226	1124.883	1133.072	A	come on come on , then i start from mount davos , to mount s t gallen , mount s t gallen to mount zurich , and mount zurich to mount luzern	come
+47	344	2227	1124.883	1133.072	A	come on come on , then i start from mount davos , to mount s t gallen , mount s t gallen to mount zurich , and mount zurich to mount luzern	on
+47	344	2228	1124.883	1133.072	A	come on come on , then i start from mount davos , to mount s t gallen , mount s t gallen to mount zurich , and mount zurich to mount luzern	,
+47	344	2229	1124.883	1133.072	A	come on come on , then i start from mount davos , to mount s t gallen , mount s t gallen to mount zurich , and mount zurich to mount luzern	then
+47	344	2230	1124.883	1133.072	A	come on come on , then i start from mount davos , to mount s t gallen , mount s t gallen to mount zurich , and mount zurich to mount luzern	i
+47	344	2231	1124.883	1133.072	A	come on come on , then i start from mount davos , to mount s t gallen , mount s t gallen to mount zurich , and mount zurich to mount luzern	start
+47	344	2232	1124.883	1133.072	A	come on come on , then i start from mount davos , to mount s t gallen , mount s t gallen to mount zurich , and mount zurich to mount luzern	from
+47	344	2233	1124.883	1133.072	A	come on come on , then i start from mount davos , to mount s t gallen , mount s t gallen to mount zurich , and mount zurich to mount luzern	mount
+47	344	2234	1124.883	1133.072	A	come on come on , then i start from mount davos , to mount s t gallen , mount s t gallen to mount zurich , and mount zurich to mount luzern	davos
+47	344	2235	1124.883	1133.072	A	come on come on , then i start from mount davos , to mount s t gallen , mount s t gallen to mount zurich , and mount zurich to mount luzern	,
+47	344	2236	1124.883	1133.072	A	come on come on , then i start from mount davos , to mount s t gallen , mount s t gallen to mount zurich , and mount zurich to mount luzern	to
+47	344	2237	1124.883	1133.072	A	come on come on , then i start from mount davos , to mount s t gallen , mount s t gallen to mount zurich , and mount zurich to mount luzern	mount
+47	344	2238	1124.883	1133.072	A	come on come on , then i start from mount davos , to mount s t gallen , mount s t gallen to mount zurich , and mount zurich to mount luzern	s
+47	344	2239	1124.883	1133.072	A	come on come on , then i start from mount davos , to mount s t gallen , mount s t gallen to mount zurich , and mount zurich to mount luzern	t
+47	344	2240	1124.883	1133.072	A	come on come on , then i start from mount davos , to mount s t gallen , mount s t gallen to mount zurich , and mount zurich to mount luzern	gallen
+47	344	2241	1124.883	1133.072	A	come on come on , then i start from mount davos , to mount s t gallen , mount s t gallen to mount zurich , and mount zurich to mount luzern	,
+47	344	2242	1124.883	1133.072	A	come on come on , then i start from mount davos , to mount s t gallen , mount s t gallen to mount zurich , and mount zurich to mount luzern	mount
+47	344	2243	1124.883	1133.072	A	come on come on , then i start from mount davos , to mount s t gallen , mount s t gallen to mount zurich , and mount zurich to mount luzern	s
+47	344	2244	1124.883	1133.072	A	come on come on , then i start from mount davos , to mount s t gallen , mount s t gallen to mount zurich , and mount zurich to mount luzern	t
+47	344	2245	1124.883	1133.072	A	come on come on , then i start from mount davos , to mount s t gallen , mount s t gallen to mount zurich , and mount zurich to mount luzern	gallen
+47	344	2246	1124.883	1133.072	A	come on come on , then i start from mount davos , to mount s t gallen , mount s t gallen to mount zurich , and mount zurich to mount luzern	to
+47	344	2247	1124.883	1133.072	A	come on come on , then i start from mount davos , to mount s t gallen , mount s t gallen to mount zurich , and mount zurich to mount luzern	mount
+47	344	2248	1124.883	1133.072	A	come on come on , then i start from mount davos , to mount s t gallen , mount s t gallen to mount zurich , and mount zurich to mount luzern	zurich
+47	344	2249	1124.883	1133.072	A	come on come on , then i start from mount davos , to mount s t gallen , mount s t gallen to mount zurich , and mount zurich to mount luzern	,
+47	344	2250	1124.883	1133.072	A	come on come on , then i start from mount davos , to mount s t gallen , mount s t gallen to mount zurich , and mount zurich to mount luzern	and
+47	344	2251	1124.883	1133.072	A	come on come on , then i start from mount davos , to mount s t gallen , mount s t gallen to mount zurich , and mount zurich to mount luzern	mount
+47	344	2252	1124.883	1133.072	A	come on come on , then i start from mount davos , to mount s t gallen , mount s t gallen to mount zurich , and mount zurich to mount luzern	zurich
+47	344	2253	1124.883	1133.072	A	come on come on , then i start from mount davos , to mount s t gallen , mount s t gallen to mount zurich , and mount zurich to mount luzern	to
+47	344	2254	1124.883	1133.072	A	come on come on , then i start from mount davos , to mount s t gallen , mount s t gallen to mount zurich , and mount zurich to mount luzern	mount
+47	344	2255	1124.883	1133.072	A	come on come on , then i start from mount davos , to mount s t gallen , mount s t gallen to mount zurich , and mount zurich to mount luzern	luzern
+47	345	2256	1134.913	1136.482	B	then mount luzern to mount zermatt .	then
+47	345	2257	1134.913	1136.482	B	then mount luzern to mount zermatt .	mount
+47	345	2258	1134.913	1136.482	B	then mount luzern to mount zermatt .	luzern
+47	345	2259	1134.913	1136.482	B	then mount luzern to mount zermatt .	to
+47	345	2260	1134.913	1136.482	B	then mount luzern to mount zermatt .	mount
+47	345	2261	1134.913	1136.482	B	then mount luzern to mount zermatt .	zermatt
+47	345	2262	1134.913	1136.482	B	then mount luzern to mount zermatt .	.
+47	346	2263	1136.874	1137.355	A	yeah .	yeah
+47	346	2264	1136.874	1137.355	A	yeah .	.
+47	347	2265	1139.406	1140.618	B	mount zermatt to mount bern .	mount
+47	347	2266	1139.406	1140.618	B	mount zermatt to mount bern .	zermatt
+47	347	2267	1139.406	1140.618	B	mount zermatt to mount bern .	to
+47	347	2268	1139.406	1140.618	B	mount zermatt to mount bern .	mount
+47	347	2269	1139.406	1140.618	B	mount zermatt to mount bern .	bern
+47	347	2270	1139.406	1140.618	B	mount zermatt to mount bern .	.
+47	348	2271	1140.886	1146.234	A	wait mount wait we need to connect to bern so , mount bern and then mount basel .	wait
+47	348	2272	1140.886	1146.234	A	wait mount wait we need to connect to bern so , mount bern and then mount basel .	mount
+47	348	2273	1140.886	1146.234	A	wait mount wait we need to connect to bern so , mount bern and then mount basel .	wait
+47	348	2274	1140.886	1146.234	A	wait mount wait we need to connect to bern so , mount bern and then mount basel .	we
+47	348	2275	1140.886	1146.234	A	wait mount wait we need to connect to bern so , mount bern and then mount basel .	need
+47	348	2276	1140.886	1146.234	A	wait mount wait we need to connect to bern so , mount bern and then mount basel .	to
+47	348	2277	1140.886	1146.234	A	wait mount wait we need to connect to bern so , mount bern and then mount basel .	connect
+47	348	2278	1140.886	1146.234	A	wait mount wait we need to connect to bern so , mount bern and then mount basel .	to
+47	348	2279	1140.886	1146.234	A	wait mount wait we need to connect to bern so , mount bern and then mount basel .	bern
+47	348	2280	1140.886	1146.234	A	wait mount wait we need to connect to bern so , mount bern and then mount basel .	so
+47	348	2281	1140.886	1146.234	A	wait mount wait we need to connect to bern so , mount bern and then mount basel .	,
+47	348	2282	1140.886	1146.234	A	wait mount wait we need to connect to bern so , mount bern and then mount basel .	mount
+47	348	2283	1140.886	1146.234	A	wait mount wait we need to connect to bern so , mount bern and then mount basel .	bern
+47	348	2284	1140.886	1146.234	A	wait mount wait we need to connect to bern so , mount bern and then mount basel .	and
+47	348	2285	1140.886	1146.234	A	wait mount wait we need to connect to bern so , mount bern and then mount basel .	then
+47	348	2286	1140.886	1146.234	A	wait mount wait we need to connect to bern so , mount bern and then mount basel .	mount
+47	348	2287	1140.886	1146.234	A	wait mount wait we need to connect to bern so , mount bern and then mount basel .	basel
+47	348	2288	1140.886	1146.234	A	wait mount wait we need to connect to bern so , mount bern and then mount basel .	.
+47	349	2289	1147.496	1152.595	B	and then mount basel to mount neuchatel , and then , mount neuchatel to mount interlaken .	and
+47	349	2290	1147.496	1152.595	B	and then mount basel to mount neuchatel , and then , mount neuchatel to mount interlaken .	then
+47	349	2291	1147.496	1152.595	B	and then mount basel to mount neuchatel , and then , mount neuchatel to mount interlaken .	mount
+47	349	2292	1147.496	1152.595	B	and then mount basel to mount neuchatel , and then , mount neuchatel to mount interlaken .	basel
+47	349	2293	1147.496	1152.595	B	and then mount basel to mount neuchatel , and then , mount neuchatel to mount interlaken .	to
+47	349	2294	1147.496	1152.595	B	and then mount basel to mount neuchatel , and then , mount neuchatel to mount interlaken .	mount
+47	349	2295	1147.496	1152.595	B	and then mount basel to mount neuchatel , and then , mount neuchatel to mount interlaken .	neuchatel
+47	349	2296	1147.496	1152.595	B	and then mount basel to mount neuchatel , and then , mount neuchatel to mount interlaken .	,
+47	349	2297	1147.496	1152.595	B	and then mount basel to mount neuchatel , and then , mount neuchatel to mount interlaken .	and
+47	349	2298	1147.496	1152.595	B	and then mount basel to mount neuchatel , and then , mount neuchatel to mount interlaken .	then
+47	349	2299	1147.496	1152.595	B	and then mount basel to mount neuchatel , and then , mount neuchatel to mount interlaken .	,
+47	349	2300	1147.496	1152.595	B	and then mount basel to mount neuchatel , and then , mount neuchatel to mount interlaken .	mount
+47	349	2301	1147.496	1152.595	B	and then mount basel to mount neuchatel , and then , mount neuchatel to mount interlaken .	neuchatel
+47	349	2302	1147.496	1152.595	B	and then mount basel to mount neuchatel , and then , mount neuchatel to mount interlaken .	to
+47	349	2303	1147.496	1152.595	B	and then mount basel to mount neuchatel , and then , mount neuchatel to mount interlaken .	mount
+47	349	2304	1147.496	1152.595	B	and then mount basel to mount neuchatel , and then , mount neuchatel to mount interlaken .	interlaken
+47	349	2305	1147.496	1152.595	B	and then mount basel to mount neuchatel , and then , mount neuchatel to mount interlaken .	.
+47	350	2306	1150.758	1151.792	A	neuchatel .	neuchatel
+47	350	2307	1150.758	1151.792	A	neuchatel .	.
+47	351	2308	1152.577	1154.966	A	interlaken and interlaken to montreux .	interlaken
+47	351	2309	1152.577	1154.966	A	interlaken and interlaken to montreux .	and
+47	351	2310	1152.577	1154.966	A	interlaken and interlaken to montreux .	interlaken
+47	351	2311	1152.577	1154.966	A	interlaken and interlaken to montreux .	to
+47	351	2312	1152.577	1154.966	A	interlaken and interlaken to montreux .	montreux
+47	351	2313	1152.577	1154.966	A	interlaken and interlaken to montreux .	.
+47	352	2314	1155.478	1156.334	B	three .	three
+47	352	2315	1155.478	1156.334	B	three .	.
+47	353	2316	1155.567	1157.816	A	okay we 're two , one , go .	okay
+47	353	2317	1155.567	1157.816	A	okay we 're two , one , go .	we
+47	353	2318	1155.567	1157.816	A	okay we 're two , one , go .	're
+47	353	2319	1155.567	1157.816	A	okay we 're two , one , go .	two
+47	353	2320	1155.567	1157.816	A	okay we 're two , one , go .	,
+47	353	2321	1155.567	1157.816	A	okay we 're two , one , go .	one
+47	353	2322	1155.567	1157.816	A	okay we 're two , one , go .	,
+47	353	2323	1155.567	1157.816	A	okay we 're two , one , go .	go
+47	353	2324	1155.567	1157.816	A	okay we 're two , one , go .	.
+47	354	2325	1169.172	1170.813	A	this is really really hard .	this
+47	354	2326	1169.172	1170.813	A	this is really really hard .	is
+47	354	2327	1169.172	1170.813	A	this is really really hard .	really
+47	354	2328	1169.172	1170.813	A	this is really really hard .	really
+47	354	2329	1169.172	1170.813	A	this is really really hard .	hard
+47	354	2330	1169.172	1170.813	A	this is really really hard .	.

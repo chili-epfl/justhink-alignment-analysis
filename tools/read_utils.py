@@ -26,7 +26,6 @@ def get_team_no_from_routine_filename(filename):
     return int(str(pl.Path(filename).stem).split('_')[-1])
 
 
-
 def read_tables(input_dir, form='transcript', verbose=True):
     '''read transcript, log or corpus tables at a directory'''
     if form == 'transcript':
@@ -60,14 +59,12 @@ def read_tables(input_dir, form='transcript', verbose=True):
         df = pd.read_csv(f, sep='\t')
         dfs[team_no] = df
 
-
     # Make type conversions depending on the form.
     if form == 'routine':
         from ast import literal_eval
         for team_no, df in dfs.items():
             # Convert utterance_no_list strings to python list objects.
-            df.utterance_no_list = df.utterance_no_list.apply(literal_eval)
-
+            df.utterances = df.utterances.apply(literal_eval)
 
     if verbose:
         for team_no, df in dfs.items():

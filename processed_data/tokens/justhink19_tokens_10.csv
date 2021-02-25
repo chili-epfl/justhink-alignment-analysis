@@ -1,0 +1,2150 @@
+team_no	utterance_no	token_no	start	end	interlocutor	utterance	token
+10	0	0	65.774	66.433	B	okay .	okay
+10	0	1	65.774	66.433	B	okay .	.
+10	1	2	65.954	66.463	A	okay .	okay
+10	1	3	65.954	66.463	A	okay .	.
+10	2	4	66.493	67.002	B	ann .	ann
+10	2	5	66.493	67.002	B	ann .	.
+10	3	6	67.332	68.021	A	yeah .	yeah
+10	3	7	67.332	68.021	A	yeah .	.
+10	4	8	68.620	69.548	B	um	um
+10	5	9	71.735	74.821	B	tracks , where do they go .	tracks
+10	5	10	71.735	74.821	B	tracks , where do they go .	,
+10	5	11	71.735	74.821	B	tracks , where do they go .	where
+10	5	12	71.735	74.821	B	tracks , where do they go .	do
+10	5	13	71.735	74.821	B	tracks , where do they go .	they
+10	5	14	71.735	74.821	B	tracks , where do they go .	go
+10	5	15	71.735	74.821	B	tracks , where do they go .	.
+10	6	16	78.011	78.820	B	mount	mount
+10	7	17	80.048	81.786	A	maybe we should do mount	maybe
+10	7	18	80.048	81.786	A	maybe we should do mount	we
+10	7	19	80.048	81.786	A	maybe we should do mount	should
+10	7	20	80.048	81.786	A	maybe we should do mount	do
+10	7	21	80.048	81.786	A	maybe we should do mount	mount
+10	8	22	82.274	83.038	B	zermatt ?	zermatt
+10	8	23	82.274	83.038	B	zermatt ?	?
+10	9	24	83.382	86.168	A	gallen to mount davos ?	gallen
+10	9	25	83.382	86.168	A	gallen to mount davos ?	to
+10	9	26	83.382	86.168	A	gallen to mount davos ?	mount
+10	9	27	83.382	86.168	A	gallen to mount davos ?	davos
+10	9	28	83.382	86.168	A	gallen to mount davos ?	?
+10	10	29	85.854	86.752	B	which one ?	which
+10	10	30	85.854	86.752	B	which one ?	one
+10	10	31	85.854	86.752	B	which one ?	?
+10	11	32	87.202	87.771	A	the	the
+10	12	33	89.269	90.182	B	say again ?	say
+10	12	34	89.269	90.182	B	say again ?	again
+10	12	35	89.269	90.182	B	say again ?	?
+10	13	36	89.434	90.587	A	mount	mount
+10	14	37	91.197	91.886	A	gallen	gallen
+10	15	38	92.680	94.282	B	okay well i 'm trying to find it .	okay
+10	15	39	92.680	94.282	B	okay well i 'm trying to find it .	well
+10	15	40	92.680	94.282	B	okay well i 'm trying to find it .	i
+10	15	41	92.680	94.282	B	okay well i 'm trying to find it .	'm
+10	15	42	92.680	94.282	B	okay well i 'm trying to find it .	trying
+10	15	43	92.680	94.282	B	okay well i 'm trying to find it .	to
+10	15	44	92.680	94.282	B	okay well i 'm trying to find it .	find
+10	15	45	92.680	94.282	B	okay well i 'm trying to find it .	it
+10	15	46	92.680	94.282	B	okay well i 'm trying to find it .	.
+10	16	47	94.365	96.372	A	mount s t	mount
+10	16	48	94.365	96.372	A	mount s t	s
+10	16	49	94.365	96.372	A	mount s t	t
+10	17	50	96.840	98.427	B	gallen i found it yeah .	gallen
+10	17	51	96.840	98.427	B	gallen i found it yeah .	i
+10	17	52	96.840	98.427	B	gallen i found it yeah .	found
+10	17	53	96.840	98.427	B	gallen i found it yeah .	it
+10	17	54	96.840	98.427	B	gallen i found it yeah .	yeah
+10	17	55	96.840	98.427	B	gallen i found it yeah .	.
+10	18	56	98.277	100.569	A	to down to mount davos .	to
+10	18	57	98.277	100.569	A	to down to mount davos .	down
+10	18	58	98.277	100.569	A	to down to mount davos .	to
+10	18	59	98.277	100.569	A	to down to mount davos .	mount
+10	18	60	98.277	100.569	A	to down to mount davos .	davos
+10	18	61	98.277	100.569	A	to down to mount davos .	.
+10	19	62	100.636	101.205	B	okay .	okay
+10	19	63	100.636	101.205	B	okay .	.
+10	20	64	101.385	103.302	B	well ann how do you make the tracks again ?	well
+10	20	65	101.385	103.302	B	well ann how do you make the tracks again ?	ann
+10	20	66	101.385	103.302	B	well ann how do you make the tracks again ?	how
+10	20	67	101.385	103.302	B	well ann how do you make the tracks again ?	do
+10	20	68	101.385	103.302	B	well ann how do you make the tracks again ?	you
+10	20	69	101.385	103.302	B	well ann how do you make the tracks again ?	make
+10	20	70	101.385	103.302	B	well ann how do you make the tracks again ?	the
+10	20	71	101.385	103.302	B	well ann how do you make the tracks again ?	tracks
+10	20	72	101.385	103.302	B	well ann how do you make the tracks again ?	again
+10	20	73	101.385	103.302	B	well ann how do you make the tracks again ?	?
+10	21	74	103.047	103.796	A	you pull	you
+10	21	75	103.047	103.796	A	you pull	pull
+10	22	76	105.062	106.330	A	i think .	i
+10	22	77	105.062	106.330	A	i think .	think
+10	22	78	105.062	106.330	A	i think .	.
+10	23	79	107.737	109.116	B	it 's not working .	it
+10	23	80	107.737	109.116	B	it 's not working .	's
+10	23	81	107.737	109.116	B	it 's not working .	not
+10	23	82	107.737	109.116	B	it 's not working .	working
+10	23	83	107.737	109.116	B	it 's not working .	.
+10	24	84	116.187	117.834	B	information here okay found it .	information
+10	24	85	116.187	117.834	B	information here okay found it .	here
+10	24	86	116.187	117.834	B	information here okay found it .	okay
+10	24	87	116.187	117.834	B	information here okay found it .	found
+10	24	88	116.187	117.834	B	information here okay found it .	it
+10	24	89	116.187	117.834	B	information here okay found it .	.
+10	25	90	116.816	117.969	A	information .	information
+10	25	91	116.816	117.969	A	information .	.
+10	26	92	136.643	137.407	B	oh .	oh
+10	26	93	136.643	137.407	B	oh .	.
+10	27	94	137.617	138.665	B	good .	good
+10	27	95	137.617	138.665	B	good .	.
+10	28	96	138.188	140.420	A	click and drag to	click
+10	28	97	138.188	140.420	A	click and drag to	and
+10	28	98	138.188	140.420	A	click and drag to	drag
+10	28	99	138.188	140.420	A	click and drag to	to
+10	29	100	139.836	142.848	B	click and drag to release okay , so mount	click
+10	29	101	139.836	142.848	B	click and drag to release okay , so mount	and
+10	29	102	139.836	142.848	B	click and drag to release okay , so mount	drag
+10	29	103	139.836	142.848	B	click and drag to release okay , so mount	to
+10	29	104	139.836	142.848	B	click and drag to release okay , so mount	release
+10	29	105	139.836	142.848	B	click and drag to release okay , so mount	okay
+10	29	106	139.836	142.848	B	click and drag to release okay , so mount	,
+10	29	107	139.836	142.848	B	click and drag to release okay , so mount	so
+10	29	108	139.836	142.848	B	click and drag to release okay , so mount	mount
+10	30	109	158.789	161.875	B	click drag and release to build a track .	click
+10	30	110	158.789	161.875	B	click drag and release to build a track .	drag
+10	30	111	158.789	161.875	B	click drag and release to build a track .	and
+10	30	112	158.789	161.875	B	click drag and release to build a track .	release
+10	30	113	158.789	161.875	B	click drag and release to build a track .	to
+10	30	114	158.789	161.875	B	click drag and release to build a track .	build
+10	30	115	158.789	161.875	B	click drag and release to build a track .	a
+10	30	116	158.789	161.875	B	click drag and release to build a track .	track
+10	30	117	158.789	161.875	B	click drag and release to build a track .	.
+10	31	118	164.979	165.668	B	click	click
+10	32	119	165.923	166.657	B	drag	drag
+10	33	120	169.976	174.349	A	a brief press so you need to do it hard , harder than	a
+10	33	121	169.976	174.349	A	a brief press so you need to do it hard , harder than	brief
+10	33	122	169.976	174.349	A	a brief press so you need to do it hard , harder than	press
+10	33	123	169.976	174.349	A	a brief press so you need to do it hard , harder than	so
+10	33	124	169.976	174.349	A	a brief press so you need to do it hard , harder than	you
+10	33	125	169.976	174.349	A	a brief press so you need to do it hard , harder than	need
+10	33	126	169.976	174.349	A	a brief press so you need to do it hard , harder than	to
+10	33	127	169.976	174.349	A	a brief press so you need to do it hard , harder than	do
+10	33	128	169.976	174.349	A	a brief press so you need to do it hard , harder than	it
+10	33	129	169.976	174.349	A	a brief press so you need to do it hard , harder than	hard
+10	33	130	169.976	174.349	A	a brief press so you need to do it hard , harder than	,
+10	33	131	169.976	174.349	A	a brief press so you need to do it hard , harder than	harder
+10	33	132	169.976	174.349	A	a brief press so you need to do it hard , harder than	than
+10	34	133	182.091	184.808	A	in this view you can interact and build tracks .	in
+10	34	134	182.091	184.808	A	in this view you can interact and build tracks .	this
+10	34	135	182.091	184.808	A	in this view you can interact and build tracks .	view
+10	34	136	182.091	184.808	A	in this view you can interact and build tracks .	you
+10	34	137	182.091	184.808	A	in this view you can interact and build tracks .	can
+10	34	138	182.091	184.808	A	in this view you can interact and build tracks .	interact
+10	34	139	182.091	184.808	A	in this view you can interact and build tracks .	and
+10	34	140	182.091	184.808	A	in this view you can interact and build tracks .	build
+10	34	141	182.091	184.808	A	in this view you can interact and build tracks .	tracks
+10	34	142	182.091	184.808	A	in this view you can interact and build tracks .	.
+10	35	143	184.808	186.935	A	in this view you can not build tracks .	in
+10	35	144	184.808	186.935	A	in this view you can not build tracks .	this
+10	35	145	184.808	186.935	A	in this view you can not build tracks .	view
+10	35	146	184.808	186.935	A	in this view you can not build tracks .	you
+10	35	147	184.808	186.935	A	in this view you can not build tracks .	can
+10	35	148	184.808	186.935	A	in this view you can not build tracks .	not
+10	35	149	184.808	186.935	A	in this view you can not build tracks .	build
+10	35	150	184.808	186.935	A	in this view you can not build tracks .	tracks
+10	35	151	184.808	186.935	A	in this view you can not build tracks .	.
+10	36	152	193.915	196.210	B	oh , your friend 's view your view .	oh
+10	36	153	193.915	196.210	B	oh , your friend 's view your view .	,
+10	36	154	193.915	196.210	B	oh , your friend 's view your view .	your
+10	36	155	193.915	196.210	B	oh , your friend 's view your view .	friend
+10	36	156	193.915	196.210	B	oh , your friend 's view your view .	's
+10	36	157	193.915	196.210	B	oh , your friend 's view your view .	view
+10	36	158	193.915	196.210	B	oh , your friend 's view your view .	your
+10	36	159	193.915	196.210	B	oh , your friend 's view your view .	view
+10	36	160	193.915	196.210	B	oh , your friend 's view your view .	.
+10	37	161	194.337	195.229	A	mine is	mine
+10	37	162	194.337	195.229	A	mine is	is
+10	38	163	199.032	200.725	B	okay we 've got different ones .	okay
+10	38	164	199.032	200.725	B	okay we 've got different ones .	we
+10	38	165	199.032	200.725	B	okay we 've got different ones .	've
+10	38	166	199.032	200.725	B	okay we 've got different ones .	got
+10	38	167	199.032	200.725	B	okay we 've got different ones .	different
+10	38	168	199.032	200.725	B	okay we 've got different ones .	ones
+10	38	169	199.032	200.725	B	okay we 've got different ones .	.
+10	39	170	201.144	202.402	B	no we do n't .	no
+10	39	171	201.144	202.402	B	no we do n't .	we
+10	39	172	201.144	202.402	B	no we do n't .	do
+10	39	173	201.144	202.402	B	no we do n't .	n't
+10	39	174	201.144	202.402	B	no we do n't .	.
+10	40	175	204.579	206.646	B	oh yeah we do okay .	oh
+10	40	176	204.579	206.646	B	oh yeah we do okay .	yeah
+10	40	177	204.579	206.646	B	oh yeah we do okay .	we
+10	40	178	204.579	206.646	B	oh yeah we do okay .	do
+10	40	179	204.579	206.646	B	oh yeah we do okay .	okay
+10	40	180	204.579	206.646	B	oh yeah we do okay .	.
+10	41	181	207.874	208.593	A	so	so
+10	42	182	212.295	214.452	B	so mount s t gallen .	so
+10	42	183	212.295	214.452	B	so mount s t gallen .	mount
+10	42	184	212.295	214.452	B	so mount s t gallen .	s
+10	42	185	212.295	214.452	B	so mount s t gallen .	t
+10	42	186	212.295	214.452	B	so mount s t gallen .	gallen
+10	42	187	212.295	214.452	B	so mount s t gallen .	.
+10	43	188	217.449	219.906	B	click drag and release to build a	click
+10	43	189	217.449	219.906	B	click drag and release to build a	drag
+10	43	190	217.449	219.906	B	click drag and release to build a	and
+10	43	191	217.449	219.906	B	click drag and release to build a	release
+10	43	192	217.449	219.906	B	click drag and release to build a	to
+10	43	193	217.449	219.906	B	click drag and release to build a	build
+10	43	194	217.449	219.906	B	click drag and release to build a	a
+10	44	195	221.605	222.354	B	okay .	okay
+10	44	196	221.605	222.354	B	okay .	.
+10	45	197	241.840	244.042	B	it 's not working .	it
+10	45	198	241.840	244.042	B	it 's not working .	's
+10	45	199	241.840	244.042	B	it 's not working .	not
+10	45	200	241.840	244.042	B	it 's not working .	working
+10	45	201	241.840	244.042	B	it 's not working .	.
+10	46	202	250.660	251.948	B	how do i go back ?	how
+10	46	203	250.660	251.948	B	how do i go back ?	do
+10	46	204	250.660	251.948	B	how do i go back ?	i
+10	46	205	250.660	251.948	B	how do i go back ?	go
+10	46	206	250.660	251.948	B	how do i go back ?	back
+10	46	207	250.660	251.948	B	how do i go back ?	?
+10	47	208	254.019	254.857	A	um	um
+10	48	209	255.668	257.601	B	i need help , wait .	i
+10	48	210	255.668	257.601	B	i need help , wait .	need
+10	48	211	255.668	257.601	B	i need help , wait .	help
+10	48	212	255.668	257.601	B	i need help , wait .	,
+10	48	213	255.668	257.601	B	i need help , wait .	wait
+10	48	214	255.668	257.601	B	i need help , wait .	.
+10	49	215	259.527	260.455	A	um your	um
+10	49	216	259.527	260.455	A	um your	your
+10	50	217	263.549	264.044	A	yeah .	yeah
+10	50	218	263.549	264.044	A	yeah .	.
+10	51	219	264.089	264.868	B	yeah i know .	yeah
+10	51	220	264.089	264.868	B	yeah i know .	i
+10	51	221	264.089	264.868	B	yeah i know .	know
+10	51	222	264.089	264.868	B	yeah i know .	.
+10	52	223	264.763	266.860	A	this is my my view is the one	this
+10	52	224	264.763	266.860	A	this is my my view is the one	is
+10	52	225	264.763	266.860	A	this is my my view is the one	my
+10	52	226	264.763	266.860	A	this is my my view is the one	my
+10	52	227	264.763	266.860	A	this is my my view is the one	view
+10	52	228	264.763	266.860	A	this is my my view is the one	is
+10	52	229	264.763	266.860	A	this is my my view is the one	the
+10	52	230	264.763	266.860	A	this is my my view is the one	one
+10	53	231	267.594	269.691	A	the , is the abstract view .	the
+10	53	232	267.594	269.691	A	the , is the abstract view .	,
+10	53	233	267.594	269.691	A	the , is the abstract view .	is
+10	53	234	267.594	269.691	A	the , is the abstract view .	the
+10	53	235	267.594	269.691	A	the , is the abstract view .	abstract
+10	53	236	267.594	269.691	A	the , is the abstract view .	view
+10	53	237	267.594	269.691	A	the , is the abstract view .	.
+10	54	238	270.053	271.881	A	you have the interactive view .	you
+10	54	239	270.053	271.881	A	you have the interactive view .	have
+10	54	240	270.053	271.881	A	you have the interactive view .	the
+10	54	241	270.053	271.881	A	you have the interactive view .	interactive
+10	54	242	270.053	271.881	A	you have the interactive view .	view
+10	54	243	270.053	271.881	A	you have the interactive view .	.
+10	55	244	271.356	274.951	B	i have that so it 's like yeah okay .	i
+10	55	245	271.356	274.951	B	i have that so it 's like yeah okay .	have
+10	55	246	271.356	274.951	B	i have that so it 's like yeah okay .	that
+10	55	247	271.356	274.951	B	i have that so it 's like yeah okay .	so
+10	55	248	271.356	274.951	B	i have that so it 's like yeah okay .	it
+10	55	249	271.356	274.951	B	i have that so it 's like yeah okay .	's
+10	55	250	271.356	274.951	B	i have that so it 's like yeah okay .	like
+10	55	251	271.356	274.951	B	i have that so it 's like yeah okay .	yeah
+10	55	252	271.356	274.951	B	i have that so it 's like yeah okay .	okay
+10	55	253	271.356	274.951	B	i have that so it 's like yeah okay .	.
+10	56	254	281.259	282.607	B	okay .	okay
+10	56	255	281.259	282.607	B	okay .	.
+10	57	256	290.931	291.695	A	bob .	bob
+10	57	257	290.931	291.695	A	bob .	.
+10	58	258	292.923	295.245	A	so now , you have to do .	so
+10	58	259	292.923	295.245	A	so now , you have to do .	now
+10	58	260	292.923	295.245	A	so now , you have to do .	,
+10	58	261	292.923	295.245	A	so now , you have to do .	you
+10	58	262	292.923	295.245	A	so now , you have to do .	have
+10	58	263	292.923	295.245	A	so now , you have to do .	to
+10	58	264	292.923	295.245	A	so now , you have to do .	do
+10	58	265	292.923	295.245	A	so now , you have to do .	.
+10	59	266	303.893	304.934	B	oh , so	oh
+10	59	267	303.893	304.934	B	oh , so	,
+10	59	268	303.893	304.934	B	oh , so	so
+10	60	269	304.013	306.559	A	draw draw from a mountain that is already been	draw
+10	60	270	304.013	306.559	A	draw draw from a mountain that is already been	draw
+10	60	271	304.013	306.559	A	draw draw from a mountain that is already been	from
+10	60	272	304.013	306.559	A	draw draw from a mountain that is already been	a
+10	60	273	304.013	306.559	A	draw draw from a mountain that is already been	mountain
+10	60	274	304.013	306.559	A	draw draw from a mountain that is already been	that
+10	60	275	304.013	306.559	A	draw draw from a mountain that is already been	is
+10	60	276	304.013	306.559	A	draw draw from a mountain that is already been	already
+10	60	277	304.013	306.559	A	draw draw from a mountain that is already been	been
+10	61	278	308.808	309.692	B	wait , so	wait
+10	61	279	308.808	309.692	B	wait , so	,
+10	61	280	308.808	309.692	B	wait , so	so
+10	62	281	314.388	315.122	B	oh this	oh
+10	62	282	314.388	315.122	B	oh this	this
+10	63	283	316.535	317.973	B	oh !	oh
+10	63	284	316.535	317.973	B	oh !	!
+10	64	285	319.103	320.017	B	i get it now .	i
+10	64	286	319.103	320.017	B	i get it now .	get
+10	64	287	319.103	320.017	B	i get it now .	it
+10	64	288	319.103	320.017	B	i get it now .	now
+10	64	289	319.103	320.017	B	i get it now .	.
+10	65	290	323.267	323.941	B	okay .	okay
+10	65	291	323.267	323.941	B	okay .	.
+10	66	292	360.415	360.984	B	here .	here
+10	66	293	360.415	360.984	B	here .	.
+10	67	294	363.441	363.980	B	okay .	okay
+10	67	295	363.441	363.980	B	okay .	.
+10	68	296	382.659	384.891	A	maybe mount zurich to mount gallen ?	maybe
+10	68	297	382.659	384.891	A	maybe mount zurich to mount gallen ?	mount
+10	68	298	382.659	384.891	A	maybe mount zurich to mount gallen ?	zurich
+10	68	299	382.659	384.891	A	maybe mount zurich to mount gallen ?	to
+10	68	300	382.659	384.891	A	maybe mount zurich to mount gallen ?	mount
+10	68	301	382.659	384.891	A	maybe mount zurich to mount gallen ?	gallen
+10	68	302	382.659	384.891	A	maybe mount zurich to mount gallen ?	?
+10	69	303	384.696	389.225	B	wait yeah mount i 'm doing like mount davos to mount s t gallen and then	wait
+10	69	304	384.696	389.225	B	wait yeah mount i 'm doing like mount davos to mount s t gallen and then	yeah
+10	69	305	384.696	389.225	B	wait yeah mount i 'm doing like mount davos to mount s t gallen and then	mount
+10	69	306	384.696	389.225	B	wait yeah mount i 'm doing like mount davos to mount s t gallen and then	i
+10	69	307	384.696	389.225	B	wait yeah mount i 'm doing like mount davos to mount s t gallen and then	'm
+10	69	308	384.696	389.225	B	wait yeah mount i 'm doing like mount davos to mount s t gallen and then	doing
+10	69	309	384.696	389.225	B	wait yeah mount i 'm doing like mount davos to mount s t gallen and then	like
+10	69	310	384.696	389.225	B	wait yeah mount i 'm doing like mount davos to mount s t gallen and then	mount
+10	69	311	384.696	389.225	B	wait yeah mount i 'm doing like mount davos to mount s t gallen and then	davos
+10	69	312	384.696	389.225	B	wait yeah mount i 'm doing like mount davos to mount s t gallen and then	to
+10	69	313	384.696	389.225	B	wait yeah mount i 'm doing like mount davos to mount s t gallen and then	mount
+10	69	314	384.696	389.225	B	wait yeah mount i 'm doing like mount davos to mount s t gallen and then	s
+10	69	315	384.696	389.225	B	wait yeah mount i 'm doing like mount davos to mount s t gallen and then	t
+10	69	316	384.696	389.225	B	wait yeah mount i 'm doing like mount davos to mount s t gallen and then	gallen
+10	69	317	384.696	389.225	B	wait yeah mount i 'm doing like mount davos to mount s t gallen and then	and
+10	69	318	384.696	389.225	B	wait yeah mount i 'm doing like mount davos to mount s t gallen and then	then
+10	70	319	406.235	407.133	B	okay .	okay
+10	70	320	406.235	407.133	B	okay .	.
+10	71	321	409.718	410.901	A	so should we submit ?	so
+10	71	322	409.718	410.901	A	so should we submit ?	should
+10	71	323	409.718	410.901	A	so should we submit ?	we
+10	71	324	409.718	410.901	A	so should we submit ?	submit
+10	71	325	409.718	410.901	A	so should we submit ?	?
+10	72	326	411.575	414.167	B	no we do n't , wait wait wait , i do n't think it is finished yet .	no
+10	72	327	411.575	414.167	B	no we do n't , wait wait wait , i do n't think it is finished yet .	we
+10	72	328	411.575	414.167	B	no we do n't , wait wait wait , i do n't think it is finished yet .	do
+10	72	329	411.575	414.167	B	no we do n't , wait wait wait , i do n't think it is finished yet .	n't
+10	72	330	411.575	414.167	B	no we do n't , wait wait wait , i do n't think it is finished yet .	,
+10	72	331	411.575	414.167	B	no we do n't , wait wait wait , i do n't think it is finished yet .	wait
+10	72	332	411.575	414.167	B	no we do n't , wait wait wait , i do n't think it is finished yet .	wait
+10	72	333	411.575	414.167	B	no we do n't , wait wait wait , i do n't think it is finished yet .	wait
+10	72	334	411.575	414.167	B	no we do n't , wait wait wait , i do n't think it is finished yet .	,
+10	72	335	411.575	414.167	B	no we do n't , wait wait wait , i do n't think it is finished yet .	i
+10	72	336	411.575	414.167	B	no we do n't , wait wait wait , i do n't think it is finished yet .	do
+10	72	337	411.575	414.167	B	no we do n't , wait wait wait , i do n't think it is finished yet .	n't
+10	72	338	411.575	414.167	B	no we do n't , wait wait wait , i do n't think it is finished yet .	think
+10	72	339	411.575	414.167	B	no we do n't , wait wait wait , i do n't think it is finished yet .	it
+10	72	340	411.575	414.167	B	no we do n't , wait wait wait , i do n't think it is finished yet .	is
+10	72	341	411.575	414.167	B	no we do n't , wait wait wait , i do n't think it is finished yet .	finished
+10	72	342	411.575	414.167	B	no we do n't , wait wait wait , i do n't think it is finished yet .	yet
+10	72	343	411.575	414.167	B	no we do n't , wait wait wait , i do n't think it is finished yet .	.
+10	73	344	416.127	419.407	B	i do n't think it is finished , hold up , mount zurich to mount s t gallen .	i
+10	73	345	416.127	419.407	B	i do n't think it is finished , hold up , mount zurich to mount s t gallen .	do
+10	73	346	416.127	419.407	B	i do n't think it is finished , hold up , mount zurich to mount s t gallen .	n't
+10	73	347	416.127	419.407	B	i do n't think it is finished , hold up , mount zurich to mount s t gallen .	think
+10	73	348	416.127	419.407	B	i do n't think it is finished , hold up , mount zurich to mount s t gallen .	it
+10	73	349	416.127	419.407	B	i do n't think it is finished , hold up , mount zurich to mount s t gallen .	is
+10	73	350	416.127	419.407	B	i do n't think it is finished , hold up , mount zurich to mount s t gallen .	finished
+10	73	351	416.127	419.407	B	i do n't think it is finished , hold up , mount zurich to mount s t gallen .	,
+10	73	352	416.127	419.407	B	i do n't think it is finished , hold up , mount zurich to mount s t gallen .	hold
+10	73	353	416.127	419.407	B	i do n't think it is finished , hold up , mount zurich to mount s t gallen .	up
+10	73	354	416.127	419.407	B	i do n't think it is finished , hold up , mount zurich to mount s t gallen .	,
+10	73	355	416.127	419.407	B	i do n't think it is finished , hold up , mount zurich to mount s t gallen .	mount
+10	73	356	416.127	419.407	B	i do n't think it is finished , hold up , mount zurich to mount s t gallen .	zurich
+10	73	357	416.127	419.407	B	i do n't think it is finished , hold up , mount zurich to mount s t gallen .	to
+10	73	358	416.127	419.407	B	i do n't think it is finished , hold up , mount zurich to mount s t gallen .	mount
+10	73	359	416.127	419.407	B	i do n't think it is finished , hold up , mount zurich to mount s t gallen .	s
+10	73	360	416.127	419.407	B	i do n't think it is finished , hold up , mount zurich to mount s t gallen .	t
+10	73	361	416.127	419.407	B	i do n't think it is finished , hold up , mount zurich to mount s t gallen .	gallen
+10	73	362	416.127	419.407	B	i do n't think it is finished , hold up , mount zurich to mount s t gallen .	.
+10	74	363	421.312	423.109	A	that is already connected .	that
+10	74	364	421.312	423.109	A	that is already connected .	is
+10	74	365	421.312	423.109	A	that is already connected .	already
+10	74	366	421.312	423.109	A	that is already connected .	connected
+10	74	367	421.312	423.109	A	that is already connected .	.
+10	75	368	424.739	426.326	B	do n't press submit .	do
+10	75	369	424.739	426.326	B	do n't press submit .	n't
+10	75	370	424.739	426.326	B	do n't press submit .	press
+10	75	371	424.739	426.326	B	do n't press submit .	submit
+10	75	372	424.739	426.326	B	do n't press submit .	.
+10	76	373	428.054	429.372	B	i pressed it .	i
+10	76	374	428.054	429.372	B	i pressed it .	pressed
+10	76	375	428.054	429.372	B	i pressed it .	it
+10	76	376	428.054	429.372	B	i pressed it .	.
+10	77	377	451.840	453.053	B	try again ann .	try
+10	77	378	451.840	453.053	B	try again ann .	again
+10	77	379	451.840	453.053	B	try again ann .	ann
+10	77	380	451.840	453.053	B	try again ann .	.
+10	78	381	454.192	456.798	A	maybe , we should make it shorter .	maybe
+10	78	382	454.192	456.798	A	maybe , we should make it shorter .	,
+10	78	383	454.192	456.798	A	maybe , we should make it shorter .	we
+10	78	384	454.192	456.798	A	maybe , we should make it shorter .	should
+10	78	385	454.192	456.798	A	maybe , we should make it shorter .	make
+10	78	386	454.192	456.798	A	maybe , we should make it shorter .	it
+10	78	387	454.192	456.798	A	maybe , we should make it shorter .	shorter
+10	78	388	454.192	456.798	A	maybe , we should make it shorter .	.
+10	79	389	463.597	464.706	B	okay , here .	okay
+10	79	390	463.597	464.706	B	okay , here .	,
+10	79	391	463.597	464.706	B	okay , here .	here
+10	79	392	463.597	464.706	B	okay , here .	.
+10	80	393	473.783	474.741	B	oh yeah .	oh
+10	80	394	473.783	474.741	B	oh yeah .	yeah
+10	80	395	473.783	474.741	B	oh yeah .	.
+10	81	396	474.457	475.790	A	so you have	so
+10	81	397	474.457	475.790	A	so you have	you
+10	81	398	474.457	475.790	A	so you have	have
+10	82	399	475.161	477.318	B	wait , i applied it .	wait
+10	82	400	475.161	477.318	B	wait , i applied it .	,
+10	82	401	475.161	477.318	B	wait , i applied it .	i
+10	82	402	475.161	477.318	B	wait , i applied it .	applied
+10	82	403	475.161	477.318	B	wait , i applied it .	it
+10	82	404	475.161	477.318	B	wait , i applied it .	.
+10	83	405	476.808	478.296	A	maybe	maybe
+10	84	406	484.822	486.979	B	okay i 'm just gon na press submit and restart , wait .	okay
+10	84	407	484.822	486.979	B	okay i 'm just gon na press submit and restart , wait .	i
+10	84	408	484.822	486.979	B	okay i 'm just gon na press submit and restart , wait .	'm
+10	84	409	484.822	486.979	B	okay i 'm just gon na press submit and restart , wait .	just
+10	84	410	484.822	486.979	B	okay i 'm just gon na press submit and restart , wait .	gon
+10	84	411	484.822	486.979	B	okay i 'm just gon na press submit and restart , wait .	na
+10	84	412	484.822	486.979	B	okay i 'm just gon na press submit and restart , wait .	press
+10	84	413	484.822	486.979	B	okay i 'm just gon na press submit and restart , wait .	submit
+10	84	414	484.822	486.979	B	okay i 'm just gon na press submit and restart , wait .	and
+10	84	415	484.822	486.979	B	okay i 'm just gon na press submit and restart , wait .	restart
+10	84	416	484.822	486.979	B	okay i 'm just gon na press submit and restart , wait .	,
+10	84	417	484.822	486.979	B	okay i 'm just gon na press submit and restart , wait .	wait
+10	84	418	484.822	486.979	B	okay i 'm just gon na press submit and restart , wait .	.
+10	85	419	487.475	489.153	B	wait ann , press submit .	wait
+10	85	420	487.475	489.153	B	wait ann , press submit .	ann
+10	85	421	487.475	489.153	B	wait ann , press submit .	,
+10	85	422	487.475	489.153	B	wait ann , press submit .	press
+10	85	423	487.475	489.153	B	wait ann , press submit .	submit
+10	85	424	487.475	489.153	B	wait ann , press submit .	.
+10	86	425	497.858	500.539	B	i just did an accident ann , i 'm not doing that again .	i
+10	86	426	497.858	500.539	B	i just did an accident ann , i 'm not doing that again .	just
+10	86	427	497.858	500.539	B	i just did an accident ann , i 'm not doing that again .	did
+10	86	428	497.858	500.539	B	i just did an accident ann , i 'm not doing that again .	an
+10	86	429	497.858	500.539	B	i just did an accident ann , i 'm not doing that again .	accident
+10	86	430	497.858	500.539	B	i just did an accident ann , i 'm not doing that again .	ann
+10	86	431	497.858	500.539	B	i just did an accident ann , i 'm not doing that again .	,
+10	86	432	497.858	500.539	B	i just did an accident ann , i 'm not doing that again .	i
+10	86	433	497.858	500.539	B	i just did an accident ann , i 'm not doing that again .	'm
+10	86	434	497.858	500.539	B	i just did an accident ann , i 'm not doing that again .	not
+10	86	435	497.858	500.539	B	i just did an accident ann , i 'm not doing that again .	doing
+10	86	436	497.858	500.539	B	i just did an accident ann , i 'm not doing that again .	that
+10	86	437	497.858	500.539	B	i just did an accident ann , i 'm not doing that again .	again
+10	86	438	497.858	500.539	B	i just did an accident ann , i 'm not doing that again .	.
+10	87	439	499.326	500.763	A	no i 'll try .	no
+10	87	440	499.326	500.763	A	no i 'll try .	i
+10	87	441	499.326	500.763	A	no i 'll try .	'll
+10	87	442	499.326	500.763	A	no i 'll try .	try
+10	87	443	499.326	500.763	A	no i 'll try .	.
+10	88	444	501.846	503.239	B	um that 's	um
+10	88	445	501.846	503.239	B	um that 's	that
+10	88	446	501.846	503.239	B	um that 's	's
+10	89	447	501.876	504.288	A	let 's start from here ,	let
+10	89	448	501.876	504.288	A	let 's start from here ,	's
+10	89	449	501.876	504.288	A	let 's start from here ,	start
+10	89	450	501.876	504.288	A	let 's start from here ,	from
+10	89	451	501.876	504.288	A	let 's start from here ,	here
+10	89	452	501.876	504.288	A	let 's start from here ,	,
+10	90	453	505.201	505.816	A	to	to
+10	91	454	511.475	512.119	B	nice .	nice
+10	91	455	511.475	512.119	B	nice .	.
+10	92	456	519.383	520.087	B	okay .	okay
+10	92	457	519.383	520.087	B	okay .	.
+10	93	458	521.121	521.854	B	um	um
+10	94	459	523.853	524.437	B	should i do	should
+10	94	460	523.853	524.437	B	should i do	i
+10	94	461	523.853	524.437	B	should i do	do
+10	95	462	525.051	526.369	B	bern , bern ?	bern
+10	95	463	525.051	526.369	B	bern , bern ?	,
+10	95	464	525.051	526.369	B	bern , bern ?	bern
+10	95	465	525.051	526.369	B	bern , bern ?	?
+10	96	466	526.504	526.969	A	what ?	what
+10	96	467	526.504	526.969	A	what ?	?
+10	97	468	526.969	528.077	B	you wanna do the mount bern ?	you
+10	97	469	526.969	528.077	B	you wanna do the mount bern ?	wanna
+10	97	470	526.969	528.077	B	you wanna do the mount bern ?	do
+10	97	471	526.969	528.077	B	you wanna do the mount bern ?	the
+10	97	472	526.969	528.077	B	you wanna do the mount bern ?	mount
+10	97	473	526.969	528.077	B	you wanna do the mount bern ?	bern
+10	97	474	526.969	528.077	B	you wanna do the mount bern ?	?
+10	98	475	528.757	530.660	B	or mount interlaken to bern .	or
+10	98	476	528.757	530.660	B	or mount interlaken to bern .	mount
+10	98	477	528.757	530.660	B	or mount interlaken to bern .	interlaken
+10	98	478	528.757	530.660	B	or mount interlaken to bern .	to
+10	98	479	528.757	530.660	B	or mount interlaken to bern .	bern
+10	98	480	528.757	530.660	B	or mount interlaken to bern .	.
+10	99	481	529.402	530.031	A	go	go
+10	100	482	531.049	531.978	A	go to	go
+10	100	483	531.049	531.978	A	go to	to
+10	101	484	532.262	533.101	B	to which one ?	to
+10	101	485	532.262	533.101	B	to which one ?	which
+10	101	486	532.262	533.101	B	to which one ?	one
+10	101	487	532.262	533.101	B	to which one ?	?
+10	102	488	532.802	533.655	A	zermatt .	zermatt
+10	102	489	532.802	533.655	A	zermatt .	.
+10	103	490	534.624	535.418	B	luzern ?	luzern
+10	103	491	534.624	535.418	B	luzern ?	?
+10	104	492	536.047	537.185	A	zermatt .	zermatt
+10	104	493	536.047	537.185	A	zermatt .	.
+10	105	494	541.794	542.783	B	okay now should we do	okay
+10	105	495	541.794	542.783	B	okay now should we do	now
+10	105	496	541.794	542.783	B	okay now should we do	should
+10	105	497	541.794	542.783	B	okay now should we do	we
+10	105	498	541.794	542.783	B	okay now should we do	do
+10	106	499	543.427	544.940	B	mount zermatt to	mount
+10	106	500	543.427	544.940	B	mount zermatt to	zermatt
+10	106	501	543.427	544.940	B	mount zermatt to	to
+10	107	502	545.374	545.943	A	mount	mount
+10	108	503	546.228	547.067	B	luzern .	luzern
+10	108	504	546.228	547.067	B	luzern .	.
+10	109	505	548.363	548.888	B	luzern .	luzern
+10	109	506	548.363	548.888	B	luzern .	.
+10	110	507	548.843	549.367	A	yeah .	yeah
+10	110	508	548.843	549.367	A	yeah .	.
+10	111	509	550.945	552.068	B	okay , your turn .	okay
+10	111	510	550.945	552.068	B	okay , your turn .	,
+10	111	511	550.945	552.068	B	okay , your turn .	your
+10	111	512	550.945	552.068	B	okay , your turn .	turn
+10	111	513	550.945	552.068	B	okay , your turn .	.
+10	112	514	553.177	556.412	B	you wanna do mount luzern to mount bern or something ?	you
+10	112	515	553.177	556.412	B	you wanna do mount luzern to mount bern or something ?	wanna
+10	112	516	553.177	556.412	B	you wanna do mount luzern to mount bern or something ?	do
+10	112	517	553.177	556.412	B	you wanna do mount luzern to mount bern or something ?	mount
+10	112	518	553.177	556.412	B	you wanna do mount luzern to mount bern or something ?	luzern
+10	112	519	553.177	556.412	B	you wanna do mount luzern to mount bern or something ?	to
+10	112	520	553.177	556.412	B	you wanna do mount luzern to mount bern or something ?	mount
+10	112	521	553.177	556.412	B	you wanna do mount luzern to mount bern or something ?	bern
+10	112	522	553.177	556.412	B	you wanna do mount luzern to mount bern or something ?	or
+10	112	523	553.177	556.412	B	you wanna do mount luzern to mount bern or something ?	something
+10	112	524	553.177	556.412	B	you wanna do mount luzern to mount bern or something ?	?
+10	113	525	556.862	557.700	B	i 'm gon na try that .	i
+10	113	526	556.862	557.700	B	i 'm gon na try that .	'm
+10	113	527	556.862	557.700	B	i 'm gon na try that .	gon
+10	113	528	556.862	557.700	B	i 'm gon na try that .	na
+10	113	529	556.862	557.700	B	i 'm gon na try that .	try
+10	113	530	556.862	557.700	B	i 'm gon na try that .	that
+10	113	531	556.862	557.700	B	i 'm gon na try that .	.
+10	114	532	563.041	564.464	B	okay nice , now ,	okay
+10	114	533	563.041	564.464	B	okay nice , now ,	nice
+10	114	534	563.041	564.464	B	okay nice , now ,	,
+10	114	535	563.041	564.464	B	okay nice , now ,	now
+10	114	536	563.041	564.464	B	okay nice , now ,	,
+10	115	537	565.109	566.831	B	mount bern to	mount
+10	115	538	565.109	566.831	B	mount bern to	bern
+10	115	539	565.109	566.831	B	mount bern to	to
+10	116	540	567.595	569.587	B	i do n't know .	i
+10	116	541	567.595	569.587	B	i do n't know .	do
+10	116	542	567.595	569.587	B	i do n't know .	n't
+10	116	543	567.595	569.587	B	i do n't know .	know
+10	116	544	567.595	569.587	B	i do n't know .	.
+10	117	545	569.842	573.392	A	i 'm gon na try and go to mount basel to mount zurich .	i
+10	117	546	569.842	573.392	A	i 'm gon na try and go to mount basel to mount zurich .	'm
+10	117	547	569.842	573.392	A	i 'm gon na try and go to mount basel to mount zurich .	gon
+10	117	548	569.842	573.392	A	i 'm gon na try and go to mount basel to mount zurich .	na
+10	117	549	569.842	573.392	A	i 'm gon na try and go to mount basel to mount zurich .	try
+10	117	550	569.842	573.392	A	i 'm gon na try and go to mount basel to mount zurich .	and
+10	117	551	569.842	573.392	A	i 'm gon na try and go to mount basel to mount zurich .	go
+10	117	552	569.842	573.392	A	i 'm gon na try and go to mount basel to mount zurich .	to
+10	117	553	569.842	573.392	A	i 'm gon na try and go to mount basel to mount zurich .	mount
+10	117	554	569.842	573.392	A	i 'm gon na try and go to mount basel to mount zurich .	basel
+10	117	555	569.842	573.392	A	i 'm gon na try and go to mount basel to mount zurich .	to
+10	117	556	569.842	573.392	A	i 'm gon na try and go to mount basel to mount zurich .	mount
+10	117	557	569.842	573.392	A	i 'm gon na try and go to mount basel to mount zurich .	zurich
+10	117	558	569.842	573.392	A	i 'm gon na try and go to mount basel to mount zurich .	.
+10	118	559	569.976	570.261	B	yeah	yeah
+10	119	560	570.516	573.481	B	okay i do mount basel	okay
+10	119	561	570.516	573.481	B	okay i do mount basel	i
+10	119	562	570.516	573.481	B	okay i do mount basel	do
+10	119	563	570.516	573.481	B	okay i do mount basel	mount
+10	119	564	570.516	573.481	B	okay i do mount basel	basel
+10	120	565	574.371	576.393	B	basel to mount neuchatel .	basel
+10	120	566	574.371	576.393	B	basel to mount neuchatel .	to
+10	120	567	574.371	576.393	B	basel to mount neuchatel .	mount
+10	120	568	574.371	576.393	B	basel to mount neuchatel .	neuchatel
+10	120	569	574.371	576.393	B	basel to mount neuchatel .	.
+10	121	570	575.509	576.482	A	zurich .	zurich
+10	121	571	575.509	576.482	A	zurich .	.
+10	122	572	577.104	578.048	A	or mount zurich .	or
+10	122	573	577.104	578.048	A	or mount zurich .	mount
+10	122	574	577.104	578.048	A	or mount zurich .	zurich
+10	122	575	577.104	578.048	A	or mount zurich .	.
+10	123	576	577.164	578.138	B	or zurich .	or
+10	123	577	577.164	578.138	B	or zurich .	zurich
+10	123	578	577.164	578.138	B	or zurich .	.
+10	124	579	578.542	579.081	A	yeah .	yeah
+10	124	580	578.542	579.081	A	yeah .	.
+10	125	581	579.246	579.710	B	zurich ?	zurich
+10	125	582	579.246	579.710	B	zurich ?	?
+10	126	583	579.830	580.265	A	yeah .	yeah
+10	126	584	579.830	580.265	A	yeah .	.
+10	127	585	580.220	580.969	B	okay .	okay
+10	127	586	580.220	580.969	B	okay .	.
+10	128	587	582.937	584.600	B	i i did zurich ,	i
+10	128	588	582.937	584.600	B	i i did zurich ,	i
+10	128	589	582.937	584.600	B	i i did zurich ,	did
+10	128	590	582.937	584.600	B	i i did zurich ,	zurich
+10	128	591	582.937	584.600	B	i i did zurich ,	,
+10	129	592	584.600	585.229	B	then let 's do	then
+10	129	593	584.600	585.229	B	then let 's do	let
+10	129	594	584.600	585.229	B	then let 's do	's
+10	129	595	584.600	585.229	B	then let 's do	do
+10	130	596	584.600	585.394	A	then go to	then
+10	130	597	584.600	585.394	A	then go to	go
+10	130	598	584.600	585.394	A	then go to	to
+10	131	599	585.394	586.083	A	mount	mount
+10	132	600	585.529	587.056	B	t s t gallen	t
+10	132	601	585.529	587.056	B	t s t gallen	s
+10	132	602	585.529	587.056	B	t s t gallen	t
+10	132	603	585.529	587.056	B	t s t gallen	gallen
+10	133	604	587.230	587.709	A	yeah .	yeah
+10	133	605	587.230	587.709	A	yeah .	.
+10	134	606	587.275	588.009	B	from zurich ?	from
+10	134	607	587.275	588.009	B	from zurich ?	zurich
+10	134	608	587.275	588.009	B	from zurich ?	?
+10	135	609	588.653	589.207	A	yeah .	yeah
+10	135	610	588.653	589.207	A	yeah .	.
+10	136	611	589.267	589.956	B	okay .	okay
+10	136	612	589.267	589.956	B	okay .	.
+10	137	613	591.274	592.262	B	your turn .	your
+10	137	614	591.274	592.262	B	your turn .	turn
+10	137	615	591.274	592.262	B	your turn .	.
+10	138	616	598.250	598.789	B	to	to
+10	139	617	598.789	600.466	A	now i think we can submit .	now
+10	139	618	598.789	600.466	A	now i think we can submit .	i
+10	139	619	598.789	600.466	A	now i think we can submit .	think
+10	139	620	598.789	600.466	A	now i think we can submit .	we
+10	139	621	598.789	600.466	A	now i think we can submit .	can
+10	139	622	598.789	600.466	A	now i think we can submit .	submit
+10	139	623	598.789	600.466	A	now i think we can submit .	.
+10	140	624	600.332	602.090	B	okay yeah press submit , let 's see .	okay
+10	140	625	600.332	602.090	B	okay yeah press submit , let 's see .	yeah
+10	140	626	600.332	602.090	B	okay yeah press submit , let 's see .	press
+10	140	627	600.332	602.090	B	okay yeah press submit , let 's see .	submit
+10	140	628	600.332	602.090	B	okay yeah press submit , let 's see .	,
+10	140	629	600.332	602.090	B	okay yeah press submit , let 's see .	let
+10	140	630	600.332	602.090	B	okay yeah press submit , let 's see .	's
+10	140	631	600.332	602.090	B	okay yeah press submit , let 's see .	see
+10	140	632	600.332	602.090	B	okay yeah press submit , let 's see .	.
+10	141	633	607.755	609.319	B	oh we 're so close .	oh
+10	141	634	607.755	609.319	B	oh we 're so close .	we
+10	141	635	607.755	609.319	B	oh we 're so close .	're
+10	141	636	607.755	609.319	B	oh we 're so close .	so
+10	141	637	607.755	609.319	B	oh we 're so close .	close
+10	141	638	607.755	609.319	B	oh we 're so close .	.
+10	142	639	611.993	613.071	B	let 's try again .	let
+10	142	640	611.993	613.071	B	let 's try again .	's
+10	142	641	611.993	613.071	B	let 's try again .	try
+10	142	642	611.993	613.071	B	let 's try again .	again
+10	142	643	611.993	613.071	B	let 's try again .	.
+10	143	644	612.921	614.809	A	maybe it 's from	maybe
+10	143	645	612.921	614.809	A	maybe it 's from	it
+10	143	646	612.921	614.809	A	maybe it 's from	's
+10	143	647	612.921	614.809	A	maybe it 's from	from
+10	144	648	614.809	615.333	B	mount	mount
+10	145	649	615.548	617.240	B	zermatt to mount luzern ?	zermatt
+10	145	650	615.548	617.240	B	zermatt to mount luzern ?	to
+10	145	651	615.548	617.240	B	zermatt to mount luzern ?	mount
+10	145	652	615.548	617.240	B	zermatt to mount luzern ?	luzern
+10	145	653	615.548	617.240	B	zermatt to mount luzern ?	?
+10	146	654	618.130	618.609	A	or	or
+10	147	655	619.717	620.421	A	here ?	here
+10	147	656	619.717	620.421	A	here ?	?
+10	148	657	620.751	622.204	B	let 's try that , okay .	let
+10	148	658	620.751	622.204	B	let 's try that , okay .	's
+10	148	659	620.751	622.204	B	let 's try that , okay .	try
+10	148	660	620.751	622.204	B	let 's try that , okay .	that
+10	148	661	620.751	622.204	B	let 's try that , okay .	,
+10	148	662	620.751	622.204	B	let 's try that , okay .	okay
+10	148	663	620.751	622.204	B	let 's try that , okay .	.
+10	149	664	622.668	623.881	B	or that , yeah .	or
+10	149	665	622.668	623.881	B	or that , yeah .	that
+10	149	666	622.668	623.881	B	or that , yeah .	,
+10	149	667	622.668	623.881	B	or that , yeah .	yeah
+10	149	668	622.668	623.881	B	or that , yeah .	.
+10	150	669	624.996	625.970	A	then maybe	then
+10	150	670	624.996	625.970	A	then maybe	maybe
+10	151	671	627.636	629.073	B	oh no you choose	oh
+10	151	672	627.636	629.073	B	oh no you choose	no
+10	151	673	627.636	629.073	B	oh no you choose	you
+10	151	674	627.636	629.073	B	oh no you choose	choose
+10	152	675	629.223	630.137	A	to here .	to
+10	152	676	629.223	630.137	A	to here .	here
+10	152	677	629.223	630.137	A	to here .	.
+10	153	678	630.667	633.453	B	okay i 'm going to mount	okay
+10	153	679	630.667	633.453	B	okay i 'm going to mount	i
+10	153	680	630.667	633.453	B	okay i 'm going to mount	'm
+10	153	681	630.667	633.453	B	okay i 'm going to mount	going
+10	153	682	630.667	633.453	B	okay i 'm going to mount	to
+10	153	683	630.667	633.453	B	okay i 'm going to mount	mount
+10	154	684	634.957	635.601	B	bern .	bern
+10	154	685	634.957	635.601	B	bern .	.
+10	155	686	637.788	638.716	B	and then	and
+10	155	687	637.788	638.716	B	and then	then
+10	156	688	639.019	641.056	A	to mount basel	to
+10	156	689	639.019	641.056	A	to mount basel	mount
+10	156	690	639.019	641.056	A	to mount basel	basel
+10	157	691	640.175	641.703	B	yeah mount basel you 're right .	yeah
+10	157	692	640.175	641.703	B	yeah mount basel you 're right .	mount
+10	157	693	640.175	641.703	B	yeah mount basel you 're right .	basel
+10	157	694	640.175	641.703	B	yeah mount basel you 're right .	you
+10	157	695	640.175	641.703	B	yeah mount basel you 're right .	're
+10	157	696	640.175	641.703	B	yeah mount basel you 're right .	right
+10	157	697	640.175	641.703	B	yeah mount basel you 're right .	.
+10	158	698	641.852	642.392	B	okay .	okay
+10	158	699	641.852	642.392	B	okay .	.
+10	159	700	648.683	649.551	B	yeah .	yeah
+10	159	701	648.683	649.551	B	yeah .	.
+10	160	702	650.974	654.078	B	to mount davos , so far .	to
+10	160	703	650.974	654.078	B	to mount davos , so far .	mount
+10	160	704	650.974	654.078	B	to mount davos , so far .	davos
+10	160	705	650.974	654.078	B	to mount davos , so far .	,
+10	160	706	650.974	654.078	B	to mount davos , so far .	so
+10	160	707	650.974	654.078	B	to mount davos , so far .	far
+10	160	708	650.974	654.078	B	to mount davos , so far .	.
+10	161	709	657.535	657.969	B	okay .	okay
+10	161	710	657.535	657.969	B	okay .	.
+10	162	711	658.629	660.935	A	i think you need to get them exactly on the tracks .	i
+10	162	712	658.629	660.935	A	i think you need to get them exactly on the tracks .	think
+10	162	713	658.629	660.935	A	i think you need to get them exactly on the tracks .	you
+10	162	714	658.629	660.935	A	i think you need to get them exactly on the tracks .	need
+10	162	715	658.629	660.935	A	i think you need to get them exactly on the tracks .	to
+10	162	716	658.629	660.935	A	i think you need to get them exactly on the tracks .	get
+10	162	717	658.629	660.935	A	i think you need to get them exactly on the tracks .	them
+10	162	718	658.629	660.935	A	i think you need to get them exactly on the tracks .	exactly
+10	162	719	658.629	660.935	A	i think you need to get them exactly on the tracks .	on
+10	162	720	658.629	660.935	A	i think you need to get them exactly on the tracks .	the
+10	162	721	658.629	660.935	A	i think you need to get them exactly on the tracks .	tracks
+10	162	722	658.629	660.935	A	i think you need to get them exactly on the tracks .	.
+10	163	723	661.834	662.358	B	no .	no
+10	163	724	661.834	662.358	B	no .	.
+10	164	725	663.118	664.346	B	i do n't think that 's how .	i
+10	164	726	663.118	664.346	B	i do n't think that 's how .	do
+10	164	727	663.118	664.346	B	i do n't think that 's how .	n't
+10	164	728	663.118	664.346	B	i do n't think that 's how .	think
+10	164	729	663.118	664.346	B	i do n't think that 's how .	that
+10	164	730	663.118	664.346	B	i do n't think that 's how .	's
+10	164	731	663.118	664.346	B	i do n't think that 's how .	how
+10	164	732	663.118	664.346	B	i do n't think that 's how .	.
+10	165	733	666.338	667.402	A	and maybe to mount	and
+10	165	734	666.338	667.402	A	and maybe to mount	maybe
+10	165	735	666.338	667.402	A	and maybe to mount	to
+10	165	736	666.338	667.402	A	and maybe to mount	mount
+10	166	737	674.995	676.103	B	nice .	nice
+10	166	738	674.995	676.103	B	nice .	.
+10	167	739	677.032	677.781	A	bern .	bern
+10	167	740	677.032	677.781	A	bern .	.
+10	168	741	678.410	682.296	B	i think you do one more and then i , okay we can submit let 's see , you wanna submit ?	i
+10	168	742	678.410	682.296	B	i think you do one more and then i , okay we can submit let 's see , you wanna submit ?	think
+10	168	743	678.410	682.296	B	i think you do one more and then i , okay we can submit let 's see , you wanna submit ?	you
+10	168	744	678.410	682.296	B	i think you do one more and then i , okay we can submit let 's see , you wanna submit ?	do
+10	168	745	678.410	682.296	B	i think you do one more and then i , okay we can submit let 's see , you wanna submit ?	one
+10	168	746	678.410	682.296	B	i think you do one more and then i , okay we can submit let 's see , you wanna submit ?	more
+10	168	747	678.410	682.296	B	i think you do one more and then i , okay we can submit let 's see , you wanna submit ?	and
+10	168	748	678.410	682.296	B	i think you do one more and then i , okay we can submit let 's see , you wanna submit ?	then
+10	168	749	678.410	682.296	B	i think you do one more and then i , okay we can submit let 's see , you wanna submit ?	i
+10	168	750	678.410	682.296	B	i think you do one more and then i , okay we can submit let 's see , you wanna submit ?	,
+10	168	751	678.410	682.296	B	i think you do one more and then i , okay we can submit let 's see , you wanna submit ?	okay
+10	168	752	678.410	682.296	B	i think you do one more and then i , okay we can submit let 's see , you wanna submit ?	we
+10	168	753	678.410	682.296	B	i think you do one more and then i , okay we can submit let 's see , you wanna submit ?	can
+10	168	754	678.410	682.296	B	i think you do one more and then i , okay we can submit let 's see , you wanna submit ?	submit
+10	168	755	678.410	682.296	B	i think you do one more and then i , okay we can submit let 's see , you wanna submit ?	let
+10	168	756	678.410	682.296	B	i think you do one more and then i , okay we can submit let 's see , you wanna submit ?	's
+10	168	757	678.410	682.296	B	i think you do one more and then i , okay we can submit let 's see , you wanna submit ?	see
+10	168	758	678.410	682.296	B	i think you do one more and then i , okay we can submit let 's see , you wanna submit ?	,
+10	168	759	678.410	682.296	B	i think you do one more and then i , okay we can submit let 's see , you wanna submit ?	you
+10	168	760	678.410	682.296	B	i think you do one more and then i , okay we can submit let 's see , you wanna submit ?	wanna
+10	168	761	678.410	682.296	B	i think you do one more and then i , okay we can submit let 's see , you wanna submit ?	submit
+10	168	762	678.410	682.296	B	i think you do one more and then i , okay we can submit let 's see , you wanna submit ?	?
+10	169	763	683.458	684.506	B	should we submit now ?	should
+10	169	764	683.458	684.506	B	should we submit now ?	we
+10	169	765	683.458	684.506	B	should we submit now ?	submit
+10	169	766	683.458	684.506	B	should we submit now ?	now
+10	169	767	683.458	684.506	B	should we submit now ?	?
+10	170	768	683.907	685.045	A	yeah submit .	yeah
+10	170	769	683.907	685.045	A	yeah submit .	submit
+10	170	770	683.907	685.045	A	yeah submit .	.
+10	171	771	684.731	686.154	B	okay , i press submit .	okay
+10	171	772	684.731	686.154	B	okay , i press submit .	,
+10	171	773	684.731	686.154	B	okay , i press submit .	i
+10	171	774	684.731	686.154	B	okay , i press submit .	press
+10	171	775	684.731	686.154	B	okay , i press submit .	submit
+10	171	776	684.731	686.154	B	okay , i press submit .	.
+10	172	777	688.049	689.606	B	oh , it is so hard .	oh
+10	172	778	688.049	689.606	B	oh , it is so hard .	,
+10	172	779	688.049	689.606	B	oh , it is so hard .	it
+10	172	780	688.049	689.606	B	oh , it is so hard .	is
+10	172	781	688.049	689.606	B	oh , it is so hard .	so
+10	172	782	688.049	689.606	B	oh , it is so hard .	hard
+10	172	783	688.049	689.606	B	oh , it is so hard .	.
+10	173	784	691.748	693.156	B	it 's hard .	it
+10	173	785	691.748	693.156	B	it 's hard .	's
+10	173	786	691.748	693.156	B	it 's hard .	hard
+10	173	787	691.748	693.156	B	it 's hard .	.
+10	174	788	694.055	695.014	B	let 's try again .	let
+10	174	789	694.055	695.014	B	let 's try again .	's
+10	174	790	694.055	695.014	B	let 's try again .	try
+10	174	791	694.055	695.014	B	let 's try again .	again
+10	174	792	694.055	695.014	B	let 's try again .	.
+10	175	793	696.502	700.157	A	maybe we start from , mount zermatt ?	maybe
+10	175	794	696.502	700.157	A	maybe we start from , mount zermatt ?	we
+10	175	795	696.502	700.157	A	maybe we start from , mount zermatt ?	start
+10	175	796	696.502	700.157	A	maybe we start from , mount zermatt ?	from
+10	175	797	696.502	700.157	A	maybe we start from , mount zermatt ?	,
+10	175	798	696.502	700.157	A	maybe we start from , mount zermatt ?	mount
+10	175	799	696.502	700.157	A	maybe we start from , mount zermatt ?	zermatt
+10	175	800	696.502	700.157	A	maybe we start from , mount zermatt ?	?
+10	176	801	700.103	704.387	B	no lets do mount davos to , where do you wanna go ?	no
+10	176	802	700.103	704.387	B	no lets do mount davos to , where do you wanna go ?	lets
+10	176	803	700.103	704.387	B	no lets do mount davos to , where do you wanna go ?	do
+10	176	804	700.103	704.387	B	no lets do mount davos to , where do you wanna go ?	mount
+10	176	805	700.103	704.387	B	no lets do mount davos to , where do you wanna go ?	davos
+10	176	806	700.103	704.387	B	no lets do mount davos to , where do you wanna go ?	to
+10	176	807	700.103	704.387	B	no lets do mount davos to , where do you wanna go ?	,
+10	176	808	700.103	704.387	B	no lets do mount davos to , where do you wanna go ?	where
+10	176	809	700.103	704.387	B	no lets do mount davos to , where do you wanna go ?	do
+10	176	810	700.103	704.387	B	no lets do mount davos to , where do you wanna go ?	you
+10	176	811	700.103	704.387	B	no lets do mount davos to , where do you wanna go ?	wanna
+10	176	812	700.103	704.387	B	no lets do mount davos to , where do you wanna go ?	go
+10	176	813	700.103	704.387	B	no lets do mount davos to , where do you wanna go ?	?
+10	177	814	703.973	707.059	A	to , mount , s t gallen .	to
+10	177	815	703.973	707.059	A	to , mount , s t gallen .	,
+10	177	816	703.973	707.059	A	to , mount , s t gallen .	mount
+10	177	817	703.973	707.059	A	to , mount , s t gallen .	,
+10	177	818	703.973	707.059	A	to , mount , s t gallen .	s
+10	177	819	703.973	707.059	A	to , mount , s t gallen .	t
+10	177	820	703.973	707.059	A	to , mount , s t gallen .	gallen
+10	177	821	703.973	707.059	A	to , mount , s t gallen .	.
+10	178	822	707.163	707.733	B	okay .	okay
+10	178	823	707.163	707.733	B	okay .	.
+10	179	824	709.252	711.064	B	and then mount s t gallen to mount	and
+10	179	825	709.252	711.064	B	and then mount s t gallen to mount	then
+10	179	826	709.252	711.064	B	and then mount s t gallen to mount	mount
+10	179	827	709.252	711.064	B	and then mount s t gallen to mount	s
+10	179	828	709.252	711.064	B	and then mount s t gallen to mount	t
+10	179	829	709.252	711.064	B	and then mount s t gallen to mount	gallen
+10	179	830	709.252	711.064	B	and then mount s t gallen to mount	to
+10	179	831	709.252	711.064	B	and then mount s t gallen to mount	mount
+10	180	832	711.738	712.337	B	zurich .	zurich
+10	180	833	711.738	712.337	B	zurich .	.
+10	181	834	713.391	714.889	B	or luzern which one ?	or
+10	181	835	713.391	714.889	B	or luzern which one ?	luzern
+10	181	836	713.391	714.889	B	or luzern which one ?	which
+10	181	837	713.391	714.889	B	or luzern which one ?	one
+10	181	838	713.391	714.889	B	or luzern which one ?	?
+10	182	839	714.320	715.069	A	no luzern .	no
+10	182	840	714.320	715.069	A	no luzern .	luzern
+10	182	841	714.320	715.069	A	no luzern .	.
+10	183	842	715.279	717.361	B	though yeah , i think i 'll need zurich .	though
+10	183	843	715.279	717.361	B	though yeah , i think i 'll need zurich .	yeah
+10	183	844	715.279	717.361	B	though yeah , i think i 'll need zurich .	,
+10	183	845	715.279	717.361	B	though yeah , i think i 'll need zurich .	i
+10	183	846	715.279	717.361	B	though yeah , i think i 'll need zurich .	think
+10	183	847	715.279	717.361	B	though yeah , i think i 'll need zurich .	i
+10	183	848	715.279	717.361	B	though yeah , i think i 'll need zurich .	'll
+10	183	849	715.279	717.361	B	though yeah , i think i 'll need zurich .	need
+10	183	850	715.279	717.361	B	though yeah , i think i 'll need zurich .	zurich
+10	183	851	715.279	717.361	B	though yeah , i think i 'll need zurich .	.
+10	184	852	719.947	722.119	A	to maybe to mount bern ?	to
+10	184	853	719.947	722.119	A	to maybe to mount bern ?	maybe
+10	184	854	719.947	722.119	A	to maybe to mount bern ?	to
+10	184	855	719.947	722.119	A	to maybe to mount bern ?	mount
+10	184	856	719.947	722.119	A	to maybe to mount bern ?	bern
+10	184	857	719.947	722.119	A	to maybe to mount bern ?	?
+10	185	858	722.463	723.631	B	mount bern yeah try it .	mount
+10	185	859	722.463	723.631	B	mount bern yeah try it .	bern
+10	185	860	722.463	723.631	B	mount bern yeah try it .	yeah
+10	185	861	722.463	723.631	B	mount bern yeah try it .	try
+10	185	862	722.463	723.631	B	mount bern yeah try it .	it
+10	185	863	722.463	723.631	B	mount bern yeah try it .	.
+10	186	864	725.257	727.803	B	okay , now maybe to mount basel .	okay
+10	186	865	725.257	727.803	B	okay , now maybe to mount basel .	,
+10	186	866	725.257	727.803	B	okay , now maybe to mount basel .	now
+10	186	867	725.257	727.803	B	okay , now maybe to mount basel .	maybe
+10	186	868	725.257	727.803	B	okay , now maybe to mount basel .	to
+10	186	869	725.257	727.803	B	okay , now maybe to mount basel .	mount
+10	186	870	725.257	727.803	B	okay , now maybe to mount basel .	basel
+10	186	871	725.257	727.803	B	okay , now maybe to mount basel .	.
+10	187	872	733.777	734.556	B	okay .	okay
+10	187	873	733.777	734.556	B	okay .	.
+10	188	874	735.155	736.069	B	let 's do ,	let
+10	188	875	735.155	736.069	B	let 's do ,	's
+10	188	876	735.155	736.069	B	let 's do ,	do
+10	188	877	735.155	736.069	B	let 's do ,	,
+10	189	878	737.467	740.837	B	mount basel to mount neuchatel , and neuchatel to	mount
+10	189	879	737.467	740.837	B	mount basel to mount neuchatel , and neuchatel to	basel
+10	189	880	737.467	740.837	B	mount basel to mount neuchatel , and neuchatel to	to
+10	189	881	737.467	740.837	B	mount basel to mount neuchatel , and neuchatel to	mount
+10	189	882	737.467	740.837	B	mount basel to mount neuchatel , and neuchatel to	neuchatel
+10	189	883	737.467	740.837	B	mount basel to mount neuchatel , and neuchatel to	,
+10	189	884	737.467	740.837	B	mount basel to mount neuchatel , and neuchatel to	and
+10	189	885	737.467	740.837	B	mount basel to mount neuchatel , and neuchatel to	neuchatel
+10	189	886	737.467	740.837	B	mount basel to mount neuchatel , and neuchatel to	to
+10	190	887	741.863	745.382	B	mount montreux i do n't know how to pronounce it yeah .	mount
+10	190	888	741.863	745.382	B	mount montreux i do n't know how to pronounce it yeah .	montreux
+10	190	889	741.863	745.382	B	mount montreux i do n't know how to pronounce it yeah .	i
+10	190	890	741.863	745.382	B	mount montreux i do n't know how to pronounce it yeah .	do
+10	190	891	741.863	745.382	B	mount montreux i do n't know how to pronounce it yeah .	n't
+10	190	892	741.863	745.382	B	mount montreux i do n't know how to pronounce it yeah .	know
+10	190	893	741.863	745.382	B	mount montreux i do n't know how to pronounce it yeah .	how
+10	190	894	741.863	745.382	B	mount montreux i do n't know how to pronounce it yeah .	to
+10	190	895	741.863	745.382	B	mount montreux i do n't know how to pronounce it yeah .	pronounce
+10	190	896	741.863	745.382	B	mount montreux i do n't know how to pronounce it yeah .	it
+10	190	897	741.863	745.382	B	mount montreux i do n't know how to pronounce it yeah .	yeah
+10	190	898	741.863	745.382	B	mount montreux i do n't know how to pronounce it yeah .	.
+10	191	899	749.479	750.318	B	okay .	okay
+10	191	900	749.479	750.318	B	okay .	.
+10	192	901	752.077	752.736	B	nice .	nice
+10	192	902	752.077	752.736	B	nice .	.
+10	193	903	753.125	753.620	A	to	to
+10	194	904	763.421	765.338	A	maybe to mount bern .	maybe
+10	194	905	763.421	765.338	A	maybe to mount bern .	to
+10	194	906	763.421	765.338	A	maybe to mount bern .	mount
+10	194	907	763.421	765.338	A	maybe to mount bern .	bern
+10	194	908	763.421	765.338	A	maybe to mount bern .	.
+10	195	909	763.556	765.473	B	to , okay , um	to
+10	195	910	763.556	765.473	B	to , okay , um	,
+10	195	911	763.556	765.473	B	to , okay , um	okay
+10	195	912	763.556	765.473	B	to , okay , um	,
+10	195	913	763.556	765.473	B	to , okay , um	um
+10	196	914	765.668	766.402	A	to mount	to
+10	196	915	765.668	766.402	A	to mount	mount
+10	197	916	766.477	768.649	B	mount luzern to where ?	mount
+10	197	917	766.477	768.649	B	mount luzern to where ?	luzern
+10	197	918	766.477	768.649	B	mount luzern to where ?	to
+10	197	919	766.477	768.649	B	mount luzern to where ?	where
+10	197	920	766.477	768.649	B	mount luzern to where ?	?
+10	198	921	768.094	768.649	A	yeah .	yeah
+10	198	922	768.094	768.649	A	yeah .	.
+10	199	923	769.248	773.733	A	to mount , to mount luzern .	to
+10	199	924	769.248	773.733	A	to mount , to mount luzern .	mount
+10	199	925	769.248	773.733	A	to mount , to mount luzern .	,
+10	199	926	769.248	773.733	A	to mount , to mount luzern .	to
+10	199	927	769.248	773.733	A	to mount , to mount luzern .	mount
+10	199	928	769.248	773.733	A	to mount , to mount luzern .	luzern
+10	199	929	769.248	773.733	A	to mount , to mount luzern .	.
+10	200	930	772.714	776.151	B	i ca n't press it for some reason it 's not letting me press .	i
+10	200	931	772.714	776.151	B	i ca n't press it for some reason it 's not letting me press .	ca
+10	200	932	772.714	776.151	B	i ca n't press it for some reason it 's not letting me press .	n't
+10	200	933	772.714	776.151	B	i ca n't press it for some reason it 's not letting me press .	press
+10	200	934	772.714	776.151	B	i ca n't press it for some reason it 's not letting me press .	it
+10	200	935	772.714	776.151	B	i ca n't press it for some reason it 's not letting me press .	for
+10	200	936	772.714	776.151	B	i ca n't press it for some reason it 's not letting me press .	some
+10	200	937	772.714	776.151	B	i ca n't press it for some reason it 's not letting me press .	reason
+10	200	938	772.714	776.151	B	i ca n't press it for some reason it 's not letting me press .	it
+10	200	939	772.714	776.151	B	i ca n't press it for some reason it 's not letting me press .	's
+10	200	940	772.714	776.151	B	i ca n't press it for some reason it 's not letting me press .	not
+10	200	941	772.714	776.151	B	i ca n't press it for some reason it 's not letting me press .	letting
+10	200	942	772.714	776.151	B	i ca n't press it for some reason it 's not letting me press .	me
+10	200	943	772.714	776.151	B	i ca n't press it for some reason it 's not letting me press .	press
+10	200	944	772.714	776.151	B	i ca n't press it for some reason it 's not letting me press .	.
+10	201	945	776.702	779.263	A	to mount zermatt to luzern .	to
+10	201	946	776.702	779.263	A	to mount zermatt to luzern .	mount
+10	201	947	776.702	779.263	A	to mount zermatt to luzern .	zermatt
+10	201	948	776.702	779.263	A	to mount zermatt to luzern .	to
+10	201	949	776.702	779.263	A	to mount zermatt to luzern .	luzern
+10	201	950	776.702	779.263	A	to mount zermatt to luzern .	.
+10	202	951	778.244	779.248	B	well wait , wait wait wait .	well
+10	202	952	778.244	779.248	B	well wait , wait wait wait .	wait
+10	202	953	778.244	779.248	B	well wait , wait wait wait .	,
+10	202	954	778.244	779.248	B	well wait , wait wait wait .	wait
+10	202	955	778.244	779.248	B	well wait , wait wait wait .	wait
+10	202	956	778.244	779.248	B	well wait , wait wait wait .	wait
+10	202	957	778.244	779.248	B	well wait , wait wait wait .	.
+10	203	958	780.870	783.940	B	wait i ca n't , it 's not working for me .	wait
+10	203	959	780.870	783.940	B	wait i ca n't , it 's not working for me .	i
+10	203	960	780.870	783.940	B	wait i ca n't , it 's not working for me .	ca
+10	203	961	780.870	783.940	B	wait i ca n't , it 's not working for me .	n't
+10	203	962	780.870	783.940	B	wait i ca n't , it 's not working for me .	,
+10	203	963	780.870	783.940	B	wait i ca n't , it 's not working for me .	it
+10	203	964	780.870	783.940	B	wait i ca n't , it 's not working for me .	's
+10	203	965	780.870	783.940	B	wait i ca n't , it 's not working for me .	not
+10	203	966	780.870	783.940	B	wait i ca n't , it 's not working for me .	working
+10	203	967	780.870	783.940	B	wait i ca n't , it 's not working for me .	for
+10	203	968	780.870	783.940	B	wait i ca n't , it 's not working for me .	me
+10	203	969	780.870	783.940	B	wait i ca n't , it 's not working for me .	.
+10	204	970	783.243	786.119	A	mount zermatt to uh mount luzern .	mount
+10	204	971	783.243	786.119	A	mount zermatt to uh mount luzern .	zermatt
+10	204	972	783.243	786.119	A	mount zermatt to uh mount luzern .	to
+10	204	973	783.243	786.119	A	mount zermatt to uh mount luzern .	uh
+10	204	974	783.243	786.119	A	mount zermatt to uh mount luzern .	mount
+10	204	975	783.243	786.119	A	mount zermatt to uh mount luzern .	luzern
+10	204	976	783.243	786.119	A	mount zermatt to uh mount luzern .	.
+10	205	977	785.265	789.324	B	wait what mount zermatt , oh yeah it 's because i did n't do a railroad yet .	wait
+10	205	978	785.265	789.324	B	wait what mount zermatt , oh yeah it 's because i did n't do a railroad yet .	what
+10	205	979	785.265	789.324	B	wait what mount zermatt , oh yeah it 's because i did n't do a railroad yet .	mount
+10	205	980	785.265	789.324	B	wait what mount zermatt , oh yeah it 's because i did n't do a railroad yet .	zermatt
+10	205	981	785.265	789.324	B	wait what mount zermatt , oh yeah it 's because i did n't do a railroad yet .	,
+10	205	982	785.265	789.324	B	wait what mount zermatt , oh yeah it 's because i did n't do a railroad yet .	oh
+10	205	983	785.265	789.324	B	wait what mount zermatt , oh yeah it 's because i did n't do a railroad yet .	yeah
+10	205	984	785.265	789.324	B	wait what mount zermatt , oh yeah it 's because i did n't do a railroad yet .	it
+10	205	985	785.265	789.324	B	wait what mount zermatt , oh yeah it 's because i did n't do a railroad yet .	's
+10	205	986	785.265	789.324	B	wait what mount zermatt , oh yeah it 's because i did n't do a railroad yet .	because
+10	205	987	785.265	789.324	B	wait what mount zermatt , oh yeah it 's because i did n't do a railroad yet .	i
+10	205	988	785.265	789.324	B	wait what mount zermatt , oh yeah it 's because i did n't do a railroad yet .	did
+10	205	989	785.265	789.324	B	wait what mount zermatt , oh yeah it 's because i did n't do a railroad yet .	n't
+10	205	990	785.265	789.324	B	wait what mount zermatt , oh yeah it 's because i did n't do a railroad yet .	do
+10	205	991	785.265	789.324	B	wait what mount zermatt , oh yeah it 's because i did n't do a railroad yet .	a
+10	205	992	785.265	789.324	B	wait what mount zermatt , oh yeah it 's because i did n't do a railroad yet .	railroad
+10	205	993	785.265	789.324	B	wait what mount zermatt , oh yeah it 's because i did n't do a railroad yet .	yet
+10	205	994	785.265	789.324	B	wait what mount zermatt , oh yeah it 's because i did n't do a railroad yet .	.
+10	206	995	789.987	791.683	B	um mount zermatt to mount luzern ,	um
+10	206	996	789.987	791.683	B	um mount zermatt to mount luzern ,	mount
+10	206	997	789.987	791.683	B	um mount zermatt to mount luzern ,	zermatt
+10	206	998	789.987	791.683	B	um mount zermatt to mount luzern ,	to
+10	206	999	789.987	791.683	B	um mount zermatt to mount luzern ,	mount
+10	206	1000	789.987	791.683	B	um mount zermatt to mount luzern ,	luzern
+10	206	1001	789.987	791.683	B	um mount zermatt to mount luzern ,	,
+10	207	1002	790.221	790.760	A	mount	mount
+10	208	1003	791.809	792.258	A	yeah .	yeah
+10	208	1004	791.809	792.258	A	yeah .	.
+10	209	1005	792.558	794.220	B	or to mount davos .	or
+10	209	1006	792.558	794.220	B	or to mount davos .	to
+10	209	1007	792.558	794.220	B	or to mount davos .	mount
+10	209	1008	792.558	794.220	B	or to mount davos .	davos
+10	209	1009	792.558	794.220	B	or to mount davos .	.
+10	210	1010	794.220	797.740	A	maybe to no um mount luzern because there 's already one over there .	maybe
+10	210	1011	794.220	797.740	A	maybe to no um mount luzern because there 's already one over there .	to
+10	210	1012	794.220	797.740	A	maybe to no um mount luzern because there 's already one over there .	no
+10	210	1013	794.220	797.740	A	maybe to no um mount luzern because there 's already one over there .	um
+10	210	1014	794.220	797.740	A	maybe to no um mount luzern because there 's already one over there .	mount
+10	210	1015	794.220	797.740	A	maybe to no um mount luzern because there 's already one over there .	luzern
+10	210	1016	794.220	797.740	A	maybe to no um mount luzern because there 's already one over there .	because
+10	210	1017	794.220	797.740	A	maybe to no um mount luzern because there 's already one over there .	there
+10	210	1018	794.220	797.740	A	maybe to no um mount luzern because there 's already one over there .	's
+10	210	1019	794.220	797.740	A	maybe to no um mount luzern because there 's already one over there .	already
+10	210	1020	794.220	797.740	A	maybe to no um mount luzern because there 's already one over there .	one
+10	210	1021	794.220	797.740	A	maybe to no um mount luzern because there 's already one over there .	over
+10	210	1022	794.220	797.740	A	maybe to no um mount luzern because there 's already one over there .	there
+10	210	1023	794.220	797.740	A	maybe to no um mount luzern because there 's already one over there .	.
+10	211	1024	797.856	798.575	B	okay .	okay
+10	211	1025	797.856	798.575	B	okay .	.
+10	212	1026	797.931	799.458	A	and you do n't wanna lose any more money .	and
+10	212	1027	797.931	799.458	A	and you do n't wanna lose any more money .	you
+10	212	1028	797.931	799.458	A	and you do n't wanna lose any more money .	do
+10	212	1029	797.931	799.458	A	and you do n't wanna lose any more money .	n't
+10	212	1030	797.931	799.458	A	and you do n't wanna lose any more money .	wanna
+10	212	1031	797.931	799.458	A	and you do n't wanna lose any more money .	lose
+10	212	1032	797.931	799.458	A	and you do n't wanna lose any more money .	any
+10	212	1033	797.931	799.458	A	and you do n't wanna lose any more money .	more
+10	212	1034	797.931	799.458	A	and you do n't wanna lose any more money .	money
+10	212	1035	797.931	799.458	A	and you do n't wanna lose any more money .	.
+10	213	1036	800.821	801.945	A	so that 's	so
+10	213	1037	800.821	801.945	A	so that 's	that
+10	213	1038	800.821	801.945	A	so that 's	's
+10	214	1039	802.125	802.769	B	submit ?	submit
+10	214	1040	802.125	802.769	B	submit ?	?
+10	215	1041	803.038	803.398	A	yeah .	yeah
+10	215	1042	803.038	803.398	A	yeah .	.
+10	216	1043	805.778	806.572	B	no !	no
+10	216	1044	805.778	806.572	B	no !	!
+10	217	1045	809.688	813.462	B	so close , we 've got five more minutes we can do it come on .	so
+10	217	1046	809.688	813.462	B	so close , we 've got five more minutes we can do it come on .	close
+10	217	1047	809.688	813.462	B	so close , we 've got five more minutes we can do it come on .	,
+10	217	1048	809.688	813.462	B	so close , we 've got five more minutes we can do it come on .	we
+10	217	1049	809.688	813.462	B	so close , we 've got five more minutes we can do it come on .	've
+10	217	1050	809.688	813.462	B	so close , we 've got five more minutes we can do it come on .	got
+10	217	1051	809.688	813.462	B	so close , we 've got five more minutes we can do it come on .	five
+10	217	1052	809.688	813.462	B	so close , we 've got five more minutes we can do it come on .	more
+10	217	1053	809.688	813.462	B	so close , we 've got five more minutes we can do it come on .	minutes
+10	217	1054	809.688	813.462	B	so close , we 've got five more minutes we can do it come on .	we
+10	217	1055	809.688	813.462	B	so close , we 've got five more minutes we can do it come on .	can
+10	217	1056	809.688	813.462	B	so close , we 've got five more minutes we can do it come on .	do
+10	217	1057	809.688	813.462	B	so close , we 've got five more minutes we can do it come on .	it
+10	217	1058	809.688	813.462	B	so close , we 've got five more minutes we can do it come on .	come
+10	217	1059	809.688	813.462	B	so close , we 've got five more minutes we can do it come on .	on
+10	217	1060	809.688	813.462	B	so close , we 've got five more minutes we can do it come on .	.
+10	218	1061	824.214	828.258	B	okay , let 's go , mount luzern to mount zurich .	okay
+10	218	1062	824.214	828.258	B	okay , let 's go , mount luzern to mount zurich .	,
+10	218	1063	824.214	828.258	B	okay , let 's go , mount luzern to mount zurich .	let
+10	218	1064	824.214	828.258	B	okay , let 's go , mount luzern to mount zurich .	's
+10	218	1065	824.214	828.258	B	okay , let 's go , mount luzern to mount zurich .	go
+10	218	1066	824.214	828.258	B	okay , let 's go , mount luzern to mount zurich .	,
+10	218	1067	824.214	828.258	B	okay , let 's go , mount luzern to mount zurich .	mount
+10	218	1068	824.214	828.258	B	okay , let 's go , mount luzern to mount zurich .	luzern
+10	218	1069	824.214	828.258	B	okay , let 's go , mount luzern to mount zurich .	to
+10	218	1070	824.214	828.258	B	okay , let 's go , mount luzern to mount zurich .	mount
+10	218	1071	824.214	828.258	B	okay , let 's go , mount luzern to mount zurich .	zurich
+10	218	1072	824.214	828.258	B	okay , let 's go , mount luzern to mount zurich .	.
+10	219	1073	828.273	829.037	A	or maybe	or
+10	219	1074	828.273	829.037	A	or maybe	maybe
+10	220	1075	829.715	830.075	B	okay ?	okay
+10	220	1076	829.715	830.075	B	okay ?	?
+10	221	1077	830.704	831.992	B	no , i did n't	no
+10	221	1078	830.704	831.992	B	no , i did n't	,
+10	221	1079	830.704	831.992	B	no , i did n't	i
+10	221	1080	830.704	831.992	B	no , i did n't	did
+10	221	1081	830.704	831.992	B	no , i did n't	n't
+10	222	1082	833.280	834.403	B	mount luzern to mount	mount
+10	222	1083	833.280	834.403	B	mount luzern to mount	luzern
+10	222	1084	833.280	834.403	B	mount luzern to mount	to
+10	222	1085	833.280	834.403	B	mount luzern to mount	mount
+10	223	1086	834.613	835.167	A	bern	bern
+10	224	1087	835.392	836.755	A	to mount bern .	to
+10	224	1088	835.392	836.755	A	to mount bern .	mount
+10	224	1089	835.392	836.755	A	to mount bern .	bern
+10	224	1090	835.392	836.755	A	to mount bern .	.
+10	225	1091	835.692	836.755	B	bern bern okay	bern
+10	225	1092	835.692	836.755	B	bern bern okay	bern
+10	225	1093	835.692	836.755	B	bern bern okay	okay
+10	226	1094	837.645	838.304	B	your turn	your
+10	226	1095	837.645	838.304	B	your turn	turn
+10	227	1096	838.784	845.802	B	now go for , things that , like maybe mount zermatt or mount interlaken or mount basel somewhere or mount bern	now
+10	227	1097	838.784	845.802	B	now go for , things that , like maybe mount zermatt or mount interlaken or mount basel somewhere or mount bern	go
+10	227	1098	838.784	845.802	B	now go for , things that , like maybe mount zermatt or mount interlaken or mount basel somewhere or mount bern	for
+10	227	1099	838.784	845.802	B	now go for , things that , like maybe mount zermatt or mount interlaken or mount basel somewhere or mount bern	,
+10	227	1100	838.784	845.802	B	now go for , things that , like maybe mount zermatt or mount interlaken or mount basel somewhere or mount bern	things
+10	227	1101	838.784	845.802	B	now go for , things that , like maybe mount zermatt or mount interlaken or mount basel somewhere or mount bern	that
+10	227	1102	838.784	845.802	B	now go for , things that , like maybe mount zermatt or mount interlaken or mount basel somewhere or mount bern	,
+10	227	1103	838.784	845.802	B	now go for , things that , like maybe mount zermatt or mount interlaken or mount basel somewhere or mount bern	like
+10	227	1104	838.784	845.802	B	now go for , things that , like maybe mount zermatt or mount interlaken or mount basel somewhere or mount bern	maybe
+10	227	1105	838.784	845.802	B	now go for , things that , like maybe mount zermatt or mount interlaken or mount basel somewhere or mount bern	mount
+10	227	1106	838.784	845.802	B	now go for , things that , like maybe mount zermatt or mount interlaken or mount basel somewhere or mount bern	zermatt
+10	227	1107	838.784	845.802	B	now go for , things that , like maybe mount zermatt or mount interlaken or mount basel somewhere or mount bern	or
+10	227	1108	838.784	845.802	B	now go for , things that , like maybe mount zermatt or mount interlaken or mount basel somewhere or mount bern	mount
+10	227	1109	838.784	845.802	B	now go for , things that , like maybe mount zermatt or mount interlaken or mount basel somewhere or mount bern	interlaken
+10	227	1110	838.784	845.802	B	now go for , things that , like maybe mount zermatt or mount interlaken or mount basel somewhere or mount bern	or
+10	227	1111	838.784	845.802	B	now go for , things that , like maybe mount zermatt or mount interlaken or mount basel somewhere or mount bern	mount
+10	227	1112	838.784	845.802	B	now go for , things that , like maybe mount zermatt or mount interlaken or mount basel somewhere or mount bern	basel
+10	227	1113	838.784	845.802	B	now go for , things that , like maybe mount zermatt or mount interlaken or mount basel somewhere or mount bern	somewhere
+10	227	1114	838.784	845.802	B	now go for , things that , like maybe mount zermatt or mount interlaken or mount basel somewhere or mount bern	or
+10	227	1115	838.784	845.802	B	now go for , things that , like maybe mount zermatt or mount interlaken or mount basel somewhere or mount bern	mount
+10	227	1116	838.784	845.802	B	now go for , things that , like maybe mount zermatt or mount interlaken or mount basel somewhere or mount bern	bern
+10	228	1117	844.790	845.434	A	or	or
+10	229	1118	846.891	851.385	B	try it , yeah , and then mount basel to , i do n't know , neuchatel .	try
+10	229	1119	846.891	851.385	B	try it , yeah , and then mount basel to , i do n't know , neuchatel .	it
+10	229	1120	846.891	851.385	B	try it , yeah , and then mount basel to , i do n't know , neuchatel .	,
+10	229	1121	846.891	851.385	B	try it , yeah , and then mount basel to , i do n't know , neuchatel .	yeah
+10	229	1122	846.891	851.385	B	try it , yeah , and then mount basel to , i do n't know , neuchatel .	,
+10	229	1123	846.891	851.385	B	try it , yeah , and then mount basel to , i do n't know , neuchatel .	and
+10	229	1124	846.891	851.385	B	try it , yeah , and then mount basel to , i do n't know , neuchatel .	then
+10	229	1125	846.891	851.385	B	try it , yeah , and then mount basel to , i do n't know , neuchatel .	mount
+10	229	1126	846.891	851.385	B	try it , yeah , and then mount basel to , i do n't know , neuchatel .	basel
+10	229	1127	846.891	851.385	B	try it , yeah , and then mount basel to , i do n't know , neuchatel .	to
+10	229	1128	846.891	851.385	B	try it , yeah , and then mount basel to , i do n't know , neuchatel .	,
+10	229	1129	846.891	851.385	B	try it , yeah , and then mount basel to , i do n't know , neuchatel .	i
+10	229	1130	846.891	851.385	B	try it , yeah , and then mount basel to , i do n't know , neuchatel .	do
+10	229	1131	846.891	851.385	B	try it , yeah , and then mount basel to , i do n't know , neuchatel .	n't
+10	229	1132	846.891	851.385	B	try it , yeah , and then mount basel to , i do n't know , neuchatel .	know
+10	229	1133	846.891	851.385	B	try it , yeah , and then mount basel to , i do n't know , neuchatel .	,
+10	229	1134	846.891	851.385	B	try it , yeah , and then mount basel to , i do n't know , neuchatel .	neuchatel
+10	229	1135	846.891	851.385	B	try it , yeah , and then mount basel to , i do n't know , neuchatel .	.
+10	230	1136	854.604	855.548	B	okay .	okay
+10	230	1137	854.604	855.548	B	okay .	.
+10	231	1138	856.312	862.468	B	um let 's do this , mount neuchatel here and then	um
+10	231	1139	856.312	862.468	B	um let 's do this , mount neuchatel here and then	let
+10	231	1140	856.312	862.468	B	um let 's do this , mount neuchatel here and then	's
+10	231	1141	856.312	862.468	B	um let 's do this , mount neuchatel here and then	do
+10	231	1142	856.312	862.468	B	um let 's do this , mount neuchatel here and then	this
+10	231	1143	856.312	862.468	B	um let 's do this , mount neuchatel here and then	,
+10	231	1144	856.312	862.468	B	um let 's do this , mount neuchatel here and then	mount
+10	231	1145	856.312	862.468	B	um let 's do this , mount neuchatel here and then	neuchatel
+10	231	1146	856.312	862.468	B	um let 's do this , mount neuchatel here and then	here
+10	231	1147	856.312	862.468	B	um let 's do this , mount neuchatel here and then	and
+10	231	1148	856.312	862.468	B	um let 's do this , mount neuchatel here and then	then
+10	232	1149	863.012	864.794	B	there , okay .	there
+10	232	1150	863.012	864.794	B	there , okay .	,
+10	232	1151	863.012	864.794	B	there , okay .	okay
+10	232	1152	863.012	864.794	B	there , okay .	.
+10	233	1153	866.853	867.976	B	your turn .	your
+10	233	1154	866.853	867.976	B	your turn .	turn
+10	233	1155	866.853	867.976	B	your turn .	.
+10	234	1156	869.903	870.862	B	mount zermatt	mount
+10	234	1157	869.903	870.862	B	mount zermatt	zermatt
+10	235	1158	871.296	874.801	B	nice , to no no mount davos mount davos mount davos	nice
+10	235	1159	871.296	874.801	B	nice , to no no mount davos mount davos mount davos	,
+10	235	1160	871.296	874.801	B	nice , to no no mount davos mount davos mount davos	to
+10	235	1161	871.296	874.801	B	nice , to no no mount davos mount davos mount davos	no
+10	235	1162	871.296	874.801	B	nice , to no no mount davos mount davos mount davos	no
+10	235	1163	871.296	874.801	B	nice , to no no mount davos mount davos mount davos	mount
+10	235	1164	871.296	874.801	B	nice , to no no mount davos mount davos mount davos	davos
+10	235	1165	871.296	874.801	B	nice , to no no mount davos mount davos mount davos	mount
+10	235	1166	871.296	874.801	B	nice , to no no mount davos mount davos mount davos	davos
+10	235	1167	871.296	874.801	B	nice , to no no mount davos mount davos mount davos	mount
+10	235	1168	871.296	874.801	B	nice , to no no mount davos mount davos mount davos	davos
+10	236	1169	873.752	875.460	A	yeah , and then to mount	yeah
+10	236	1170	873.752	875.460	A	yeah , and then to mount	,
+10	236	1171	873.752	875.460	A	yeah , and then to mount	and
+10	236	1172	873.752	875.460	A	yeah , and then to mount	then
+10	236	1173	873.752	875.460	A	yeah , and then to mount	to
+10	236	1174	873.752	875.460	A	yeah , and then to mount	mount
+10	237	1175	875.670	877.437	B	s t gallen and i think we did it .	s
+10	237	1176	875.670	877.437	B	s t gallen and i think we did it .	t
+10	237	1177	875.670	877.437	B	s t gallen and i think we did it .	gallen
+10	237	1178	875.670	877.437	B	s t gallen and i think we did it .	and
+10	237	1179	875.670	877.437	B	s t gallen and i think we did it .	i
+10	237	1180	875.670	877.437	B	s t gallen and i think we did it .	think
+10	237	1181	875.670	877.437	B	s t gallen and i think we did it .	we
+10	237	1182	875.670	877.437	B	s t gallen and i think we did it .	did
+10	237	1183	875.670	877.437	B	s t gallen and i think we did it .	it
+10	237	1184	875.670	877.437	B	s t gallen and i think we did it .	.
+10	238	1185	877.985	878.434	A	yeah	yeah
+10	239	1186	878.269	879.273	B	okay let me try .	okay
+10	239	1187	878.269	879.273	B	okay let me try .	let
+10	239	1188	878.269	879.273	B	okay let me try .	me
+10	239	1189	878.269	879.273	B	okay let me try .	try
+10	239	1190	878.269	879.273	B	okay let me try .	.
+10	240	1191	882.588	885.538	B	okay submit submit three two one submit .	okay
+10	240	1192	882.588	885.538	B	okay submit submit three two one submit .	submit
+10	240	1193	882.588	885.538	B	okay submit submit three two one submit .	submit
+10	240	1194	882.588	885.538	B	okay submit submit three two one submit .	three
+10	240	1195	882.588	885.538	B	okay submit submit three two one submit .	two
+10	240	1196	882.588	885.538	B	okay submit submit three two one submit .	one
+10	240	1197	882.588	885.538	B	okay submit submit three two one submit .	submit
+10	240	1198	882.588	885.538	B	okay submit submit three two one submit .	.
+10	241	1199	887.482	888.860	B	seriously ?	seriously
+10	241	1200	887.482	888.860	B	seriously ?	?
+10	242	1201	892.650	896.474	B	oh we did too much on mount luzern , we 've got two on mount luzern .	oh
+10	242	1202	892.650	896.474	B	oh we did too much on mount luzern , we 've got two on mount luzern .	we
+10	242	1203	892.650	896.474	B	oh we did too much on mount luzern , we 've got two on mount luzern .	did
+10	242	1204	892.650	896.474	B	oh we did too much on mount luzern , we 've got two on mount luzern .	too
+10	242	1205	892.650	896.474	B	oh we did too much on mount luzern , we 've got two on mount luzern .	much
+10	242	1206	892.650	896.474	B	oh we did too much on mount luzern , we 've got two on mount luzern .	on
+10	242	1207	892.650	896.474	B	oh we did too much on mount luzern , we 've got two on mount luzern .	mount
+10	242	1208	892.650	896.474	B	oh we did too much on mount luzern , we 've got two on mount luzern .	luzern
+10	242	1209	892.650	896.474	B	oh we did too much on mount luzern , we 've got two on mount luzern .	,
+10	242	1210	892.650	896.474	B	oh we did too much on mount luzern , we 've got two on mount luzern .	we
+10	242	1211	892.650	896.474	B	oh we did too much on mount luzern , we 've got two on mount luzern .	've
+10	242	1212	892.650	896.474	B	oh we did too much on mount luzern , we 've got two on mount luzern .	got
+10	242	1213	892.650	896.474	B	oh we did too much on mount luzern , we 've got two on mount luzern .	two
+10	242	1214	892.650	896.474	B	oh we did too much on mount luzern , we 've got two on mount luzern .	on
+10	242	1215	892.650	896.474	B	oh we did too much on mount luzern , we 've got two on mount luzern .	mount
+10	242	1216	892.650	896.474	B	oh we did too much on mount luzern , we 've got two on mount luzern .	luzern
+10	242	1217	892.650	896.474	B	oh we did too much on mount luzern , we 've got two on mount luzern .	.
+10	243	1218	896.961	897.455	A	maybe	maybe
+10	244	1219	897.066	897.350	B	here	here
+10	245	1220	897.755	902.173	A	do from , mount luzern to , mount zermatt .	do
+10	245	1221	897.755	902.173	A	do from , mount luzern to , mount zermatt .	from
+10	245	1222	897.755	902.173	A	do from , mount luzern to , mount zermatt .	,
+10	245	1223	897.755	902.173	A	do from , mount luzern to , mount zermatt .	mount
+10	245	1224	897.755	902.173	A	do from , mount luzern to , mount zermatt .	luzern
+10	245	1225	897.755	902.173	A	do from , mount luzern to , mount zermatt .	to
+10	245	1226	897.755	902.173	A	do from , mount luzern to , mount zermatt .	,
+10	245	1227	897.755	902.173	A	do from , mount luzern to , mount zermatt .	mount
+10	245	1228	897.755	902.173	A	do from , mount luzern to , mount zermatt .	zermatt
+10	245	1229	897.755	902.173	A	do from , mount luzern to , mount zermatt .	.
+10	246	1230	899.807	903.611	B	okay yeah so mount luzern to zurich and then	okay
+10	246	1231	899.807	903.611	B	okay yeah so mount luzern to zurich and then	yeah
+10	246	1232	899.807	903.611	B	okay yeah so mount luzern to zurich and then	so
+10	246	1233	899.807	903.611	B	okay yeah so mount luzern to zurich and then	mount
+10	246	1234	899.807	903.611	B	okay yeah so mount luzern to zurich and then	luzern
+10	246	1235	899.807	903.611	B	okay yeah so mount luzern to zurich and then	to
+10	246	1236	899.807	903.611	B	okay yeah so mount luzern to zurich and then	zurich
+10	246	1237	899.807	903.611	B	okay yeah so mount luzern to zurich and then	and
+10	246	1238	899.807	903.611	B	okay yeah so mount luzern to zurich and then	then
+10	247	1239	904.097	905.040	B	to bern .	to
+10	247	1240	904.097	905.040	B	to bern .	bern
+10	247	1241	904.097	905.040	B	to bern .	.
+10	248	1242	907.820	909.078	A	then to	then
+10	248	1243	907.820	909.078	A	then to	to
+10	249	1244	910.426	911.070	A	mount	mount
+10	250	1245	911.717	913.364	B	mount basel mount basel .	mount
+10	250	1246	911.717	913.364	B	mount basel mount basel .	basel
+10	250	1247	911.717	913.364	B	mount basel mount basel .	mount
+10	250	1248	911.717	913.364	B	mount basel mount basel .	basel
+10	250	1249	911.717	913.364	B	mount basel mount basel .	.
+10	251	1250	913.364	913.933	A	yeah .	yeah
+10	251	1251	913.364	913.933	A	yeah .	.
+10	252	1252	915.585	916.559	A	then to	then
+10	252	1253	915.585	916.559	A	then to	to
+10	253	1254	917.008	917.518	B	mount	mount
+10	254	1255	918.074	918.913	A	neuchatel .	neuchatel
+10	254	1256	918.074	918.913	A	neuchatel .	.
+10	255	1257	919.182	920.672	B	yeah good neuchatel .	yeah
+10	255	1258	919.182	920.672	B	yeah good neuchatel .	good
+10	255	1259	919.182	920.672	B	yeah good neuchatel .	neuchatel
+10	255	1260	919.182	920.672	B	yeah good neuchatel .	.
+10	256	1261	921.091	922.904	B	okay now here	okay
+10	256	1262	921.091	922.904	B	okay now here	now
+10	256	1263	921.091	922.904	B	okay now here	here
+10	257	1264	922.364	923.637	A	maybe to interlaken	maybe
+10	257	1265	922.364	923.637	A	maybe to interlaken	to
+10	257	1266	922.364	923.637	A	maybe to interlaken	interlaken
+10	258	1267	923.911	924.421	B	here	here
+10	259	1268	924.091	925.080	A	yeah	yeah
+10	260	1269	925.005	925.529	B	now	now
+10	261	1270	926.098	929.941	B	now go to uh mount interlaken to mount zermatt .	now
+10	261	1271	926.098	929.941	B	now go to uh mount interlaken to mount zermatt .	go
+10	261	1272	926.098	929.941	B	now go to uh mount interlaken to mount zermatt .	to
+10	261	1273	926.098	929.941	B	now go to uh mount interlaken to mount zermatt .	uh
+10	261	1274	926.098	929.941	B	now go to uh mount interlaken to mount zermatt .	mount
+10	261	1275	926.098	929.941	B	now go to uh mount interlaken to mount zermatt .	interlaken
+10	261	1276	926.098	929.941	B	now go to uh mount interlaken to mount zermatt .	to
+10	261	1277	926.098	929.941	B	now go to uh mount interlaken to mount zermatt .	mount
+10	261	1278	926.098	929.941	B	now go to uh mount interlaken to mount zermatt .	zermatt
+10	261	1279	926.098	929.941	B	now go to uh mount interlaken to mount zermatt .	.
+10	262	1280	929.237	929.881	A	zermatt .	zermatt
+10	262	1281	929.237	929.881	A	zermatt .	.
+10	263	1282	930.780	931.289	B	zermatt .	zermatt
+10	263	1283	930.780	931.289	B	zermatt .	.
+10	264	1284	932.023	932.682	B	nice .	nice
+10	264	1285	932.023	932.682	B	nice .	.
+10	265	1286	932.278	934.180	A	then to mount davos	then
+10	265	1287	932.278	934.180	A	then to mount davos	to
+10	265	1288	932.278	934.180	A	then to mount davos	mount
+10	265	1289	932.278	934.180	A	then to mount davos	davos
+10	266	1290	933.524	935.786	B	now mount zermatt to mount davos .	now
+10	266	1291	933.524	935.786	B	now mount zermatt to mount davos .	mount
+10	266	1292	933.524	935.786	B	now mount zermatt to mount davos .	zermatt
+10	266	1293	933.524	935.786	B	now mount zermatt to mount davos .	to
+10	266	1294	933.524	935.786	B	now mount zermatt to mount davos .	mount
+10	266	1295	933.524	935.786	B	now mount zermatt to mount davos .	davos
+10	266	1296	933.524	935.786	B	now mount zermatt to mount davos .	.
+10	267	1297	935.806	938.251	A	then to mount then mount	then
+10	267	1298	935.806	938.251	A	then to mount then mount	to
+10	267	1299	935.806	938.251	A	then to mount then mount	mount
+10	267	1300	935.806	938.251	A	then to mount then mount	then
+10	267	1301	935.806	938.251	A	then to mount then mount	mount
+10	268	1302	938.251	940.917	A	s t gallen and i think we 're done .	s
+10	268	1303	938.251	940.917	A	s t gallen and i think we 're done .	t
+10	268	1304	938.251	940.917	A	s t gallen and i think we 're done .	gallen
+10	268	1305	938.251	940.917	A	s t gallen and i think we 're done .	and
+10	268	1306	938.251	940.917	A	s t gallen and i think we 're done .	i
+10	268	1307	938.251	940.917	A	s t gallen and i think we 're done .	think
+10	268	1308	938.251	940.917	A	s t gallen and i think we 're done .	we
+10	268	1309	938.251	940.917	A	s t gallen and i think we 're done .	're
+10	268	1310	938.251	940.917	A	s t gallen and i think we 're done .	done
+10	268	1311	938.251	940.917	A	s t gallen and i think we 're done .	.
+10	269	1312	939.195	940.288	B	s t gallen yeah .	s
+10	269	1313	939.195	940.288	B	s t gallen yeah .	t
+10	269	1314	939.195	940.288	B	s t gallen yeah .	gallen
+10	269	1315	939.195	940.288	B	s t gallen yeah .	yeah
+10	269	1316	939.195	940.288	B	s t gallen yeah .	.
+10	270	1317	941.908	942.522	B	let 's try it .	let
+10	270	1318	941.908	942.522	B	let 's try it .	's
+10	270	1319	941.908	942.522	B	let 's try it .	try
+10	270	1320	941.908	942.522	B	let 's try it .	it
+10	270	1321	941.908	942.522	B	let 's try it .	.
+10	271	1322	946.440	948.732	B	oh my god , got again .	oh
+10	271	1323	946.440	948.732	B	oh my god , got again .	my
+10	271	1324	946.440	948.732	B	oh my god , got again .	god
+10	271	1325	946.440	948.732	B	oh my god , got again .	,
+10	271	1326	946.440	948.732	B	oh my god , got again .	got
+10	271	1327	946.440	948.732	B	oh my god , got again .	again
+10	271	1328	946.440	948.732	B	oh my god , got again .	.
+10	272	1329	946.545	947.564	A	again ?	again
+10	272	1330	946.545	947.564	A	again ?	?
+10	273	1331	950.552	951.466	B	okay um	okay
+10	273	1332	950.552	951.466	B	okay um	um
+10	274	1333	951.286	953.548	A	wait go from mount zermatt	wait
+10	274	1334	951.286	953.548	A	wait go from mount zermatt	go
+10	274	1335	951.286	953.548	A	wait go from mount zermatt	from
+10	274	1336	951.286	953.548	A	wait go from mount zermatt	mount
+10	274	1337	951.286	953.548	A	wait go from mount zermatt	zermatt
+10	275	1338	952.394	959.141	B	s t gallen to mount davos okay and then , mount s t gallen to mount zurich let 's try that .	s
+10	275	1339	952.394	959.141	B	s t gallen to mount davos okay and then , mount s t gallen to mount zurich let 's try that .	t
+10	275	1340	952.394	959.141	B	s t gallen to mount davos okay and then , mount s t gallen to mount zurich let 's try that .	gallen
+10	275	1341	952.394	959.141	B	s t gallen to mount davos okay and then , mount s t gallen to mount zurich let 's try that .	to
+10	275	1342	952.394	959.141	B	s t gallen to mount davos okay and then , mount s t gallen to mount zurich let 's try that .	mount
+10	275	1343	952.394	959.141	B	s t gallen to mount davos okay and then , mount s t gallen to mount zurich let 's try that .	davos
+10	275	1344	952.394	959.141	B	s t gallen to mount davos okay and then , mount s t gallen to mount zurich let 's try that .	okay
+10	275	1345	952.394	959.141	B	s t gallen to mount davos okay and then , mount s t gallen to mount zurich let 's try that .	and
+10	275	1346	952.394	959.141	B	s t gallen to mount davos okay and then , mount s t gallen to mount zurich let 's try that .	then
+10	275	1347	952.394	959.141	B	s t gallen to mount davos okay and then , mount s t gallen to mount zurich let 's try that .	,
+10	275	1348	952.394	959.141	B	s t gallen to mount davos okay and then , mount s t gallen to mount zurich let 's try that .	mount
+10	275	1349	952.394	959.141	B	s t gallen to mount davos okay and then , mount s t gallen to mount zurich let 's try that .	s
+10	275	1350	952.394	959.141	B	s t gallen to mount davos okay and then , mount s t gallen to mount zurich let 's try that .	t
+10	275	1351	952.394	959.141	B	s t gallen to mount davos okay and then , mount s t gallen to mount zurich let 's try that .	gallen
+10	275	1352	952.394	959.141	B	s t gallen to mount davos okay and then , mount s t gallen to mount zurich let 's try that .	to
+10	275	1353	952.394	959.141	B	s t gallen to mount davos okay and then , mount s t gallen to mount zurich let 's try that .	mount
+10	275	1354	952.394	959.141	B	s t gallen to mount davos okay and then , mount s t gallen to mount zurich let 's try that .	zurich
+10	275	1355	952.394	959.141	B	s t gallen to mount davos okay and then , mount s t gallen to mount zurich let 's try that .	let
+10	275	1356	952.394	959.141	B	s t gallen to mount davos okay and then , mount s t gallen to mount zurich let 's try that .	's
+10	275	1357	952.394	959.141	B	s t gallen to mount davos okay and then , mount s t gallen to mount zurich let 's try that .	try
+10	275	1358	952.394	959.141	B	s t gallen to mount davos okay and then , mount s t gallen to mount zurich let 's try that .	that
+10	275	1359	952.394	959.141	B	s t gallen to mount davos okay and then , mount s t gallen to mount zurich let 's try that .	.
+10	276	1360	959.627	960.720	A	then to	then
+10	276	1361	959.627	960.720	A	then to	to
+10	277	1362	961.304	963.461	A	maybe to mount basel ?	maybe
+10	277	1363	961.304	963.461	A	maybe to mount basel ?	to
+10	277	1364	961.304	963.461	A	maybe to mount basel ?	mount
+10	277	1365	961.304	963.461	A	maybe to mount basel ?	basel
+10	277	1366	961.304	963.461	A	maybe to mount basel ?	?
+10	278	1367	962.314	973.330	B	oh i get it now because , i think it is because of the mountains because mount zurich had had um three mountains that was like cost 3 and basel is a big mountain so it costs 5 .	oh
+10	278	1368	962.314	973.330	B	oh i get it now because , i think it is because of the mountains because mount zurich had had um three mountains that was like cost 3 and basel is a big mountain so it costs 5 .	i
+10	278	1369	962.314	973.330	B	oh i get it now because , i think it is because of the mountains because mount zurich had had um three mountains that was like cost 3 and basel is a big mountain so it costs 5 .	get
+10	278	1370	962.314	973.330	B	oh i get it now because , i think it is because of the mountains because mount zurich had had um three mountains that was like cost 3 and basel is a big mountain so it costs 5 .	it
+10	278	1371	962.314	973.330	B	oh i get it now because , i think it is because of the mountains because mount zurich had had um three mountains that was like cost 3 and basel is a big mountain so it costs 5 .	now
+10	278	1372	962.314	973.330	B	oh i get it now because , i think it is because of the mountains because mount zurich had had um three mountains that was like cost 3 and basel is a big mountain so it costs 5 .	because
+10	278	1373	962.314	973.330	B	oh i get it now because , i think it is because of the mountains because mount zurich had had um three mountains that was like cost 3 and basel is a big mountain so it costs 5 .	,
+10	278	1374	962.314	973.330	B	oh i get it now because , i think it is because of the mountains because mount zurich had had um three mountains that was like cost 3 and basel is a big mountain so it costs 5 .	i
+10	278	1375	962.314	973.330	B	oh i get it now because , i think it is because of the mountains because mount zurich had had um three mountains that was like cost 3 and basel is a big mountain so it costs 5 .	think
+10	278	1376	962.314	973.330	B	oh i get it now because , i think it is because of the mountains because mount zurich had had um three mountains that was like cost 3 and basel is a big mountain so it costs 5 .	it
+10	278	1377	962.314	973.330	B	oh i get it now because , i think it is because of the mountains because mount zurich had had um three mountains that was like cost 3 and basel is a big mountain so it costs 5 .	is
+10	278	1378	962.314	973.330	B	oh i get it now because , i think it is because of the mountains because mount zurich had had um three mountains that was like cost 3 and basel is a big mountain so it costs 5 .	because
+10	278	1379	962.314	973.330	B	oh i get it now because , i think it is because of the mountains because mount zurich had had um three mountains that was like cost 3 and basel is a big mountain so it costs 5 .	of
+10	278	1380	962.314	973.330	B	oh i get it now because , i think it is because of the mountains because mount zurich had had um three mountains that was like cost 3 and basel is a big mountain so it costs 5 .	the
+10	278	1381	962.314	973.330	B	oh i get it now because , i think it is because of the mountains because mount zurich had had um three mountains that was like cost 3 and basel is a big mountain so it costs 5 .	mountains
+10	278	1382	962.314	973.330	B	oh i get it now because , i think it is because of the mountains because mount zurich had had um three mountains that was like cost 3 and basel is a big mountain so it costs 5 .	because
+10	278	1383	962.314	973.330	B	oh i get it now because , i think it is because of the mountains because mount zurich had had um three mountains that was like cost 3 and basel is a big mountain so it costs 5 .	mount
+10	278	1384	962.314	973.330	B	oh i get it now because , i think it is because of the mountains because mount zurich had had um three mountains that was like cost 3 and basel is a big mountain so it costs 5 .	zurich
+10	278	1385	962.314	973.330	B	oh i get it now because , i think it is because of the mountains because mount zurich had had um three mountains that was like cost 3 and basel is a big mountain so it costs 5 .	had
+10	278	1386	962.314	973.330	B	oh i get it now because , i think it is because of the mountains because mount zurich had had um three mountains that was like cost 3 and basel is a big mountain so it costs 5 .	had
+10	278	1387	962.314	973.330	B	oh i get it now because , i think it is because of the mountains because mount zurich had had um three mountains that was like cost 3 and basel is a big mountain so it costs 5 .	um
+10	278	1388	962.314	973.330	B	oh i get it now because , i think it is because of the mountains because mount zurich had had um three mountains that was like cost 3 and basel is a big mountain so it costs 5 .	three
+10	278	1389	962.314	973.330	B	oh i get it now because , i think it is because of the mountains because mount zurich had had um three mountains that was like cost 3 and basel is a big mountain so it costs 5 .	mountains
+10	278	1390	962.314	973.330	B	oh i get it now because , i think it is because of the mountains because mount zurich had had um three mountains that was like cost 3 and basel is a big mountain so it costs 5 .	that
+10	278	1391	962.314	973.330	B	oh i get it now because , i think it is because of the mountains because mount zurich had had um three mountains that was like cost 3 and basel is a big mountain so it costs 5 .	was
+10	278	1392	962.314	973.330	B	oh i get it now because , i think it is because of the mountains because mount zurich had had um three mountains that was like cost 3 and basel is a big mountain so it costs 5 .	like
+10	278	1393	962.314	973.330	B	oh i get it now because , i think it is because of the mountains because mount zurich had had um three mountains that was like cost 3 and basel is a big mountain so it costs 5 .	cost
+10	278	1394	962.314	973.330	B	oh i get it now because , i think it is because of the mountains because mount zurich had had um three mountains that was like cost 3 and basel is a big mountain so it costs 5 .	3
+10	278	1395	962.314	973.330	B	oh i get it now because , i think it is because of the mountains because mount zurich had had um three mountains that was like cost 3 and basel is a big mountain so it costs 5 .	and
+10	278	1396	962.314	973.330	B	oh i get it now because , i think it is because of the mountains because mount zurich had had um three mountains that was like cost 3 and basel is a big mountain so it costs 5 .	basel
+10	278	1397	962.314	973.330	B	oh i get it now because , i think it is because of the mountains because mount zurich had had um three mountains that was like cost 3 and basel is a big mountain so it costs 5 .	is
+10	278	1398	962.314	973.330	B	oh i get it now because , i think it is because of the mountains because mount zurich had had um three mountains that was like cost 3 and basel is a big mountain so it costs 5 .	a
+10	278	1399	962.314	973.330	B	oh i get it now because , i think it is because of the mountains because mount zurich had had um three mountains that was like cost 3 and basel is a big mountain so it costs 5 .	big
+10	278	1400	962.314	973.330	B	oh i get it now because , i think it is because of the mountains because mount zurich had had um three mountains that was like cost 3 and basel is a big mountain so it costs 5 .	mountain
+10	278	1401	962.314	973.330	B	oh i get it now because , i think it is because of the mountains because mount zurich had had um three mountains that was like cost 3 and basel is a big mountain so it costs 5 .	so
+10	278	1402	962.314	973.330	B	oh i get it now because , i think it is because of the mountains because mount zurich had had um three mountains that was like cost 3 and basel is a big mountain so it costs 5 .	it
+10	278	1403	962.314	973.330	B	oh i get it now because , i think it is because of the mountains because mount zurich had had um three mountains that was like cost 3 and basel is a big mountain so it costs 5 .	costs
+10	278	1404	962.314	973.330	B	oh i get it now because , i think it is because of the mountains because mount zurich had had um three mountains that was like cost 3 and basel is a big mountain so it costs 5 .	5
+10	278	1405	962.314	973.330	B	oh i get it now because , i think it is because of the mountains because mount zurich had had um three mountains that was like cost 3 and basel is a big mountain so it costs 5 .	.
+10	279	1406	977.051	980.548	B	maybe it 's because of that , here let 's go to a low mountain like here	maybe
+10	279	1407	977.051	980.548	B	maybe it 's because of that , here let 's go to a low mountain like here	it
+10	279	1408	977.051	980.548	B	maybe it 's because of that , here let 's go to a low mountain like here	's
+10	279	1409	977.051	980.548	B	maybe it 's because of that , here let 's go to a low mountain like here	because
+10	279	1410	977.051	980.548	B	maybe it 's because of that , here let 's go to a low mountain like here	of
+10	279	1411	977.051	980.548	B	maybe it 's because of that , here let 's go to a low mountain like here	that
+10	279	1412	977.051	980.548	B	maybe it 's because of that , here let 's go to a low mountain like here	,
+10	279	1413	977.051	980.548	B	maybe it 's because of that , here let 's go to a low mountain like here	here
+10	279	1414	977.051	980.548	B	maybe it 's because of that , here let 's go to a low mountain like here	let
+10	279	1415	977.051	980.548	B	maybe it 's because of that , here let 's go to a low mountain like here	's
+10	279	1416	977.051	980.548	B	maybe it 's because of that , here let 's go to a low mountain like here	go
+10	279	1417	977.051	980.548	B	maybe it 's because of that , here let 's go to a low mountain like here	to
+10	279	1418	977.051	980.548	B	maybe it 's because of that , here let 's go to a low mountain like here	a
+10	279	1419	977.051	980.548	B	maybe it 's because of that , here let 's go to a low mountain like here	low
+10	279	1420	977.051	980.548	B	maybe it 's because of that , here let 's go to a low mountain like here	mountain
+10	279	1421	977.051	980.548	B	maybe it 's because of that , here let 's go to a low mountain like here	like
+10	279	1422	977.051	980.548	B	maybe it 's because of that , here let 's go to a low mountain like here	here
+10	280	1423	981.495	984.925	B	then no now we 're not going to mount zermatt that 's for sure .	then
+10	280	1424	981.495	984.925	B	then no now we 're not going to mount zermatt that 's for sure .	no
+10	280	1425	981.495	984.925	B	then no now we 're not going to mount zermatt that 's for sure .	now
+10	280	1426	981.495	984.925	B	then no now we 're not going to mount zermatt that 's for sure .	we
+10	280	1427	981.495	984.925	B	then no now we 're not going to mount zermatt that 's for sure .	're
+10	280	1428	981.495	984.925	B	then no now we 're not going to mount zermatt that 's for sure .	not
+10	280	1429	981.495	984.925	B	then no now we 're not going to mount zermatt that 's for sure .	going
+10	280	1430	981.495	984.925	B	then no now we 're not going to mount zermatt that 's for sure .	to
+10	280	1431	981.495	984.925	B	then no now we 're not going to mount zermatt that 's for sure .	mount
+10	280	1432	981.495	984.925	B	then no now we 're not going to mount zermatt that 's for sure .	zermatt
+10	280	1433	981.495	984.925	B	then no now we 're not going to mount zermatt that 's for sure .	that
+10	280	1434	981.495	984.925	B	then no now we 're not going to mount zermatt that 's for sure .	's
+10	280	1435	981.495	984.925	B	then no now we 're not going to mount zermatt that 's for sure .	for
+10	280	1436	981.495	984.925	B	then no now we 're not going to mount zermatt that 's for sure .	sure
+10	280	1437	981.495	984.925	B	then no now we 're not going to mount zermatt that 's for sure .	.
+10	281	1438	981.569	982.588	A	then to mount zermatt ?	then
+10	281	1439	981.569	982.588	A	then to mount zermatt ?	to
+10	281	1440	981.569	982.588	A	then to mount zermatt ?	mount
+10	281	1441	981.569	982.588	A	then to mount zermatt ?	zermatt
+10	281	1442	981.569	982.588	A	then to mount zermatt ?	?
+10	282	1443	984.959	985.603	A	oh .	oh
+10	282	1444	984.959	985.603	A	oh .	.
+10	283	1445	988.725	989.684	A	maybe , here ?	maybe
+10	283	1446	988.725	989.684	A	maybe , here ?	,
+10	283	1447	988.725	989.684	A	maybe , here ?	here
+10	283	1448	988.725	989.684	A	maybe , here ?	?
+10	284	1449	991.531	992.715	B	okay .	okay
+10	284	1450	991.531	992.715	B	okay .	.
+10	285	1451	993.089	993.793	B	now .	now
+10	285	1452	993.089	993.793	B	now .	.
+10	286	1453	993.697	995.929	A	then to , now to mount , neuchatel .	then
+10	286	1454	993.697	995.929	A	then to , now to mount , neuchatel .	to
+10	286	1455	993.697	995.929	A	then to , now to mount , neuchatel .	,
+10	286	1456	993.697	995.929	A	then to , now to mount , neuchatel .	now
+10	286	1457	993.697	995.929	A	then to , now to mount , neuchatel .	to
+10	286	1458	993.697	995.929	A	then to , now to mount , neuchatel .	mount
+10	286	1459	993.697	995.929	A	then to , now to mount , neuchatel .	,
+10	286	1460	993.697	995.929	A	then to , now to mount , neuchatel .	neuchatel
+10	286	1461	993.697	995.929	A	then to , now to mount , neuchatel .	.
+10	287	1462	995.899	998.864	B	no why did you , did you that 's fine okay .	no
+10	287	1463	995.899	998.864	B	no why did you , did you that 's fine okay .	why
+10	287	1464	995.899	998.864	B	no why did you , did you that 's fine okay .	did
+10	287	1465	995.899	998.864	B	no why did you , did you that 's fine okay .	you
+10	287	1466	995.899	998.864	B	no why did you , did you that 's fine okay .	,
+10	287	1467	995.899	998.864	B	no why did you , did you that 's fine okay .	did
+10	287	1468	995.899	998.864	B	no why did you , did you that 's fine okay .	you
+10	287	1469	995.899	998.864	B	no why did you , did you that 's fine okay .	that
+10	287	1470	995.899	998.864	B	no why did you , did you that 's fine okay .	's
+10	287	1471	995.899	998.864	B	no why did you , did you that 's fine okay .	fine
+10	287	1472	995.899	998.864	B	no why did you , did you that 's fine okay .	okay
+10	287	1473	995.899	998.864	B	no why did you , did you that 's fine okay .	.
+10	288	1474	999.154	1001.102	A	to mount neuchatel now ?	to
+10	288	1475	999.154	1001.102	A	to mount neuchatel now ?	mount
+10	288	1476	999.154	1001.102	A	to mount neuchatel now ?	neuchatel
+10	288	1477	999.154	1001.102	A	to mount neuchatel now ?	now
+10	288	1478	999.154	1001.102	A	to mount neuchatel now ?	?
+10	289	1479	1003.229	1003.947	B	um	um
+10	290	1480	1004.341	1005.150	A	neuchatel .	neuchatel
+10	290	1481	1004.341	1005.150	A	neuchatel .	.
+10	291	1482	1005.105	1006.094	B	yeah okay .	yeah
+10	291	1483	1005.105	1006.094	B	yeah okay .	okay
+10	291	1484	1005.105	1006.094	B	yeah okay .	.
+10	292	1485	1006.363	1007.037	A	then	then
+10	293	1486	1007.643	1008.721	B	and then we have to go	and
+10	293	1487	1007.643	1008.721	B	and then we have to go	then
+10	293	1488	1007.643	1008.721	B	and then we have to go	we
+10	293	1489	1007.643	1008.721	B	and then we have to go	have
+10	293	1490	1007.643	1008.721	B	and then we have to go	to
+10	293	1491	1007.643	1008.721	B	and then we have to go	go
+10	294	1492	1009.096	1010.040	B	mount davos	mount
+10	294	1493	1009.096	1010.040	B	mount davos	davos
+10	295	1494	1010.549	1011.567	B	mount davos	mount
+10	295	1495	1010.549	1011.567	B	mount davos	davos
+10	296	1496	1011.689	1012.962	A	we 've done mount davos .	we
+10	296	1497	1011.689	1012.962	A	we 've done mount davos .	've
+10	296	1498	1011.689	1012.962	A	we 've done mount davos .	done
+10	296	1499	1011.689	1012.962	A	we 've done mount davos .	mount
+10	296	1500	1011.689	1012.962	A	we 've done mount davos .	davos
+10	296	1501	1011.689	1012.962	A	we 've done mount davos .	.
+10	297	1502	1013.042	1016.427	B	yeah but , yeah but do they get mount davos to mount zermatt .	yeah
+10	297	1503	1013.042	1016.427	B	yeah but , yeah but do they get mount davos to mount zermatt .	but
+10	297	1504	1013.042	1016.427	B	yeah but , yeah but do they get mount davos to mount zermatt .	,
+10	297	1505	1013.042	1016.427	B	yeah but , yeah but do they get mount davos to mount zermatt .	yeah
+10	297	1506	1013.042	1016.427	B	yeah but , yeah but do they get mount davos to mount zermatt .	but
+10	297	1507	1013.042	1016.427	B	yeah but , yeah but do they get mount davos to mount zermatt .	do
+10	297	1508	1013.042	1016.427	B	yeah but , yeah but do they get mount davos to mount zermatt .	they
+10	297	1509	1013.042	1016.427	B	yeah but , yeah but do they get mount davos to mount zermatt .	get
+10	297	1510	1013.042	1016.427	B	yeah but , yeah but do they get mount davos to mount zermatt .	mount
+10	297	1511	1013.042	1016.427	B	yeah but , yeah but do they get mount davos to mount zermatt .	davos
+10	297	1512	1013.042	1016.427	B	yeah but , yeah but do they get mount davos to mount zermatt .	to
+10	297	1513	1013.042	1016.427	B	yeah but , yeah but do they get mount davos to mount zermatt .	mount
+10	297	1514	1013.042	1016.427	B	yeah but , yeah but do they get mount davos to mount zermatt .	zermatt
+10	297	1515	1013.042	1016.427	B	yeah but , yeah but do they get mount davos to mount zermatt .	.
+10	298	1516	1014.315	1015.049	A	no but .	no
+10	298	1517	1014.315	1015.049	A	no but .	but
+10	298	1518	1014.315	1015.049	A	no but .	.
+10	299	1519	1015.693	1016.292	A	no .	no
+10	299	1520	1015.693	1016.292	A	no .	.
+10	300	1521	1016.672	1021.813	A	no , because , no but it 's it 's but then it then would cost more money .	no
+10	300	1522	1016.672	1021.813	A	no , because , no but it 's it 's but then it then would cost more money .	,
+10	300	1523	1016.672	1021.813	A	no , because , no but it 's it 's but then it then would cost more money .	because
+10	300	1524	1016.672	1021.813	A	no , because , no but it 's it 's but then it then would cost more money .	,
+10	300	1525	1016.672	1021.813	A	no , because , no but it 's it 's but then it then would cost more money .	no
+10	300	1526	1016.672	1021.813	A	no , because , no but it 's it 's but then it then would cost more money .	but
+10	300	1527	1016.672	1021.813	A	no , because , no but it 's it 's but then it then would cost more money .	it
+10	300	1528	1016.672	1021.813	A	no , because , no but it 's it 's but then it then would cost more money .	's
+10	300	1529	1016.672	1021.813	A	no , because , no but it 's it 's but then it then would cost more money .	it
+10	300	1530	1016.672	1021.813	A	no , because , no but it 's it 's but then it then would cost more money .	's
+10	300	1531	1016.672	1021.813	A	no , because , no but it 's it 's but then it then would cost more money .	but
+10	300	1532	1016.672	1021.813	A	no , because , no but it 's it 's but then it then would cost more money .	then
+10	300	1533	1016.672	1021.813	A	no , because , no but it 's it 's but then it then would cost more money .	it
+10	300	1534	1016.672	1021.813	A	no , because , no but it 's it 's but then it then would cost more money .	then
+10	300	1535	1016.672	1021.813	A	no , because , no but it 's it 's but then it then would cost more money .	would
+10	300	1536	1016.672	1021.813	A	no , because , no but it 's it 's but then it then would cost more money .	cost
+10	300	1537	1016.672	1021.813	A	no , because , no but it 's it 's but then it then would cost more money .	more
+10	300	1538	1016.672	1021.813	A	no , because , no but it 's it 's but then it then would cost more money .	money
+10	300	1539	1016.672	1021.813	A	no , because , no but it 's it 's but then it then would cost more money .	.
+10	301	1540	1018.005	1018.529	B	fine then .	fine
+10	301	1541	1018.005	1018.529	B	fine then .	then
+10	301	1542	1018.005	1018.529	B	fine then .	.
+10	302	1543	1020.240	1021.169	B	okay so then	okay
+10	302	1544	1020.240	1021.169	B	okay so then	so
+10	302	1545	1020.240	1021.169	B	okay so then	then
+10	303	1546	1021.723	1022.472	B	where	where
+10	304	1547	1021.813	1023.131	A	we could have to do the least money .	we
+10	304	1548	1021.813	1023.131	A	we could have to do the least money .	could
+10	304	1549	1021.813	1023.131	A	we could have to do the least money .	have
+10	304	1550	1021.813	1023.131	A	we could have to do the least money .	to
+10	304	1551	1021.813	1023.131	A	we could have to do the least money .	do
+10	304	1552	1021.813	1023.131	A	we could have to do the least money .	the
+10	304	1553	1021.813	1023.131	A	we could have to do the least money .	least
+10	304	1554	1021.813	1023.131	A	we could have to do the least money .	money
+10	304	1555	1021.813	1023.131	A	we could have to do the least money .	.
+10	305	1556	1023.465	1025.157	A	so now let 's submit .	so
+10	305	1557	1023.465	1025.157	A	so now let 's submit .	now
+10	305	1558	1023.465	1025.157	A	so now let 's submit .	let
+10	305	1559	1023.465	1025.157	A	so now let 's submit .	's
+10	305	1560	1023.465	1025.157	A	so now let 's submit .	submit
+10	305	1561	1023.465	1025.157	A	so now let 's submit .	.
+10	306	1562	1025.973	1026.781	B	oh yeah okay .	oh
+10	306	1563	1025.973	1026.781	B	oh yeah okay .	yeah
+10	306	1564	1025.973	1026.781	B	oh yeah okay .	okay
+10	306	1565	1025.973	1026.781	B	oh yeah okay .	.
+10	307	1566	1026.991	1027.590	B	submit .	submit
+10	307	1567	1026.991	1027.590	B	submit .	.
+10	308	1568	1032.917	1034.190	B	we 're so close we 've got	we
+10	308	1569	1032.917	1034.190	B	we 're so close we 've got	're
+10	308	1570	1032.917	1034.190	B	we 're so close we 've got	so
+10	308	1571	1032.917	1034.190	B	we 're so close we 've got	close
+10	308	1572	1032.917	1034.190	B	we 're so close we 've got	we
+10	308	1573	1032.917	1034.190	B	we 're so close we 've got	've
+10	308	1574	1032.917	1034.190	B	we 're so close we 've got	got
+10	309	1575	1035.215	1037.582	B	okay , here let 's	okay
+10	309	1576	1035.215	1037.582	B	okay , here let 's	,
+10	309	1577	1035.215	1037.582	B	okay , here let 's	here
+10	309	1578	1035.215	1037.582	B	okay , here let 's	let
+10	309	1579	1035.215	1037.582	B	okay , here let 's	's
+10	310	1580	1038.067	1041.342	A	mount let 's go to mount neuchatel to mount interlaken .	mount
+10	310	1581	1038.067	1041.342	A	mount let 's go to mount neuchatel to mount interlaken .	let
+10	310	1582	1038.067	1041.342	A	mount let 's go to mount neuchatel to mount interlaken .	's
+10	310	1583	1038.067	1041.342	A	mount let 's go to mount neuchatel to mount interlaken .	go
+10	310	1584	1038.067	1041.342	A	mount let 's go to mount neuchatel to mount interlaken .	to
+10	310	1585	1038.067	1041.342	A	mount let 's go to mount neuchatel to mount interlaken .	mount
+10	310	1586	1038.067	1041.342	A	mount let 's go to mount neuchatel to mount interlaken .	neuchatel
+10	310	1587	1038.067	1041.342	A	mount let 's go to mount neuchatel to mount interlaken .	to
+10	310	1588	1038.067	1041.342	A	mount let 's go to mount neuchatel to mount interlaken .	mount
+10	310	1589	1038.067	1041.342	A	mount let 's go to mount neuchatel to mount interlaken .	interlaken
+10	310	1590	1038.067	1041.342	A	mount let 's go to mount neuchatel to mount interlaken .	.
+10	311	1591	1041.481	1047.401	B	mount neuchatel to mount interlaken okay got it , now let 's go here .	mount
+10	311	1592	1041.481	1047.401	B	mount neuchatel to mount interlaken okay got it , now let 's go here .	neuchatel
+10	311	1593	1041.481	1047.401	B	mount neuchatel to mount interlaken okay got it , now let 's go here .	to
+10	311	1594	1041.481	1047.401	B	mount neuchatel to mount interlaken okay got it , now let 's go here .	mount
+10	311	1595	1041.481	1047.401	B	mount neuchatel to mount interlaken okay got it , now let 's go here .	interlaken
+10	311	1596	1041.481	1047.401	B	mount neuchatel to mount interlaken okay got it , now let 's go here .	okay
+10	311	1597	1041.481	1047.401	B	mount neuchatel to mount interlaken okay got it , now let 's go here .	got
+10	311	1598	1041.481	1047.401	B	mount neuchatel to mount interlaken okay got it , now let 's go here .	it
+10	311	1599	1041.481	1047.401	B	mount neuchatel to mount interlaken okay got it , now let 's go here .	,
+10	311	1600	1041.481	1047.401	B	mount neuchatel to mount interlaken okay got it , now let 's go here .	now
+10	311	1601	1041.481	1047.401	B	mount neuchatel to mount interlaken okay got it , now let 's go here .	let
+10	311	1602	1041.481	1047.401	B	mount neuchatel to mount interlaken okay got it , now let 's go here .	's
+10	311	1603	1041.481	1047.401	B	mount neuchatel to mount interlaken okay got it , now let 's go here .	go
+10	311	1604	1041.481	1047.401	B	mount neuchatel to mount interlaken okay got it , now let 's go here .	here
+10	311	1605	1041.481	1047.401	B	mount neuchatel to mount interlaken okay got it , now let 's go here .	.
+10	312	1606	1046.563	1048.315	A	to mount montreux ?	to
+10	312	1607	1046.563	1048.315	A	to mount montreux ?	mount
+10	312	1608	1046.563	1048.315	A	to mount montreux ?	montreux
+10	312	1609	1046.563	1048.315	A	to mount montreux ?	?
+10	313	1610	1047.962	1048.636	B	yeah .	yeah
+10	313	1611	1047.962	1048.636	B	yeah .	.
+10	314	1612	1050.438	1052.460	A	that 's that 's	that
+10	314	1613	1050.438	1052.460	A	that 's that 's	's
+10	314	1614	1050.438	1052.460	A	that 's that 's	that
+10	314	1615	1050.438	1052.460	A	that 's that 's	's
+10	315	1616	1052.897	1053.855	B	um go to mount	um
+10	315	1617	1052.897	1053.855	B	um go to mount	go
+10	315	1618	1052.897	1053.855	B	um go to mount	to
+10	315	1619	1052.897	1053.855	B	um go to mount	mount
+10	316	1620	1055.518	1056.866	B	oh that 's gon na cost a lot .	oh
+10	316	1621	1055.518	1056.866	B	oh that 's gon na cost a lot .	that
+10	316	1622	1055.518	1056.866	B	oh that 's gon na cost a lot .	's
+10	316	1623	1055.518	1056.866	B	oh that 's gon na cost a lot .	gon
+10	316	1624	1055.518	1056.866	B	oh that 's gon na cost a lot .	na
+10	316	1625	1055.518	1056.866	B	oh that 's gon na cost a lot .	cost
+10	316	1626	1055.518	1056.866	B	oh that 's gon na cost a lot .	a
+10	316	1627	1055.518	1056.866	B	oh that 's gon na cost a lot .	lot
+10	316	1628	1055.518	1056.866	B	oh that 's gon na cost a lot .	.
+10	317	1629	1057.802	1059.300	B	it cost 2 good it cost 2 .	it
+10	317	1630	1057.802	1059.300	B	it cost 2 good it cost 2 .	cost
+10	317	1631	1057.802	1059.300	B	it cost 2 good it cost 2 .	2
+10	317	1632	1057.802	1059.300	B	it cost 2 good it cost 2 .	good
+10	317	1633	1057.802	1059.300	B	it cost 2 good it cost 2 .	it
+10	317	1634	1057.802	1059.300	B	it cost 2 good it cost 2 .	cost
+10	317	1635	1057.802	1059.300	B	it cost 2 good it cost 2 .	2
+10	317	1636	1057.802	1059.300	B	it cost 2 good it cost 2 .	.
+10	318	1637	1059.480	1060.004	A	how much ?	how
+10	318	1638	1059.480	1060.004	A	how much ?	much
+10	318	1639	1059.480	1060.004	A	how much ?	?
+10	319	1640	1060.427	1063.902	B	2 only okay , go to mount luzern , mount luzern maybe .	2
+10	319	1641	1060.427	1063.902	B	2 only okay , go to mount luzern , mount luzern maybe .	only
+10	319	1642	1060.427	1063.902	B	2 only okay , go to mount luzern , mount luzern maybe .	okay
+10	319	1643	1060.427	1063.902	B	2 only okay , go to mount luzern , mount luzern maybe .	,
+10	319	1644	1060.427	1063.902	B	2 only okay , go to mount luzern , mount luzern maybe .	go
+10	319	1645	1060.427	1063.902	B	2 only okay , go to mount luzern , mount luzern maybe .	to
+10	319	1646	1060.427	1063.902	B	2 only okay , go to mount luzern , mount luzern maybe .	mount
+10	319	1647	1060.427	1063.902	B	2 only okay , go to mount luzern , mount luzern maybe .	luzern
+10	319	1648	1060.427	1063.902	B	2 only okay , go to mount luzern , mount luzern maybe .	,
+10	319	1649	1060.427	1063.902	B	2 only okay , go to mount luzern , mount luzern maybe .	mount
+10	319	1650	1060.427	1063.902	B	2 only okay , go to mount luzern , mount luzern maybe .	luzern
+10	319	1651	1060.427	1063.902	B	2 only okay , go to mount luzern , mount luzern maybe .	maybe
+10	319	1652	1060.427	1063.902	B	2 only okay , go to mount luzern , mount luzern maybe .	.
+10	320	1653	1066.595	1068.811	B	okay now i 'm gon na go to mount davos	okay
+10	320	1654	1066.595	1068.811	B	okay now i 'm gon na go to mount davos	now
+10	320	1655	1066.595	1068.811	B	okay now i 'm gon na go to mount davos	i
+10	320	1656	1066.595	1068.811	B	okay now i 'm gon na go to mount davos	'm
+10	320	1657	1066.595	1068.811	B	okay now i 'm gon na go to mount davos	gon
+10	320	1658	1066.595	1068.811	B	okay now i 'm gon na go to mount davos	na
+10	320	1659	1066.595	1068.811	B	okay now i 'm gon na go to mount davos	go
+10	320	1660	1066.595	1068.811	B	okay now i 'm gon na go to mount davos	to
+10	320	1661	1066.595	1068.811	B	okay now i 'm gon na go to mount davos	mount
+10	320	1662	1066.595	1068.811	B	okay now i 'm gon na go to mount davos	davos
+10	321	1663	1069.366	1070.818	B	to mount s t gallen .	to
+10	321	1664	1069.366	1070.818	B	to mount s t gallen .	mount
+10	321	1665	1069.366	1070.818	B	to mount s t gallen .	s
+10	321	1666	1069.366	1070.818	B	to mount s t gallen .	t
+10	321	1667	1069.366	1070.818	B	to mount s t gallen .	gallen
+10	321	1668	1069.366	1070.818	B	to mount s t gallen .	.
+10	322	1669	1075.216	1075.860	B	okay .	okay
+10	322	1670	1075.216	1075.860	B	okay .	.
+10	323	1671	1076.174	1076.594	B	yes .	yes
+10	323	1672	1076.174	1076.594	B	yes .	.
+10	324	1673	1076.938	1077.358	A	maybe	maybe
+10	325	1674	1077.028	1079.365	B	to mount bern bern bern mount bern .	to
+10	325	1675	1077.028	1079.365	B	to mount bern bern bern mount bern .	mount
+10	325	1676	1077.028	1079.365	B	to mount bern bern bern mount bern .	bern
+10	325	1677	1077.028	1079.365	B	to mount bern bern bern mount bern .	bern
+10	325	1678	1077.028	1079.365	B	to mount bern bern bern mount bern .	bern
+10	325	1679	1077.028	1079.365	B	to mount bern bern bern mount bern .	mount
+10	325	1680	1077.028	1079.365	B	to mount bern bern bern mount bern .	bern
+10	325	1681	1077.028	1079.365	B	to mount bern bern bern mount bern .	.
+10	326	1682	1078.062	1078.676	A	yeah .	yeah
+10	326	1683	1078.062	1078.676	A	yeah .	.
+10	327	1684	1079.103	1081.095	A	then to mount basel then we 're done .	then
+10	327	1685	1079.103	1081.095	A	then to mount basel then we 're done .	to
+10	327	1686	1079.103	1081.095	A	then to mount basel then we 're done .	mount
+10	327	1687	1079.103	1081.095	A	then to mount basel then we 're done .	basel
+10	327	1688	1079.103	1081.095	A	then to mount basel then we 're done .	then
+10	327	1689	1079.103	1081.095	A	then to mount basel then we 're done .	we
+10	327	1690	1079.103	1081.095	A	then to mount basel then we 're done .	're
+10	327	1691	1079.103	1081.095	A	then to mount basel then we 're done .	done
+10	327	1692	1079.103	1081.095	A	then to mount basel then we 're done .	.
+10	328	1693	1082.271	1084.263	B	basel , and then press submit	basel
+10	328	1694	1082.271	1084.263	B	basel , and then press submit	,
+10	328	1695	1082.271	1084.263	B	basel , and then press submit	and
+10	328	1696	1082.271	1084.263	B	basel , and then press submit	then
+10	328	1697	1082.271	1084.263	B	basel , and then press submit	press
+10	328	1698	1082.271	1084.263	B	basel , and then press submit	submit
+10	329	1699	1086.922	1088.644	B	oh my god we 're so close .	oh
+10	329	1700	1086.922	1088.644	B	oh my god we 're so close .	my
+10	329	1701	1086.922	1088.644	B	oh my god we 're so close .	god
+10	329	1702	1086.922	1088.644	B	oh my god we 're so close .	we
+10	329	1703	1086.922	1088.644	B	oh my god we 're so close .	're
+10	329	1704	1086.922	1088.644	B	oh my god we 're so close .	so
+10	329	1705	1086.922	1088.644	B	oh my god we 're so close .	close
+10	329	1706	1086.922	1088.644	B	oh my god we 're so close .	.
+10	330	1707	1092.468	1093.187	B	um	um
+10	331	1708	1093.097	1095.119	A	maybe from , mount	maybe
+10	331	1709	1093.097	1095.119	A	maybe from , mount	from
+10	331	1710	1093.097	1095.119	A	maybe from , mount	,
+10	331	1711	1093.097	1095.119	A	maybe from , mount	mount
+10	332	1712	1094.325	1095.014	B	here .	here
+10	332	1713	1094.325	1095.014	B	here .	.
+10	333	1714	1096.203	1096.697	B	here .	here
+10	333	1715	1096.203	1096.697	B	here .	.
+10	334	1716	1096.353	1098.600	A	i think the further they are the better .	i
+10	334	1717	1096.353	1098.600	A	i think the further they are the better .	think
+10	334	1718	1096.353	1098.600	A	i think the further they are the better .	the
+10	334	1719	1096.353	1098.600	A	i think the further they are the better .	further
+10	334	1720	1096.353	1098.600	A	i think the further they are the better .	they
+10	334	1721	1096.353	1098.600	A	i think the further they are the better .	are
+10	334	1722	1096.353	1098.600	A	i think the further they are the better .	the
+10	334	1723	1096.353	1098.600	A	i think the further they are the better .	better
+10	334	1724	1096.353	1098.600	A	i think the further they are the better .	.
+10	335	1725	1100.102	1102.378	B	now go to mount luzern , luzern .	now
+10	335	1726	1100.102	1102.378	B	now go to mount luzern , luzern .	go
+10	335	1727	1100.102	1102.378	B	now go to mount luzern , luzern .	to
+10	335	1728	1100.102	1102.378	B	now go to mount luzern , luzern .	mount
+10	335	1729	1100.102	1102.378	B	now go to mount luzern , luzern .	luzern
+10	335	1730	1100.102	1102.378	B	now go to mount luzern , luzern .	,
+10	335	1731	1100.102	1102.378	B	now go to mount luzern , luzern .	luzern
+10	335	1732	1100.102	1102.378	B	now go to mount luzern , luzern .	.
+10	336	1733	1102.573	1103.427	A	yeah .	yeah
+10	336	1734	1102.573	1103.427	A	yeah .	.
+10	337	1735	1107.269	1107.898	A	to	to
+10	338	1736	1108.532	1111.079	B	to um zermatt zermatt zermatt .	to
+10	338	1737	1108.532	1111.079	B	to um zermatt zermatt zermatt .	um
+10	338	1738	1108.532	1111.079	B	to um zermatt zermatt zermatt .	zermatt
+10	338	1739	1108.532	1111.079	B	to um zermatt zermatt zermatt .	zermatt
+10	338	1740	1108.532	1111.079	B	to um zermatt zermatt zermatt .	zermatt
+10	338	1741	1108.532	1111.079	B	to um zermatt zermatt zermatt .	.
+10	339	1742	1111.109	1111.633	A	i know .	i
+10	339	1743	1111.109	1111.633	A	i know .	know
+10	339	1744	1111.109	1111.633	A	i know .	.
+10	340	1745	1112.352	1113.191	A	then to	then
+10	340	1746	1112.352	1113.191	A	then to	to
+10	341	1747	1112.427	1113.086	B	okay good .	okay
+10	341	1748	1112.427	1113.086	B	okay good .	good
+10	341	1749	1112.427	1113.086	B	okay good .	.
+10	342	1750	1113.841	1114.530	A	mount	mount
+10	343	1751	1115.010	1115.953	B	bern no	bern
+10	343	1752	1115.010	1115.953	B	bern no	no
+10	344	1753	1115.654	1116.882	A	no mount montreux .	no
+10	344	1754	1115.654	1116.882	A	no mount montreux .	mount
+10	344	1755	1115.654	1116.882	A	no mount montreux .	montreux
+10	344	1756	1115.654	1116.882	A	no mount montreux .	.
+10	345	1757	1117.511	1117.975	B	yeah .	yeah
+10	345	1758	1117.511	1117.975	B	yeah .	.
+10	346	1759	1120.246	1121.867	B	and , to mount interlaken ?	and
+10	346	1760	1120.246	1121.867	B	and , to mount interlaken ?	,
+10	346	1761	1120.246	1121.867	B	and , to mount interlaken ?	to
+10	346	1762	1120.246	1121.867	B	and , to mount interlaken ?	mount
+10	346	1763	1120.246	1121.867	B	and , to mount interlaken ?	interlaken
+10	346	1764	1120.246	1121.867	B	and , to mount interlaken ?	?
+10	347	1765	1120.396	1121.938	A	to , mount	to
+10	347	1766	1120.396	1121.938	A	to , mount	,
+10	347	1767	1120.396	1121.938	A	to , mount	mount
+10	348	1768	1122.195	1122.644	A	yeah .	yeah
+10	348	1769	1122.195	1122.644	A	yeah .	.
+10	349	1770	1122.764	1123.693	B	no no wait .	no
+10	349	1771	1122.764	1123.693	B	no no wait .	no
+10	349	1772	1122.764	1123.693	B	no no wait .	wait
+10	349	1773	1122.764	1123.693	B	no no wait .	.
+10	350	1774	1123.468	1124.232	A	interlaken .	interlaken
+10	350	1775	1123.468	1124.232	A	interlaken .	.
+10	351	1776	1124.142	1125.041	B	we go here .	we
+10	351	1777	1124.142	1125.041	B	we go here .	go
+10	351	1778	1124.142	1125.041	B	we go here .	here
+10	351	1779	1124.142	1125.041	B	we go here .	.
+10	352	1780	1126.881	1127.301	B	okay .	okay
+10	352	1781	1126.881	1127.301	B	okay .	.
+10	353	1782	1127.600	1128.155	B	your turn .	your
+10	353	1783	1127.600	1128.155	B	your turn .	turn
+10	353	1784	1127.600	1128.155	B	your turn .	.
+10	354	1785	1132.024	1132.848	B	to mount basel .	to
+10	354	1786	1132.024	1132.848	B	to mount basel .	mount
+10	354	1787	1132.024	1132.848	B	to mount basel .	basel
+10	354	1788	1132.024	1132.848	B	to mount basel .	.
+10	355	1789	1133.208	1135.200	A	yeah , then to mount bern and then	yeah
+10	355	1790	1133.208	1135.200	A	yeah , then to mount bern and then	,
+10	355	1791	1133.208	1135.200	A	yeah , then to mount bern and then	then
+10	355	1792	1133.208	1135.200	A	yeah , then to mount bern and then	to
+10	355	1793	1133.208	1135.200	A	yeah , then to mount bern and then	mount
+10	355	1794	1133.208	1135.200	A	yeah , then to mount bern and then	bern
+10	355	1795	1133.208	1135.200	A	yeah , then to mount bern and then	and
+10	355	1796	1133.208	1135.200	A	yeah , then to mount bern and then	then
+10	356	1797	1135.350	1136.413	B	okay mount no .	okay
+10	356	1798	1135.350	1136.413	B	okay mount no .	mount
+10	356	1799	1135.350	1136.413	B	okay mount no .	no
+10	356	1800	1135.350	1136.413	B	okay mount no .	.
+10	357	1801	1135.904	1137.177	A	please say we 're done .	please
+10	357	1802	1135.904	1137.177	A	please say we 're done .	say
+10	357	1803	1135.904	1137.177	A	please say we 're done .	we
+10	357	1804	1135.904	1137.177	A	please say we 're done .	're
+10	357	1805	1135.904	1137.177	A	please say we 're done .	done
+10	357	1806	1135.904	1137.177	A	please say we 're done .	.
+10	358	1807	1136.713	1138.001	B	yeah mount bern mount bern .	yeah
+10	358	1808	1136.713	1138.001	B	yeah mount bern mount bern .	mount
+10	358	1809	1136.713	1138.001	B	yeah mount bern mount bern .	bern
+10	358	1810	1136.713	1138.001	B	yeah mount bern mount bern .	mount
+10	358	1811	1136.713	1138.001	B	yeah mount bern mount bern .	bern
+10	358	1812	1136.713	1138.001	B	yeah mount bern mount bern .	.
+10	359	1813	1138.515	1140.058	A	then , submit	then
+10	359	1814	1138.515	1140.058	A	then , submit	,
+10	359	1815	1138.515	1140.058	A	then , submit	submit
+10	360	1816	1139.414	1139.908	B	submit .	submit
+10	360	1817	1139.414	1139.908	B	submit .	.
+10	361	1818	1140.273	1141.157	B	please .	please
+10	361	1819	1140.273	1141.157	B	please .	.
+10	362	1820	1146.751	1147.276	A	wait .	wait
+10	362	1821	1146.751	1147.276	A	wait .	.
+10	363	1822	1155.931	1156.980	B	okay , here	okay
+10	363	1823	1155.931	1156.980	B	okay , here	,
+10	363	1824	1155.931	1156.980	B	okay , here	here
+10	364	1825	1157.354	1158.448	B	i 'm gon na go look at	i
+10	364	1826	1157.354	1158.448	B	i 'm gon na go look at	'm
+10	364	1827	1157.354	1158.448	B	i 'm gon na go look at	gon
+10	364	1828	1157.354	1158.448	B	i 'm gon na go look at	na
+10	364	1829	1157.354	1158.448	B	i 'm gon na go look at	go
+10	364	1830	1157.354	1158.448	B	i 'm gon na go look at	look
+10	364	1831	1157.354	1158.448	B	i 'm gon na go look at	at
+10	365	1832	1158.807	1161.898	B	here go to your previous solutions	here
+10	365	1833	1158.807	1161.898	B	here go to your previous solutions	go
+10	365	1834	1158.807	1161.898	B	here go to your previous solutions	to
+10	365	1835	1158.807	1161.898	B	here go to your previous solutions	your
+10	365	1836	1158.807	1161.898	B	here go to your previous solutions	previous
+10	365	1837	1158.807	1161.898	B	here go to your previous solutions	solutions
+10	366	1838	1162.458	1164.644	B	are we done , okay wait	are
+10	366	1839	1162.458	1164.644	B	are we done , okay wait	we
+10	366	1840	1162.458	1164.644	B	are we done , okay wait	done
+10	366	1841	1162.458	1164.644	B	are we done , okay wait	,
+10	366	1842	1162.458	1164.644	B	are we done , okay wait	okay
+10	366	1843	1162.458	1164.644	B	are we done , okay wait	wait
+10	367	1844	1164.974	1165.633	B	um	um
+10	368	1845	1165.813	1166.816	A	we 'll try .	we
+10	368	1846	1165.813	1166.816	A	we 'll try .	'll
+10	368	1847	1165.813	1166.816	A	we 'll try .	try
+10	368	1848	1165.813	1166.816	A	we 'll try .	.
+10	369	1849	1166.975	1168.233	B	to zermatt .	to
+10	369	1850	1166.975	1168.233	B	to zermatt .	zermatt
+10	369	1851	1166.975	1168.233	B	to zermatt .	.
+10	370	1852	1169.761	1173.955	B	yeah 2 2 , go to very long ones go to long range .	yeah
+10	370	1853	1169.761	1173.955	B	yeah 2 2 , go to very long ones go to long range .	2
+10	370	1854	1169.761	1173.955	B	yeah 2 2 , go to very long ones go to long range .	2
+10	370	1855	1169.761	1173.955	B	yeah 2 2 , go to very long ones go to long range .	,
+10	370	1856	1169.761	1173.955	B	yeah 2 2 , go to very long ones go to long range .	go
+10	370	1857	1169.761	1173.955	B	yeah 2 2 , go to very long ones go to long range .	to
+10	370	1858	1169.761	1173.955	B	yeah 2 2 , go to very long ones go to long range .	very
+10	370	1859	1169.761	1173.955	B	yeah 2 2 , go to very long ones go to long range .	long
+10	370	1860	1169.761	1173.955	B	yeah 2 2 , go to very long ones go to long range .	ones
+10	370	1861	1169.761	1173.955	B	yeah 2 2 , go to very long ones go to long range .	go
+10	370	1862	1169.761	1173.955	B	yeah 2 2 , go to very long ones go to long range .	to
+10	370	1863	1169.761	1173.955	B	yeah 2 2 , go to very long ones go to long range .	long
+10	370	1864	1169.761	1173.955	B	yeah 2 2 , go to very long ones go to long range .	range
+10	370	1865	1169.761	1173.955	B	yeah 2 2 , go to very long ones go to long range .	.
+10	371	1866	1174.879	1177.905	B	go to long range , now go to , s t gallen .	go
+10	371	1867	1174.879	1177.905	B	go to long range , now go to , s t gallen .	to
+10	371	1868	1174.879	1177.905	B	go to long range , now go to , s t gallen .	long
+10	371	1869	1174.879	1177.905	B	go to long range , now go to , s t gallen .	range
+10	371	1870	1174.879	1177.905	B	go to long range , now go to , s t gallen .	,
+10	371	1871	1174.879	1177.905	B	go to long range , now go to , s t gallen .	now
+10	371	1872	1174.879	1177.905	B	go to long range , now go to , s t gallen .	go
+10	371	1873	1174.879	1177.905	B	go to long range , now go to , s t gallen .	to
+10	371	1874	1174.879	1177.905	B	go to long range , now go to , s t gallen .	,
+10	371	1875	1174.879	1177.905	B	go to long range , now go to , s t gallen .	s
+10	371	1876	1174.879	1177.905	B	go to long range , now go to , s t gallen .	t
+10	371	1877	1174.879	1177.905	B	go to long range , now go to , s t gallen .	gallen
+10	371	1878	1174.879	1177.905	B	go to long range , now go to , s t gallen .	.
+10	372	1879	1179.902	1182.074	B	nice now i 'm gon na go to mount zurich .	nice
+10	372	1880	1179.902	1182.074	B	nice now i 'm gon na go to mount zurich .	now
+10	372	1881	1179.902	1182.074	B	nice now i 'm gon na go to mount zurich .	i
+10	372	1882	1179.902	1182.074	B	nice now i 'm gon na go to mount zurich .	'm
+10	372	1883	1179.902	1182.074	B	nice now i 'm gon na go to mount zurich .	gon
+10	372	1884	1179.902	1182.074	B	nice now i 'm gon na go to mount zurich .	na
+10	372	1885	1179.902	1182.074	B	nice now i 'm gon na go to mount zurich .	go
+10	372	1886	1179.902	1182.074	B	nice now i 'm gon na go to mount zurich .	to
+10	372	1887	1179.902	1182.074	B	nice now i 'm gon na go to mount zurich .	mount
+10	372	1888	1179.902	1182.074	B	nice now i 'm gon na go to mount zurich .	zurich
+10	372	1889	1179.902	1182.074	B	nice now i 'm gon na go to mount zurich .	.
+10	373	1890	1182.778	1184.366	B	all the way to mount	all
+10	373	1891	1182.778	1184.366	B	all the way to mount	the
+10	373	1892	1182.778	1184.366	B	all the way to mount	way
+10	373	1893	1182.778	1184.366	B	all the way to mount	to
+10	373	1894	1182.778	1184.366	B	all the way to mount	mount
+10	374	1895	1184.471	1185.467	A	basel .	basel
+10	374	1896	1184.471	1185.467	A	basel .	.
+10	375	1897	1185.841	1186.261	B	mount	mount
+10	376	1898	1186.590	1187.489	B	basel yeah .	basel
+10	376	1899	1186.590	1187.489	B	basel yeah .	yeah
+10	376	1900	1186.590	1187.489	B	basel yeah .	.
+10	377	1901	1190.237	1194.625	B	no that costs 5 , no , we were really good that costs 5 .	no
+10	377	1902	1190.237	1194.625	B	no that costs 5 , no , we were really good that costs 5 .	that
+10	377	1903	1190.237	1194.625	B	no that costs 5 , no , we were really good that costs 5 .	costs
+10	377	1904	1190.237	1194.625	B	no that costs 5 , no , we were really good that costs 5 .	5
+10	377	1905	1190.237	1194.625	B	no that costs 5 , no , we were really good that costs 5 .	,
+10	377	1906	1190.237	1194.625	B	no that costs 5 , no , we were really good that costs 5 .	no
+10	377	1907	1190.237	1194.625	B	no that costs 5 , no , we were really good that costs 5 .	,
+10	377	1908	1190.237	1194.625	B	no that costs 5 , no , we were really good that costs 5 .	we
+10	377	1909	1190.237	1194.625	B	no that costs 5 , no , we were really good that costs 5 .	were
+10	377	1910	1190.237	1194.625	B	no that costs 5 , no , we were really good that costs 5 .	really
+10	377	1911	1190.237	1194.625	B	no that costs 5 , no , we were really good that costs 5 .	good
+10	377	1912	1190.237	1194.625	B	no that costs 5 , no , we were really good that costs 5 .	that
+10	377	1913	1190.237	1194.625	B	no that costs 5 , no , we were really good that costs 5 .	costs
+10	377	1914	1190.237	1194.625	B	no that costs 5 , no , we were really good that costs 5 .	5
+10	377	1915	1190.237	1194.625	B	no that costs 5 , no , we were really good that costs 5 .	.
+10	378	1916	1202.116	1202.865	A	mount	mount
+10	379	1917	1205.382	1205.817	B	to mount	to
+10	379	1918	1205.382	1205.817	B	to mount	mount
+10	380	1919	1206.296	1207.120	B	neuchatel	neuchatel
+10	381	1920	1212.377	1213.785	B	where are you gon na go ?	where
+10	381	1921	1212.377	1213.785	B	where are you gon na go ?	are
+10	381	1922	1212.377	1213.785	B	where are you gon na go ?	you
+10	381	1923	1212.377	1213.785	B	where are you gon na go ?	gon
+10	381	1924	1212.377	1213.785	B	where are you gon na go ?	na
+10	381	1925	1212.377	1213.785	B	where are you gon na go ?	go
+10	381	1926	1212.377	1213.785	B	where are you gon na go ?	?
+10	382	1927	1215.619	1216.203	B	s t	s
+10	382	1928	1215.619	1216.203	B	s t	t
+10	383	1929	1218.525	1219.304	A	gallen .	gallen
+10	383	1930	1218.525	1219.304	A	gallen .	.
+10	384	1931	1220.038	1221.056	A	interlaken .	interlaken
+10	384	1932	1220.038	1221.056	A	interlaken .	.
+10	385	1933	1220.987	1221.975	B	okay press submit	okay
+10	385	1934	1220.987	1221.975	B	okay press submit	press
+10	385	1935	1220.987	1221.975	B	okay press submit	submit
+10	386	1936	1225.353	1225.757	B	nope .	nope
+10	386	1937	1225.353	1225.757	B	nope .	.
+10	387	1938	1225.697	1226.701	A	uh	uh
+10	388	1939	1227.824	1229.097	B	is n't it break time ?	is
+10	388	1940	1227.824	1229.097	B	is n't it break time ?	n't
+10	388	1941	1227.824	1229.097	B	is n't it break time ?	it
+10	388	1942	1227.824	1229.097	B	is n't it break time ?	break
+10	388	1943	1227.824	1229.097	B	is n't it break time ?	time
+10	388	1944	1227.824	1229.097	B	is n't it break time ?	?
+10	389	1945	1236.739	1238.956	B	we have n't finished yet it 's so hard .	we
+10	389	1946	1236.739	1238.956	B	we have n't finished yet it 's so hard .	have
+10	389	1947	1236.739	1238.956	B	we have n't finished yet it 's so hard .	n't
+10	389	1948	1236.739	1238.956	B	we have n't finished yet it 's so hard .	finished
+10	389	1949	1236.739	1238.956	B	we have n't finished yet it 's so hard .	yet
+10	389	1950	1236.739	1238.956	B	we have n't finished yet it 's so hard .	it
+10	389	1951	1236.739	1238.956	B	we have n't finished yet it 's so hard .	's
+10	389	1952	1236.739	1238.956	B	we have n't finished yet it 's so hard .	so
+10	389	1953	1236.739	1238.956	B	we have n't finished yet it 's so hard .	hard
+10	389	1954	1236.739	1238.956	B	we have n't finished yet it 's so hard .	.
+10	390	1955	1241.240	1242.079	A	no .	no
+10	390	1956	1241.240	1242.079	A	no .	.
+10	391	1957	1241.809	1242.453	B	uh	uh
+10	392	1958	1242.962	1243.502	B	we 're	we
+10	392	1959	1242.962	1243.502	B	we 're	're
+10	393	1960	1245.052	1248.347	B	yeah , no 3 francs we 've got minimum , yeah .	yeah
+10	393	1961	1245.052	1248.347	B	yeah , no 3 francs we 've got minimum , yeah .	,
+10	393	1962	1245.052	1248.347	B	yeah , no 3 francs we 've got minimum , yeah .	no
+10	393	1963	1245.052	1248.347	B	yeah , no 3 francs we 've got minimum , yeah .	3
+10	393	1964	1245.052	1248.347	B	yeah , no 3 francs we 've got minimum , yeah .	francs
+10	393	1965	1245.052	1248.347	B	yeah , no 3 francs we 've got minimum , yeah .	we
+10	393	1966	1245.052	1248.347	B	yeah , no 3 francs we 've got minimum , yeah .	've
+10	393	1967	1245.052	1248.347	B	yeah , no 3 francs we 've got minimum , yeah .	got
+10	393	1968	1245.052	1248.347	B	yeah , no 3 francs we 've got minimum , yeah .	minimum
+10	393	1969	1245.052	1248.347	B	yeah , no 3 francs we 've got minimum , yeah .	,
+10	393	1970	1245.052	1248.347	B	yeah , no 3 francs we 've got minimum , yeah .	yeah
+10	393	1971	1245.052	1248.347	B	yeah , no 3 francs we 've got minimum , yeah .	.
+10	394	1972	1245.816	1247.598	A	we were 3 francs .	we
+10	394	1973	1245.816	1247.598	A	we were 3 francs .	were
+10	394	1974	1245.816	1247.598	A	we were 3 francs .	3
+10	394	1975	1245.816	1247.598	A	we were 3 francs .	francs
+10	394	1976	1245.816	1247.598	A	we were 3 francs .	.
+10	395	1977	1249.625	1250.643	B	okay one more minute .	okay
+10	395	1978	1249.625	1250.643	B	okay one more minute .	one
+10	395	1979	1249.625	1250.643	B	okay one more minute .	more
+10	395	1980	1249.625	1250.643	B	okay one more minute .	minute
+10	395	1981	1249.625	1250.643	B	okay one more minute .	.
+10	396	1982	1252.491	1253.000	B	okay .	okay
+10	396	1983	1252.491	1253.000	B	okay .	.
+10	397	1984	1254.258	1254.992	B	let 's go .	let
+10	397	1985	1254.258	1254.992	B	let 's go .	's
+10	397	1986	1254.258	1254.992	B	let 's go .	go
+10	397	1987	1254.258	1254.992	B	let 's go .	.
+10	398	1988	1255.606	1256.071	B	mount .	mount
+10	398	1989	1255.606	1256.071	B	mount .	.
+10	399	1990	1256.505	1257.763	A	maybe from mount	maybe
+10	399	1991	1256.505	1257.763	A	maybe from mount	from
+10	399	1992	1256.505	1257.763	A	maybe from mount	mount
+10	400	1993	1257.868	1260.100	B	zurich to mount davos .	zurich
+10	400	1994	1257.868	1260.100	B	zurich to mount davos .	to
+10	400	1995	1257.868	1260.100	B	zurich to mount davos .	mount
+10	400	1996	1257.868	1260.100	B	zurich to mount davos .	davos
+10	400	1997	1257.868	1260.100	B	zurich to mount davos .	.
+10	401	1998	1262.343	1264.200	B	no , that 's not the one i wanted .	no
+10	401	1999	1262.343	1264.200	B	no , that 's not the one i wanted .	,
+10	401	2000	1262.343	1264.200	B	no , that 's not the one i wanted .	that
+10	401	2001	1262.343	1264.200	B	no , that 's not the one i wanted .	's
+10	401	2002	1262.343	1264.200	B	no , that 's not the one i wanted .	not
+10	401	2003	1262.343	1264.200	B	no , that 's not the one i wanted .	the
+10	401	2004	1262.343	1264.200	B	no , that 's not the one i wanted .	one
+10	401	2005	1262.343	1264.200	B	no , that 's not the one i wanted .	i
+10	401	2006	1262.343	1264.200	B	no , that 's not the one i wanted .	wanted
+10	401	2007	1262.343	1264.200	B	no , that 's not the one i wanted .	.
+10	402	2008	1265.823	1266.347	A	wait .	wait
+10	402	2009	1265.823	1266.347	A	wait .	.
+10	403	2010	1267.006	1268.115	A	i 'll erase that .	i
+10	403	2011	1267.006	1268.115	A	i 'll erase that .	'll
+10	403	2012	1267.006	1268.115	A	i 'll erase that .	erase
+10	403	2013	1267.006	1268.115	A	i 'll erase that .	that
+10	403	2014	1267.006	1268.115	A	i 'll erase that .	.
+10	404	2015	1268.459	1271.367	B	yeah and erase mount basel to mount zurich it 's 5 .	yeah
+10	404	2016	1268.459	1271.367	B	yeah and erase mount basel to mount zurich it 's 5 .	and
+10	404	2017	1268.459	1271.367	B	yeah and erase mount basel to mount zurich it 's 5 .	erase
+10	404	2018	1268.459	1271.367	B	yeah and erase mount basel to mount zurich it 's 5 .	mount
+10	404	2019	1268.459	1271.367	B	yeah and erase mount basel to mount zurich it 's 5 .	basel
+10	404	2020	1268.459	1271.367	B	yeah and erase mount basel to mount zurich it 's 5 .	to
+10	404	2021	1268.459	1271.367	B	yeah and erase mount basel to mount zurich it 's 5 .	mount
+10	404	2022	1268.459	1271.367	B	yeah and erase mount basel to mount zurich it 's 5 .	zurich
+10	404	2023	1268.459	1271.367	B	yeah and erase mount basel to mount zurich it 's 5 .	it
+10	404	2024	1268.459	1271.367	B	yeah and erase mount basel to mount zurich it 's 5 .	's
+10	404	2025	1268.459	1271.367	B	yeah and erase mount basel to mount zurich it 's 5 .	5
+10	404	2026	1268.459	1271.367	B	yeah and erase mount basel to mount zurich it 's 5 .	.
+10	405	2027	1272.045	1272.390	B	nice .	nice
+10	405	2028	1272.045	1272.390	B	nice .	.
+10	406	2029	1273.037	1276.273	B	okay , now , let 's try this .	okay
+10	406	2030	1273.037	1276.273	B	okay , now , let 's try this .	,
+10	406	2031	1273.037	1276.273	B	okay , now , let 's try this .	now
+10	406	2032	1273.037	1276.273	B	okay , now , let 's try this .	,
+10	406	2033	1273.037	1276.273	B	okay , now , let 's try this .	let
+10	406	2034	1273.037	1276.273	B	okay , now , let 's try this .	's
+10	406	2035	1273.037	1276.273	B	okay , now , let 's try this .	try
+10	406	2036	1273.037	1276.273	B	okay , now , let 's try this .	this
+10	406	2037	1273.037	1276.273	B	okay , now , let 's try this .	.
+10	407	2038	1276.902	1278.070	B	to that how much is that ?	to
+10	407	2039	1276.902	1278.070	B	to that how much is that ?	that
+10	407	2040	1276.902	1278.070	B	to that how much is that ?	how
+10	407	2041	1276.902	1278.070	B	to that how much is that ?	much
+10	407	2042	1276.902	1278.070	B	to that how much is that ?	is
+10	407	2043	1276.902	1278.070	B	to that how much is that ?	that
+10	407	2044	1276.902	1278.070	B	to that how much is that ?	?
+10	408	2045	1279.005	1279.889	B	3 and 4 .	3
+10	408	2046	1279.005	1279.889	B	3 and 4 .	and
+10	408	2047	1279.005	1279.889	B	3 and 4 .	4
+10	408	2048	1279.005	1279.889	B	3 and 4 .	.
+10	409	2049	1280.593	1281.462	A	that 's	that
+10	409	2050	1280.593	1281.462	A	that 's	's
+10	410	2051	1281.677	1283.279	B	no just do it just do it it 's fine .	no
+10	410	2052	1281.677	1283.279	B	no just do it just do it it 's fine .	just
+10	410	2053	1281.677	1283.279	B	no just do it just do it it 's fine .	do
+10	410	2054	1281.677	1283.279	B	no just do it just do it it 's fine .	it
+10	410	2055	1281.677	1283.279	B	no just do it just do it it 's fine .	just
+10	410	2056	1281.677	1283.279	B	no just do it just do it it 's fine .	do
+10	410	2057	1281.677	1283.279	B	no just do it just do it it 's fine .	it
+10	410	2058	1281.677	1283.279	B	no just do it just do it it 's fine .	it
+10	410	2059	1281.677	1283.279	B	no just do it just do it it 's fine .	's
+10	410	2060	1281.677	1283.279	B	no just do it just do it it 's fine .	fine
+10	410	2061	1281.677	1283.279	B	no just do it just do it it 's fine .	.
+10	411	2062	1284.822	1285.916	A	let 's try .	let
+10	411	2063	1284.822	1285.916	A	let 's try .	's
+10	411	2064	1284.822	1285.916	A	let 's try .	try
+10	411	2065	1284.822	1285.916	A	let 's try .	.
+10	412	2066	1287.662	1288.890	A	mount	mount
+10	413	2067	1289.268	1290.990	B	neuchatel to mount	neuchatel
+10	413	2068	1289.268	1290.990	B	neuchatel to mount	to
+10	413	2069	1289.268	1290.990	B	neuchatel to mount	mount
+10	414	2070	1290.391	1291.964	A	to mount zurich .	to
+10	414	2071	1290.391	1291.964	A	to mount zurich .	mount
+10	414	2072	1290.391	1291.964	A	to mount zurich .	zurich
+10	414	2073	1290.391	1291.964	A	to mount zurich .	.
+10	415	2074	1291.964	1292.608	B	okay .	okay
+10	415	2075	1291.964	1292.608	B	okay .	.
+10	416	2076	1302.862	1303.746	A	ca n't .	ca
+10	416	2077	1302.862	1303.746	A	ca n't .	n't
+10	416	2078	1302.862	1303.746	A	ca n't .	.
+10	417	2079	1313.072	1315.783	B	mount zermatt to	mount
+10	417	2080	1313.072	1315.783	B	mount zermatt to	zermatt
+10	417	2081	1313.072	1315.783	B	mount zermatt to	to
+10	418	2082	1319.518	1321.256	B	mount okay .	mount
+10	418	2083	1319.518	1321.256	B	mount okay .	okay
+10	418	2084	1319.518	1321.256	B	mount okay .	.
+10	419	2085	1323.862	1325.495	A	you ca n't cross trees .	you
+10	419	2086	1323.862	1325.495	A	you ca n't cross trees .	ca
+10	419	2087	1323.862	1325.495	A	you ca n't cross trees .	n't
+10	419	2088	1323.862	1325.495	A	you ca n't cross trees .	cross
+10	419	2089	1323.862	1325.495	A	you ca n't cross trees .	trees
+10	419	2090	1323.862	1325.495	A	you ca n't cross trees .	.
+10	420	2091	1334.673	1336.246	A	maybe we shoul	maybe
+10	420	2092	1334.673	1336.246	A	maybe we shoul	we
+10	420	2093	1334.673	1336.246	A	maybe we shoul	shoul
+10	421	2094	1338.034	1339.127	B	what was our lowest one ?	what
+10	421	2095	1338.034	1339.127	B	what was our lowest one ?	was
+10	421	2096	1338.034	1339.127	B	what was our lowest one ?	our
+10	421	2097	1338.034	1339.127	B	what was our lowest one ?	lowest
+10	421	2098	1338.034	1339.127	B	what was our lowest one ?	one
+10	421	2099	1338.034	1339.127	B	what was our lowest one ?	?
+10	422	2100	1340.343	1341.451	A	it was 3 .	it
+10	422	2101	1340.343	1341.451	A	it was 3 .	was
+10	422	2102	1340.343	1341.451	A	it was 3 .	3
+10	422	2103	1340.343	1341.451	A	it was 3 .	.
+10	423	2104	1342.339	1342.938	B	yeah .	yeah
+10	423	2105	1342.339	1342.938	B	yeah .	.
+10	424	2106	1343.839	1346.550	B	price was	price
+10	424	2107	1343.839	1346.550	B	price was	was
+10	425	2108	1347.644	1349.666	B	yeah i think it 's 25 that 's price .	yeah
+10	425	2109	1347.644	1349.666	B	yeah i think it 's 25 that 's price .	i
+10	425	2110	1347.644	1349.666	B	yeah i think it 's 25 that 's price .	think
+10	425	2111	1347.644	1349.666	B	yeah i think it 's 25 that 's price .	it
+10	425	2112	1347.644	1349.666	B	yeah i think it 's 25 that 's price .	's
+10	425	2113	1347.644	1349.666	B	yeah i think it 's 25 that 's price .	25
+10	425	2114	1347.644	1349.666	B	yeah i think it 's 25 that 's price .	that
+10	425	2115	1347.644	1349.666	B	yeah i think it 's 25 that 's price .	's
+10	425	2116	1347.644	1349.666	B	yeah i think it 's 25 that 's price .	price
+10	425	2117	1347.644	1349.666	B	yeah i think it 's 25 that 's price .	.
+10	426	2118	1357.327	1358.406	B	it 's my turn .	it
+10	426	2119	1357.327	1358.406	B	it 's my turn .	's
+10	426	2120	1357.327	1358.406	B	it 's my turn .	my
+10	426	2121	1357.327	1358.406	B	it 's my turn .	turn
+10	426	2122	1357.327	1358.406	B	it 's my turn .	.
+10	427	2123	1357.807	1363.678	A	so , no , we want to , maybe from mount basel to mount zurich .	so
+10	427	2124	1357.807	1363.678	A	so , no , we want to , maybe from mount basel to mount zurich .	,
+10	427	2125	1357.807	1363.678	A	so , no , we want to , maybe from mount basel to mount zurich .	no
+10	427	2126	1357.807	1363.678	A	so , no , we want to , maybe from mount basel to mount zurich .	,
+10	427	2127	1357.807	1363.678	A	so , no , we want to , maybe from mount basel to mount zurich .	we
+10	427	2128	1357.807	1363.678	A	so , no , we want to , maybe from mount basel to mount zurich .	want
+10	427	2129	1357.807	1363.678	A	so , no , we want to , maybe from mount basel to mount zurich .	to
+10	427	2130	1357.807	1363.678	A	so , no , we want to , maybe from mount basel to mount zurich .	,
+10	427	2131	1357.807	1363.678	A	so , no , we want to , maybe from mount basel to mount zurich .	maybe
+10	427	2132	1357.807	1363.678	A	so , no , we want to , maybe from mount basel to mount zurich .	from
+10	427	2133	1357.807	1363.678	A	so , no , we want to , maybe from mount basel to mount zurich .	mount
+10	427	2134	1357.807	1363.678	A	so , no , we want to , maybe from mount basel to mount zurich .	basel
+10	427	2135	1357.807	1363.678	A	so , no , we want to , maybe from mount basel to mount zurich .	to
+10	427	2136	1357.807	1363.678	A	so , no , we want to , maybe from mount basel to mount zurich .	mount
+10	427	2137	1357.807	1363.678	A	so , no , we want to , maybe from mount basel to mount zurich .	zurich
+10	427	2138	1357.807	1363.678	A	so , no , we want to , maybe from mount basel to mount zurich .	.
+10	428	2139	1364.195	1365.214	B	okay .	okay
+10	428	2140	1364.195	1365.214	B	okay .	.
+10	429	2141	1373.374	1374.317	B	press submit .	press
+10	429	2142	1373.374	1374.317	B	press submit .	submit
+10	429	2143	1373.374	1374.317	B	press submit .	.
+10	430	2144	1376.031	1377.170	B	i just press submit .	i
+10	430	2145	1376.031	1377.170	B	i just press submit .	just
+10	430	2146	1376.031	1377.170	B	i just press submit .	press
+10	430	2147	1376.031	1377.170	B	i just press submit .	submit
+10	430	2148	1376.031	1377.170	B	i just press submit .	.
