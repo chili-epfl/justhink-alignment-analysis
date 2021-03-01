@@ -6,6 +6,14 @@ The information was collected in two international schools in Switzerland, in No
 
 The JUSThink activity and its study is described in [[2]](#references), and then findings concerning the link between children's learning, performance in the activity, and perception of self, the other and the robot, is reported in [[3]](#references). See the [project website](https://www.epfl.ch/labs/chili/index-html/research/animatas/justhink/) for more details.
 
+JUSThink Dialogue and Actions Corpus
+Norman Utku 	0000-0002-6802-1444
+Dinkar Tanvi
+Bruno Barbara 	0000-0003-0953-7173
+Nasir Jauwairia
+Dillenbourg Pierre
+Clavel Chloe		0000-0003-4850-3398
+
 ## Table of Contents
 1. [Content](#code_description)
 2. [Acknowledgements](#acknowledgements)
