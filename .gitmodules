@@ -1,3 +1,6 @@
 [submodule "tools/cliffsDelta"]
 	path = tools/cliffsDelta
 	url = https://github.com/neilernst/cliffsDelta
+[submodule "data"]
+	path = data
+	url = git@github.com:chili-epfl/justhink-dialogue-and-actions-corpus.git
