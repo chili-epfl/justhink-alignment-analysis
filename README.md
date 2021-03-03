@@ -6,7 +6,7 @@ Specifically, it processes data from a collaborative problem solving activity na
 
 In brief: 
 
-1. JUSThink Dialogue and Actions Corpus contains transcripts, event logs and test responses of children in pairs of two as they participate in the JUSThink activity to solve a problem on graphs together.
+1. JUSThink Dialogue and Actions Corpus contains event logs, test responses and transcripts of children aged 9 through 12, as they participate in the JUSThink activity in pairs of two, to solve a problem on graphs together. 
 2. Our work [[1]](#references) studies the participants' use of expressions that are related to the task at hand, their follow up actions of these expressions, and how it links to task success.
 3. The JUSThink activity and its study is first described in [[2]](#references), and elaborated with findings concerning the link between children's learning, performance in the activity, and perception of self, the other and the robot in [[3]](#references). 
 
@@ -32,7 +32,7 @@ Run the following command to obtain the source code:
 git clone --recurse-submodules git@github.com:utku-norman/justhink-alignment-analysis.git
 ```
 
-The analysis code is writen in Python ,in [Jupyter Notebook](https://jupyter.org/) environment. 
+The analysis code is writen in Python, in [Jupyter Notebook](https://jupyter.org/) environment. 
 
 The Python dependencies differ among the notebooks, and can be installed via a package manager for Python e.g. [pip](https://pip.pypa.io/).
 
