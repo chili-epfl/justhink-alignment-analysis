@@ -60,7 +60,7 @@ Merges transcripts with event logs to have a combined dialogue and actions corpu
 6. [Recognise instructions and detect follow-up actions](tools/6_recognise_instructions_detect_follow-up_actions.ipynb): 
 Extracts verbalised instruction such as "connect Mount Basel to Montreux", and pairs them with the follow-up action that may *match* (e.g. if the other connects Basel to Montreux) or *mismatch* (e.g. if the other connects Basel to Neuchatel) with the instruction.
 7. [Test the hypotheses](tools/7_test_the_hypotheses.ipynb) in [[1]](#references) (uses [cliffsDelta](https://github.com/neilernst/cliffsDelta) to estimate effect size):
-Considers each [research questions and hypotheses](#rqs_hs) studied in [[1]](#references) and generates the results in  [[1]](#references).
+Considers each [research questions and hypotheses](#rqs_hs) studied in [[1]](#references) and generates the results in [[1]](#references).
 
 Note that the later notebooks in numbering utilise processed data exported by the relevant subset of earlier notebooks.
 
