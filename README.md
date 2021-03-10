@@ -6,7 +6,7 @@ Specifically, it processes data from a collaborative problem solving activity na
 
 In brief: 
 
-1. JUSThink Dialogue and Actions Corpus contains event logs, test responses and transcripts of children aged 9 through 12, as they participate in the JUSThink activity in pairs of two, to solve a problem on graphs together. 
+1. JUSThink Dialogue and Actions Corpus contains transcripts, event logs, and test responses  of children aged 9 through 12, as they participate in the JUSThink activity in pairs of two, to solve a problem on graphs together. 
 2. Our work [[1]](#references) studies the participants' use of expressions that are related to the task at hand, their follow up actions of these expressions, and how it links to task success.
 3. The JUSThink activity and its study is first described in [[2]](#references), and elaborated with findings concerning the link between children's learning, performance in the activity, and perception of self, the other and the robot in [[3]](#references). 
 
@@ -65,7 +65,7 @@ Considers each [research questions and hypotheses](#rqs_hs) studied in [[1]](#re
 Note that the later notebooks in numbering utilise processed data exported by the relevant subset of earlier notebooks.
 
 
-### 2.2. Additional External Tools <a name="additional_tools"></a>
+### 2.2. External Tools <a name="additional_tools"></a>
 
 1. [dialign](https://github.com/GuillaumeDD/dialign) tool to extract routines, specifically [Release 1.0](https://github.com/GuillaumeDD/dialign/releases/tag/v1.0) from [dialign-1.0.zip](https://github.com/GuillaumeDD/dialign/releases/download/v1.0/dialign-1.0.zip):
 It extracts routine expressions that are "shared" among the participants from transcripts.
@@ -79,24 +79,24 @@ Here is the structure of our work [[1]](#references):
 
 Specifically, we consider:
 
-* RQ1 How do the interlocutors use task specific referents? Does this link to task success?
+* RQ1: How do the interlocutors use task specific referents? Does this link to task success?
     * H1.1: Task specific referents become routine earlier for more successful teams.
     * H1.2: When (a) task specific referents become routine and (b) their routines are primed, they are more likely to be surrounded by hesitation phenomena for more successful teams.
 
-* RQ2 How do the interlocutors follow up the use of task specific referents with actions? Does this link to task success?
+* RQ2: How do the interlocutors follow up the use of task specific referents with actions? Does this link to task success?
     * H2.1: Instructions are more likely to be followed by the corresponding actions earlier in the dialogue for more successful teams.
-    * H2.2: When instructions are followed by the corresponding actions (or another action), they are more likely to be surrounded by information management phenomena for more successful teams.
+    * H2.2: When instructions are followed by a corresponding or a different action, the action is more likely to be surrounded by information management phenomena for more successful teams.
 
 The RQs and Hs are addressed in the notebook for [testing the hypotheses](tools/7_test_the_hypotheses.ipynb).
 
 
 ## Acknowledgements <a name="acknowledgements"></a>
- This project has received funding from the European Union's Horizon 2020 research and innovation programme under grant agreement No 765955. Namely, the [ANIMATAS Project](https://www.animatas.eu/).
+This project has received funding from the European Union's Horizon 2020 research and innovation programme under grant agreement No 765955. Namely, the [ANIMATAS Project](https://www.animatas.eu/).
 
 
 ## References <a name="references"></a>
 
-[1] U. Norman\*, T. Dinkar\*, B. Bruno, P. Dillenbourg, and C. Clavel, "How Do Children Use Task-specific Referents to Succeed in a Collaborative Learning Activity?: Studying Alignment in Spontaneous Speech via Automatic Methods," under review, 2021.
+[1] U. Norman\*, T. Dinkar\*, B. Bruno, and C. Clavel, "How Do Children Use Task-specific Referents to Succeed in a Collaborative Learning Activity?: Studying Alignment in Spontaneous Speech via Automatic Methods," under review, 2021.
 
 [2] J. Nasir, U. Norman, B. Bruno, and P. Dillenbourg, "You Tell, I Do, and We Swap until we Connect All the Gold Mines!," ERCIM News, vol. 2020, no. 120, 2020, [Online]. Available: [https://ercim-news.ercim.eu/en120/special/you-tell-i-do-and-we-swap-until-we-connect-all-the-gold-mines](https://ercim-news.ercim.eu/en120/special/you-tell-i-do-and-we-swap-until-we-connect-all-the-gold-mines).
 
