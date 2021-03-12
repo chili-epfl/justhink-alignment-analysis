@@ -20,11 +20,11 @@ team_no	attempt_no	turn_no	utterance_no	start	end	subject	verb	object
 20	1	1	-1	75.582	75.582	B	presses	help (enabled)
 20	1	1	10	77.274	78.056	B	says	i'm just gonna .
 20	1	1	-1	77.903	77.903	A	adds	Luzern-Zermatt (1-4)
-20	1	1	11	79.054	79.472	A	says	uh
-20	1	1	12	80.065	80.402	A	says	uh
-20	1	1	13	80.590	81.332	B	says	oh there .
-20	1	1	14	81.143	82.410	A	says	oh two three .
-20	1	1	15	82.505	84.857	B	says	oh that's what you've been doing this all time .
+20	1	2	11	79.054	79.472	A	says	uh
+20	1	2	12	80.065	80.402	A	says	uh
+20	1	2	13	80.590	81.332	B	says	oh there .
+20	1	2	14	81.143	82.410	A	says	oh two three .
+20	1	2	15	82.505	84.857	B	says	oh that's what you've been doing this all time .
 20	1	2	-1	85.675	85.675	A	presses	submit (disabled)
 20	1	2	16	85.708	86.746	B	says	uh
 20	1	2	17	87.072	89.525	B	says	what we can't block the roads , right ?
@@ -52,37 +52,37 @@ team_no	attempt_no	turn_no	utterance_no	start	end	subject	verb	object
 20	1	2	35	137.698	140.030	A	says	a brief press on the track will remove it .
 20	1	2	36	144.175	145.186	B	says	i'm confused .
 20	1	2	-1	145.832	145.832	B	adds	Zermatt-Davos (4-9)
-20	1	2	37	148.104	149.331	A	says	oh okay my turn .
-20	1	2	38	152.250	153.908	B	says	okay so um .
+20	1	3	37	148.104	149.331	A	says	oh okay my turn .
+20	1	3	38	152.250	153.908	B	says	okay so um .
 20	1	3	-1	153.882	153.882	A	adds	Interlaken-Neuchatel (5-7)
 20	1	3	39	157.218	159.402	A	says	oh we , oh wait oh wait .
 20	1	3	40	159.361	160.480	B	says	let me see this .
 20	1	3	-1	160.876	160.876	A	adds	Basel-Neuchatel (0-7)
-20	1	3	41	160.901	161.400	B	says	we've got
-20	1	3	42	161.899	163.611	A	says	oh it's your turn .
-20	1	3	43	163.467	164.613	B	says	um that was quick .
-20	1	3	44	165.439	169.119	B	says	oh six , you can't block the streets remember.
+20	1	4	41	160.901	161.400	B	says	we've got
+20	1	4	42	161.899	163.611	A	says	oh it's your turn .
+20	1	4	43	163.467	164.613	B	says	um that was quick .
+20	1	4	44	165.439	169.119	B	says	oh six , you can't block the streets remember.
 20	1	4	-1	168.706	168.706	B	adds	Basel-Zurich (0-2)
 20	1	4	45	169.017	170.419	A	says	yeah we can't block them .
 20	1	4	46	170.271	172.077	B	says	i'm blocking a school .
 20	1	4	-1	171.891	171.891	B	removes	Basel-Zurich (0-2)
-20	1	4	47	172.486	173.254	A	says	oh
-20	1	4	48	173.780	175.451	A	says	oh good uh .
-20	1	4	49	176.374	177.816	B	says	mountain basel okay .
+20	1	5	47	172.486	173.254	A	says	oh
+20	1	5	48	173.780	175.451	A	says	oh good uh .
+20	1	5	49	176.374	177.816	B	says	mountain basel okay .
 20	1	5	-1	176.598	176.598	A	adds	Basel-Zurich (0-2)
 20	1	5	50	178.504	180.162	A	says	i'm gonna
 20	1	5	51	179.164	183.266	B	says	try um mount zurich from mount saint gallen .
 20	1	5	52	183.554	184.040	A	says	okay .
 20	1	5	53	184.673	189.545	A	says	no i think we should do this , mount bern and then go to mount saint gallen .
 20	1	5	-1	189.596	189.596	A	adds	Zurich-Bern (2-3)
-20	1	5	54	191.469	192.251	B	says	okay .
-20	1	5	55	192.790	195.298	A	says	try to go to mount saint gallen .
-20	1	5	56	194.543	196.592	B	says	oh i think we have to connect all of them .
+20	1	6	54	191.469	192.251	B	says	okay .
+20	1	6	55	192.790	195.298	A	says	try to go to mount saint gallen .
+20	1	6	56	194.543	196.592	B	says	oh i think we have to connect all of them .
 20	1	6	-1	195.011	195.011	B	adds	Luzern-Interlaken (1-5)
 20	1	6	-1	196.600	196.600	B	adds	Luzern-Zurich (1-2)
-20	1	6	57	196.730	197.269	A	says	oh .
-20	1	6	58	197.916	199.551	B	says	okay i did some .
-20	1	6	59	200.239	201.182	B	says	okay for me .
+20	1	7	57	196.730	197.269	A	says	oh .
+20	1	7	58	197.916	199.551	B	says	okay i did some .
+20	1	7	59	200.239	201.182	B	says	okay for me .
 20	1	7	-1	200.582	200.582	A	adds	Luzern-Davos (1-9)
 20	1	7	60	203.466	204.086	A	says	oh no .
 20	1	7	61	204.656	206.112	B	says	i think we are doing terrible .
@@ -96,8 +96,8 @@ team_no	attempt_no	turn_no	utterance_no	start	end	subject	verb	object
 20	1	8	66	220.348	221.993	B	says	thanks , robot .
 20	1	8	67	221.386	222.249	A	says	i guess .
 20	1	8	-1	222.209	222.209	B	adds	Zurich-Davos (2-9)
-20	1	8	68	224.277	225.679	B	says	we've been doing this right ?
-20	1	8	69	226.649	230.653	B	says	i don't even think , oh , wait i'm gonna check something .
+20	1	9	68	224.277	225.679	B	says	we've been doing this right ?
+20	1	9	69	226.649	230.653	B	says	i don't even think , oh , wait i'm gonna check something .
 20	1	9	-1	229.151	229.151	B	presses	submit (enabled)
 20	1	9	70	231.185	234.986	A	says	wait , oh wait , i think the check is green .
 20	1	9	-1	234.103	234.103	B	presses	help (enabled)
@@ -119,26 +119,26 @@ team_no	attempt_no	turn_no	utterance_no	start	end	subject	verb	object
 20	1	9	-1	260.623	260.623	A	adds	Basel-Bern (0-3)
 20	1	9	84	262.017	263.608	A	says	and this one is not connected .
 20	1	9	-1	262.699	262.699	A	adds	Neuchatel-Bern (7-3)
-20	1	9	85	264.531	265.777	B	says	oh my turn yey .
+20	1	10	85	264.531	265.777	B	says	oh my turn yey .
 20	1	10	-1	265.908	265.908	B	adds	Luzern-Bern (1-3)
 20	1	10	86	269.134	270.644	B	says	what can we connect next ?
 20	1	10	87	271.214	273.371	B	says	can i connect it , can i connect it .
 20	1	10	88	272.508	272.872	A	says	oh .
 20	1	10	-1	276.416	276.416	B	adds	Montreux-Neuchatel (6-7)
-20	1	10	89	278.140	279.070	B	says	did we do it ?
+20	1	11	89	278.140	279.070	B	says	did we do it ?
 20	1	11	-1	280.031	280.031	A	adds	Interlaken-Bern (5-3)
 20	1	11	90	280.719	281.447	A	says	i don't know .
 20	1	11	91	281.716	284.062	B	says	i'm so confused , let me see .
 20	1	11	-1	283.228	283.228	A	adds	Zermatt-Interlaken (4-5)
-20	1	11	92	285.712	287.438	B	says	what , what can i do .
-20	1	11	93	288.233	289.244	A	says	uh i don't know .
-20	1	11	94	290.369	291.906	B	says	oh you think we are done ?
-20	1	11	95	292.795	295.208	A	says	uh i don't know , i don't think so .
-20	1	11	96	296.333	297.546	A	says	or maybe yes , i don't know .
-20	1	11	97	298.076	299.707	B	says	i think probably yes .
-20	1	11	98	299.928	301.680	A	says	so should we click the check ?
-20	1	11	99	302.435	304.309	B	says	oh yes , click the check .
-20	1	11	100	303.904	304.471	A	says	okay .
+20	1	12	92	285.712	287.438	B	says	what , what can i do .
+20	1	12	93	288.233	289.244	A	says	uh i don't know .
+20	1	12	94	290.369	291.906	B	says	oh you think we are done ?
+20	1	12	95	292.795	295.208	A	says	uh i don't know , i don't think so .
+20	1	12	96	296.333	297.546	A	says	or maybe yes , i don't know .
+20	1	12	97	298.076	299.707	B	says	i think probably yes .
+20	1	12	98	299.928	301.680	A	says	so should we click the check ?
+20	1	12	99	302.435	304.309	B	says	oh yes , click the check .
+20	1	12	100	303.904	304.471	A	says	okay .
 20	1	12	-1	304.734	304.734	B	presses	submit (enabled)
 20	1	12	-1	305.493	305.493	A	presses	submit (enabled)
 20	1	12	-1	305.530	305.530	T	submits	cost=64 (opt_cost=22)
@@ -150,9 +150,9 @@ team_no	attempt_no	turn_no	utterance_no	start	end	subject	verb	object
 20	1	12	-1	315.127	315.127	R	shows	point_front gesture
 20	1	12	-1	315.127	315.127	R	shows	talking emotion
 20	1	12	-1	315.173	315.173	R	says	by the way, you guys now also have the button on the bottom of your screen in the abstract view for comparing solutions.
-20	1	12	103	320.287	320.813	B	says	what
-20	1	12	104	327.921	330.361	B	says	oh now we start again , basically .
-20	1	12	105	328.932	331.884	A	says	oh , oh i see , compare solutions .
+20	2	12	103	320.287	320.813	B	says	what
+20	2	12	104	327.921	330.361	B	says	oh now we start again , basically .
+20	2	12	105	328.932	331.884	A	says	oh , oh i see , compare solutions .
 20	2	12	-1	329.504	329.504	B	presses	help (enabled)
 20	2	12	-1	329.773	329.773	A	presses	compare (enabled)
 20	2	12	-1	330.314	330.314	B	presses	help (enabled)
@@ -184,11 +184,11 @@ team_no	attempt_no	turn_no	utterance_no	start	end	subject	verb	object
 20	2	12	130	402.592	404.735	B	says	oh that's to
 20	2	12	131	404.911	405.760	A	says	mount bern .
 20	2	12	-1	406.824	406.824	B	adds	Neuchatel-Bern (7-3)
-20	2	12	132	407.951	409.056	B	says	how much do we have now ?
-20	2	12	133	409.043	410.957	A	says	now we have um seven .
-20	2	12	134	411.097	411.811	B	says	5 .
-20	2	12	135	412.027	412.849	A	says	i do .
-20	2	12	136	412.310	412.862	B	says	2 .
+20	2	13	132	407.951	409.056	B	says	how much do we have now ?
+20	2	13	133	409.043	410.957	A	says	now we have um seven .
+20	2	13	134	411.097	411.811	B	says	5 .
+20	2	13	135	412.027	412.849	A	says	i do .
+20	2	13	136	412.310	412.862	B	says	2 .
 20	2	13	-1	413.105	413.105	B	presses	help (enabled)
 20	2	13	137	413.267	415.060	A	says	look at our previous solution .
 20	2	13	-1	413.802	413.802	B	presses	help (enabled)
@@ -216,7 +216,7 @@ team_no	attempt_no	turn_no	utterance_no	start	end	subject	verb	object
 20	2	13	156	451.180	451.966	A	says	how much is that ?
 20	2	13	157	452.240	453.001	B	says	5 francs .
 20	2	13	-1	452.677	452.677	A	adds	Zurich-Bern (2-3)
-20	2	13	158	454.265	456.623	A	says	okay we have to get to um .
+20	2	14	158	454.265	456.623	A	says	okay we have to get to um .
 20	2	14	-1	455.983	455.983	B	adds	Basel-Zurich (0-2)
 20	2	14	159	457.092	460.786	A	says	we , wait wait wait wait wait , don't to anything else , we have 5 2 7 .
 20	2	14	-1	459.426	459.426	R	shows	observe gesture
@@ -232,26 +232,26 @@ team_no	attempt_no	turn_no	utterance_no	start	end	subject	verb	object
 20	2	14	169	478.502	480.215	A	says	davos i don't know .
 20	2	14	170	479.985	480.822	B	says	davos .
 20	2	14	-1	480.966	480.966	B	adds	Zurich-Davos (2-9)
-20	2	14	171	481.161	482.842	A	says	yeah all the way down , there , yeah .
-20	2	14	172	482.474	483.222	B	says	how much is it ?
-20	2	14	173	483.516	484.487	B	says	4 francs .
-20	2	14	174	483.861	484.602	A	says	that was 4 .
-20	2	14	175	485.177	488.098	B	says	um so we have , 4
-20	2	14	176	487.112	488.397	A	says	what we have 23 .
-20	2	14	177	489.797	491.497	B	says	then how can we make 24 ?
-20	2	14	178	492.220	494.782	A	says	oh we need only one .
-20	2	14	179	494.958	495.815	B	says	no no .
-20	2	14	180	496.159	497.757	B	says	what now we just messed up .
-20	2	14	181	498.710	499.579	B	says	um
-20	2	14	182	499.943	502.877	A	says	what is the nearest number to 1, 2 right ?
-20	2	14	183	499.994	500.512	B	says	then
-20	2	14	184	502.648	504.514	B	says	2 yeah let me see .
-20	2	14	185	503.434	506.418	A	says	and where , and where is that from davos , is there a
-20	2	14	186	505.767	506.981	B	says	we will need a 2 .
-20	2	14	187	506.981	513.826	B	says	um mount , mountain mount mountreux to mount zermatt .
-20	2	14	188	515.105	515.412	A	says	what ?
-20	2	14	189	515.540	519.036	B	says	mount montreux to mount zermatt .
-20	2	14	190	519.940	520.553	A	says	oh .
+20	2	15	171	481.161	482.842	A	says	yeah all the way down , there , yeah .
+20	2	15	172	482.474	483.222	B	says	how much is it ?
+20	2	15	173	483.516	484.487	B	says	4 francs .
+20	2	15	174	483.861	484.602	A	says	that was 4 .
+20	2	15	175	485.177	488.098	B	says	um so we have , 4
+20	2	15	176	487.112	488.397	A	says	what we have 23 .
+20	2	15	177	489.797	491.497	B	says	then how can we make 24 ?
+20	2	15	178	492.220	494.782	A	says	oh we need only one .
+20	2	15	179	494.958	495.815	B	says	no no .
+20	2	15	180	496.159	497.757	B	says	what now we just messed up .
+20	2	15	181	498.710	499.579	B	says	um
+20	2	15	182	499.943	502.877	A	says	what is the nearest number to 1, 2 right ?
+20	2	15	183	499.994	500.512	B	says	then
+20	2	15	184	502.648	504.514	B	says	2 yeah let me see .
+20	2	15	185	503.434	506.418	A	says	and where , and where is that from davos , is there a
+20	2	15	186	505.767	506.981	B	says	we will need a 2 .
+20	2	15	187	506.981	513.826	B	says	um mount , mountain mount mountreux to mount zermatt .
+20	2	15	188	515.105	515.412	A	says	what ?
+20	2	15	189	515.540	519.036	B	says	mount montreux to mount zermatt .
+20	2	15	190	519.940	520.553	A	says	oh .
 20	2	15	-1	521.837	521.837	A	adds	Zermatt-Montreux (4-6)
 20	2	15	191	523.042	525.650	B	says	perfect , no that's 2 , now we have 25 .
 20	2	15	192	526.072	527.178	A	says	damn .
@@ -267,20 +267,20 @@ team_no	attempt_no	turn_no	utterance_no	start	end	subject	verb	object
 20	2	15	202	543.283	545.693	B	says	um mount basel to mount bern .
 20	2	15	203	546.243	548.173	A	says	mount basel to mount bern .
 20	2	15	-1	548.151	548.151	A	adds	Basel-Bern (0-3)
-20	2	15	204	549.578	550.543	A	says	there you go .
-20	2	15	205	551.425	552.613	A	says	that's right .
-20	2	15	206	551.738	552.671	B	says	oh it's my turn .
-20	2	15	207	553.157	554.077	A	says	yeah it's your turn .
-20	2	15	208	553.866	555.278	B	says	so mount
-20	2	15	209	554.478	555.264	A	says	um
-20	2	15	210	555.498	558.221	A	says	do gallen to davos .
-20	2	15	211	558.411	559.044	B	says	gallen .
-20	2	15	212	559.344	561.996	A	says	yeah saint gallen .
-20	2	15	213	562.153	564.262	B	says	saint gallen yes to
-20	2	15	214	565.061	566.422	A	says	to davos .
-20	2	15	215	566.404	567.426	B	says	we can't do that .
-20	2	15	216	567.548	568.238	A	says	yeah we can .
-20	2	15	217	568.004	570.810	B	says	we can do davos to saint gallen .
+20	2	16	204	549.578	550.543	A	says	there you go .
+20	2	16	205	551.425	552.613	A	says	that's right .
+20	2	16	206	551.738	552.671	B	says	oh it's my turn .
+20	2	16	207	553.157	554.077	A	says	yeah it's your turn .
+20	2	16	208	553.866	555.278	B	says	so mount
+20	2	16	209	554.478	555.264	A	says	um
+20	2	16	210	555.498	558.221	A	says	do gallen to davos .
+20	2	16	211	558.411	559.044	B	says	gallen .
+20	2	16	212	559.344	561.996	A	says	yeah saint gallen .
+20	2	16	213	562.153	564.262	B	says	saint gallen yes to
+20	2	16	214	565.061	566.422	A	says	to davos .
+20	2	16	215	566.404	567.426	B	says	we can't do that .
+20	2	16	216	567.548	568.238	A	says	yeah we can .
+20	2	16	217	568.004	570.810	B	says	we can do davos to saint gallen .
 20	2	16	-1	569.395	569.395	B	adds	Gallen-Davos (8-9)
 20	2	16	218	570.778	571.851	A	says	yeah that's what i mean .
 20	2	16	219	571.717	574.472	B	says	oh okay , then what should we do next ?
@@ -290,18 +290,18 @@ team_no	attempt_no	turn_no	utterance_no	start	end	subject	verb	object
 20	2	16	-1	579.426	579.426	R	shows	thinking gesture
 20	2	16	-1	579.469	579.469	R	says	hmm, i see.
 20	2	16	-1	580.111	580.111	B	adds	Zermatt-Interlaken (4-5)
-20	2	16	223	581.621	582.247	R	says	i see .
-20	2	16	224	583.788	584.452	A	says	okay .
-20	2	16	225	585.529	586.973	B	says	yeah what do you see .
-20	2	16	226	586.283	588.303	A	says	okay give a cheapest one , the cheapest one .
-20	2	16	227	588.494	589.811	B	says	2 plus 1 , 2 plus 1 .
-20	2	16	228	590.552	591.703	B	says	you want to know 2 ?
-20	2	16	229	591.199	594.662	A	says	no just just just the most cheapest , the cheapest .
-20	2	16	230	594.906	597.686	B	says	the less , zurich to luzern .
-20	2	16	231	597.986	599.418	A	says	zurich
-20	2	16	232	599.934	601.129	B	says	to luzern .
-20	2	16	233	602.534	603.326	A	says	how much is that ?
-20	2	16	234	603.352	604.822	B	says	um that's 2 francs .
+20	2	17	223	581.621	582.247	R	says	i see .
+20	2	17	224	583.788	584.452	A	says	okay .
+20	2	17	225	585.529	586.973	B	says	yeah what do you see .
+20	2	17	226	586.283	588.303	A	says	okay give a cheapest one , the cheapest one .
+20	2	17	227	588.494	589.811	B	says	2 plus 1 , 2 plus 1 .
+20	2	17	228	590.552	591.703	B	says	you want to know 2 ?
+20	2	17	229	591.199	594.662	A	says	no just just just the most cheapest , the cheapest .
+20	2	17	230	594.906	597.686	B	says	the less , zurich to luzern .
+20	2	17	231	597.986	599.418	A	says	zurich
+20	2	17	232	599.934	601.129	B	says	to luzern .
+20	2	17	233	602.534	603.326	A	says	how much is that ?
+20	2	17	234	603.352	604.822	B	says	um that's 2 francs .
 20	2	17	-1	604.480	604.480	A	adds	Luzern-Zurich (1-2)
 20	2	17	235	604.809	605.167	A	says	2 ?
 20	2	17	236	605.416	605.761	A	says	okay .
@@ -309,17 +309,17 @@ team_no	attempt_no	turn_no	utterance_no	start	end	subject	verb	object
 20	2	17	238	610.850	613.042	B	says	luzern to zermatt .
 20	2	17	239	613.463	615.144	A	says	luzern to zermatt .
 20	2	17	-1	615.494	615.494	A	adds	Luzern-Zermatt (1-4)
-20	2	17	240	618.274	619.642	B	says	are you gonna say anything ?
-20	2	17	241	620.313	621.853	A	says	okay um .
-20	2	17	242	620.364	622.230	B	says	what's next , what can we connect .
-20	2	17	243	622.889	624.442	A	says	wait um .
-20	2	17	244	624.896	627.397	A	says	interlaken to neuchatel .
-20	2	17	245	627.679	628.880	B	says	interlaken to
-20	2	17	246	628.970	629.724	A	says	neuchatel .
-20	2	17	247	630.764	631.844	B	says	it's luzern .
-20	2	17	248	635.418	636.261	A	says	that's 3 .
-20	2	17	249	636.281	637.341	B	says	wait , what ?
-20	2	17	250	637.457	639.451	A	says	neuchatel mount neuchatel there .
+20	2	18	240	618.274	619.642	B	says	are you gonna say anything ?
+20	2	18	241	620.313	621.853	A	says	okay um .
+20	2	18	242	620.364	622.230	B	says	what's next , what can we connect .
+20	2	18	243	622.889	624.442	A	says	wait um .
+20	2	18	244	624.896	627.397	A	says	interlaken to neuchatel .
+20	2	18	245	627.679	628.880	B	says	interlaken to
+20	2	18	246	628.970	629.724	A	says	neuchatel .
+20	2	18	247	630.764	631.844	B	says	it's luzern .
+20	2	18	248	635.418	636.261	A	says	that's 3 .
+20	2	18	249	636.281	637.341	B	says	wait , what ?
+20	2	18	250	637.457	639.451	A	says	neuchatel mount neuchatel there .
 20	2	18	-1	637.798	637.798	B	adds	Interlaken-Neuchatel (5-7)
 20	2	18	251	638.096	640.199	B	says	neuchatel , okay , where next ?
 20	2	18	252	641.037	642.800	A	says	and then uh
@@ -331,16 +331,16 @@ team_no	attempt_no	turn_no	utterance_no	start	end	subject	verb	object
 20	2	18	258	658.075	661.060	B	says	yeah i can barely see , is this mount zurich to
 20	2	18	259	661.158	662.494	A	says	to saint gallen .
 20	2	18	-1	662.301	662.301	B	adds	Zurich-Gallen (2-8)
-20	2	18	260	662.679	663.926	B	says	okay there you see .
-20	2	18	261	664.484	665.206	A	says	uh
-20	2	18	262	664.580	666.830	B	says	okay um we
-20	2	18	263	666.402	669.489	A	says	how much is how much is zermatt to davos ?
-20	2	18	264	670.109	670.985	B	says	zermatt
-20	2	18	265	670.946	673.524	A	says	wait oh you got to check , let's click it .
-20	2	18	266	675.172	677.722	B	says	um zermatt to davos it's 3 .
-20	2	18	267	676.718	677.345	A	says	no .
-20	2	18	268	678.029	678.783	A	says	3 okay .
-20	2	18	269	680.039	681.790	A	says	so we click the check or no ?
+20	2	19	260	662.679	663.926	B	says	okay there you see .
+20	2	19	261	664.484	665.206	A	says	uh
+20	2	19	262	664.580	666.830	B	says	okay um we
+20	2	19	263	666.402	669.489	A	says	how much is how much is zermatt to davos ?
+20	2	19	264	670.109	670.985	B	says	zermatt
+20	2	19	265	670.946	673.524	A	says	wait oh you got to check , let's click it .
+20	2	19	266	675.172	677.722	B	says	um zermatt to davos it's 3 .
+20	2	19	267	676.718	677.345	A	says	no .
+20	2	19	268	678.029	678.783	A	says	3 okay .
+20	2	19	269	680.039	681.790	A	says	so we click the check or no ?
 20	2	19	-1	680.344	680.344	A	adds	Zermatt-Davos (4-9)
 20	2	19	270	681.873	683.227	B	says	mount luzern .
 20	2	19	271	683.635	684.331	A	says	okay .
@@ -353,9 +353,9 @@ team_no	attempt_no	turn_no	utterance_no	start	end	subject	verb	object
 20	2	19	-1	689.459	689.459	R	shows	up_left gesture
 20	2	19	-1	689.459	689.459	R	shows	talking emotion
 20	2	19	-1	689.552	689.552	R	says	you are not that far from the minimum; the difference is only 24 francs. i am sure you can do it.
-20	2	19	275	690.168	699.570	R	says	...
-20	2	19	276	699.859	702.217	B	says	we would have to start again .
-20	2	19	277	702.364	704.121	A	says	the difference between
+20	3	19	275	690.168	699.570	R	says	...
+20	3	19	276	699.859	702.217	B	says	we would have to start again .
+20	3	19	277	702.364	704.121	A	says	the difference between
 20	3	19	-1	703.639	703.639	B	presses	compare (enabled)
 20	3	19	278	705.232	708.031	A	says	our previous score is 24 .
 20	3	19	279	707.925	709.925	B	says	46 how much do we need ?
@@ -387,47 +387,47 @@ team_no	attempt_no	turn_no	utterance_no	start	end	subject	verb	object
 20	3	19	304	744.734	745.373	A	says	how much ?
 20	3	19	305	745.467	746.228	B	says	um 3 .
 20	3	19	-1	746.423	746.423	A	adds	Basel-Bern (0-3)
-20	3	19	306	746.899	747.711	A	says	wait okay there .
-20	3	19	307	748.388	749.967	B	says	we are 5 6 7 .
-20	3	19	308	750.679	751.427	B	says	where next ?
-20	3	19	309	751.714	752.839	A	says	yeah yeah .
-20	3	19	310	753.361	756.141	A	says	um neuchatel , to montreux .
-20	3	19	311	756.781	758.155	B	says	neuchatel to ?
-20	3	19	312	758.283	759.338	A	says	montreux .
-20	3	19	313	759.916	761.366	A	says	montreux , i don't know .
-20	3	19	314	760.740	761.520	B	says	we can't do that .
-20	3	19	315	761.756	762.280	A	says	yeah we can .
-20	3	19	316	762.737	763.510	B	says	no we can't .
-20	3	19	317	763.459	766.239	A	says	yeah , mount neuchatel to montreux .
-20	3	19	318	766.144	768.036	B	says	mount neuchatel
-20	3	19	319	767.448	768.361	A	says	to the left of you .
-20	3	19	320	771.532	773.474	A	says	uh yeah neuchatel to montreux .
-20	3	19	321	774.511	775.476	B	says	i'm doing it !
-20	3	19	322	777.042	780.366	B	says	um how abou mount basel to neuchatel ?
-20	3	19	323	780.500	780.985	A	says	huh ?
+20	3	20	306	746.899	747.711	A	says	wait okay there .
+20	3	20	307	748.388	749.967	B	says	we are 5 6 7 .
+20	3	20	308	750.679	751.427	B	says	where next ?
+20	3	20	309	751.714	752.839	A	says	yeah yeah .
+20	3	20	310	753.361	756.141	A	says	um neuchatel , to montreux .
+20	3	20	311	756.781	758.155	B	says	neuchatel to ?
+20	3	20	312	758.283	759.338	A	says	montreux .
+20	3	20	313	759.916	761.366	A	says	montreux , i don't know .
+20	3	20	314	760.740	761.520	B	says	we can't do that .
+20	3	20	315	761.756	762.280	A	says	yeah we can .
+20	3	20	316	762.737	763.510	B	says	no we can't .
+20	3	20	317	763.459	766.239	A	says	yeah , mount neuchatel to montreux .
+20	3	20	318	766.144	768.036	B	says	mount neuchatel
+20	3	20	319	767.448	768.361	A	says	to the left of you .
+20	3	20	320	771.532	773.474	A	says	uh yeah neuchatel to montreux .
+20	3	20	321	774.511	775.476	B	says	i'm doing it !
+20	3	20	322	777.042	780.366	B	says	um how abou mount basel to neuchatel ?
+20	3	20	323	780.500	780.985	A	says	huh ?
 20	3	20	-1	781.049	781.049	B	adds	Basel-Neuchatel (0-7)
 20	3	20	324	782.710	783.425	A	says	oh no !
 20	3	20	325	783.476	785.176	B	says	no and then we have to do it look .
 20	3	20	326	786.507	787.184	A	says	alright .
 20	3	20	-1	786.696	786.696	B	adds	Montreux-Neuchatel (6-7)
-20	3	20	327	787.621	788.791	B	says	how much do we have now ?
-20	3	20	328	789.142	790.031	A	says	you you check .
-20	3	20	329	789.564	790.721	B	says	4 , 5 .
-20	3	20	330	791.137	794.920	B	says	6 7 8 9 10 11 12 , 14 .
-20	3	20	331	795.315	798.561	A	says	we have 14 and we get , we need to get to 22 .
-20	3	20	332	796.759	799.989	B	says	18 16 17 18 19 20 21 .
-20	3	20	333	799.101	800.916	A	says	14 to 22 .
-20	3	20	334	801.310	803.081	A	says	how much is montreux ?
-20	3	20	335	802.344	803.008	B	says	we need
-20	3	20	336	803.539	804.836	B	says	5 and a 4 .
-20	3	20	337	805.936	807.949	A	says	oh 5 and a 4 , okay .
-20	3	20	338	807.387	808.710	B	says	i 4 right now .
-20	3	20	339	809.607	810.854	B	says	so , what can we do ?
-20	3	20	340	811.983	813.402	A	says	where is a 4 and where is a 5 ?
-20	3	20	341	816.895	818.390	B	says	okay found one zurich
-20	3	20	342	818.780	819.470	A	says	zurich
-20	3	20	343	818.984	819.802	B	says	to davos .
-20	3	20	344	820.205	821.413	B	says	zurich to davos .
+20	3	21	327	787.621	788.791	B	says	how much do we have now ?
+20	3	21	328	789.142	790.031	A	says	you you check .
+20	3	21	329	789.564	790.721	B	says	4 , 5 .
+20	3	21	330	791.137	794.920	B	says	6 7 8 9 10 11 12 , 14 .
+20	3	21	331	795.315	798.561	A	says	we have 14 and we get , we need to get to 22 .
+20	3	21	332	796.759	799.989	B	says	18 16 17 18 19 20 21 .
+20	3	21	333	799.101	800.916	A	says	14 to 22 .
+20	3	21	334	801.310	803.081	A	says	how much is montreux ?
+20	3	21	335	802.344	803.008	B	says	we need
+20	3	21	336	803.539	804.836	B	says	5 and a 4 .
+20	3	21	337	805.936	807.949	A	says	oh 5 and a 4 , okay .
+20	3	21	338	807.387	808.710	B	says	i 4 right now .
+20	3	21	339	809.607	810.854	B	says	so , what can we do ?
+20	3	21	340	811.983	813.402	A	says	where is a 4 and where is a 5 ?
+20	3	21	341	816.895	818.390	B	says	okay found one zurich
+20	3	21	342	818.780	819.470	A	says	zurich
+20	3	21	343	818.984	819.802	B	says	to davos .
+20	3	21	344	820.205	821.413	B	says	zurich to davos .
 20	3	21	-1	821.484	821.484	A	adds	Zurich-Davos (2-9)
 20	3	21	345	822.309	823.242	A	says	how much was that ?
 20	3	21	346	823.203	823.542	B	says	4 .
@@ -444,9 +444,9 @@ team_no	attempt_no	turn_no	utterance_no	start	end	subject	verb	object
 20	3	21	357	835.146	835.957	B	says	to luzern .
 20	3	21	358	836.761	837.745	B	says	um 3 , 2 .
 20	3	21	-1	838.581	838.581	A	adds	Luzern-Zurich (1-2)
-20	3	21	359	838.810	840.025	A	says	and then we need a 3 .
-20	3	21	360	840.466	841.571	A	says	okay uh
-20	3	21	361	841.694	842.026	B	says	go .
+20	3	22	359	838.810	840.025	A	says	and then we need a 3 .
+20	3	22	360	840.466	841.571	A	says	okay uh
+20	3	22	361	841.694	842.026	B	says	go .
 20	3	22	-1	842.582	842.582	B	adds	Luzern-Zermatt (1-4)
 20	3	22	-1	843.338	843.338	B	presses	submit (disabled)
 20	3	22	362	843.726	844.730	B	says	done , press check .
@@ -481,7 +481,7 @@ team_no	attempt_no	turn_no	utterance_no	start	end	subject	verb	object
 20	3	22	381	886.345	890.934	A	says	just connect them all and then we go to the next one and we know what to do .
 20	3	22	382	891.316	892.377	B	says	okay .
 20	3	22	-1	892.816	892.816	B	adds	Gallen-Davos (8-9)
-20	3	22	383	895.292	896.813	A	says	okay uh how
+20	3	23	383	895.292	896.813	A	says	okay uh how
 20	3	23	-1	896.836	896.836	B	presses	apply (enabled)
 20	3	23	-1	896.846	896.846	B	loads	[(0, 2), (0, 3), (0, 7), (1, 2), (1, 4), (2, 3), (2, 8), (2, 9), (4, 5), (4, 6), (4, 9), (5, 7), (6, 7), (7, 3), (8, 9)]
 20	3	23	-1	897.213	897.213	B	presses	apply (enabled)
@@ -526,14 +526,14 @@ team_no	attempt_no	turn_no	utterance_no	start	end	subject	verb	object
 20	3	23	-1	928.704	928.704	R	shows	up_left gesture
 20	3	23	-1	928.704	928.704	R	shows	talking emotion
 20	3	23	-1	928.797	928.797	R	says	you are away from the minimum by 24 francs. let's try again.
-20	3	23	401	929.567	935.537	R	says	...
-20	3	23	402	936.401	936.801	B	says	yeah .
-20	3	23	403	938.251	939.101	B	says	should we
-20	3	23	404	940.036	941.665	I	says	...
-20	3	23	405	941.461	941.774	A	says	oh .
-20	3	23	406	941.876	944.234	R	says	i don't care we .
-20	3	23	407	943.493	944.631	A	says	where is 2 ?
-20	3	23	408	945.078	945.985	A	says	give me a 2 .
+20	4	23	401	929.567	935.537	R	says	...
+20	4	23	402	936.401	936.801	B	says	yeah .
+20	4	23	403	938.251	939.101	B	says	should we
+20	4	23	404	940.036	941.665	I	says	...
+20	4	23	405	941.461	941.774	A	says	oh .
+20	4	23	406	941.876	944.234	R	says	i don't care we .
+20	4	23	407	943.493	944.631	A	says	where is 2 ?
+20	4	23	408	945.078	945.985	A	says	give me a 2 .
 20	4	23	-1	945.998	945.998	B	presses	compare (enabled)
 20	4	23	409	947.264	948.062	A	says	2 francs one .
 20	4	23	410	950.273	951.449	B	says	2 francs um .
@@ -554,12 +554,12 @@ team_no	attempt_no	turn_no	utterance_no	start	end	subject	verb	object
 20	4	23	424	976.476	977.115	B	says	montreux .
 20	4	23	425	977.198	978.105	A	says	oh montreux .
 20	4	23	-1	978.171	978.171	A	adds	Zermatt-Montreux (4-6)
-20	4	23	426	978.808	979.147	A	says	uh
-20	4	23	427	980.302	980.961	B	says	okay my turn .
-20	4	23	428	980.411	981.683	A	says	okay give me oh okay .
-20	4	23	429	981.728	982.392	B	says	give me a 2 .
-20	4	23	430	982.862	985.085	A	says	um neuchatel to montreux .
-20	4	23	431	985.264	987.191	B	says	neuchatel to montreux .
+20	4	24	426	978.808	979.147	A	says	uh
+20	4	24	427	980.302	980.961	B	says	okay my turn .
+20	4	24	428	980.411	981.683	A	says	okay give me oh okay .
+20	4	24	429	981.728	982.392	B	says	give me a 2 .
+20	4	24	430	982.862	985.085	A	says	um neuchatel to montreux .
+20	4	24	431	985.264	987.191	B	says	neuchatel to montreux .
 20	4	24	-1	986.437	986.437	B	adds	Montreux-Neuchatel (6-7)
 20	4	24	432	989.643	991.062	B	says	i don't really care actually .
 20	4	24	433	990.618	994.177	A	says	um yeah me to i don't like this , zurich to luzern .
@@ -579,11 +579,11 @@ team_no	attempt_no	turn_no	utterance_no	start	end	subject	verb	object
 20	4	24	447	1018.102	1021.080	B	says	how about mount zermatt to mount
 20	4	24	448	1020.465	1023.157	A	says	no yes you can zurich to luzern .
 20	4	24	-1	1024.585	1024.585	B	adds	Luzern-Zermatt (1-4)
-20	4	24	449	1025.569	1026.151	A	says	2 .
-20	4	24	450	1027.065	1027.467	A	says	oh .
-20	4	24	451	1027.288	1027.729	B	says	3 .
-20	4	24	452	1030.431	1031.057	B	says	what ?
-20	4	24	453	1031.371	1031.920	A	says	let me
+20	4	25	449	1025.569	1026.151	A	says	2 .
+20	4	25	450	1027.065	1027.467	A	says	oh .
+20	4	25	451	1027.288	1027.729	B	says	3 .
+20	4	25	452	1030.431	1031.057	B	says	what ?
+20	4	25	453	1031.371	1031.920	A	says	let me
 20	4	25	-1	1031.480	1031.480	A	removes	Luzern-Zermatt (1-4)
 20	4	25	454	1032.284	1032.943	A	says	there you go .
 20	4	25	455	1033.930	1034.511	A	says	what no
@@ -615,7 +615,7 @@ team_no	attempt_no	turn_no	utterance_no	start	end	subject	verb	object
 20	4	25	481	1097.185	1097.754	A	says	okay .
 20	4	25	482	1099.174	1101.934	A	says	uh zermatt to davos there we go .
 20	4	25	-1	1100.328	1100.328	A	adds	Zermatt-Davos (4-9)
-20	4	25	483	1102.190	1103.960	B	says	and then we've got another 2 .
+20	4	26	483	1102.190	1103.960	B	says	and then we've got another 2 .
 20	4	26	-1	1103.149	1103.149	B	adds	Gallen-Davos (8-9)
 20	4	26	484	1103.533	1104.389	A	says	okay .
 20	4	26	485	1105.029	1106.530	A	says	okay you've done another 2 nice .
@@ -623,21 +623,21 @@ team_no	attempt_no	turn_no	utterance_no	start	end	subject	verb	object
 20	4	26	487	1108.604	1110.214	B	says	zurich to berlin ?
 20	4	26	488	1109.946	1112.112	A	says	saint gallen saint gallen .
 20	4	26	-1	1114.082	1114.082	B	adds	Zurich-Gallen (2-8)
-20	4	26	489	1116.777	1117.615	A	says	um
-20	4	26	490	1116.995	1119.423	B	says	i have a feeling we have not been doing this right .
-20	4	26	491	1119.577	1121.469	A	says	um give me another 3 .
-20	4	26	492	1122.017	1123.123	B	says	another 3 .
-20	4	26	493	1123.672	1124.886	B	says	zurich to bern .
-20	4	26	494	1125.359	1127.513	A	says	zurich to bern .
+20	4	27	489	1116.777	1117.615	A	says	um
+20	4	27	490	1116.995	1119.423	B	says	i have a feeling we have not been doing this right .
+20	4	27	491	1119.577	1121.469	A	says	um give me another 3 .
+20	4	27	492	1122.017	1123.123	B	says	another 3 .
+20	4	27	493	1123.672	1124.886	B	says	zurich to bern .
+20	4	27	494	1125.359	1127.513	A	says	zurich to bern .
 20	4	27	-1	1126.980	1126.980	A	adds	Basel-Zurich (0-2)
 20	4	27	495	1127.684	1128.291	B	says	and then
 20	4	27	496	1127.817	1128.521	A	says	oh no oops .
 20	4	27	-1	1130.259	1130.259	A	removes	Basel-Zurich (0-2)
-20	4	27	497	1131.316	1132.019	A	says	there you go .
+20	4	28	497	1131.316	1132.019	A	says	there you go .
 20	4	28	-1	1133.002	1133.002	B	adds	Zurich-Bern (2-3)
 20	4	28	-1	1133.598	1133.598	B	adds	Basel-Bern (0-3)
-20	4	28	498	1135.973	1137.276	B	says	now we've got double 3s .
-20	4	28	499	1137.564	1138.197	A	says	okay .
+20	4	29	498	1135.973	1137.276	B	says	now we've got double 3s .
+20	4	29	499	1137.564	1138.197	A	says	okay .
 20	4	29	-1	1143.162	1143.162	A	adds	Luzern-Zurich (1-2)
 20	4	29	500	1145.833	1146.894	B	says	what can we do next ?
 20	4	29	501	1146.479	1148.166	A	says	give me another 3 or 4 ?

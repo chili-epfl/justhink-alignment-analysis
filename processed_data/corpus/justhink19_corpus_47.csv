@@ -52,7 +52,7 @@ team_no	attempt_no	turn_no	utterance_no	start	end	subject	verb	object
 47	1	1	32	141.544	142.353	I	says	yeah .
 47	1	1	33	142.113	142.862	A	says	okay .
 47	1	1	-1	143.805	143.805	A	adds	Gallen-Davos (8-9)
-47	1	1	34	150.529	151.518	A	says	okay .
+47	1	2	34	150.529	151.518	A	says	okay .
 47	1	2	-1	153.839	153.839	B	adds	Zurich-Gallen (2-8)
 47	1	2	-1	157.060	157.060	B	adds	Luzern-Zurich (1-2)
 47	1	3	-1	159.109	159.109	A	adds	Luzern-Bern (1-3)
@@ -81,9 +81,9 @@ team_no	attempt_no	turn_no	utterance_no	start	end	subject	verb	object
 47	1	5	-1	204.061	204.061	R	shows	talking emotion
 47	1	5	-1	204.061	204.061	R	shows	point_front gesture
 47	1	5	-1	204.064	204.064	R	says	by the way, you guys now also have the button on the bottom of your screen in the abstract view for comparing solutions.
-47	1	5	45	204.687	214.463	R	says	by the way you guys now also have a button on the bottom of the screen in the abstract view for comparing solutions .
-47	1	5	46	216.135	216.990	A	says	okay .
-47	1	5	47	217.181	220.186	I	says	it's that big green button , if you press that you see your previous solution .
+47	2	5	45	204.687	214.463	R	says	by the way you guys now also have a button on the bottom of the screen in the abstract view for comparing solutions .
+47	2	5	46	216.135	216.990	A	says	okay .
+47	2	5	47	217.181	220.186	I	says	it's that big green button , if you press that you see your previous solution .
 47	2	5	-1	218.522	218.522	B	presses	compare (enabled)
 47	2	5	48	220.357	221.289	B	says	oh okay .
 47	2	5	49	221.479	222.164	A	says	okay .
@@ -92,7 +92,7 @@ team_no	attempt_no	turn_no	utterance_no	start	end	subject	verb	object
 47	2	5	51	228.708	230.591	A	says	why are we 5 francs away ?
 47	2	5	52	233.216	234.167	A	says	um
 47	2	5	-1	234.222	234.222	A	adds	Luzern-Bern (1-3)
-47	2	5	53	237.020	239.606	A	says	i think short distances will make less money .
+47	2	6	53	237.020	239.606	A	says	i think short distances will make less money .
 47	2	6	-1	243.004	243.004	B	adds	Zurich-Bern (2-3)
 47	2	6	-1	245.748	245.748	B	adds	Basel-Zurich (0-2)
 47	2	7	-1	250.301	250.301	A	adds	Basel-Neuchatel (0-7)
@@ -107,7 +107,7 @@ team_no	attempt_no	turn_no	utterance_no	start	end	subject	verb	object
 47	2	10	-1	283.637	283.637	B	adds	Zurich-Gallen (2-8)
 47	2	10	55	284.094	286.718	A	says	go , oh oh gosh , waiting for .
 47	2	10	-1	289.098	289.098	B	adds	Interlaken-Bern (5-3)
-47	2	10	56	293.818	295.986	A	says	hello robot .
+47	2	11	56	293.818	295.986	A	says	hello robot .
 47	2	11	-1	294.291	294.291	B	presses	submit (enabled)
 47	2	11	57	301.616	306.861	I	says	so you both have to submit , like , one of you has pressed the button but the other hasn't yet .
 47	2	11	58	306.670	308.458	A	says	okay come on let's press it together .
@@ -121,34 +121,34 @@ team_no	attempt_no	turn_no	utterance_no	start	end	subject	verb	object
 47	2	11	-1	311.924	311.924	R	shows	talking emotion
 47	2	11	-1	311.926	311.926	R	shows	up_left gesture
 47	2	11	-1	311.996	311.996	R	says	you are not that far from the minimum; the difference is only 16 francs. i am sure you can do it.
-47	2	11	64	312.452	318.910	R	says	you are not that far from the minimum , the difference is only 16 francs .
-47	2	11	65	317.397	320.821	A	says	16 oh gosh let's let's just start .
-47	2	11	66	318.910	320.897	R	says	i am sure you can do it .
-47	2	11	67	321.277	322.825	A	says	let's just do our you know .
-47	2	11	68	321.836	324.384	B	says	i know how we should start , let's so
-47	2	11	69	323.833	326.838	A	says	let's start from mount zermatt to mount davos .
-47	2	11	70	331.927	333.639	A	says	wait mount what ?
-47	2	11	71	333.430	334.704	B	says	mount montreux .
-47	2	11	72	335.207	338.231	A	says	oh mount mount montreux , to
-47	2	11	73	337.717	339.790	B	says	to mount neuchatel .
+47	3	11	64	312.452	318.910	R	says	you are not that far from the minimum , the difference is only 16 francs .
+47	3	11	65	317.397	320.821	A	says	16 oh gosh let's let's just start .
+47	3	11	66	318.910	320.897	R	says	i am sure you can do it .
+47	3	11	67	321.277	322.825	A	says	let's just do our you know .
+47	3	11	68	321.836	324.384	B	says	i know how we should start , let's so
+47	3	11	69	323.833	326.838	A	says	let's start from mount zermatt to mount davos .
+47	3	11	70	331.927	333.639	A	says	wait mount what ?
+47	3	11	71	333.430	334.704	B	says	mount montreux .
+47	3	11	72	335.207	338.231	A	says	oh mount mount montreux , to
+47	3	11	73	337.717	339.790	B	says	to mount neuchatel .
 47	3	11	-1	338.374	338.374	A	adds	Montreux-Neuchatel (6-7)
 47	3	11	74	339.600	340.152	A	says	okay .
 47	3	11	75	342.377	344.470	B	says	and then go to mount interlaken .
 47	3	11	76	342.511	342.986	A	says	and
 47	3	11	-1	342.573	342.573	A	adds	Interlaken-Neuchatel (5-7)
-47	3	11	77	345.268	346.257	A	says	you sure because
-47	3	11	78	345.953	346.543	B	says	yeah .
-47	3	11	79	346.257	346.809	A	says	okay .
-47	3	11	80	347.551	350.309	A	says	i see oh 3 and 2 , we've got 5 francs .
+47	3	12	77	345.268	346.257	A	says	you sure because
+47	3	12	78	345.953	346.543	B	says	yeah .
+47	3	12	79	346.257	346.809	A	says	okay .
+47	3	12	80	347.551	350.309	A	says	i see oh 3 and 2 , we've got 5 francs .
 47	3	12	-1	348.236	348.236	B	adds	Interlaken-Bern (5-3)
 47	3	12	-1	349.398	349.398	B	adds	Basel-Bern (0-3)
-47	3	12	81	351.944	353.371	A	says	um i'll go from
+47	3	13	81	351.944	353.371	A	says	um i'll go from
 47	3	13	-1	352.172	352.172	A	adds	Zurich-Bern (2-3)
 47	3	13	82	352.325	354.816	B	says	go to mount zurich .
 47	3	13	83	354.784	357.582	A	says	go to mount zurich , and then from mount zurich
 47	3	13	-1	356.820	356.820	A	adds	Luzern-Zurich (1-2)
-47	3	13	84	358.058	359.123	B	says	to mount luzern .
-47	3	13	85	359.503	361.082	A	says	luzern , you go .
+47	3	14	84	358.058	359.123	B	says	to mount luzern .
+47	3	14	85	359.503	361.082	A	says	luzern , you go .
 47	3	14	-1	362.036	362.036	B	adds	Luzern-Zermatt (1-4)
 47	3	14	86	362.144	362.924	A	says	okay .
 47	3	14	-1	363.448	363.448	B	adds	Zermatt-Davos (4-9)
@@ -166,36 +166,36 @@ team_no	attempt_no	turn_no	utterance_no	start	end	subject	verb	object
 47	3	15	-1	376.883	376.883	R	shows	talking emotion
 47	3	15	-1	376.884	376.884	R	shows	up_left gesture
 47	3	15	-1	376.984	376.984	R	says	you are not that far from the minimum; the difference is only 3 francs. i am sure you can do it.
-47	3	15	94	377.474	385.539	R	says	you are not that far from the minimum the difference is only 3 francs i am sure you can do it
-47	3	15	95	382.557	384.763	A	says	3 francs okay how can we
-47	3	15	96	383.032	384.953	B	says	oh okay we're close .
-47	3	15	97	386.006	387.604	A	says	okay um
-47	3	15	98	387.337	388.821	B	says	okay you should take the lead now .
-47	3	15	99	388.745	389.392	A	says	okay .
-47	3	15	100	390.533	391.997	A	says	let's go from mount
+47	4	15	94	377.474	385.539	R	says	you are not that far from the minimum the difference is only 3 francs i am sure you can do it
+47	4	15	95	382.557	384.763	A	says	3 francs okay how can we
+47	4	15	96	383.032	384.953	B	says	oh okay we're close .
+47	4	15	97	386.006	387.604	A	says	okay um
+47	4	15	98	387.337	388.821	B	says	okay you should take the lead now .
+47	4	15	99	388.745	389.392	A	says	okay .
+47	4	15	100	390.533	391.997	A	says	let's go from mount
 47	4	15	-1	391.787	391.787	A	adds	Gallen-Davos (8-9)
 47	4	15	101	393.376	395.960	A	says	davos to mount s t gallen .
 47	4	15	-1	395.242	395.242	A	adds	Zurich-Gallen (2-8)
-47	4	15	102	396.762	399.063	A	says	and from mount s t gallen to mount zurich .
-47	4	15	103	400.433	404.370	B	says	uh then where should i go , from mount mount luzern to mount zermatt .
-47	4	15	104	404.712	408.642	A	says	yeah , no go from mount zurich to mount um bern .
-47	4	15	105	409.073	413.296	A	says	because uh like , and now go from mount bern go to mount basel .
+47	4	16	102	396.762	399.063	A	says	and from mount s t gallen to mount zurich .
+47	4	16	103	400.433	404.370	B	says	uh then where should i go , from mount mount luzern to mount zermatt .
+47	4	16	104	404.712	408.642	A	says	yeah , no go from mount zurich to mount um bern .
+47	4	16	105	409.073	413.296	A	says	because uh like , and now go from mount bern go to mount basel .
 47	4	16	-1	409.335	409.335	B	adds	Zurich-Bern (2-3)
 47	4	16	-1	416.429	416.429	B	adds	Basel-Bern (0-3)
-47	4	16	106	417.385	417.879	A	says	okay .
+47	4	17	106	417.385	417.879	A	says	okay .
 47	4	17	-1	418.820	418.820	A	adds	Basel-Neuchatel (0-7)
 47	4	17	107	420.929	425.038	A	says	i'll go from mount , this to that mountain , and that to that mountain .
 47	4	17	-1	421.144	421.144	A	adds	Montreux-Neuchatel (6-7)
-47	4	17	108	428.871	435.543	A	says	go from um go from mount you would never neuchatel to mount interlaken because we need to collect interlaken .
+47	4	18	108	428.871	435.543	A	says	go from um go from mount you would never neuchatel to mount interlaken because we need to collect interlaken .
 47	4	18	-1	436.335	436.335	B	adds	Interlaken-Montreux (5-6)
-47	4	18	109	437.655	438.377	A	says	okay .
-47	4	18	110	438.377	439.671	B	says	then to mount zermatt .
-47	4	18	111	439.842	441.363	A	says	yeah , then to mount zermatt .
+47	4	19	109	437.655	438.377	A	says	okay .
+47	4	19	110	438.377	439.671	B	says	then to mount zermatt .
+47	4	19	111	439.842	441.363	A	says	yeah , then to mount zermatt .
 47	4	19	-1	442.313	442.313	A	adds	Luzern-Zermatt (1-4)
 47	4	19	-1	442.512	442.512	B	adds	Zermatt-Interlaken (4-5)
-47	4	19	112	442.665	444.091	A	says	connect to mount zermatt
-47	4	19	113	444.513	445.121	A	says	and now
-47	4	19	114	445.502	446.167	A	says	uh connect
+47	4	20	112	442.665	444.091	A	says	connect to mount zermatt
+47	4	20	113	444.513	445.121	A	says	and now
+47	4	20	114	445.502	446.167	A	says	uh connect
 47	4	20	-1	445.588	445.588	A	presses	submit (enabled)
 47	4	20	115	446.643	449.572	A	says	okay are you ready three two one press .
 47	4	20	116	446.643	449.172	B	says	two one .
@@ -209,27 +209,27 @@ team_no	attempt_no	turn_no	utterance_no	start	end	subject	verb	object
 47	4	20	117	452.444	460.584	R	says	you are not that far from the minimum the difference is only 4 francs i am sure you can do it
 47	4	20	118	457.294	458.777	B	says	oh that's just
 47	4	20	-1	458.831	458.831	R	shows	observe gesture
-47	4	20	119	460.736	463.361	A	says	okay , you're gonna make it even cheaper .
-47	4	20	120	463.399	463.989	B	says	uh
-47	4	20	121	464.187	465.975	A	says	because i know that um
-47	4	20	122	465.481	467.782	B	says	let's start from mount davos .
-47	4	20	123	466.413	473.652	A	says	no let's now connect mount montreux to um let's now connect mount interlaken to mount
-47	4	20	124	473.995	476.315	B	says	mount davos to mount zermatt .
-47	4	20	125	476.932	478.853	B	says	mount davos to mount zermatt .
-47	4	20	126	476.932	477.407	A	says	okay .
-47	4	20	127	478.568	480.622	A	says	mount davos to mount zermatt ?
-47	4	20	128	481.116	482.391	A	says	where's mount davos ?
-47	4	20	129	483.052	483.585	A	says	mount
+47	5	20	119	460.736	463.361	A	says	okay , you're gonna make it even cheaper .
+47	5	20	120	463.399	463.989	B	says	uh
+47	5	20	121	464.187	465.975	A	says	because i know that um
+47	5	20	122	465.481	467.782	B	says	let's start from mount davos .
+47	5	20	123	466.413	473.652	A	says	no let's now connect mount montreux to um let's now connect mount interlaken to mount
+47	5	20	124	473.995	476.315	B	says	mount davos to mount zermatt .
+47	5	20	125	476.932	478.853	B	says	mount davos to mount zermatt .
+47	5	20	126	476.932	477.407	A	says	okay .
+47	5	20	127	478.568	480.622	A	says	mount davos to mount zermatt ?
+47	5	20	128	481.116	482.391	A	says	where's mount davos ?
+47	5	20	129	483.052	483.585	A	says	mount
 47	5	20	-1	484.354	484.354	A	adds	Zermatt-Davos (4-9)
 47	5	20	130	484.574	486.704	A	says	mount davos to mount zermatt right ?
 47	5	20	-1	487.360	487.360	A	adds	Luzern-Zermatt (1-4)
-47	5	20	131	487.427	487.883	A	says	okay .
-47	5	20	132	488.359	489.519	B	says	and then to mount luzern
-47	5	20	133	489.766	491.801	A	says	okay , because i've pretty sure this is
-47	5	20	134	492.638	493.494	A	says	3 and 3 .
-47	5	20	135	494.084	494.997	A	says	6 .
-47	5	20	136	497.200	497.771	A	says	okay .
-47	5	20	137	498.227	498.779	A	says	now
+47	5	21	131	487.427	487.883	A	says	okay .
+47	5	21	132	488.359	489.519	B	says	and then to mount luzern
+47	5	21	133	489.766	491.801	A	says	okay , because i've pretty sure this is
+47	5	21	134	492.638	493.494	A	says	3 and 3 .
+47	5	21	135	494.084	494.997	A	says	6 .
+47	5	21	136	497.200	497.771	A	says	okay .
+47	5	21	137	498.227	498.779	A	says	now
 47	5	21	-1	498.922	498.922	B	adds	Luzern-Zurich (1-2)
 47	5	21	138	500.605	501.613	B	says	to mount bern ?
 47	5	21	139	507.427	511.022	A	says	uh go from mount zurich to s t mount s t gallen .
@@ -238,18 +238,18 @@ team_no	attempt_no	turn_no	utterance_no	start	end	subject	verb	object
 47	5	22	140	512.828	513.856	A	says	okay and now
 47	5	22	141	514.217	516.271	A	says	i'll go from mount luzern to mount bern
 47	5	22	-1	515.284	515.284	A	adds	Basel-Bern (0-3)
-47	5	22	142	516.518	517.108	A	says	and go from
-47	5	22	143	517.393	518.877	A	says	mount bern to mount basel .
-47	5	22	144	520.326	522.970	B	says	then mount basel to mount neuchatel ?
-47	5	22	145	522.507	522.963	A	says	yeah .
-47	5	22	146	523.268	523.800	A	says	do that .
+47	5	23	142	516.518	517.108	A	says	and go from
+47	5	23	143	517.393	518.877	A	says	mount bern to mount basel .
+47	5	23	144	520.326	522.970	B	says	then mount basel to mount neuchatel ?
+47	5	23	145	522.507	522.963	A	says	yeah .
+47	5	23	146	523.268	523.800	A	says	do that .
 47	5	23	-1	523.534	523.534	B	adds	Basel-Neuchatel (0-7)
-47	5	23	147	523.895	525.303	B	says	and then to mount interlaken ?
-47	5	23	148	525.303	526.881	A	says	yeah , and then to mount montreux .
+47	5	24	147	523.895	525.303	B	says	and then to mount interlaken ?
+47	5	24	148	525.303	526.881	A	says	yeah , and then to mount montreux .
 47	5	24	-1	525.948	525.948	A	adds	Interlaken-Montreux (5-6)
 47	5	24	-1	526.145	526.145	B	adds	Interlaken-Neuchatel (5-7)
-47	5	24	149	527.528	527.870	A	says	and then
-47	5	24	150	528.441	530.020	A	says	to mount montreux .
+47	5	25	149	527.528	527.870	A	says	and then
+47	5	25	150	528.441	530.020	A	says	to mount montreux .
 47	5	25	-1	528.856	528.856	A	presses	submit (enabled)
 47	5	25	-1	528.910	528.910	T	submits	cost=28 (opt_cost=22)
 47	5	25	151	530.305	532.321	A	says	okay three two one .
@@ -266,7 +266,7 @@ team_no	attempt_no	turn_no	utterance_no	start	end	subject	verb	object
 47	5	25	-1	541.570	541.570	R	shows	up_right gesture
 47	5	25	-1	541.570	541.570	R	shows	talking emotion
 47	5	25	-1	541.583	541.583	R	says	hey guys, maybe, it would be easier to solve the problem if you look at your previous solutions more.
-47	5	25	158	541.615	551.296	R	says	hey guys maybe it would be easier to solve the problem if you look at your previous solutions more
+47	6	25	158	541.615	551.296	R	says	hey guys maybe it would be easier to solve the problem if you look at your previous solutions more
 47	6	25	-1	550.126	550.126	A	presses	help (enabled)
 47	6	25	159	551.410	552.285	B	says	oh yeah .
 47	6	25	160	552.418	553.084	A	says	okay .
@@ -297,9 +297,9 @@ team_no	attempt_no	turn_no	utterance_no	start	end	subject	verb	object
 47	6	25	173	579.373	580.104	B	says	yeah
 47	6	25	174	580.514	581.352	R	says	i see .
 47	6	25	-1	581.242	581.242	A	adds	Luzern-Bern (1-3)
-47	6	25	175	581.820	582.230	A	says	um
-47	6	25	176	582.784	584.619	A	says	and now mount luzern to mount bern .
-47	6	25	177	584.744	585.564	B	says	okay .
+47	6	26	175	581.820	582.230	A	says	um
+47	6	26	176	582.784	584.619	A	says	and now mount luzern to mount bern .
+47	6	26	177	584.744	585.564	B	says	okay .
 47	6	26	-1	585.554	585.554	A	presses	compare (enabled)
 47	6	26	178	586.438	588.970	A	says	it's 3 francs wait can we delete our tracks ?
 47	6	26	179	588.773	589.326	B	says	yeah .
@@ -309,11 +309,11 @@ team_no	attempt_no	turn_no	utterance_no	start	end	subject	verb	object
 47	6	27	-1	599.119	599.119	A	adds	Zermatt-Davos (4-9)
 47	6	27	181	599.708	602.525	A	says	okay let's check , mount zermatt to mount davos
 47	6	27	-1	602.292	602.292	A	adds	Gallen-Davos (8-9)
-47	6	27	182	602.900	606.555	A	says	davos and mount davos to mount s t gallen .
-47	6	27	183	607.549	608.921	A	says	it cost a little bit lesser .
-47	6	27	184	608.939	610.152	B	says	then to mount luzern ?
-47	6	27	185	610.597	611.631	A	says	okay you turn .
-47	6	27	186	611.364	614.805	B	says	how about mount luzern , how about mount zurich ?
+47	6	28	182	602.900	606.555	A	says	davos and mount davos to mount s t gallen .
+47	6	28	183	607.549	608.921	A	says	it cost a little bit lesser .
+47	6	28	184	608.939	610.152	B	says	then to mount luzern ?
+47	6	28	185	610.597	611.631	A	says	okay you turn .
+47	6	28	186	611.364	614.805	B	says	how about mount luzern , how about mount zurich ?
 47	6	28	-1	614.394	614.394	B	adds	Zurich-Gallen (2-8)
 47	6	28	187	615.331	615.777	A	says	yeah .
 47	6	28	188	616.311	617.845	A	says	and from mount zurich to mount
@@ -323,10 +323,10 @@ team_no	attempt_no	turn_no	utterance_no	start	end	subject	verb	object
 47	6	29	190	621.939	625.808	A	says	and then , from mount bern to mount basel and from mount basel to mount
 47	6	29	191	626.941	628.296	A	says	to mount interlaken
 47	6	29	-1	627.226	627.226	A	adds	Basel-Neuchatel (0-7)
-47	6	29	192	628.439	629.295	A	says	oh we can't go .
-47	6	29	193	629.598	631.880	A	says	then from mount basel to neuchatel .
-47	6	29	194	633.846	636.056	B	says	then to mount interlaken ?
-47	6	29	195	635.450	637.269	A	says	i'm pretty sure this one will cost a lot .
+47	6	30	192	628.439	629.295	A	says	oh we can't go .
+47	6	30	193	629.598	631.880	A	says	then from mount basel to neuchatel .
+47	6	30	194	633.846	636.056	B	says	then to mount interlaken ?
+47	6	30	195	635.450	637.269	A	says	i'm pretty sure this one will cost a lot .
 47	6	30	-1	637.118	637.118	B	adds	Interlaken-Neuchatel (5-7)
 47	6	30	196	637.518	638.873	A	says	okay to mount interlaken
 47	6	30	197	639.604	641.138	A	says	and after to mount montreux
@@ -345,48 +345,48 @@ team_no	attempt_no	turn_no	utterance_no	start	end	subject	verb	object
 47	6	31	-1	652.769	652.769	R	shows	talking emotion
 47	6	31	-1	652.771	652.771	R	shows	up_left gesture
 47	6	31	-1	652.852	652.852	R	says	you are not that far from the minimum; the difference is only 5 francs. i am sure you can do it.
-47	6	31	204	653.167	661.351	R	says	you are not that far from the minimum the difference is only 5 francs i am sure you can do it
-47	6	31	205	661.648	668.594	A	says	the one we did was 3 francs what did , what you , what , okay , let's go try a new because we already start from mount zermatt .
-47	6	31	206	669.004	673.657	A	says	let's now start from mount luzern and go to mount bern because at least it is really sure i'm
+47	7	31	204	653.167	661.351	R	says	you are not that far from the minimum the difference is only 5 francs i am sure you can do it
+47	7	31	205	661.648	668.594	A	says	the one we did was 3 francs what did , what you , what , okay , let's go try a new because we already start from mount zermatt .
+47	7	31	206	669.004	673.657	A	says	let's now start from mount luzern and go to mount bern because at least it is really sure i'm
 47	7	31	-1	669.819	669.819	A	adds	Luzern-Bern (1-3)
 47	7	31	207	674.238	676.092	A	says	and then let's go from mount bern
 47	7	31	208	674.274	675.682	B	says	oh yeah .
 47	7	31	-1	676.003	676.003	A	adds	Zurich-Bern (2-3)
-47	7	31	209	676.377	679.729	A	says	to mount s t gallen , oh we can't go , so mount zurich .
-47	7	31	210	680.212	680.961	A	says	let's see .
-47	7	31	211	680.925	682.280	B	says	then
-47	7	31	212	681.442	682.387	A	says	oh it's 3 francs .
-47	7	31	213	682.672	689.198	A	says	um then go from mount luzern to mount s t gallen oh no we can't go from we can only go from okay just do this and
-47	7	31	214	689.483	692.407	B	says	mount mount luzern to mount
-47	7	31	215	691.694	694.778	A	says	no no no just do mount zurich to mount basel and
-47	7	31	216	695.616	696.222	A	says	mount
-47	7	31	217	696.490	698.255	A	says	the problem is with mount basel .
+47	7	32	209	676.377	679.729	A	says	to mount s t gallen , oh we can't go , so mount zurich .
+47	7	32	210	680.212	680.961	A	says	let's see .
+47	7	32	211	680.925	682.280	B	says	then
+47	7	32	212	681.442	682.387	A	says	oh it's 3 francs .
+47	7	32	213	682.672	689.198	A	says	um then go from mount luzern to mount s t gallen oh no we can't go from we can only go from okay just do this and
+47	7	32	214	689.483	692.407	B	says	mount mount luzern to mount
+47	7	32	215	691.694	694.778	A	says	no no no just do mount zurich to mount basel and
+47	7	32	216	695.616	696.222	A	says	mount
+47	7	32	217	696.490	698.255	A	says	the problem is with mount basel .
 47	7	32	-1	697.032	697.032	B	adds	Basel-Zurich (0-2)
 47	7	32	218	698.611	701.803	A	says	no at wait , can we delete our tracks , delete .
 47	7	32	-1	701.299	701.299	B	removes	Basel-Zurich (0-2)
-47	7	32	219	702.174	703.547	A	says	yeah , because um
-47	7	32	220	704.440	705.793	B	says	oh my god that was expensive .
-47	7	32	221	704.634	708.450	A	says	i i realize that mount basel is the only one that can connect to
-47	7	32	222	708.682	715.510	A	says	uh except mount interlaken but , we have to go , okay let's try a new track this time , let's go from mount bern to interlaken .
+47	7	33	219	702.174	703.547	A	says	yeah , because um
+47	7	33	220	704.440	705.793	B	says	oh my god that was expensive .
+47	7	33	221	704.634	708.450	A	says	i i realize that mount basel is the only one that can connect to
+47	7	33	222	708.682	715.510	A	says	uh except mount interlaken but , we have to go , okay let's try a new track this time , let's go from mount bern to interlaken .
 47	7	33	-1	711.080	711.080	A	adds	Interlaken-Bern (5-3)
 47	7	33	-1	714.612	714.612	A	adds	Interlaken-Neuchatel (5-7)
-47	7	33	223	716.260	719.220	A	says	and then mount interlaken to mount neuchatel
-47	7	33	224	724.158	725.085	A	says	yeah it's from
-47	7	33	225	727.047	730.666	A	says	okay , oh wait mount zurich to mount uh
-47	7	33	226	730.042	732.021	B	says	mount neuchatel to mount montreux .
+47	7	34	223	716.260	719.220	A	says	and then mount interlaken to mount neuchatel
+47	7	34	224	724.158	725.085	A	says	yeah it's from
+47	7	34	225	727.047	730.666	A	says	okay , oh wait mount zurich to mount uh
+47	7	34	226	730.042	732.021	B	says	mount neuchatel to mount montreux .
 47	7	34	-1	731.082	731.082	B	adds	Montreux-Neuchatel (6-7)
 47	7	34	227	732.587	733.068	A	says	yeah .
 47	7	34	228	733.781	735.101	A	says	and then mount zurich
 47	7	34	229	735.707	738.060	A	says	to um mount s t gallen .
 47	7	34	-1	739.413	739.413	B	adds	Zurich-Gallen (2-8)
-47	7	34	230	740.481	740.926	A	says	okay .
+47	7	35	230	740.481	740.926	A	says	okay .
 47	7	35	-1	740.629	740.629	A	adds	Gallen-Davos (8-9)
 47	7	35	231	741.622	742.780	A	says	come on let's do this .
 47	7	35	232	744.332	745.580	A	says	mount davos and
 47	7	35	233	745.704	748.076	B	says	mount bern to mount basel ?
 47	7	35	-1	746.240	746.240	A	adds	Basel-Bern (0-3)
-47	7	35	234	746.917	749.381	A	says	no wait , yeah mount bern to mount basel
-47	7	35	235	752.109	753.999	A	says	wait wait wait wait , mount okay good .
+47	7	36	234	746.917	749.381	A	says	no wait , yeah mount bern to mount basel
+47	7	36	235	752.109	753.999	A	says	wait wait wait wait , mount okay good .
 47	7	36	-1	754.600	754.600	B	adds	Luzern-Zermatt (1-4)
 47	7	36	236	754.980	755.693	A	says	and now
 47	7	36	237	755.622	756.299	B	says	is that good ?
@@ -403,48 +403,48 @@ team_no	attempt_no	turn_no	utterance_no	start	end	subject	verb	object
 47	7	36	-1	763.172	763.172	R	shows	up_left gesture
 47	7	36	-1	763.187	763.187	B	presses	submit (enabled)
 47	7	36	-1	763.274	763.274	R	says	you are away from the minimum by 4 francs. let's try again.
-47	7	36	243	763.754	768.961	R	says	you are away from the minimum by 4 francs let's try again
-47	7	36	244	769.798	771.189	A	says	this hard kinda .
-47	7	36	245	771.599	772.187	A	says	okay .
-47	7	36	246	772.936	774.933	B	says	oh i'm starting first .
-47	7	36	247	773.721	775.290	A	says	yeah you're starting this time .
-47	7	36	248	776.395	778.766	A	says	go from mount luzern to mount s
-47	7	36	249	778.000	779.497	B	says	i'm thinking mount
-47	7	36	250	779.123	780.206	A	says	to mount davos .
-47	7	36	251	780.527	782.738	B	says	mount luzern to mount davos .
+47	8	36	243	763.754	768.961	R	says	you are away from the minimum by 4 francs let's try again
+47	8	36	244	769.798	771.189	A	says	this hard kinda .
+47	8	36	245	771.599	772.187	A	says	okay .
+47	8	36	246	772.936	774.933	B	says	oh i'm starting first .
+47	8	36	247	773.721	775.290	A	says	yeah you're starting this time .
+47	8	36	248	776.395	778.766	A	says	go from mount luzern to mount s
+47	8	36	249	778.000	779.497	B	says	i'm thinking mount
+47	8	36	250	779.123	780.206	A	says	to mount davos .
+47	8	36	251	780.527	782.738	B	says	mount luzern to mount davos .
 47	8	36	-1	781.831	781.831	B	adds	Luzern-Davos (1-9)
 47	8	36	252	782.934	783.682	B	says	then
 47	8	36	253	783.032	786.036	A	says	and then go from um mount luzern to mount bern
 47	8	36	254	787.816	789.563	A	says	or if it is possible , okay .
 47	8	36	-1	788.007	788.007	B	adds	Luzern-Bern (1-3)
-47	8	36	255	790.241	791.399	A	says	and now i'll go from
+47	8	37	255	790.241	791.399	A	says	and now i'll go from
 47	8	37	-1	792.192	792.192	A	adds	Luzern-Zurich (1-2)
 47	8	37	256	792.707	794.989	A	says	mount luzern to mount zurich .
 47	8	37	257	796.076	800.017	A	says	and i can't go from mount zurich to mount basel because that's really expensive .
 47	8	37	-1	799.470	799.470	A	adds	Zurich-Gallen (2-8)
-47	8	37	258	801.124	804.209	A	says	so i'm , i'll connect to s t gallen .
-47	8	37	259	805.492	808.648	B	says	then mount bern to mount zurich , never mind .
-47	8	37	260	808.916	810.360	A	says	no let's go from mount
-47	8	37	261	810.823	811.929	A	says	to mount um
-47	8	37	262	812.535	813.979	A	says	uh mount luzern
-47	8	37	263	813.294	817.584	B	says	is can i just see if mount bern is mount saint basel uh expensive ?
+47	8	38	258	801.124	804.209	A	says	so i'm , i'll connect to s t gallen .
+47	8	38	259	805.492	808.648	B	says	then mount bern to mount zurich , never mind .
+47	8	38	260	808.916	810.360	A	says	no let's go from mount
+47	8	38	261	810.823	811.929	A	says	to mount um
+47	8	38	262	812.535	813.979	A	says	uh mount luzern
+47	8	38	263	813.294	817.584	B	says	is can i just see if mount bern is mount saint basel uh expensive ?
 47	8	38	-1	814.850	814.850	B	adds	Basel-Bern (0-3)
 47	8	38	264	816.236	816.717	A	says	yeah .
 47	8	38	265	817.408	825.471	A	says	um it's 3 it's 3 francs it's okay , and now mount basel to mount neuchatel , because except if you connect from interlaken .
 47	8	38	-1	823.263	823.263	B	adds	Basel-Neuchatel (0-7)
 47	8	39	-1	823.674	823.674	A	adds	Interlaken-Neuchatel (5-7)
 47	8	39	-1	825.199	825.199	A	adds	Montreux-Neuchatel (6-7)
-47	8	39	266	826.246	828.636	A	says	then , i do this , and then i do that .
+47	8	40	266	826.246	828.636	A	says	then , i do this , and then i do that .
 47	8	40	-1	831.616	831.616	B	adds	Zermatt-Montreux (4-6)
 47	8	40	-1	833.198	833.198	B	adds	Luzern-Zermatt (1-4)
-47	8	40	267	833.556	834.252	A	says	yeah and then
-47	8	40	268	834.448	835.749	B	says	three .
-47	8	40	269	834.662	837.710	A	says	no no don't connect , wait i'll delete this track .
+47	8	41	267	833.556	834.252	A	says	yeah and then
+47	8	41	268	834.448	835.749	B	says	three .
+47	8	41	269	834.662	837.710	A	says	no no don't connect , wait i'll delete this track .
 47	8	41	-1	834.881	834.881	A	removes	Luzern-Zermatt (1-4)
 47	8	41	270	838.245	838.905	A	says	how'd , yeah .
 47	8	41	271	839.618	843.304	A	says	so , and and then we go from mount zermatt to mount davos .
 47	8	41	-1	839.886	839.886	A	adds	Zermatt-Davos (4-9)
-47	8	41	272	845.194	849.812	A	says	no wait wait wait , i'm gonna , okay , delete the track from mount zermatt to mount yeah .
+47	8	42	272	845.194	849.812	A	says	no wait wait wait , i'm gonna , okay , delete the track from mount zermatt to mount yeah .
 47	8	42	-1	847.831	847.831	B	removes	Zermatt-Davos (4-9)
 47	8	42	273	850.049	851.547	A	says	okay are you good are you ready ?
 47	8	42	-1	850.159	850.159	A	presses	submit (enabled)
@@ -456,36 +456,36 @@ team_no	attempt_no	turn_no	utterance_no	start	end	subject	verb	object
 47	8	42	-1	853.901	853.901	R	shows	talking emotion
 47	8	42	-1	853.903	853.903	R	shows	up_left gesture
 47	8	42	-1	853.975	853.975	R	says	you are away from the minimum by 3 francs. let's try again.
-47	8	42	277	854.507	860.244	R	says	you are away from the minimum by 3 francs let's try again
-47	8	42	278	860.637	863.418	A	says	you are away from the minimum so what do you mean by that ?
-47	8	42	279	863.418	866.592	I	says	you are spending 3 more francs than the required .
-47	8	42	280	867.002	867.679	A	says	what ?
-47	8	42	281	868.125	869.569	A	says	thi is so hard , okay .
-47	8	42	282	870.127	870.894	B	says	uh
-47	8	42	283	870.229	872.855	A	says	come on we can do this our closest
-47	8	42	284	871.839	873.551	B	says	okay i'm gonna take the lead uh
+47	9	42	277	854.507	860.244	R	says	you are away from the minimum by 3 francs let's try again
+47	9	42	278	860.637	863.418	A	says	you are away from the minimum so what do you mean by that ?
+47	9	42	279	863.418	866.592	I	says	you are spending 3 more francs than the required .
+47	9	42	280	867.002	867.679	A	says	what ?
+47	9	42	281	868.125	869.569	A	says	thi is so hard , okay .
+47	9	42	282	870.127	870.894	B	says	uh
+47	9	42	283	870.229	872.855	A	says	come on we can do this our closest
+47	9	42	284	871.839	873.551	B	says	okay i'm gonna take the lead uh
 47	9	42	-1	872.011	872.011	A	presses	compare (enabled)
 47	9	42	285	873.782	876.225	A	says	our record is um 3 francs let's see .
 47	9	42	-1	874.796	874.796	B	adds	Interlaken-Montreux (5-6)
 47	9	42	-1	876.789	876.789	B	adds	Interlaken-Neuchatel (5-7)
-47	9	42	286	879.176	880.477	B	says	uh that's expensive .
-47	9	42	287	880.991	881.704	A	says	um
-47	9	42	288	882.899	883.541	A	says	okay .
-47	9	42	289	884.399	889.659	A	says	whatever you do don't connect mount basel to mount zurich because that costs a lot .
+47	9	43	286	879.176	880.477	B	says	uh that's expensive .
+47	9	43	287	880.991	881.704	A	says	um
+47	9	43	288	882.899	883.541	A	says	okay .
+47	9	43	289	884.399	889.659	A	says	whatever you do don't connect mount basel to mount zurich because that costs a lot .
 47	9	43	-1	890.660	890.660	A	removes	Interlaken-Montreux (5-6)
 47	9	43	290	890.818	892.244	A	says	we just need uh um
 47	9	43	291	891.763	894.325	B	says	how about you go from mount neuchatel to mount basel ?
 47	9	43	-1	891.930	891.930	A	removes	Interlaken-Neuchatel (5-7)
-47	9	43	292	894.200	896.625	A	says	wait i'm just gonna delete your tracks for now .
-47	9	43	293	897.106	899.103	I	says	girls , you have five more minutes .
-47	9	43	294	897.338	898.212	A	says	and and
-47	9	43	295	900.061	902.201	A	says	come on come on bob you can do this .
-47	9	43	296	901.416	906.070	B	says	okay uh i'm gonna go from mount , mount zurich to mount bern .
+47	9	44	292	894.200	896.625	A	says	wait i'm just gonna delete your tracks for now .
+47	9	44	293	897.106	899.103	I	says	girls , you have five more minutes .
+47	9	44	294	897.338	898.212	A	says	and and
+47	9	44	295	900.061	902.201	A	says	come on come on bob you can do this .
+47	9	44	296	901.416	906.070	B	says	okay uh i'm gonna go from mount , mount zurich to mount bern .
 47	9	44	-1	904.781	904.781	B	adds	Zurich-Bern (2-3)
 47	9	44	297	906.734	907.322	A	says	okay .
 47	9	44	298	906.787	909.497	B	says	then ount bern to mount just
 47	9	44	-1	907.663	907.663	B	adds	Luzern-Bern (1-3)
-47	9	44	299	908.356	909.194	A	says	yeah , okay .
+47	9	45	299	908.356	909.194	A	says	yeah , okay .
 47	9	45	-1	911.267	911.267	A	adds	Luzern-Davos (1-9)
 47	9	45	300	912.033	913.228	A	says	okay and now
 47	9	45	301	913.656	915.920	A	says	mount luzern to mount davos and then
@@ -499,44 +499,44 @@ team_no	attempt_no	turn_no	utterance_no	start	end	subject	verb	object
 47	9	45	309	929.827	935.746	I	says	yeah that's because ...
 47	9	45	310	929.916	931.538	A	says	i can't get rid of the eraser .
 47	9	45	-1	935.680	935.680	A	adds	Luzern-Zermatt (1-4)
-47	9	45	311	936.031	937.440	A	says	uh oh i get it now .
-47	9	45	312	937.958	939.990	A	says	okay then to mount zermatt .
-47	9	45	313	942.818	944.315	B	says	is this expensive ?
+47	9	46	311	936.031	937.440	A	says	uh oh i get it now .
+47	9	46	312	937.958	939.990	A	says	okay then to mount zermatt .
+47	9	46	313	942.818	944.315	B	says	is this expensive ?
 47	9	46	-1	943.114	943.114	B	adds	Zurich-Gallen (2-8)
 47	9	46	314	943.246	944.440	A	says	i know mount
 47	9	46	315	944.440	945.100	A	says	uh
 47	9	46	316	945.100	947.311	A	says	it's 3 francs rub that out because
 47	9	46	317	947.970	950.252	A	says	uh try mount luzern to um
 47	9	46	-1	948.173	948.173	B	removes	Zurich-Gallen (2-8)
-47	9	46	318	950.573	950.966	A	says	wait
-47	9	46	319	951.300	952.138	A	says	no actually
-47	9	46	320	952.405	956.452	A	says	we have to connect because that's the only way or we connect from mount davos .
+47	9	47	318	950.573	950.966	A	says	wait
+47	9	47	319	951.300	952.138	A	says	no actually
+47	9	47	320	952.405	956.452	A	says	we have to connect because that's the only way or we connect from mount davos .
 47	9	47	-1	953.322	953.322	A	adds	Gallen-Davos (8-9)
 47	9	47	321	956.934	958.984	A	says	so , we haven't tried that one yet .
 47	9	47	322	957.896	959.091	B	says	it's only 2 .
 47	9	47	323	960.000	960.892	A	says	and um
 47	9	47	-1	961.844	961.844	A	adds	Basel-Bern (0-3)
-47	9	47	324	962.497	964.744	A	says	let's go from mount bern to mount
-47	9	47	325	965.136	965.742	A	says	basel .
-47	9	47	326	965.885	970.859	A	says	whatever you do don't do zurich to basel it's so expensive .
+47	9	48	324	962.497	964.744	A	says	let's go from mount bern to mount
+47	9	48	325	965.136	965.742	A	says	basel .
+47	9	48	326	965.885	970.859	A	says	whatever you do don't do zurich to basel it's so expensive .
 47	9	48	-1	969.314	969.314	B	adds	Basel-Neuchatel (0-7)
 47	9	48	-1	970.687	970.687	B	adds	Interlaken-Neuchatel (5-7)
-47	9	48	327	971.863	972.541	A	says	okay
-47	9	48	328	973.682	974.448	A	says	and now
-47	9	48	329	974.217	976.998	B	says	wait , no no no hang on erase that erase , erase .
-47	9	48	330	976.249	977.230	A	says	erase what ?
+47	9	49	327	971.863	972.541	A	says	okay
+47	9	49	328	973.682	974.448	A	says	and now
+47	9	49	329	974.217	976.998	B	says	wait , no no no hang on erase that erase , erase .
+47	9	49	330	976.249	977.230	A	says	erase what ?
 47	9	49	-1	977.199	977.199	A	removes	Interlaken-Neuchatel (5-7)
 47	9	49	331	977.462	979.351	B	says	uh mount neuchatel to mount interlaken .
 47	9	49	332	979.543	980.042	A	says	okay .
 47	9	49	-1	981.981	981.981	A	adds	Montreux-Neuchatel (6-7)
-47	9	49	333	983.198	983.947	A	says	then um
-47	9	49	334	984.143	986.407	A	says	from let's do from mount montreux
-47	9	49	335	987.085	988.279	A	says	and then after
-47	9	49	336	988.636	990.918	A	says	you go from mount neuchatel to mount interlaken .
+47	9	50	333	983.198	983.947	A	says	then um
+47	9	50	334	984.143	986.407	A	says	from let's do from mount montreux
+47	9	50	335	987.085	988.279	A	says	and then after
+47	9	50	336	988.636	990.918	A	says	you go from mount neuchatel to mount interlaken .
 47	9	50	-1	989.399	989.399	B	adds	Interlaken-Montreux (5-6)
 47	9	50	-1	992.724	992.724	B	adds	Zermatt-Interlaken (4-5)
-47	9	50	337	994.195	994.552	A	says	okay .
-47	9	50	338	995.176	996.584	B	says	okay then mount zermatt .
+47	9	51	337	994.195	994.552	A	says	okay .
+47	9	51	338	995.176	996.584	B	says	okay then mount zermatt .
 47	9	51	-1	995.874	995.874	A	presses	submit (enabled)
 47	9	51	-1	996.119	996.119	T	submits	cost=29 (opt_cost=22)
 47	9	51	339	996.620	997.975	A	says	we we can go now .
@@ -546,15 +546,15 @@ team_no	attempt_no	turn_no	utterance_no	start	end	subject	verb	object
 47	9	51	-1	999.637	999.637	R	shows	talking emotion
 47	9	51	-1	999.641	999.641	R	shows	up_left gesture
 47	9	51	-1	999.719	999.719	R	says	you are not that far from the minimum; the difference is only 7 francs. i am sure you can do it.
-47	9	51	342	1000.163	1008.293	R	says	you are not that far from the minimum the difference is only 7 francs i am sure you can do it
-47	9	51	343	1005.726	1007.295	A	says	7 oh this time
-47	9	51	344	1008.543	1009.916	A	says	this is actually quite hard .
-47	9	51	345	1011.213	1012.800	A	says	okay i start first so
+47	10	51	342	1000.163	1008.293	R	says	you are not that far from the minimum the difference is only 7 francs i am sure you can do it
+47	10	51	343	1005.726	1007.295	A	says	7 oh this time
+47	10	51	344	1008.543	1009.916	A	says	this is actually quite hard .
+47	10	51	345	1011.213	1012.800	A	says	okay i start first so
 47	10	51	-1	1012.689	1012.689	A	adds	Gallen-Davos (8-9)
 47	10	51	346	1013.156	1015.100	A	says	let's try something different let's go from mount
 47	10	51	-1	1015.177	1015.177	A	adds	Zurich-Gallen (2-8)
-47	10	51	347	1015.563	1017.114	A	says	let's do a circle this time .
-47	10	51	348	1018.820	1023.144	A	says	and don't connect mount zurich to mount basel , that's the only thing you can't do .
+47	10	52	347	1015.563	1017.114	A	says	let's do a circle this time .
+47	10	52	348	1018.820	1023.144	A	says	and don't connect mount zurich to mount basel , that's the only thing you can't do .
 47	10	52	-1	1022.984	1022.984	B	adds	Luzern-Zurich (1-2)
 47	10	52	349	1023.479	1025.012	A	says	because that's so expensive .
 47	10	52	-1	1024.058	1024.058	B	adds	Luzern-Zermatt (1-4)
@@ -562,7 +562,7 @@ team_no	attempt_no	turn_no	utterance_no	start	end	subject	verb	object
 47	10	53	350	1025.993	1026.599	A	says	okay .
 47	10	53	351	1027.205	1029.487	A	says	mount zermatt to mount interlaken .
 47	10	53	-1	1027.874	1027.874	A	adds	Interlaken-Bern (5-3)
-47	10	53	352	1029.969	1033.331	A	says	mount interlaken to mount bern because mount bern needs to be connected .
+47	10	54	352	1029.969	1033.331	A	says	mount interlaken to mount bern because mount bern needs to be connected .
 47	10	54	-1	1033.328	1033.328	B	adds	Basel-Bern (0-3)
 47	10	54	353	1033.367	1037.342	B	says	bern to mount basel and mount basel to neuchatel .
 47	10	54	-1	1035.143	1035.143	B	adds	Basel-Neuchatel (0-7)
@@ -584,19 +584,19 @@ team_no	attempt_no	turn_no	utterance_no	start	end	subject	verb	object
 47	10	55	-1	1051.623	1051.623	R	shows	up_right gesture
 47	10	55	-1	1051.623	1051.623	R	shows	talking emotion
 47	10	55	-1	1051.654	1051.654	R	says	hey guys, maybe, it would be easier to solve the problem if you look at your previous solutions more.
-47	10	55	362	1052.127	1061.331	R	says	hey guys maybe it would be easier to solve the problem if you look at your previous solutions more
-47	10	55	363	1059.673	1064.166	B	says	but we did that , we i've did that but it didn't work .
-47	10	55	364	1061.955	1064.024	A	says	we did that uh this is really hard .
-47	10	55	365	1064.466	1069.529	A	says	okay perhaps we just because we're always starting from the mountain on the left side .
-47	10	55	366	1071.414	1074.214	A	says	no just i'm just trying every single way i can .
-47	10	55	367	1073.464	1075.992	B	says	let's start from mount saint gallen .
+47	11	55	362	1052.127	1061.331	R	says	hey guys maybe it would be easier to solve the problem if you look at your previous solutions more
+47	11	55	363	1059.673	1064.166	B	says	but we did that , we i've did that but it didn't work .
+47	11	55	364	1061.955	1064.024	A	says	we did that uh this is really hard .
+47	11	55	365	1064.466	1069.529	A	says	okay perhaps we just because we're always starting from the mountain on the left side .
+47	11	55	366	1071.414	1074.214	A	says	no just i'm just trying every single way i can .
+47	11	55	367	1073.464	1075.992	B	says	let's start from mount saint gallen .
 47	11	55	-1	1076.190	1076.190	A	adds	Zurich-Gallen (2-8)
 47	11	55	368	1076.475	1078.062	A	says	mount s t gallen ?
 47	11	55	369	1077.768	1080.176	B	says	yeah to mount zurich ?
 47	11	55	370	1079.064	1082.448	A	says	but whatever you do don't do mount zurich to mount basel .
 47	11	55	-1	1080.085	1080.085	A	adds	Zurich-Bern (2-3)
-47	11	55	371	1082.681	1084.874	B	says	then mount zurich to mount
-47	11	55	372	1085.926	1088.065	A	says	oh gosh it's actually quite um .
+47	11	56	371	1082.681	1084.874	B	says	then mount zurich to mount
+47	11	56	372	1085.926	1088.065	A	says	oh gosh it's actually quite um .
 47	11	56	-1	1086.049	1086.049	B	adds	Luzern-Bern (1-3)
 47	11	56	373	1089.896	1094.259	A	says	wait can we just rub out our tracks all of our tracks just rub out all of them for now .
 47	11	56	-1	1092.290	1092.290	B	removes	Luzern-Bern (1-3)
@@ -604,32 +604,32 @@ team_no	attempt_no	turn_no	utterance_no	start	end	subject	verb	object
 47	11	57	374	1094.687	1095.971	A	says	i'll try a new one .
 47	11	57	375	1099.389	1102.563	A	says	try new , so , if we can't go from mount zurich to
 47	11	57	-1	1100.407	1100.407	A	removes	Zurich-Gallen (2-8)
-47	11	57	376	1103.222	1108.322	A	says	wait i'll just erase that track , go from start from mount montreux to mount interlaken .
-47	11	57	377	1108.564	1111.113	B	says	mount montreux to mount interlaken .
-47	11	57	378	1113.110	1113.966	A	says	and then um
+47	11	58	376	1103.222	1108.322	A	says	wait i'll just erase that track , go from start from mount montreux to mount interlaken .
+47	11	58	377	1108.564	1111.113	B	says	mount montreux to mount interlaken .
+47	11	58	378	1113.110	1113.966	A	says	and then um
 47	11	58	-1	1113.526	1113.526	B	adds	Interlaken-Montreux (5-6)
 47	11	58	379	1114.126	1116.569	A	says	go oh that's actually quite expensive .
 47	11	58	-1	1116.805	1116.805	B	removes	Interlaken-Montreux (5-6)
-47	11	58	380	1117.274	1118.219	A	says	okay so go from
-47	11	58	381	1118.790	1120.359	A	says	this is actually quite hard
-47	11	58	382	1121.179	1122.284	A	says	move the eraser away .
-47	11	58	383	1124.883	1133.072	A	says	come on come on , then i start from mount davos , to mount s t gallen , mount s t gallen to mount zurich , and mount zurich to mount luzern
+47	11	59	380	1117.274	1118.219	A	says	okay so go from
+47	11	59	381	1118.790	1120.359	A	says	this is actually quite hard
+47	11	59	382	1121.179	1122.284	A	says	move the eraser away .
+47	11	59	383	1124.883	1133.072	A	says	come on come on , then i start from mount davos , to mount s t gallen , mount s t gallen to mount zurich , and mount zurich to mount luzern
 47	11	59	-1	1125.583	1125.583	A	adds	Gallen-Davos (8-9)
 47	11	59	-1	1127.680	1127.680	A	adds	Zurich-Gallen (2-8)
 47	11	60	-1	1134.143	1134.143	B	adds	Luzern-Zurich (1-2)
 47	11	60	384	1134.913	1136.482	B	says	then mount luzern to mount zermatt .
 47	11	60	385	1136.874	1137.355	A	says	yeah .
 47	11	60	-1	1137.105	1137.105	B	adds	Luzern-Zermatt (1-4)
-47	11	60	386	1139.406	1140.618	B	says	mount zermatt to mount bern .
+47	11	61	386	1139.406	1140.618	B	says	mount zermatt to mount bern .
 47	11	61	-1	1140.827	1140.827	A	adds	Luzern-Bern (1-3)
 47	11	61	387	1140.886	1146.234	A	says	wait mount wait we need to connect to bern so , mount bern and then mount basel .
 47	11	61	-1	1142.170	1142.170	A	adds	Basel-Bern (0-3)
-47	11	61	388	1147.496	1152.595	B	says	and then mount basel to mount neuchatel , and then , mount neuchatel to mount interlaken .
+47	11	62	388	1147.496	1152.595	B	says	and then mount basel to mount neuchatel , and then , mount neuchatel to mount interlaken .
 47	11	62	-1	1149.081	1149.081	B	adds	Basel-Neuchatel (0-7)
-47	11	62	389	1150.758	1151.792	A	says	neuchatel .
+47	11	63	389	1150.758	1151.792	A	says	neuchatel .
 47	11	63	-1	1151.133	1151.133	A	adds	Interlaken-Montreux (5-6)
 47	11	63	-1	1151.373	1151.373	B	adds	Interlaken-Neuchatel (5-7)
-47	11	63	390	1152.577	1154.966	A	says	interlaken and interlaken to montreux .
+47	11	64	390	1152.577	1154.966	A	says	interlaken and interlaken to montreux .
 47	11	64	-1	1153.990	1153.990	A	presses	submit (enabled)
 47	11	64	391	1155.478	1156.334	B	says	three .
 47	11	64	392	1155.567	1157.816	A	says	okay we're two , one , go .

@@ -62,7 +62,7 @@ class RemoveAction(Action):
         super().__init__(self.name, self.edge)
 
 
-class CoreAct(object):
+class Act(object):
     def __init__(self, name, content, agent='X'):
         self.name = name
         self.content = content
@@ -78,29 +78,21 @@ class CoreAct(object):
         return hash((self.name, self.content, self.agent))
 
     def __eq__(self, other):
-        if isinstance(other, CoreAct):
+        if isinstance(other, Act):
             return self.name == other.name \
                 and self.content == other.content \
                 and self.agent == other.agent
 
 
-class SuggestAct(CoreAct):
+class Instruction(Act):
     def __init__(self, action, agent='X'):
-        self.name = 'SUGGEST'
+        self.name = 'INSTRUCT'
         self.action = action
         self.agent = agent
         super().__init__('{}'.format(self.name), action, agent)
 
 
-class FreeAct(CoreAct):
-    def __init__(self, action, agent='X'):
-        self.name = 'FREE'
-        self.action = action
-        self.agent = agent
-        super().__init__('{}'.format(self.name), action, agent)
-
-
-class PhysicalAct(CoreAct):
+class Do(Act):
     def __init__(self, action, agent='X'):
         self.name = 'DO'
         self.action = action
@@ -108,18 +100,26 @@ class PhysicalAct(CoreAct):
         super().__init__('{}'.format(self.name), action, agent)
 
 
-class AcceptAct(CoreAct):
-    def __init__(self, suggest_act, agent='X'):
-        self.name = 'ACCEPT'
-        self.suggest_act = suggest_act
-        super().__init__('{}'.format(self.name), suggest_act, agent)
+class Match(Act):
+    def __init__(self, instruct_act, agent='X'):
+        self.name = 'MATCH'
+        self.instruct_act = instruct_act
+        super().__init__('{}'.format(self.name), instruct_act, agent)
 
 
-class RejectAct(CoreAct):
-    def __init__(self, suggest_act, agent='X'):
-        self.name = 'REJECT'
-        self.suggest_act = suggest_act
-        super().__init__('{}'.format(self.name), suggest_act, agent)
+class Mismatch(Act):
+    def __init__(self, instruct_act, agent='X'):
+        self.name = 'MISMATCH'
+        self.instruct_act = instruct_act
+        super().__init__('{}'.format(self.name), instruct_act, agent)
+
+
+class Nonmatch(Act):
+    def __init__(self, action, agent='X'):
+        self.name = 'NONMATCH'
+        self.action = action
+        self.agent = agent
+        super().__init__('{}'.format(self.name), action, agent)
 
 
 def make_edit_action(action_name, action_edge):
