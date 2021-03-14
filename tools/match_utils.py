@@ -13,7 +13,11 @@ class Edge(object):
         return hash((self.u, self.v))
 
     def __str__(self):
-        return '{}, {}'.format(self.u, self.v)
+        if self.v is None:
+            v = '?'
+        else:
+            v = self.v
+        return '{},{}'.format(self.u, v)
 
 
 class Action(object):
