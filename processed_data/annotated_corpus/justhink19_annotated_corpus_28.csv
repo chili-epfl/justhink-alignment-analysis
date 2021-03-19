@@ -448,7 +448,7 @@ team_no	attempt_no	turn_no	utterance_no	start	end	subject	verb	object	instructio
 28	5	37	320	630.228	631.197	A	says	yeah you	[]	[]	[]
 28	5	37	321	631.450	631.896	B	says	sorry .	[]	[]	[]
 28	5	37	-1	632.439	632.439	B	removes	Luzern-Zurich (1-2)	[]	[]	[DO_B(REMOVE(1,2)), NONMATCH_B(DO_B(REMOVE(1,2)))]
-28	5	38	322	632.689	635.721	B	says	and then go to uh zurich , go to bern go to bern zurich to bern .	[ADD(3,2), ADD(3,?)]	[INSTRUCT_B(ADD(3,2)), INSTRUCT_B(ADD(3,?))]	[INSTRUCT_B(ADD(3,2)), INSTRUCT_B(ADD(3,?))]
+28	5	38	322	632.689	635.721	B	says	and then go to uh zurich , go to bern go to bern zurich to bern .	[ADD(2,?), ADD(3,?), ADD(3,2), ADD(3,?)]	[INSTRUCT_B(ADD(2,?)), INSTRUCT_B(ADD(3,?)), INSTRUCT_B(ADD(3,2)), INSTRUCT_B(ADD(3,?))]	[INSTRUCT_B(ADD(2,?)), INSTRUCT_B(ADD(3,?)), INSTRUCT_B(ADD(3,2)), INSTRUCT_B(ADD(3,?))]
 28	5	38	-1	635.733	635.733	A	adds	Zurich-Bern (2-3)	[]	[]	[DO_A(ADD(2,3)), MATCH_A(INSTRUCT_B(ADD(3,?)))]
 28	5	38	-1	636.063	636.063	B	adds	Luzern-Zurich (1-2)	[]	[]	[DO_B(ADD(1,2)), NONMATCH_B(DO_B(ADD(1,2)))]
 28	5	39	323	636.737	637.257	B	says	and	[]	[]	[]
