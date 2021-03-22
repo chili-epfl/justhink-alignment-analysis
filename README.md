@@ -4,7 +4,7 @@
 
 This repository contains tools to automatically analyse how participants' align their use of task-specific referents in their dialogue and actions for a collaborative learning activity, and how it relates to the task success.
 
-Specifically, it processes data from a collaborative problem solving activity named JUSThink, i.e. JUSThink Dialogue and Actions Corpus data that is available from the Zenodo (Sandbox) Repository, DOI: [10.5072/zenodo.741914](https://sandbox.zenodo.org/record/741914), and reproduces the results and figures in [[1]](#references).
+Specifically, it processes data from a collaborative problem solving activity named JUSThink, i.e. JUSThink Dialogue and Actions Corpus data that is available from the Zenodo Repository, DOI: [10.5281/zenodo.4627104](http://doi.org/10.5281/zenodo.4627104), and reproduces the results and figures in [[1]](#references).
 
 In brief: 
 
