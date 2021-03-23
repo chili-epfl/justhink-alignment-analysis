@@ -21,21 +21,37 @@ Here is a glimpse from the JUSThink activity:
 ## Table of Contents
 1. [Installation](#installation)
 2. [Content](#content)
-    1. [Jupyter Notebooks](#notebooks)
-    2. [Additional External Tools](#additional_tools)
-3. [Research Questions and Hypotheses](#rqs_hs)
+    1. [Jupyter Notebooks](#notebooks) (in [tools/](tools/))
+    2. [External Tools](#additional_tools) (in [tools/](tools/))
+    3. [The Dataset (JUSThink Dialogue and Actions Corpus)](#dataset) (as a subproject at [data/](data/))
+    4. [The Processed Data](#processed_data) (generated in [processed_data/](processed_data/))
+    5. [The Figures](#figures) (generated in [figures/](figures/))
+3. [Research Questions and Hypotheses](#rqs_hs) in [[1]](#references)
 4. [Acknowledgements](#acknowledgements)
 5. [References](#references)
 
 
 ## 1. Installation <a name="installation"></a>
-Run the following command to obtain the source code:
+Run the following command to obtain these tools, including the imported subprojects (i.e. the [dataset](#dataset) and an external tool):
 ```
-git clone --recurse-submodules git@github.com:utku-norman/justhink-alignment-analysis.git
+git clone --recurse-submodules git@github.com:chili-epfl/justhink-alignment-analysis.git
 ```
 
+
+(optional) If there are updates in the external subprojects, you can follow the next steps to obtain their latest versions.
+
+To update [the dataset](#dataset) subproject, run:
+```
+git subtree pull --prefix data/ git@github.com:chili-epfl/justhink-dialogue-and-actions-corpus.git master --squash
+```
+
+To update [the cliffsDelta](#cliffs_delta) subproject, run:
+```
+git subtree pull --prefix tools/cliffsDelta/ git@github.com:neilernst/cliffsDelta.git master --squash
+```
+
+Note that the dataset and the external repository cliffsDelta are essentially external modules, added here as git subtrees.
 The analysis code is writen in Python, in [Jupyter Notebook](https://jupyter.org/) environment. 
-
 The Python dependencies differ among the notebooks, and can be installed via a package manager for Python e.g. [pip](https://pip.pypa.io/).
 
 
@@ -55,7 +71,7 @@ Extracts measures of learning outcomes from the responses to the pre-test and th
 In later notebooks, we focus on one of the features to estimate the learning outcome of a team: relative learning gain [[4]](#references).
 3. [Select and visualise a subset of teams for transcription](tools/3_visualise_transcribed_teams.ipynb):
 Visualises the transcribed teams among the other teams in the feature space spanned by task performance and learning outcome, as well as the distribution of their number of attempts and turns.
-4. [Extract routines from transcripts](tools/4_extract_routines_from_transcripts.ipynb) (uses [dialign](https://github.com/GuillaumeDD/dialign) to extract routines): 
+4. [Extract routines from transcripts](tools/4_extract_routines_from_transcripts.ipynb) (uses [dialign](https://github.com/GuillaumeDD/dialign), as an external module, to extract routines): 
 Extracts routines of referring expressions that are "fixed", i.e. become shared or established amongst interlocutors.
 5. [Combine transcripts with logs](tools/5_construct_the_corpus_by_combining_transcripts_with_logs.ipynb):
 Merges transcripts with event logs to have a combined dialogue and actions corpus, to be processed e.g. to detect follow-up actions.
@@ -70,9 +86,29 @@ Note that the later notebooks in numbering utilise processed data exported by th
 ### 2.2. External Tools <a name="additional_tools"></a>
 
 1. [dialign](https://github.com/GuillaumeDD/dialign) tool to extract routines, specifically [Release 1.0](https://github.com/GuillaumeDD/dialign/releases/tag/v1.0) from [dialign-1.0.zip](https://github.com/GuillaumeDD/dialign/releases/download/v1.0/dialign-1.0.zip):
-It extracts routine expressions that are "shared" among the participants from transcripts.
-2. [cliffsDelta](https://github.com/neilernst/cliffsDelta) tool to compute an estimator of effect size, Cliff's Delta: 
+It extracts routine expressions that are "shared" among the participants from transcripts. 
+It is used as an external module, which also satisfies compatibility with its CeCILL-B License.
+2. [cliffsDelta](https://github.com/neilernst/cliffsDelta)  <a name="cliffs_delta"></a> tool to compute an estimator of effect size, Cliff's Delta: 
 It quantifies the amount difference between two groups of observations, by computing the Cliff's Delta statistic.
+It is added to this project as a subproject (specifically, as a git subtree) from its corresponding GitHub repository at [https://github.com/neilernst/cliffsDelta](https://github.com/neilernst/cliffsDelta).
+
+
+### 2.3. The Dataset (JUSThink Dialogue and Actions Corpus) <a name="dataset"></a>
+
+The folder [data/](data/) contains the JUSThink Dialogue and Actions Corpus dataset, that is available from the Zenodo Repository, DOI: [10.5281/zenodo.4627104]((http://doi.org/10.5281/zenodo.4627104). 
+It is added to this project as a subproject (specifically, as a git subtree) from its corresponding GitHub repository at [https://github.com/chili-epfl/justhink-dialogue-and-actions-corpus](https://github.com/chili-epfl/justhink-dialogue-and-actions-corpus).
+
+
+### 2.4. The Processed Data <a name="processed_data"></a>
+
+The folder [processed_data/](processed_data/) contains the processed version of the [dataset](#dataset), the intermediate content that are used to obtain the results and [figures](#figures) in [[1]](#references).
+
+
+### 2.5. The Figures <a name="figures"></a>
+
+The folder [figures/](figures/) contains the figures that are presented in [[1]](#references), and produced by [Jupyter Notebooks](#notebooks).
+
+
 
 ## 3. Research Questions and Hypotheses <a name="rqs_hs"></a>
 Here is the structure of our work [[1]](#references):
@@ -98,7 +134,7 @@ This project has received funding from the European Union's Horizon 2020 researc
 
 ## References <a name="references"></a>
 
-[1] U. Norman\*, T. Dinkar\*, B. Bruno, and C. Clavel, "How Do Children Use Task-specific Referents to Succeed in a Collaborative Learning Activity?: Studying Alignment in Spontaneous Speech via Automatic Methods," under review, 2021.
+[1] U. Norman\*, T. Dinkar\*, B. Bruno, P. Dillenbourg, and C. Clavel, "Studying Alignment in Spontaneous Speech via Automatic Methods: How Do Children Use Task-specific Referents to Succeed in a Collaborative Learning Activity?," under review, 2021.
 
 [2] J. Nasir, U. Norman, B. Bruno, and P. Dillenbourg, "You Tell, I Do, and We Swap until we Connect All the Gold Mines!," ERCIM News, vol. 2020, no. 120, 2020, [Online]. Available: [https://ercim-news.ercim.eu/en120/special/you-tell-i-do-and-we-swap-until-we-connect-all-the-gold-mines](https://ercim-news.ercim.eu/en120/special/you-tell-i-do-and-we-swap-until-we-connect-all-the-gold-mines).
 
