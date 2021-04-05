@@ -116,7 +116,7 @@ Specifically, we consider:
     * H1.2: Hesitation phenomena are more likely to occur in the vicinity of when task-specific referents become routine, for more successful teams.
 
 * RQ2: How do the interlocutors follow up the use of task specific referents with actions? Does this link to task success?
-    * H2.1: Instructions are more likely to be followed by the corresponding actions early in the dialogue for more successful teams.
+    * H2.1: Instructions are more likely to be followed by a corresponding action early in the dialogue for more successful teams.
     * H2.2: When instructions are followed by a corresponding or a different action, the action is more likely to be surrounded by information management phenomena for more successful teams.
 
 The RQs and Hs are addressed in the notebook for [testing the hypotheses](tools/7_test_the_hypotheses.ipynb).
