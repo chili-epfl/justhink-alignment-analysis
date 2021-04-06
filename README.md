@@ -46,7 +46,12 @@ git subtree pull --prefix=data/ git@github.com:chili-epfl/justhink-dialogue-and-
 The [main analysis tools](#notebooks) are writen in Python, in [Jupyter Notebook](https://jupyter.org/) environment. 
 The Python dependencies differ among the notebooks, and can be installed via a package manager for Python e.g. [pip](https://pip.pypa.io/).
 Note that the dataset is an external subproject/module, added here as a git subtree.
-The tools are tested in Ubuntu 20.04.02 LTS with Python 3.8.5.
+
+The tools are tested with Python 3.8 (in Ubuntu 20.04.02 LTS) and package versions at [requirements.txt](requirements.txt) that can be installed via the following command in e.g. a virtual environment:
+```
+pip3 install -r requirements.txt
+```
+
 
 ## 2. Content <a name="content"></a>
 
