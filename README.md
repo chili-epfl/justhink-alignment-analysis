@@ -19,6 +19,10 @@ Here is a glimpse from the JUSThink activity:
 
 ![](readme_resources/justhink_activity_photo.jpg)
 
+The tools are tested with Python 3.8 (in Ubuntu 20.04 LTS) and Python 3.6 (in Ubuntu 18.04 LTS) and package versions at [requirements.txt](requirements.txt).
+
+The [main analysis tools](#notebooks) are writen in [Python](https://www.python.org/), in [Jupyter Notebook](https://jupyter.org/) environment.
+
 ## Table of Contents
 1. [Installation](#installation)
 2. [Content](#content)
@@ -33,25 +37,49 @@ Here is a glimpse from the JUSThink activity:
 
 
 ## 1. Installation <a name="installation"></a>
-Run the following command to obtain these tools, including [the dataset](#dataset):
+1. Run the following command to obtain these tools, including [the dataset](#dataset):
 ```
-git clone git@github.com:chili-epfl/justhink-alignment-analysis.git
+git clone https://github.com/chili-epfl/justhink-alignment-analysis.git
 ```
 
-(optional) To obtain the latest version of [the dataset](#dataset), run:
+2) Create a new [virtual environment](https://docs.python.org/3/tutorial/venv.html) and activate it (can do so in the same folder. Note that the folder name `.venv` is [git-ignored](https://git-scm.com/docs/gitignore)):
+```
+cd justhink-alignment-analysis
+
+python3 -m venv .venv --prompt JUSThink-alignment-env
+
+source .venv/bin/activate
+```
+
+If you do not have the `venv` package, first install it by: `sudo apt install python3-venv`
+
+3) Install the dependencies via `pip`:
+```
+pip install wheel
+pip install -r requirements.txt
+```
+
+4) Install Java to be able to run the external tool [dialign](tools/dialign-1.0) (used only by [Notebook 4](tools/4_extract_routines_from_transcripts.ipynb)), if it does not exist (check on the command prompt by `java`):
+```
+sudo apt install default-jre
+```
+
+5) Create a jupyter kernel that uses this virtual environment.
+```
+python -m ipykernel install --user --name justhink-alignment-env --display-name "Python (JUSThink-alignment)"
+```
+
+Done!
+
+(optional) Note that the dataset is an external subproject/module, added here as a git subtree. To obtain the latest version of [the dataset](#dataset), run:
 ```
 git subtree pull --prefix=data/ git@github.com:chili-epfl/justhink-dialogue-and-actions-corpus.git master --squash
 ```
 
-The [main analysis tools](#notebooks) are writen in Python, in [Jupyter Notebook](https://jupyter.org/) environment. 
-The Python dependencies differ among the notebooks, and can be installed via a package manager for Python e.g. [pip](https://pip.pypa.io/).
-Note that the dataset is an external subproject/module, added here as a git subtree.
-
-The tools are tested with Python 3.8.5 (in Ubuntu 20.04.02 LTS) and Python 3.6.9 (in Ubuntu 18.04.05 LTS) and package versions at [requirements.txt](requirements.txt) that can be installed via the following command in e.g. a virtual environment:
+If you encounter the error `LaTeX Error: File type1cm.sty not found.` while generating PDF figures with LaTeX (e.g. in [Notebook 3]((tools/3_visualise_transcribed_teams.ipynb)), install the following packages:
 ```
-pip3 install -r requirements.txt
+sudo apt-get install dvipng texlive-latex-extra texlive-fonts-recommended cm-super
 ```
-
 
 ## 2. Content <a name="content"></a>
 
