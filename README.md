@@ -170,14 +170,10 @@ Classes under the [tools/dialign-1.0](tools/dialign-1.0) package were taken from
 
 ## References <a name="references"></a>
 
-[1] U. Norman\*, T. Dinkar\*, B. Bruno, and C. Clavel, "Studying Alignment in a Collaborative Learning Activity via Automatic Methods: The Link Between What We Say and Do," Dialogue & Discourse, 13(2), 1–48. [10.5210/dad.2022.201](https://doi.org/10.5210/dad.2022.201).
+[1] U. Norman\*, T. Dinkar\*, B. Bruno, and C. Clavel, "Studying Alignment in a Collaborative Learning Activity via Automatic Methods: The Link Between What We Say and Do," Dialogue & Discourse, 13(2), 1–48. *Contributed equally to this work. doi: [10.5210/dad.2022.201](https://doi.org/10.5210/dad.2022.201).
 
 [2] J. Nasir, U. Norman, B. Bruno, and P. Dillenbourg, "You Tell, I Do, and We Swap until we Connect All the Gold Mines!," ERCIM News, vol. 2020, no. 120, 2020, [Online]. Available: [https://ercim-news.ercim.eu/en120/special/you-tell-i-do-and-we-swap-until-we-connect-all-the-gold-mines](https://ercim-news.ercim.eu/en120/special/you-tell-i-do-and-we-swap-until-we-connect-all-the-gold-mines).
 
-[3] J. Nasir\*, U. Norman\*, B. Bruno, and P. Dillenbourg, "When Positive Perception of the Robot Has No Effect on Learning," in 2020 29th IEEE International Conference on Robot and Human Interactive Communication (RO-MAN), Aug. 2020, pp. 313–320, doi: [10.1109/RO-MAN47096.2020.9223343](https://doi.org/10.1109/RO-MAN47096.2020.9223343).
+[3] J. Nasir\*, U. Norman\*, B. Bruno, and P. Dillenbourg, "When Positive Perception of the Robot Has No Effect on Learning," in 2020 29th IEEE International Conference on Robot and Human Interactive Communication (RO-MAN), Aug. 2020, pp. 313–320. *Contributed equally to this work. doi: [10.1109/RO-MAN47096.2020.9223343](https://doi.org/10.1109/RO-MAN47096.2020.9223343).
 
 [4] M. Sangin, G. Molinari, M.-A. Nüssli, and P. Dillenbourg, "Facilitating peer knowledge modeling: Effects of a knowledge awareness tool on collaborative learning outcomes and processes,"" Computers in Human Behavior, vol. 27, no. 3, pp. 1059–1067, May 2011, doi: [10.1016/j.chb.2010.05.032](https://doi.org/10.1016/j.chb.2010.05.032).
-
-
-
-
