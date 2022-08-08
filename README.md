@@ -15,10 +15,6 @@ In brief:
 
 See the [project website](https://www.epfl.ch/labs/chili/index-html/research/animatas/justhink/) for more details. 
 
-You can cite these tools as follows:
-
-Norman, Utku, Dinkar, Tanvi, Bruno, Barbara, & Clavel, Chloé. (2021). JUSThink Alignment Analysis. In Dialogue & Discourse (v1.0.0, Vol. 13, Number 2, pp. 1–48). Zenodo. https://doi.org/10.5281/zenodo.4675070
-
 Here is a glimpse from the JUSThink activity:
 
 ![](readme_resources/justhink_activity_photo.jpg)
@@ -26,6 +22,39 @@ Here is a glimpse from the JUSThink activity:
 The tools are tested with Python 3.8 (in Ubuntu 20.04 LTS) and Python 3.6 (in Ubuntu 18.04 LTS) and package versions at [requirements.txt](requirements.txt).
 
 The [main analysis tools](#notebooks) are writen in [Python](https://www.python.org/), in [Jupyter Notebook](https://jupyter.org/) environment.
+
+
+### Publications
+
+If you use this work in an academic context, please cite the following publication(s):
+
+* Norman*, U., Dinkar*, T., Bruno, B., & Clavel, C. (2022). Studying Alignment in a Collaborative Learning Activity via Automatic Methods: The Link Between What We Say and Do. Dialogue & Discourse, 13(2), 1–48. https://doi.org/10.5210/dad.2022.201
+
+        @article{norman_dinkar_studying_2022,
+            title        = {Studying Alignment in a Collaborative Learning Activity via Automatic Methods: The Link Between What We Say and Do},
+            author       = {Norman*, Utku and Dinkar*, Tanvi and Bruno, Barbara and Clavel, Chloé},
+            journaltitle = {Dialogue \& Discourse},
+            volume       = {13},
+            number       = {2},
+            pages        = {1--48},  
+            month        = aug,
+            year         = 2022,
+            doi          = {10.5210/dad.2022.201},
+            note         = {*Contributed equally to this work.},
+        }
+* Norman, U., Dinkar, T., Bruno, B., & Clavel, C. (2021). JUSThink Alignment Analysis. In Dialogue & Discourse (v1.0.0, Vol. 13, Number 2, pp. 1–48). Zenodo. https://doi.org/10.5281/zenodo.4675070
+
+        @software{norman_dinkar_justhink_2021,
+            title        = {{JUSThink} Alignment Analysis},
+            author       = {Norman, Utku and Dinkar, Tanvi and Bruno, Barbara and Clavel, Chloé},
+            month        = apr,
+            year         = 2021,
+            publisher    = {Zenodo},
+            version      = {v1.0.0},
+            doi          = {10.5281/zenodo.4675070},
+            url          = {https://doi.org/10.5281/zenodo.4675070}
+        }
+
 
 ## Table of Contents
 1. [Installation](#installation)
