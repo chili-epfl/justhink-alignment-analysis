@@ -108,7 +108,6 @@ Considers each [research questions and hypotheses](#rqs_hs) studied in [[1]](#re
 
 Note that the later notebooks in numbering utilise processed data exported by the relevant subset of earlier notebooks.
 
-
 ### 2.2. External Tools <a name="additional_tools"></a>
 
 1. [dialign](tools/dialign-1.0) <a name="dialign"></a> tool to extract routines, specifically [Release 1.0](https://github.com/GuillaumeDD/dialign/releases/tag/v1.0) from [dialign-1.0.zip](https://github.com/GuillaumeDD/dialign/releases/download/v1.0/dialign-1.0.zip):
@@ -130,12 +129,9 @@ It is added to this project as a subproject (specifically, as a git subtree) fro
 
 The folder [processed_data/](processed_data/) contains the processed version of the [dataset](#dataset), the intermediate content that are used to obtain the results and [figures](#figures) in [[1]](#references).
 
-
 ### 2.5. The Figures <a name="figures"></a>
 
 The folder [figures/](figures/) contains the figures that are presented in [[1]](#references), and produced by [Jupyter Notebooks](#notebooks).
-
-
 
 ## 3. Research Questions and Hypotheses <a name="rqs_hs"></a>
 Here is the structure of our work [[1]](#references):
@@ -144,11 +140,11 @@ Here is the structure of our work [[1]](#references):
 
 Specifically, we consider:
 
-* RQ1: How do the interlocutors use task specific referents? Does this link to task success?
-    * H1.1: Task specific referents become routine early for more successful teams.
+* RQ1: Lexical alignment: How do the interlocutors use expressions related to the task? Is this associated with task success?
+    * H1.1: Task-specific referents become routine early for more successful teams.
     * H1.2: Hesitation phenomena are more likely to occur in the vicinity of priming and establishment of task-specific referents for more successful teams.
 
-* RQ2: How do the interlocutors follow up the use of task specific referents with actions? Does this link to task success?
+* RQ2: Behavioural alignment: How do the interlocutors follow up these expressions with actions? Is this associated with task success?
     * H2.1: Instructions are more likely to be followed by a corresponding action early in the dialogue for more successful teams.
     * H2.2: When instructions are followed by a corresponding or a different action, the action is more likely to be surrounded by information management phenomena for more successful teams.
 
@@ -170,7 +166,7 @@ Classes under the [tools/dialign-1.0](tools/dialign-1.0) package were taken from
 
 ## References <a name="references"></a>
 
-[1] U. Norman\*, T. Dinkar\*, B. Bruno, and C. Clavel, "Studying Alignment in Spontaneous Speech via Automatic Methods: How Do Children Use Task-specific Referents to Succeed in a Collaborative Learning Activity?," under review, 2021.
+[1] U. Norman\*, T. Dinkar\*, B. Bruno, and C. Clavel, "Studying Alignment in a Collaborative Learning Activity via Automatic Methods: The Link Between What We Say and Do," Dialogue & Discourse, 13(2), 1–48. [10.5210/dad.2022.201](https://doi.org/10.5210/dad.2022.201).
 
 [2] J. Nasir, U. Norman, B. Bruno, and P. Dillenbourg, "You Tell, I Do, and We Swap until we Connect All the Gold Mines!," ERCIM News, vol. 2020, no. 120, 2020, [Online]. Available: [https://ercim-news.ercim.eu/en120/special/you-tell-i-do-and-we-swap-until-we-connect-all-the-gold-mines](https://ercim-news.ercim.eu/en120/special/you-tell-i-do-and-we-swap-until-we-connect-all-the-gold-mines).
 
