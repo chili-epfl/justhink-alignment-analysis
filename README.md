@@ -28,7 +28,7 @@ The [main analysis tools](#notebooks) are writen in [Python](https://www.python.
 
 If you use this work in an academic context, please cite the following publication(s):
 
-* Norman*, U., Dinkar*, T., Bruno, B., & Clavel, C. (2022). Studying Alignment in a Collaborative Learning Activity via Automatic Methods: The Link Between What We Say and Do. Dialogue & Discourse, 13(2), 1–48. https://doi.org/10.5210/dad.2022.201
+* Norman*, U., Dinkar*, T., Bruno, B., & Clavel, C. (2022). Studying Alignment in a Collaborative Learning Activity via Automatic Methods: The Link Between What We Say and Do. Dialogue & Discourse, 13(2), 1–48. *Contributed equally to this work. https://doi.org/10.5210/dad.2022.201
 
         @article{norman_dinkar_studying_2022,
             title        = {Studying Alignment in a Collaborative Learning Activity via Automatic Methods: The Link Between What We Say and Do},
