@@ -15,6 +15,10 @@ In brief:
 
 See the [project website](https://www.epfl.ch/labs/chili/index-html/research/animatas/justhink/) for more details. 
 
+You can cite these tools as follows:
+
+Norman, Utku, Dinkar, Tanvi, Bruno, Barbara, & Clavel, Chloé. (2021). JUSThink Alignment Analysis. In Dialogue & Discourse (v1.0.0, Vol. 13, Number 2, pp. 1–48). Zenodo. https://doi.org/10.5281/zenodo.4675070
+
 Here is a glimpse from the JUSThink activity:
 
 ![](readme_resources/justhink_activity_photo.jpg)
